@@ -1,0 +1,9 @@
+video_id: kEBXszEhC0U
+title: CSS logical properties change how you code - and Chris breaks it down here.
+channel: freeCodeCamp.org
+handle: '@freecodecamp'
+url: https://www.youtube.com/watch?v=kEBXszEhC0U
+duration: '40:30'
+type: video
+transcript: Okay, CSS has some fundamental concepts called like the box model or whatever. It's width and height. Okay, everything on the web is a rectangle. So, all every every element's a rectangle and you can control it and you can push away other rectangles with margin and you can push inwards on your elements with padding and then there's a border and then there's an outline, but the outline's not part of the box model. All this fundamental stuff that you know, but then all of a sudden, not so long ago, we got names for all these things like margin and padding and border and and these things that are called logical properties. So, instead of saying padding left, we have pad padding inline start. And for a lot of us that just, you know, are English-speaking people making English websites, those two things are synonymous and they do the exact same thing. But we are told like, "Hey, maybe it's smarter if we use padding inline start instead of padding left because they are actually a little bit different." The idea is that it's padding along the direction of where the text starts.
+timestamps: [[0, 0], [40, 2], [79, 3], [119, 5], [160, 8], [200, 9], [239, 11], [279, 14], [317, 16], [352, 17], [390, 18], [426, 20], [463, 21], [502, 24], [541, 27], [579, 29], [616, 30], [650, 32], [691, 34], [729, 37], [767, 39], [802, 41], [840, 43], [880, 45], [915, 48], [955, 49], [995, 51], [1033, 53], [1074, 55]]

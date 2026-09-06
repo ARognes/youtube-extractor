@@ -1,0 +1,9 @@
+video_id: OFIWQ4ACRAg
+title: The New selectedcontent HTML Element Changes Selects Forever
+channel: Web Dev Simplified
+handle: '@WebDevSimplified'
+url: https://www.youtube.com/watch?v=OFIWQ4ACRAg
+duration: '27:06'
+type: video
+transcript: what if I told you that this custom select element was built using only HTML and CSS this one as well entirely built just with HTML and CSS and that's because of the brand new CSS select specification that allows us to put custom HTML directly in a select element and we can use things such as selected content as well as some CSS Styles such as appearance base select to style exactly what these selects look like across HTML and CSS with absolutely no JavaScript code at all best of all these actually fall back gracefully so if you're in a browser that doesn't support them it just falls back to a normal select box so this entire specification is a brand new specification only available in the Chrome Canary version right now but the really nice thing about it is since it falls back gracefully you can still use this even in browsers that don't support it because it'll just give you a normal select box while in the browser that does support it you'll get this really nice custom select box feel this is something that just recently went into stage three I'm super excited to see it come to full browser support and if you want to learn more about exactly how this works and all the specifications for it I'll l a full video at the bottom of the screen for you
+timestamps: [[0, 0], [36, 2], [77, 5], [117, 8], [151, 10], [187, 12], [223, 14], [264, 17], [303, 19], [343, 21], [378, 23], [415, 25], [454, 28], [495, 30], [531, 31], [572, 32], [608, 34], [648, 36], [682, 38], [721, 40], [757, 41], [789, 43], [828, 45], [862, 46], [899, 48], [936, 49], [975, 51], [1011, 53], [1050, 54], [1090, 56], [1130, 58], [1167, 60], [1205, 61], [1246, 63]]

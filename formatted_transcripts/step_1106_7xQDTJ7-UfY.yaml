@@ -1,0 +1,43 @@
+video_id: 7xQDTJ7-UfY
+title: Noradrenergic Silence - Generative Modular Ambient & TP-7 Field Recording
+channel: Pierre's Generative Music
+handle: '@pierresgenerativemusic'
+url: https://www.youtube.com/watch?v=7xQDTJ7-UfY
+duration: '49:06'
+type: video
+transcript: |-
+  Noradrenergic Silence - Generative Modular Ambient & TP-7 Field Recording
+
+  This patch sits in heavier territory than usual, dominated by a low drone with a few quiet melodic events drifting through. The Starlab reverb breathes between low pass and expansive states, and the field recording from my balcony at dusk grounds the whole thing in a familiar place.
+
+  Patch Notes:
+
+  1. Beads by Mutable Instruments generates the bass drone, running on one of its wavetables. The wavetable position and resonance are modulated sparsely by Pamela's Pro Workout on the time CV, giving slight variations in tone. The pulse-to-continuous mix sits around 10 o'clock with a touch of internal reverb.
+
+  2. Rings by Mutable Instruments is the melodic voice, getting its 1V/Oct from Scales by Intellijel, which in turn quantizes random notes from Marbles by Mutable Instruments. The scale is kept narrow and the note set small, so the melodic events feel constrained. Brightness and damping on Rings are constantly modulated for ongoing tonal movement.
+
+  3. The Rings output is routed into Veno Echo by Venus Instruments for delay, with wow and flutter added and the left and right channels set to different delay times for a bouncing stereo effect.
+
+  4. Ensemble Oscillator by 4ms provides a third voice with a small number of active oscillators. Root variations come from Pamela's Pro Workout, and a Zadar envelope by Xaoc Devices controls a VCA on the output. The envelope is set to fire irregularly, so this voice comes and goes throughout the piece.
+
+  5. The Ensemble Oscillator signal then passes through MFX by ALM Busy Circuits on the 2051 Bit Corrupter algorithm. Settings are pushed fairly hard: 8 repeats, 50 percent repeat probability, 70 percent glitch probability. This gives the notes a digital glitch quality that pulls them into something almost futuristic.
+
+  6. A final low layer of rumble noise comes from Krach by Ritual Electronics, sitting quietly underneath everything.
+
+  7. All voices are mixed through Supamix by Eowave, and the output is sent into Starlab by Strymon. The reverb is set with large size and long decay, and Pamela's Pro Workout sends an LFO to toggle the infinite mode on and off. For around 10 to 20 percent of the piece the reverb is left to grow, swelling into something vast before flushing back to a still-large but more contained space.
+
+  8. Just before Starlab, FX Aid by Happy Nerding scans through the frequency spectrum and cuts the high end at points, creating a narrower, more suffocating sound. When it reopens, the soundscape feels expansive again, breathing in and out across the piece.
+
+  9. Visually, the Rings voice is sent into Tiliqua by APF.Audio running its oscilloscope, which lights up whenever the melodic events trigger and adds a small piece of magic to the video.
+
+  10. The mix is captured live to the TP-7 by Teenage Engineering and edited in Audacity.
+
+  The field recording was captured on my Hackney balcony at dusk, with overground trains arriving and leaving the nearby Wick station and snatches of conversation drifting up from the street. The piece is intentionally not in your face, sitting somewhere between a soundtrack and a slow disappearance. The light show from the modular rack grows brighter as dusk falls, which is hard to convey in audio but sits inside the visual side of the upload.
+
+  Listen & Follow
+  If you enjoy these textures, feel free to leave a comment or explore more modular works here: https://spotify.link/zegyM6IaJDb
+
+  It's a blend of modular ambient, tape textures, and natural field recordings (great for focus, slow mornings, or letting your mind wander).
+
+  #ambientmusic, Modular Synth, Field Recording, Lofi Ambient, Generative Modular, Drone Music, Relaxing Music, Hackney Wick, TP-7, Teenage Engineering, Mutable Instruments, Strymon Starlab
+timestamps: []

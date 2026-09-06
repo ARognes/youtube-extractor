@@ -1,0 +1,9 @@
+video_id: NB2b1-aU1Ec
+title: Mass Aggregate Physics - Blob Demo
+channel: EscPoint
+handle: '@EscPointDev'
+url: https://www.youtube.com/watch?v=NB2b1-aU1Ec
+duration: '15:06'
+type: video
+transcript: "This is a demo showing what I have built so far by teaching myself how to program 3D physics. This is a 3D mass aggregate physics engine, this has been built with C++, SDL and OpenGL.\nThese videos are my videos first ever I have recorded them using a free online screen recorder so to frame rate is really poor all physics demos do run at 60 FPS.\n\nOther mass aggregate physics demos:\n   • Mass Aggregate Physics - Brigde Demo  \n   • Mass Aggregate Physics - Shape Demo  \n\nMore information about what is happening here can be found at:\nhttps://danmanley93.wordpress.com/ \n\nThis demo has been built using the book Game Physics Engine Development.\n\nThank you for watching :) remember I am still learning."
+timestamps: []

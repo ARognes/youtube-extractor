@@ -1,0 +1,9 @@
+video_id: TUZfd1YNfZ0
+title: Computers 101 - Link in description
+channel: CaptiveAire
+handle: '@CAPTIVEAIRE'
+url: https://www.youtube.com/watch?v=TUZfd1YNfZ0
+duration: '18:18'
+type: video
+transcript: these are called Nixie tubes and personally I think they're really neat unfortunately these take a lot of voltage like 85 volts DC just to turn on so the next best thing for this kind of application are segmented displaced like this led one we can use an integrated circuit like this one that will sort of translate a 4-bit signal to light up the individual segments and build the correct digit what kind of blew my mind is that they're achieving all this using logic gates and some pretty complex wiring [Music]
+timestamps: [[0, 0], [33, 2], [72, 4], [106, 6], [147, 9], [187, 11], [228, 14], [266, 16], [306, 18], [347, 21], [381, 23], [395, 24], [429, 26], [468, 28], [505, 33]]

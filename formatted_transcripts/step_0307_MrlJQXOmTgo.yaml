@@ -1,0 +1,9 @@
+video_id: MrlJQXOmTgo
+title: 'Here''s a little programming challenge for you: can you figure out the output of this code?'
+channel: freeCodeCamp.org
+handle: '@freecodecamp'
+url: https://www.youtube.com/watch?v=MrlJQXOmTgo
+duration: '36:00'
+type: video
+transcript: What's the output of this code? Think about it for a few seconds and then I'll give you the right answer and let you know why it's correct. And the right answer is B, 14. Why? Because the value of A is 6 and the value of B is 7. A is evenly divisible by 3? So we print twice the value of B. Twice the value of B is 7 multiplied by 2, which is 14. So that's why we get option B.
+timestamps: [[0, 0], [38, 2], [79, 4], [117, 6], [140, 19], [176, 23], [212, 25], [251, 29], [291, 32], [331, 35], [368, 38]]

@@ -1,0 +1,9 @@
+video_id: -Wg89JEyEZ0
+title: Why Go Channels Beat Locks for Concurrency?
+channel: CsMadeEz
+handle: '@CsMadeEz'
+url: https://www.youtube.com/watch?v=-Wg89JEyEZ0
+duration: '36:00'
+type: video
+transcript: "A channel is a handoff. Two goroutines meet, a value crosses, and both\ncarry on. \n\nCHAPTERS\n\n0:00 Why a channel is not a queue\n1:53 Sharing memory, or handing it over\n3:47 Why a send waits\n5:49 Adding a buffer, and why it rarely helps\n7:27 Shutting it all down cleanly\n10:14 What a channel is inside\n12:02 Three things that will bite you\n\n\nDiscord: https://discord.gg/qvmTYNTq9Y\n\n\nSUPPORT THE CHANNEL\n\nKo-fi: https://ko-fi.com/csmadeez\nBuy me a chai (for viewers in India): https://buymeachai.ezee.li/CsMadeEz\n\n\n#golang #go #concurrency #Go Unbuffered channels #goroutines leak #softwareengineering  #programming"
+timestamps: [[93, 0], [127, 113], [167, 227], [189, 349], [235, 447], [269, 614], [300, 722]]

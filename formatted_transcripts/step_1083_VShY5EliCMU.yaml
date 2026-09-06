@@ -1,0 +1,9 @@
+video_id: VShY5EliCMU
+title: This CSS Property Replaces Hundreds of Lines of Code
+channel: Web Dev Simplified
+handle: '@WebDevSimplified'
+url: https://www.youtube.com/watch?v=VShY5EliCMU
+duration: '27:06'
+type: video
+transcript: creating a CSS input that grows based on the text inside of it used to require a ton of JavaScript and was incredibly difficult but now with CSS it just requires one single line of CSS code field sizing content this just allows the actual size of an input to scale with the size of the content it works with selects inputs and most importantly text areas so you can see that this is able to grow based on whatever content I have inside of it now unfortunately this feature is not in all browsers yet as Firefox is lagging behind but it's a really nice quality life feature you can start adding as a progressive enhancement and if you want to learn more about exactly how this feature works I have a full video it'll be linked at the bottom of the screen
+timestamps: [[0, 0], [41, 2], [81, 4], [118, 6], [153, 8], [190, 10], [228, 12], [265, 15], [303, 16], [344, 19], [383, 21], [424, 23], [465, 24], [503, 26], [540, 28], [581, 30], [611, 31], [648, 32], [684, 34], [719, 35]]

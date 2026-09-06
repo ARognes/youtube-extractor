@@ -1,0 +1,9 @@
+video_id: NSWwX_ke760
+title: I Made My Own Shadcn Library (and you can too)
+channel: Web Dev Simplified
+handle: '@WebDevSimplified'
+url: https://www.youtube.com/watch?v=NSWwX_ke760
+duration: '27:06'
+type: video
+transcript: Shad CN has the ability to create custom component registries and I've gone ahead and done just that. I created my very own webdev simplified shad CN registry and I've added in some common components I use in pretty much any project and I can easily install these components and you can also easily install these into your own library. So if you wanted to go ahead and use my loading swap component which just swaps out an icon with that loading spinner. You can go ahead and you can use this install command right here which directly hooks in with the shad CN CLI. You can see it's adding that directly from my website. And then you can have this component directly inside of your project. And if you want to go ahead and you want to contribute by adding more components to this library and so on, I have a full GitHub repository with everything you need inside of it to add your own component. Just go ahead, you can create an issue for different things or you can create a discussion for different component requests that you have. So, if you want to learn more about how this entire documentation site works, as well as how you can create your own registry or contribute to this particular registry, I'll have a full video linked at the bottom of the screen that goes over all of
+timestamps: [[0, 0], [41, 2], [82, 4], [120, 5], [159, 7], [200, 9], [239, 11], [279, 12], [318, 14], [359, 16], [399, 17], [438, 19], [476, 21], [515, 22], [553, 23], [590, 25], [630, 27], [667, 28], [707, 30], [746, 31], [780, 33], [820, 35], [856, 36], [896, 38], [935, 39], [976, 40], [1011, 41], [1051, 43], [1087, 44], [1128, 46], [1164, 47], [1204, 48], [1241, 50], [1281, 51]]

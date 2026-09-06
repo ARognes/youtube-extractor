@@ -1,0 +1,9 @@
+video_id: eXmMMuATJA0
+title: Why Separate Code Into Libraries?
+channel: The Cherno
+handle: '@TheCherno'
+url: https://www.youtube.com/watch?v=eXmMMuATJA0
+duration: '44:12'
+type: video
+transcript: The main reason to separate your code into different modules is usually either composition or reusability. So by composition I mean you might only want to use a subset of the systems the code available for a particular executable. In that case it makes sense to put all of the kind of optional code that might not apply to every single executable target that you produce. It makes sense to put all of those into their own separate modules so that you can just select the ones that you want to use. The other side of this is reusability. You might have multiple projects that all need to use this snake core lib or snake render liib that aren't just part of this specific project. Kind of like a game engine. You might want to just write that code once and then use it for a whole variety of different things. In this case, you know, because it's all snake, it's probably not reusable across either different executables, different targets, or different projects entirely. However, again, showing that you understand what a static library is and how to kind of use different modules within your code is definitely beneficial.
+timestamps: [[0, 0], [38, 2], [79, 4], [113, 6], [152, 8], [192, 11], [231, 13], [270, 15], [310, 16], [347, 18], [387, 20], [422, 21], [460, 23], [498, 24], [537, 26], [575, 27], [614, 29], [654, 31], [695, 33], [731, 35], [772, 36], [812, 39], [850, 42], [891, 45], [931, 47], [972, 49], [1005, 51], [1045, 52], [1082, 54], [1113, 55]]

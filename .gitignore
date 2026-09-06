@@ -1,0 +1,32 @@
+# OS & Editor
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Oversized Datasets (>50MB)
+hydrated_viewer_dataset.json
+test_script_*.js
+sequential_video_queue.json
+pending_real_video_downloads.json
+
+# Raw Unindexed Transcripts Directory
+downloaded_transcripts/
+
+# Node / SvelteKit / Build
+node_modules/
+.svelte-kit/
+build/
+.env
+.env.*
+!.env.example
+package-lock.json

@@ -1,0 +1,809 @@
+{
+  "channel_name": "Web Dev Simplified",
+  "total_videos_analyzed": 82,
+  "total_spoken_words": 10020,
+  "total_duration_hours": 20.5,
+  "first_principles": [
+    {
+      "principle": "Core Educational Synthesis",
+      "axiom": "Structure complex concepts into actionable mental models and step-by-step frameworks."
+    }
+  ],
+  "mental_model_dictionary": {
+    "Concept Mapping": "Linking foundational ideas into a unified knowledge structure."
+  },
+  "tactical_playbooks": [
+    {
+      "title": "General Domain Application",
+      "steps": [
+        "Extract key principle",
+        "Apply in real-world context",
+        "Evaluate outcome"
+      ]
+    }
+  ],
+  "video_knowledge_catalog": [
+    {
+      "video_id": "wEet5Gkn1Qg",
+      "title": "This Unknown TypeScript Feature is a Must Have for Large Projects",
+      "url": "https://www.youtube.com/watch?v=wEet5Gkn1Qg",
+      "word_count": 678,
+      "executive_synopsis": "Tier 1 deep-dive content on 'This Unknown TypeScript Feature is a Must Have for Large Projects' by Web Dev Simplified. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.16s] One of the most underrated features in\\n[2.0s] Typescript is branded types and they\\n[4.56s] solve a very particular problem. In this\\n[6.72s] code, you can see that I have a user\\n[8.32s] here and I'm calling this get order\\n[10.0s] function. I'm passing in the latest sale\\n[11.92s] ID. But you notice I'm actually getting\\n[13.679s] an error inside my code for TypeScript.\\n[16.08s] And if I look into this get order\\n[17.68s] function, that's because this get order\\n[19.359s] function specifically takes an invoice\\n[21.6s] ID. This is a branded type. So instead\\n[24.16s] ..."
+    },
+    {
+      "video_id": "Ae6gQXacjaA",
+      "title": "The NEW React Activity Component Is a Game Changer for Performance",
+      "url": "https://www.youtube.com/watch?v=Ae6gQXacjaA",
+      "word_count": 530,
+      "executive_synopsis": "Tier 1 deep-dive content on 'The NEW React Activity Component Is a Game Changer for Performance' by Web Dev Simplified. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] The brand new React activity component\\n[2.08s] is a super simple component that can\\n[3.919s] drastically increase the performance and\\n[6.08s] reliability of your code. Let's take a\\n[7.919s] quick look at this example right here. I\\n[9.519s] just have a button that toggles this\\n[11.04s] counter section down below. I can\\n[12.8s] increase or decrease the counter, add\\n[14.559s] something inside this text box. And when\\n[16.0s] I remove this and read it, you can see\\n[17.84s] all of my state is reset. The reason for\\n[19.92s] this is because this counter component\\n[21...."
+    },
+    {
+      "video_id": "JcwH9RddzyE",
+      "title": "3 Must Use TSConfig Features",
+      "url": "https://www.youtube.com/watch?v=JcwH9RddzyE",
+      "word_count": 447,
+      "executive_synopsis": "Tier 1 deep-dive content on '3 Must Use TSConfig Features' by Web Dev Simplified. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] At first glance, this code may look like\\n[1.84s] it's perfectly fine, but there's\\n[3.2s] actually some subtle issues with it that\\n[4.84s] we can fix with the TypeScript config.\\n[6.96s] The very first one that I want to talk\\n[8.16s] about is the no unchecked index access,\\n[10.56s] cuz this is by far my favorite\\n[11.96s] TypeScript config file. I always enable\\n[14.04s] this. You can see down here we have\\n[15.44s] array of names. We have Kyle, Sally, and\\n[17.96s] so on, and I'm trying to access the\\n[19.72s] third element from that array and\\n[21.04s] convert it to ..."
+    },
+    {
+      "video_id": "yhZhucDNxq4",
+      "title": "CSS corner-shape Is an Amazing NEW Property!",
+      "url": "https://www.youtube.com/watch?v=yhZhucDNxq4",
+      "word_count": 362,
+      "executive_synopsis": "Tier 1 deep-dive content on 'CSS corner-shape Is an Amazing NEW Property!' by Web Dev Simplified. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.16s] The new corner shape property in CSS\\n[2.32s] allows us to create some absolutely\\n[4.24s] wildlooking border radiuses with\\n[6.879s] relative ease. Essentially, this\\n[8.88s] property takes in a super ellipse\\n[11.04s] function or a few different keywords.\\n[12.88s] For example, you can use the keyword\\n[14.24s] round and that'll just default to the\\n[16.16s] normal border radius. You can see as we\\n[17.92s] scale this, it's just a normal border\\n[19.6s] radius. But you can also do something\\n[21.279s] like square, which removes the border\\n[23.039s] radius, or notch, wh..."
+    },
+    {
+      "video_id": "lUnZ-NsD9Ag",
+      "title": "I Can\u2019t Believe This TS Feature Has No Documentation",
+      "url": "https://www.youtube.com/watch?v=lUnZ-NsD9Ag",
+      "word_count": 356,
+      "executive_synopsis": "Tier 1 deep-dive content on 'I Can\u2019t Believe This TS Feature Has No Documentation' by Web Dev Simplified. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] The TypeScript documentation isn't\\n[1.64s] great, but in this case there's\\n[2.92s] absolutely no documentation for this\\n[4.92s] incredible feature. Take for example\\n[7.0s] this function first. It's a generic\\n[8.52s] function that takes in an array of\\n[9.96s] elements and returns to me the first\\n[11.48s] element. In our case, we're passing an\\n[13.08s] array of one, two, and three. So, I\\n[15.12s] would expect the return type of this to\\n[16.96s] be either the value of one, two, or\\n[19.0s] three cuz that's the only things in my\\n[20.48s] array. But, if I hover over ..."
+    },
+    {
+      "video_id": "zv8ZDr0zGdU",
+      "title": "This CSS Dev Tool Makes Accessibility so Easy",
+      "url": "https://www.youtube.com/watch?v=zv8ZDr0zGdU",
+      "word_count": 349,
+      "executive_synopsis": "Tier 1 deep-dive content on 'This CSS Dev Tool Makes Accessibility so Easy' by Web Dev Simplified. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.16s] Making sure your colors are perfectly\\n[1.92s] accessible in CSS is not always easy,\\n[4.319s] which is why I love the rendering tab in\\n[6.319s] the dev tools. It allows you to do\\n[7.919s] things such as swap between light and\\n[9.599s] dark mode on your page to easily see how\\n[11.44s] your colors look. You can also emulate a\\n[13.36s] bunch of other CSS media things like\\n[15.12s] prefers reduced contrast, prefers\\n[16.96s] reduced motion, prefers reduced\\n[18.4s] transparency to make sure everything is\\n[20.08s] super accessible. And you can even\\n[21.6s] emulate dif..."
+    },
+    {
+      "video_id": "Kh8M_iiIhUY",
+      "title": "Want to join this channel?",
+      "url": "https://www.youtube.com/watch?v=Kh8M_iiIhUY",
+      "word_count": 330,
+      "executive_synopsis": "Tier 1 deep-dive content on 'Want to join this channel?' by Web Dev Simplified. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] There are many different coding\\n[1.4s] harnesses out there for agentic coding,\\n[3.44s] but I think pie is one of the best. Just\\n[5.64s] go to pie.dev, you'll see this npm\\n[7.64s] install command that's going to install\\n[9.48s] pie for you, and then you have the\\n[11.2s] agentic coding harness available. Just\\n[13.16s] type in pie and that's going to open up\\n[14.88s] pie, and now you can do whatever you\\n[16.84s] want. For example, at the very bottom\\n[18.44s] you can see is where I type in my\\n[19.84s] various prompts for what I want. It'll\\n[21.52s] automatically lo..."
+    },
+    {
+      "video_id": "7q3rvDU-kzk",
+      "title": "The 2 Parts of Auth You Need To Know",
+      "url": "https://www.youtube.com/watch?v=7q3rvDU-kzk",
+      "word_count": 325,
+      "executive_synopsis": "Tier 1 deep-dive content on 'The 2 Parts of Auth You Need To Know' by Web Dev Simplified. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] Authentication and authorization often\\n[2.48s] get lumped together as just off, but in\\n[4.76s] reality they're two very different\\n[6.44s] things. Authentication is step one, and\\n[9.2s] that's all about determining who are\\n[11.08s] you. This is something like a login,\\n[12.92s] two-factor authentication, even\\n[14.6s] something like an API key is part of\\n[16.44s] authentication cuz it verifies who you\\n[18.68s] are. Even a guest account technically\\n[20.76s] counts as authentication cuz you're\\n[22.36s] authenticating that you are a guest. And\\n[24.4s] anytime that yo..."
+    },
+    {
+      "video_id": "h1ZPBYhTT1k",
+      "title": "You Need To Use This TSConfig Setting",
+      "url": "https://www.youtube.com/watch?v=h1ZPBYhTT1k",
+      "word_count": 307,
+      "executive_synopsis": "Tier 1 deep-dive content on 'You Need To Use This TSConfig Setting' by Web Dev Simplified. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] One of the more annoying things to deal\\n[1.56s] with in JavaScript is these really long\\n[3.4s] relative imports and exports because\\n[5.4s] there's no way to do an absolute import\\n[7.24s] in JavaScript. But, if you're using\\n[9.28s] TypeScript, you can actually get around\\n[10.76s] this problem. Inside your TypeScript\\n[12.68s] config, all you need to do is to specify\\n[14.96s] a paths. So, you specify paths inside\\n[17.48s] your compiler options. This is an object\\n[19.8s] where the key of that object represents\\n[21.52s] the alias you want to create. In my\\n[23.68s] p..."
+    },
+    {
+      "video_id": "pe0ez1I7cgU",
+      "title": "New CSS corner-shape Property Is Amazing",
+      "url": "https://www.youtube.com/watch?v=pe0ez1I7cgU",
+      "word_count": 303,
+      "executive_synopsis": "Tier 1 deep-dive content on 'New CSS corner-shape Property Is Amazing' by Web Dev Simplified. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] The brand new corner shape property in\\n[2.0s] CSS is amazing. By default, it's round,\\n[5.08s] which just gives you a normal rounded\\n[6.8s] border radius corner, but you can do so\\n[8.8s] much with this. For example, scoop gives\\n[10.56s] you an inverse border radius. You can\\n[12.88s] use notch to essentially give you a\\n[14.92s] fully squared-off border radius cutting\\n[17.08s] inward. You can use square to\\n[19.04s] essentially remove your border radius.\\n[21.2s] You can also use squircle. This gives\\n[22.92s] you a kind of extra rounded, not quite a\\n[25.32s] super r..."
+    },
+    {
+      "video_id": "1mvlBz6pj1I",
+      "title": "How To Build A Production Ready RAG AI - My Full AI Coding Workflow",
+      "url": "https://www.youtube.com/watch?v=1mvlBz6pj1I",
+      "word_count": 258,
+      "executive_synopsis": "How To Build A Production Ready RAG AI - My Full AI Coding Workflow",
+      "core_takeaways": [],
+      "transcript_preview": "Checkout Neon: https://get.neon.com/HALyXNV Checkout Vercel Workflows: https://vercel.plug.dev/wMxDguF Checkout CodeRabbit: https://www.coderabbit.ai/?utm_source... RAG (Retrieval Augmented Generation) is crucial to nearly every business. Knowing how to build your own RAG system will put you far ahead of most other job applicants. In this video I will not only show you how to build a complete RAG system, but I will also show you how go about building production ready applications with AI from scratch. \ud83d\udcda Materials/References: GitHub Code: https://github.com/WebDevSimplified/v... AI Sandbox Setu..."
+    },
+    {
+      "video_id": "Y7nhXvJ7yH8",
+      "title": "How to Handle Accessibility Like a Senior Dev",
+      "url": "https://www.youtube.com/watch?v=Y7nhXvJ7yH8",
+      "word_count": 207,
+      "executive_synopsis": "How to Handle Accessibility Like a Senior Dev",
+      "core_takeaways": [],
+      "transcript_preview": "FREE Accessibility Checklist - 80+ items, 12+ categories \ud83d\udc49 https://webdevsimplified.com/accessib... Become a web developer with my FREE Web Development Roadmap - 260+ videos, 120+ projects, 60+ articles \ud83d\udc49 https://webdevsimplified.com/web-dev-... Accessibility is something every app should strive for, but knowing what to do is often harder than actually making the accessibility changes themselves. That is why in this video I cover the top 17 must know accessibility changes that almost no one talks about. I also created a full checklist of over 80 accessibility items to check for that I use in e..."
+    },
+    {
+      "video_id": "S26VdcWQzRQ",
+      "title": "NEW Tankstack Library is a Must Include in Every Project",
+      "url": "https://www.youtube.com/watch?v=S26VdcWQzRQ",
+      "word_count": 203,
+      "executive_synopsis": "NEW Tankstack Library is a Must Include in Every Project",
+      "core_takeaways": [],
+      "transcript_preview": "Master TypeScript utility types with my FREE TS Util Types Cheat Sheet - 18+ types \ud83d\udc49 https://webdevsimplified.com/ts-utili... Become a senior TypeScript developer with my Full TypeScript Course - 50+ videos, 10+ hours+ \ud83d\udc49 https://courses.webdevsimplified.com/... Hotkeys are something every site can utilize in some way, but setting up good quality hotkeys isn\u2019t as easy as it seems. This leads most developer to completely skip hotkeys on their site, but this is a terrible idea since hotkeys elevate your site in ways that most other things cannot. In this video I will show you how to use the new T..."
+    },
+    {
+      "video_id": "7Z7ID5BbZU4",
+      "title": "Containers Don't Make Your AI Agent Safe",
+      "url": "https://www.youtube.com/watch?v=7Z7ID5BbZU4",
+      "word_count": 194,
+      "executive_synopsis": "Containers Don't Make Your AI Agent Safe",
+      "core_takeaways": [],
+      "transcript_preview": "Try for FREE Docker Sandboxes: https://utm.io/uq1EL You most likely fall into one of two camps. You either check every single command the AI runs before it runs or you YOLO run AI with zero oversight. This either wastes your time or opens you up to huge security issues. That is why in this video I will show you how to sandbox your AI so you can save time and rest knowing your AI is unable to do anything malicious on its own. \ud83d\udcda Materials/References: Sandbox GitHub Kits: https://github.com/WebDevSimplified/d... Local AI Setup Video: \u2022 The Best Local Agentic Coding Workflow (Co... \ud83c\udf0e Find Me Here:..."
+    },
+    {
+      "video_id": "ovnyeq-Xxrc",
+      "title": "How To Handle Errors Like A Senior Dev",
+      "url": "https://www.youtube.com/watch?v=ovnyeq-Xxrc",
+      "word_count": 173,
+      "executive_synopsis": "How To Handle Errors Like A Senior Dev",
+      "core_takeaways": [],
+      "transcript_preview": "Become a web developer with my FREE Web Development Roadmap - 260+ videos, 120+ projects, 60+ articles \ud83d\udc49 https://webdevsimplified.com/web-dev-... Master TypeScript utility types with my FREE TS Utility Types Cheat Sheet - 18+ types \ud83d\udc49 https://webdevsimplified.com/ts-utili... Error handling is something that is often overlooked in apps, which is usually the sign of a junior developer. In this video I will show you how to properly handle errors in a typesafe way that makes working with your code so much easier. \ud83d\udcda Materials/References: Discriminating Unions Video: \u2022 This Is One Of My Favorite Type..."
+    },
+    {
+      "video_id": "CFI1ZnlHEFM",
+      "title": "My Honest Thoughts on AI and the Job Market in 2026",
+      "url": "https://www.youtube.com/watch?v=CFI1ZnlHEFM",
+      "word_count": 169,
+      "executive_synopsis": "My Honest Thoughts on AI and the Job Market in 2026",
+      "core_takeaways": [],
+      "transcript_preview": "Become a web developer with my FREE Web Development Roadmap - 260+ videos, 120+ projects, 60+ articles \ud83d\udc49 https://webdevsimplified.com/web-dev-... The last few years have changed a lot about web development and programming, and in this video I want to talk about what those changes are, and how you can overcome them. I will be talking about my thoughts on the future of AI and programming, where the job market it going in 2026, and most importantly what you can do/learn to still land a job in 2026. \ud83d\udcda Materials/References: FREE 2026 Web Dev Roadmap: https://webdevsimplified.com/web-dev-... Code Re..."
+    },
+    {
+      "video_id": "9aTRnV6g0eQ",
+      "title": "Learn React With This One Project",
+      "url": "https://www.youtube.com/watch?v=9aTRnV6g0eQ",
+      "word_count": 167,
+      "executive_synopsis": "Learn React With This One Project",
+      "core_takeaways": [],
+      "transcript_preview": "React Simplified Course: https://learn.webdevsimplified.com/re... FREE React Hooks Course: https://courses.webdevsimplified.com/... Learning React is hard, especially if you are just getting started. In this video I will show you how to build out a full React application while also explaining every single important React concept you need to know. \ud83d\udcda Materials/References: GitHub Code: https://github.com/WebDevSimplified/r... React Simplified Course: https://learn.webdevsimplified.com/re... FREE React Hooks Course: https://courses.webdevsimplified.com/... \ud83c\udf0e Find Me Here: My Blog: https://blog.web..."
+    },
+    {
+      "video_id": "QMG5F64b454",
+      "title": "10 Hidden Browser Features Your AI Doesn\u2019t Know About",
+      "url": "https://www.youtube.com/watch?v=QMG5F64b454",
+      "word_count": 165,
+      "executive_synopsis": "10 Hidden Browser Features Your AI Doesn\u2019t Know About",
+      "core_takeaways": [],
+      "transcript_preview": "The browser is constantly releasing new features, but your AI doesn\u2019t even know they exist. Your browser even has old features your AI refuses to use. In this video I will be showing you 10 amazing browser features (some old and some new), that will drastically improve the quality of your code. \ud83d\udcda Materials/References: Full Lazy Load Images Video: \u2022 How To Load Images Like A Pro Lazy Load Images Article: https://blog.webdevsimplified.com/202... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsi..."
+    },
+    {
+      "video_id": "bP8mrNdR-hs",
+      "title": "I Love the NEW CSS Functions",
+      "url": "https://www.youtube.com/watch?v=bP8mrNdR-hs",
+      "word_count": 165,
+      "executive_synopsis": "I Love the NEW CSS Functions",
+      "core_takeaways": [],
+      "transcript_preview": "FREE CSS Selector Cheat Sheet: https://webdevsimplified.com/specific... CSS has received dozens of monumental updates in the last few years, and this new CSS functions update might be one of the most impactful updates of all. In this video I will show you how to use this new function syntax from the basics all the way to advanced features while also showing you how this can be used for real world code. \ud83d\udcda Materials/References: FREE CSS Selector Cheat Sheet: https://webdevsimplified.com/specific... Relative Color Video: \u2022 How To Handle CSS Colors Like A Senior Dev CSS Layers Video: \u2022 CSS Layers ..."
+    },
+    {
+      "video_id": "Sh5B7ApPh7k",
+      "title": "JavaScript Is Dead - What You Need To Do",
+      "url": "https://www.youtube.com/watch?v=Sh5B7ApPh7k",
+      "word_count": 164,
+      "executive_synopsis": "JavaScript Is Dead - What You Need To Do",
+      "core_takeaways": [],
+      "transcript_preview": "Master TypeScript utility types with my FREE TS Util Types Cheat Sheet - 18+ types \ud83d\udc49 https://webdevsimplified.com/ts-utili... Become a senior TypeScript developer with my Full TypeScript Course - 50+ videos, 10+ hours+ \ud83d\udc49 https://courses.webdevsimplified.com/... TypeScript has gained a massive amount of popularity in the last 5 years and at this point it is used nearly everywhere. I don\u2019t create any projects without TypeScript anymore and more and more jobs are requiring TypeScript experience. In this video I talk about why this change occurred and what you can do to stay ahead of it. \ud83d\udcda Materia..."
+    },
+    {
+      "video_id": "63m2vvB4wo4",
+      "title": "Stop Writing TypeScript Code Like This",
+      "url": "https://www.youtube.com/watch?v=63m2vvB4wo4",
+      "word_count": 156,
+      "executive_synopsis": "Stop Writing TypeScript Code Like This",
+      "core_takeaways": [],
+      "transcript_preview": "Master TypeScript utility types with my FREE TS Util Types Cheat Sheet - 18+ types \ud83d\udc49 https://webdevsimplified.com/ts-utili... Become a senior TypeScript developer with my Full TypeScript Course - 50+ videos, 10+ hours+ \ud83d\udc49 https://courses.webdevsimplified.com/... One of the best features of TypeScript is its inference, but that inference can also be a negative. In this video I talk all about why you may want to use explicit return types in TypeScript since it can solve many common typing issues and in some cases is even required by TypeScript. \ud83d\udcda Materials/References: FREE TS Utility Types Cheat ..."
+    },
+    {
+      "video_id": "UngVdAsQEiU",
+      "title": "The Best Local Agentic Coding Workflow (Complete Guide)",
+      "url": "https://www.youtube.com/watch?v=UngVdAsQEiU",
+      "word_count": 155,
+      "executive_synopsis": "The Best Local Agentic Coding Workflow (Complete Guide)",
+      "core_takeaways": [],
+      "transcript_preview": "Setting up a local AI model can be intimidating, which is why I created this video. In this video I will show you everything you need to know about setting up local AI models from the basics of how local AI models work, to how to optimize local AI models for your hardware, and even how to use these local AI models in real world agentic environments. \ud83d\udcda Materials/References: LM Studio: https://lmstudio.ai/ Hugging Face: https://huggingface.co/ Pi Coding Agent: https://pi.dev/ \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com/ My Courses: https://courses.webdevsimplified.com/ Patreon: / ..."
+    },
+    {
+      "video_id": "ULS7LHNScHc",
+      "title": "Stop Using Context in React - Use This Instead",
+      "url": "https://www.youtube.com/watch?v=ULS7LHNScHc",
+      "word_count": 149,
+      "executive_synopsis": "Stop Using Context in React - Use This Instead",
+      "core_takeaways": [],
+      "transcript_preview": "Master every React hook with my FREE React Hooks Course - 25+ videos \ud83d\udc49 https://courses.webdevsimplified.com/... Become a mid-level React developer with my Full React Course - 40+ hours, 200+ videos \ud83d\udc49 https://reactsimplified.com/?utm_sour... State management in React is incredibly important and the tools built into React are only able to get you so far. In this video I will show you how to use Zustand in your code to simplify your state management and make scaling your applications easier. \ud83d\udcda Materials/References: FREE React Hooks Course: https://courses.webdevsimplified.com/... React Simplified..."
+    },
+    {
+      "video_id": "NBjycPpPHQQ",
+      "title": "Why Does No One Use The Right React Hook",
+      "url": "https://www.youtube.com/watch?v=NBjycPpPHQQ",
+      "word_count": 145,
+      "executive_synopsis": "Why Does No One Use The Right React Hook",
+      "core_takeaways": [],
+      "transcript_preview": "Master every React hook with my FREE React Hooks Course - 25+ videos \ud83d\udc49 https://courses.webdevsimplified.com/... Become a mid-level React developer with my Full React Course - 40+ hours, 200+ videos \ud83d\udc49 https://reactsimplified.com/?utm_sour... The useSyncExternalStore hook is a hook most people never learn, but it is incredibly useful for working with data stored outside of React. In this video I will show you everything you need to know about this hook as well as show you practical use cases for this hook. \ud83d\udcda Materials/References: FREE React Hooks Course: https://courses.webdevsimplified.com/... ..."
+    },
+    {
+      "video_id": "7rxOOFvwU60",
+      "title": "11 New JS Features You Can Use Today!",
+      "url": "https://www.youtube.com/watch?v=7rxOOFvwU60",
+      "word_count": 145,
+      "executive_synopsis": "11 New JS Features You Can Use Today!",
+      "core_takeaways": [],
+      "transcript_preview": "FREE Web Dev Roadmap: https://webdevsimplified.com/web-dev-... JavaScript is constantly releasing new features such as ES2026 and ES2027 and in this video I will be covering all the new JavaScript features that I am most excited for. \ud83d\udcda Materials/References: FREE Web Dev Roadmap: https://webdevsimplified.com/web-dev-... Generators Video: \u2022 Learn JavaScript Generators In 12 Minutes Generators Article: https://blog.webdevsimplified.com/202... Maps Video: \u2022 Another 5 Must Know JavaScript Features Th... Maps Article: https://blog.webdevsimplified.com/202... Temporal API Video: \u2022 Learn Temporal API ..."
+    },
+    {
+      "video_id": "PRBlLjHIV74",
+      "title": "This is the New NPM",
+      "url": "https://www.youtube.com/watch?v=PRBlLjHIV74",
+      "word_count": 143,
+      "executive_synopsis": "This is the New NPM",
+      "core_takeaways": [],
+      "transcript_preview": "The npm site is a great place to find information about the packages you use, but has many glaring issues. The biggest is that npm\u2019s search feature is terrible and makes finding packages nearly impossible and this is only compounded with the advent of AI which leads to so many more packages being released than ever before. In this video I will show you why I think npmx will replace npm and why it is such a better package repository. \ud83d\udcda Materials/References: Npmx: https://npmx.dev Tanstack Hotkeys Video: \u2022 NEW Tankstack Library is a Must Include in... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdev..."
+    },
+    {
+      "video_id": "U_D14T5TYuk",
+      "title": "How To Build A Production Ready API - Auth, JWT, API Keys",
+      "url": "https://www.youtube.com/watch?v=U_D14T5TYuk",
+      "word_count": 140,
+      "executive_synopsis": "How To Build A Production Ready API - Auth, JWT, API Keys",
+      "core_takeaways": [],
+      "transcript_preview": "Try Requestly For FREE: https://requestly.com Hono is an amazing library that makes building type safe backend APIs incredibly easy. In this video I will show you how to build a fully type safe API from scratch that utilizes email/password auth, JWT, and API keys to secure the application. I will also show you how to use Requestly to make testing your API so much easier. \ud83d\udcda Materials/References: GitHub Code: https://github.com/WebDevSimplified/h... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com/ My Courses: https://courses.webdevsimplified.com/ Patreon: / webdevsimplified Twitter: /..."
+    },
+    {
+      "video_id": "nQrUeK0n1qw",
+      "title": "Every Project Needs This NEW Tanstack Library",
+      "url": "https://www.youtube.com/watch?v=nQrUeK0n1qw",
+      "word_count": 139,
+      "executive_synopsis": "Every Project Needs This NEW Tanstack Library",
+      "core_takeaways": [],
+      "transcript_preview": "Tanstack has been releasing tons of libraries in the last year and the newest Pacer library is yet another incredible library that I will use in nearly every project I work on. In this video I cover what this library is, how to use it, and talk about why you need this library in all your projects. \ud83d\udcda Materials/References: Tanstack Pacer Docs: https://tanstack.com/pacer/latest/doc... Tanstack Start Video: \u2022 Learn Tanstack Start In 60 Minutes Tanstack AI Video: \u2022 NEW Tanstack AI Library is Amazing! \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimpli..."
+    },
+    {
+      "video_id": "cxQLKsktiBA",
+      "title": "How To Use AI Skills Like A Senior Developer",
+      "url": "https://www.youtube.com/watch?v=cxQLKsktiBA",
+      "word_count": 133,
+      "executive_synopsis": "How To Use AI Skills Like A Senior Developer",
+      "core_takeaways": [],
+      "transcript_preview": "FREE Web Dev Roadmap: https://webdevsimplified.com/web-dev-... Writing code with AI can be frustrating since AI always seems to generate terrible code. In this video I will show you how you can fix this problem by using AI skills which teach your AI the exact techniques needed to produce high quality code exactly like you want it. \ud83d\udcda Materials/References: My Blog: https://blog.webdevsimplified.com/?ut... FREE Web Dev Roadmap: https://webdevsimplified.com/web-dev-... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimpl..."
+    },
+    {
+      "video_id": "vmzt6I1IZg8",
+      "title": "Can I Build This UI In 10 Minutes",
+      "url": "https://www.youtube.com/watch?v=vmzt6I1IZg8",
+      "word_count": 132,
+      "executive_synopsis": "Can I Build This UI In 10 Minutes",
+      "core_takeaways": [],
+      "transcript_preview": "Master CSS selectors with my FREE CSS Selector Cheat Sheet - 30+ selectors \ud83d\udc49 https://webdevsimplified.com/specific... Become a CSS Developer with my CSS Simplified Course - 100+ videos, 20+ projects, 16+ hours \ud83d\udc49 https://courses.webdevsimplified.com/... Am I still able to create CSS designs in a quick time? In this video I challenge myself with a complicated CSS design where I only have 10 minutes to create it. Can I do it? \ud83d\udcda Materials/References: CSS Daily Challenge: https://cssdaily.dev/challenge/2026-0... FREE CSS Selector Cheat Sheet: https://webdevsimplified.com/specific... CSS Simplified ..."
+    },
+    {
+      "video_id": "aP6w2OzidYM",
+      "title": "Stop Writing Your ID Types Like This",
+      "url": "https://www.youtube.com/watch?v=aP6w2OzidYM",
+      "word_count": 129,
+      "executive_synopsis": "Stop Writing Your ID Types Like This",
+      "core_takeaways": [],
+      "transcript_preview": "Branded types are a niche TypeScript feature that don\u2019t make much sense in small projects, but as soon as your project grows in size or complexity they are a must have. In this video I explain everything you need to know about branded types as well as how to integrate them with Drizzle and Zod. \ud83d\udcda Materials/References: Data Access Layer Video: \u2022 How To Handle Data Access Like a Senior Dev \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/We..."
+    },
+    {
+      "video_id": "t3my5ByUhFU",
+      "title": "This Tool Forces AI To Write Good Code",
+      "url": "https://www.youtube.com/watch?v=t3my5ByUhFU",
+      "word_count": 128,
+      "executive_synopsis": "This Tool Forces AI To Write Good Code",
+      "core_takeaways": [],
+      "transcript_preview": "AI is terrible at writing clean easy to maintain code. This is why I recommend you use Fallow in every project. This tool helps solve the slop that AI produces and leaves you with a codebase that is cleaner and easier to maintain. In this video I will teach you everything you need to know to use Fallow in your projects. \ud83d\udcda Materials/References: Fallow: https://fallow.tools Local AI Setup Video: \u2022 The Best Local Agentic Coding Workflow (Co... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimpl..."
+    },
+    {
+      "video_id": "quoNVa88XfE",
+      "title": "NEW Tanstack AI Library is Amazing!",
+      "url": "https://www.youtube.com/watch?v=quoNVa88XfE",
+      "word_count": 126,
+      "executive_synopsis": "NEW Tanstack AI Library is Amazing!",
+      "core_takeaways": [],
+      "transcript_preview": "Creating apps that utilize AI is almost a necessity at this point and the brand new Tanstack AI library makes this process so much smoother. This library takes all the best parts of the Vercel AI SDK and creates its own typesafe spin on it that is a joy to work with. In this video I cover what Tanstack AI is and also how you can start using it in your projects. \ud83d\udcda Materials/References: GitHub Code: https://github.com/WebDevSimplified/t... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplifi..."
+    },
+    {
+      "video_id": "DogTO1jjFtI",
+      "title": "What I Use Instead",
+      "url": "https://www.youtube.com/watch?v=DogTO1jjFtI",
+      "word_count": 123,
+      "executive_synopsis": "What I Use Instead",
+      "core_takeaways": [],
+      "transcript_preview": "FREE Pi Cheat Sheet: https://webdevsimplified.com/pi-cheat... Pi is my favorite agent harness (especially when working with local models) and in this video I will show you everything you need to know about the Pi agent harness. \ud83d\udcda Materials/References: FREE Pi Cheat Sheet: https://webdevsimplified.com/pi-cheat... Local AI Video: \u2022 The Best Local Agentic Coding Workflow (Co... Skills Video: \u2022 How To Use AI Skills Like A Senior Developer \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified ..."
+    },
+    {
+      "video_id": "Xm_VGeTpS2Q",
+      "title": "This Amazing TypeScript Feature Has NO Docs!",
+      "url": "https://www.youtube.com/watch?v=Xm_VGeTpS2Q",
+      "word_count": 122,
+      "executive_synopsis": "This Amazing TypeScript Feature Has NO Docs!",
+      "core_takeaways": [],
+      "transcript_preview": "FREE TypeScript Utility Types Cheat Sheet: https://webdevsimplified.com/ts-utili... TypeScript Simplified Course: https://courses.webdevsimplified.com/... TypeScript is overall well document, but one of my most used features in TypeScript doesn\u2019t even have a documentation page. In this video I will be covering the satisfies keyword in depth and showcasing why it is something I use in every single TypeScript project I write. \ud83d\udcda Materials/References: FREE TypeScript Utility Types Cheat Sheet: https://webdevsimplified.com/ts-utili... TypeScript Simplified Course: https://courses.webdevsimplified.c..."
+    },
+    {
+      "video_id": "Xm_VGeTpS2Q",
+      "title": "This Amazing TypeScript Feature Has NO Docs!",
+      "url": "https://www.youtube.com/watch?v=Xm_VGeTpS2Q",
+      "word_count": 122,
+      "executive_synopsis": "This Amazing TypeScript Feature Has NO Docs!",
+      "core_takeaways": [],
+      "transcript_preview": "FREE TypeScript Utility Types Cheat Sheet: https://webdevsimplified.com/ts-utili... TypeScript Simplified Course: https://courses.webdevsimplified.com/... TypeScript is overall well document, but one of my most used features in TypeScript doesn\u2019t even have a documentation page. In this video I will be covering the satisfies keyword in depth and showcasing why it is something I use in every single TypeScript project I write. \ud83d\udcda Materials/References: FREE TypeScript Utility Types Cheat Sheet: https://webdevsimplified.com/ts-utili... TypeScript Simplified Course: https://courses.webdevsimplified.c..."
+    },
+    {
+      "video_id": "BY63sGoGXq0",
+      "title": "Help Me Code Review My First Website",
+      "url": "https://www.youtube.com/watch?v=BY63sGoGXq0",
+      "word_count": 122,
+      "executive_synopsis": "Help Me Code Review My First Website",
+      "core_takeaways": [],
+      "transcript_preview": "In this live stream I am going to be reviewing the code from my very first YouTube series on creating a band website. There is a ton of code I would change from modernizing the JavaScript to creating more accessible semantic HTML, so this stream will be full of insight on how I would go about this process. \ud83d\udcda Materials/References: Original GitHub Code: https://github.com/WebDevSimplified/I... Original Video Playlist: \u2022 Introduction to Web Development || Setup |... \ud83e\udde0 Concepts Covered: How to analyze and review old code How to write semantic HTML How to write modern JS How to review CSS \ud83c\udf0e Find Me..."
+    },
+    {
+      "video_id": "BH9ZgUYjiic",
+      "title": "I Wish This Was Better",
+      "url": "https://www.youtube.com/watch?v=BH9ZgUYjiic",
+      "word_count": 118,
+      "executive_synopsis": "I Wish This Was Better",
+      "core_takeaways": [],
+      "transcript_preview": "FREE Pi Cheat Sheet: https://webdevsimplified.com/pi-cheat... Tanstack\u2019s newest Intent library is a great idea, but unfortunately it is poorly executed to the point that I think it is actively harmful. In this video I cover how this library works, and more importantly I show I would fix this library to make it actually useful. \ud83d\udcda Materials/References: FREE Pi Cheat Sheet: https://webdevsimplified.com/pi-cheat... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHu..."
+    },
+    {
+      "video_id": "HXIHpDnsizk",
+      "title": "NEW CSS Scroll Features are Game Changers",
+      "url": "https://www.youtube.com/watch?v=HXIHpDnsizk",
+      "word_count": 112,
+      "executive_synopsis": "NEW CSS Scroll Features are Game Changers",
+      "core_takeaways": [],
+      "transcript_preview": "FREE CSS Selector Cheat Sheet: https://webdevsimplified.com/specific... FREE Web Dev Roadmap: https://webdevsimplified.com/web-dev-... These new CSS scroll features are amazing. They completely replace the need for JavaScript in many animations and in this video I will show you everything you need to know in order to create beautiful advanced CSS scroll animations. \ud83d\udcda Materials/References: GitHub Code: https://github.com/WebDevSimplified/c... FREE CSS Selector Cheat Sheet: https://webdevsimplified.com/specific... FREE Web Dev Roadmap: https://webdevsimplified.com/web-dev-... \ud83c\udf0e Find Me Here: My ..."
+    },
+    {
+      "video_id": "AhBL2MYlQj0",
+      "title": "New CSS Property corner-shape Is Amazing",
+      "url": "https://www.youtube.com/watch?v=AhBL2MYlQj0",
+      "word_count": 110,
+      "executive_synopsis": "New CSS Property corner-shape Is Amazing",
+      "core_takeaways": [],
+      "transcript_preview": "The new CSS corner-shape property may seem niche in use, but it allows you to do some crazy things in CSS that used to be entirely impossible! In this video I will show you how this property works all the way from the basics to the more advanced use cases. \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com/ My Courses: https://courses.webdevsimplified.com/ Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified \u23f1\ufe0f Timestamps: 00:00 - Introduction 00:26 - corner-shape Basics 02:30 - ..."
+    },
+    {
+      "video_id": "35cESnxXH6o",
+      "title": "Strict TypeScript Isn't Enough Anymore",
+      "url": "https://www.youtube.com/watch?v=35cESnxXH6o",
+      "word_count": 110,
+      "executive_synopsis": "Strict TypeScript Isn't Enough Anymore",
+      "core_takeaways": [],
+      "transcript_preview": "Become a senior TypeScript developer with my Full TypeScript Course - 60+ videos, 12+ hours+ \ud83d\udc49 https://learn.webdevsimplified.com/ty... The TSConfig is a confusing file with tons of options in it. In this video I will breakdown which options are actually important for you to use and master so you can write cleaner and better TypeScript code. \ud83d\udcda Materials/References: TypeScript Simplified Course: https://learn.webdevsimplified.com/ty... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com/ My Courses: https://courses.webdevsimplified.com/ Patreon: / webdevsimplified Twitter: / devsimplifie..."
+    },
+    {
+      "video_id": "SQTij8_Kwl4",
+      "title": "Everyone Is Missing What Makes NEW Shadcn Update Amazing",
+      "url": "https://www.youtube.com/watch?v=SQTij8_Kwl4",
+      "word_count": 91,
+      "executive_synopsis": "Everyone Is Missing What Makes NEW Shadcn Update Amazing",
+      "core_takeaways": [],
+      "transcript_preview": "This new Shadcn update brings some really exciting changes and also some over hyped features. In this video I want to talk about what this new update actually does, what makes it important, and what I think can be improved. \ud83d\udcda Materials/References: Web Dev Simplified Registry: https://wds-shadcn-registry.netlify.app/ \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified \u23f1\ufe0f Timestamps..."
+    },
+    {
+      "video_id": "NykJhYdBoqU",
+      "title": "Help Me Plan My Upcoming JavaScript Course",
+      "url": "https://www.youtube.com/watch?v=NykJhYdBoqU",
+      "word_count": 75,
+      "executive_synopsis": "Help Me Plan My Upcoming JavaScript Course",
+      "core_takeaways": [],
+      "transcript_preview": "In this live stream I am going to be working on planning out my upcoming JavaScript course with the help of you! You can see exactly what I plan to include in the course and most importantly, you can help me shape exactly what will be in the course. \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #JSCourse #WDS #LiveStream"
+    },
+    {
+      "video_id": "W7bZA9Fj6SA",
+      "title": "Talking With Eddie Jaoude and Tanya Powell About Gender Diversity In Tech",
+      "url": "https://www.youtube.com/watch?v=W7bZA9Fj6SA",
+      "word_count": 57,
+      "executive_synopsis": "Talking With Eddie Jaoude and Tanya Powell About Gender Diversity In Tech",
+      "core_takeaways": [],
+      "transcript_preview": "In this video I will be talking with Eddie Jaoude and Tanya Powell about the reasons why there is such a large gender gap in technology, and how we can help reduce the size of that gap. Eddie's YouTube Channel: / eddiejaoude Tanya's YouTube Channel: / @heytanhey Twitter: / devsimplified GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #GenderDiversity #WebDevelopment #TechDiversity"
+    },
+    {
+      "video_id": "zv8ZDr0zGdU",
+      "title": "This CSS Dev Tool Makes Accessibility so Easy",
+      "url": "https://www.youtube.com/watch?v=zv8ZDr0zGdU",
+      "word_count": 37,
+      "executive_synopsis": "This CSS Dev Tool Makes Accessibility so Easy",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 How To Use CSS Dev Tools Like a Senior Dev... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "AzOWedAKoNQ",
+      "title": "No One Knows About This Amazing CSS Dev Tools Panel (CSS Overview)",
+      "url": "https://www.youtube.com/watch?v=AzOWedAKoNQ",
+      "word_count": 37,
+      "executive_synopsis": "No One Knows About This Amazing CSS Dev Tools Panel (CSS Overview)",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 How To Use CSS Dev Tools Like a Senior Dev... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "PqDfILvhAtM",
+      "title": "Create Professional CSS Animations with This Dev Tool",
+      "url": "https://www.youtube.com/watch?v=PqDfILvhAtM",
+      "word_count": 37,
+      "executive_synopsis": "Create Professional CSS Animations with This Dev Tool",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 How To Use CSS Dev Tools Like a Senior Dev... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "tWlILiOPXt4",
+      "title": "Don\u2019t Bother Learning New Web Dev Features",
+      "url": "https://www.youtube.com/watch?v=tWlILiOPXt4",
+      "word_count": 37,
+      "executive_synopsis": "Don\u2019t Bother Learning New Web Dev Features",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 5 Things I Have Learned from 10+ Years of ... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "1Rzz6mtab4c",
+      "title": "Data Access Layers are a Must Know for Next.js Developers",
+      "url": "https://www.youtube.com/watch?v=1Rzz6mtab4c",
+      "word_count": 36,
+      "executive_synopsis": "Data Access Layers are a Must Know for Next.js Developers",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 How To Handle Data Access Like a Senior Dev \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "ootsnGiJhlU",
+      "title": "Increase Your Productivity By 400%",
+      "url": "https://www.youtube.com/watch?v=ootsnGiJhlU",
+      "word_count": 36,
+      "executive_synopsis": "Increase Your Productivity By 400%",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 Do This To Make 2025 Your Best Year Yet \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "kUVH_cwpnpU",
+      "title": "This Is The 10x Developer Skill",
+      "url": "https://www.youtube.com/watch?v=kUVH_cwpnpU",
+      "word_count": 36,
+      "executive_synopsis": "This Is The 10x Developer Skill",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 Every Developer Needs To Know How To Do This \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "yctUTf4-QcQ",
+      "title": "If You Only Know One Programming Language Watch This",
+      "url": "https://www.youtube.com/watch?v=yctUTf4-QcQ",
+      "word_count": 36,
+      "executive_synopsis": "If You Only Know One Programming Language Watch This",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 Do You Need To Learn A Second Programming ... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "Z09xJq5iA0c",
+      "title": "Every React Dev Needs To Know This About AbortController",
+      "url": "https://www.youtube.com/watch?v=Z09xJq5iA0c",
+      "word_count": 35,
+      "executive_synopsis": "Every React Dev Needs To Know This About AbortController",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 I Cannot Believe Abort Controller Can Do This \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "7q3rvDU-kzk",
+      "title": "The 2 Parts of Auth You Need To Know",
+      "url": "https://www.youtube.com/watch?v=7q3rvDU-kzk",
+      "word_count": 35,
+      "executive_synopsis": "The 2 Parts of Auth You Need To Know",
+      "core_takeaways": [],
+      "transcript_preview": "Authorization Video: \u2022 How To Handle Permissions Like A Senior Dev \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "3rzFiHb_wrA",
+      "title": "CSS if() Statements Are Finally Here!",
+      "url": "https://www.youtube.com/watch?v=3rzFiHb_wrA",
+      "word_count": 35,
+      "executive_synopsis": "CSS if() Statements Are Finally Here!",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 CSS Finally Has if() Statements (but I don... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "sLVa0jK4Ea4",
+      "title": "If You Write React Code You Need This Tool",
+      "url": "https://www.youtube.com/watch?v=sLVa0jK4Ea4",
+      "word_count": 35,
+      "executive_synopsis": "If You Write React Code You Need This Tool",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 Make Your React Site 100% Faster With This... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "qcDpJ2ptlMs",
+      "title": "What Is MCP Explained In 3 Minutes",
+      "url": "https://www.youtube.com/watch?v=qcDpJ2ptlMs",
+      "word_count": 35,
+      "executive_synopsis": "What Is MCP Explained In 3 Minutes",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 The Ultimate MCP Crash Course - Build From... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "zn8NQJr-Llg",
+      "title": "attr() Is My New Favorite CSS Function",
+      "url": "https://www.youtube.com/watch?v=zn8NQJr-Llg",
+      "word_count": 35,
+      "executive_synopsis": "attr() Is My New Favorite CSS Function",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 This CSS Update Revolutionizes CSS For Me ... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "HjQEY4DXn2I",
+      "title": "How To Overcome Burnout As A Programmer",
+      "url": "https://www.youtube.com/watch?v=HjQEY4DXn2I",
+      "word_count": 34,
+      "executive_synopsis": "How To Overcome Burnout As A Programmer",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 If You Feel Burnt Out Do This \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "NK0QjGpolok",
+      "title": "How To Easily Avoid Burnout As A Programmer",
+      "url": "https://www.youtube.com/watch?v=NK0QjGpolok",
+      "word_count": 34,
+      "executive_synopsis": "How To Easily Avoid Burnout As A Programmer",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 If You Feel Burnt Out Do This \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "cIDiG9OiE5Y",
+      "title": "I Love This New CSS text-wrap Feature",
+      "url": "https://www.youtube.com/watch?v=cIDiG9OiE5Y",
+      "word_count": 34,
+      "executive_synopsis": "I Love This New CSS text-wrap Feature",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 Master CSS Overflow/Text Wrapping Like A S... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "m_QzKQAwNQw",
+      "title": "Add Beautiful Blurry Image Loading With 3 Lines of Code",
+      "url": "https://www.youtube.com/watch?v=m_QzKQAwNQw",
+      "word_count": 34,
+      "executive_synopsis": "Add Beautiful Blurry Image Loading With 3 Lines of Code",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 How To Load Images Like A Pro \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "NSWwX_ke760",
+      "title": "I Made My Own Shadcn Library (and you can too)",
+      "url": "https://www.youtube.com/watch?v=NSWwX_ke760",
+      "word_count": 34,
+      "executive_synopsis": "I Made My Own Shadcn Library (and you can too)",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 How I Built My Own Shadcn Library \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "qpbcLKlL0RM",
+      "title": "Make Your Site 200% Faster With One Simple Image Feature",
+      "url": "https://www.youtube.com/watch?v=qpbcLKlL0RM",
+      "word_count": 34,
+      "executive_synopsis": "Make Your Site 200% Faster With One Simple Image Feature",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 Make Your Site Lightning Fast With Respons... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "sK3HF8ctjJA",
+      "title": "Ugly TypeScript Code Is Actually Good (Sometimes)",
+      "url": "https://www.youtube.com/watch?v=sK3HF8ctjJA",
+      "word_count": 34,
+      "executive_synopsis": "Ugly TypeScript Code Is Actually Good (Sometimes)",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 Learn Advanced TypeScript In 25 Minutes (i... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "wEet5Gkn1Qg",
+      "title": "This Unknown TypeScript Feature is a Must Have for Large Projects",
+      "url": "https://www.youtube.com/watch?v=wEet5Gkn1Qg",
+      "word_count": 34,
+      "executive_synopsis": "This Unknown TypeScript Feature is a Must Have for Large Projects",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 Stop Writing Your ID Types Like This \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "VShY5EliCMU",
+      "title": "This CSS Property Replaces Hundreds of Lines of Code",
+      "url": "https://www.youtube.com/watch?v=VShY5EliCMU",
+      "word_count": 34,
+      "executive_synopsis": "This CSS Property Replaces Hundreds of Lines of Code",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 This CSS Property Replaces Hundreds of Lin... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "QQIIP2d9tLc",
+      "title": "Stop Using window \u201cresize\u201d Event Listeners",
+      "url": "https://www.youtube.com/watch?v=QQIIP2d9tLc",
+      "word_count": 33,
+      "executive_synopsis": "Stop Using window \u201cresize\u201d Event Listeners",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 Learn Resize Observer In 5 Minutes \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "OFIWQ4ACRAg",
+      "title": "The New selectedcontent HTML Element Changes Selects Forever",
+      "url": "https://www.youtube.com/watch?v=OFIWQ4ACRAg",
+      "word_count": 33,
+      "executive_synopsis": "The New selectedcontent HTML Element Changes Selects Forever",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 The New selectedcontent HTML Element Chang... \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "Ae6gQXacjaA",
+      "title": "The NEW React Activity Component Is a Game Changer for Performance",
+      "url": "https://www.youtube.com/watch?v=Ae6gQXacjaA",
+      "word_count": 33,
+      "executive_synopsis": "The NEW React Activity Component Is a Game Changer for Performance",
+      "core_takeaways": [],
+      "transcript_preview": "Full Video: \u2022 Stop Writing React Code Like This \ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "JcwH9RddzyE",
+      "title": "3 Must Use TSConfig Features",
+      "url": "https://www.youtube.com/watch?v=JcwH9RddzyE",
+      "word_count": 24,
+      "executive_synopsis": "3 Must Use TSConfig Features",
+      "core_takeaways": [],
+      "transcript_preview": "\ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com/ My Courses: https://courses.webdevsimplified.com/ Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "PHXdLe2f9rs",
+      "title": "Must Have Tailwind Plugin For Responsive Design",
+      "url": "https://www.youtube.com/watch?v=PHXdLe2f9rs",
+      "word_count": 24,
+      "executive_synopsis": "Must Have Tailwind Plugin For Responsive Design",
+      "core_takeaways": [],
+      "transcript_preview": "\ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "lUnZ-NsD9Ag",
+      "title": "I Can\u2019t Believe This TS Feature Has No Documentation",
+      "url": "https://www.youtube.com/watch?v=lUnZ-NsD9Ag",
+      "word_count": 24,
+      "executive_synopsis": "I Can\u2019t Believe This TS Feature Has No Documentation",
+      "core_takeaways": [],
+      "transcript_preview": "\ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com/ My Courses: https://courses.webdevsimplified.com/ Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "UUKugcJFoYc",
+      "title": "No One Talks About This Amazing VSCode Feature",
+      "url": "https://www.youtube.com/watch?v=UUKugcJFoYc",
+      "word_count": 24,
+      "executive_synopsis": "No One Talks About This Amazing VSCode Feature",
+      "core_takeaways": [],
+      "transcript_preview": "\ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "pe0ez1I7cgU",
+      "title": "New CSS corner-shape Property Is Amazing",
+      "url": "https://www.youtube.com/watch?v=pe0ez1I7cgU",
+      "word_count": 24,
+      "executive_synopsis": "New CSS corner-shape Property Is Amazing",
+      "core_takeaways": [],
+      "transcript_preview": "\ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com/ My Courses: https://courses.webdevsimplified.com/ Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "h1ZPBYhTT1k",
+      "title": "You Need To Use This TSConfig Setting",
+      "url": "https://www.youtube.com/watch?v=h1ZPBYhTT1k",
+      "word_count": 24,
+      "executive_synopsis": "You Need To Use This TSConfig Setting",
+      "core_takeaways": [],
+      "transcript_preview": "\ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com/ My Courses: https://courses.webdevsimplified.com/ Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "Jlxpwxt9FUU",
+      "title": "This Font Feature Is A Must Use In Your Dev Tools",
+      "url": "https://www.youtube.com/watch?v=Jlxpwxt9FUU",
+      "word_count": 24,
+      "executive_synopsis": "This Font Feature Is A Must Use In Your Dev Tools",
+      "core_takeaways": [],
+      "transcript_preview": "\ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "yhZhucDNxq4",
+      "title": "CSS corner-shape Is an Amazing NEW Property!",
+      "url": "https://www.youtube.com/watch?v=yhZhucDNxq4",
+      "word_count": 24,
+      "executive_synopsis": "CSS corner-shape Is an Amazing NEW Property!",
+      "core_takeaways": [],
+      "transcript_preview": "\ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "NqCFDLr5sJE",
+      "title": "I Bet You Don\u2019t Know This Amazing DOM Debugging Tool",
+      "url": "https://www.youtube.com/watch?v=NqCFDLr5sJE",
+      "word_count": 24,
+      "executive_synopsis": "I Bet You Don\u2019t Know This Amazing DOM Debugging Tool",
+      "core_takeaways": [],
+      "transcript_preview": "\ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "Btv_oJFDjuE",
+      "title": "This Simple Dev Tools Feature Makes Working On Teams Much Easier",
+      "url": "https://www.youtube.com/watch?v=Btv_oJFDjuE",
+      "word_count": 24,
+      "executive_synopsis": "This Simple Dev Tools Feature Makes Working On Teams Much Easier",
+      "core_takeaways": [],
+      "transcript_preview": "\ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "4CYkhXIDxeQ",
+      "title": "This Is Why You Must Derive Your TypeScript Types",
+      "url": "https://www.youtube.com/watch?v=4CYkhXIDxeQ",
+      "word_count": 24,
+      "executive_synopsis": "This Is Why You Must Derive Your TypeScript Types",
+      "core_takeaways": [],
+      "transcript_preview": "\ud83c\udf0e Find Me Here: My Blog: https://blog.webdevsimplified.com My Courses: https://courses.webdevsimplified.com Patreon: / webdevsimplified Twitter: / devsimplified Discord: / discord GitHub: https://github.com/WebDevSimplified CodePen: https://codepen.io/WebDevSimplified #Shorts"
+    },
+    {
+      "video_id": "PqDfILvhAtM",
+      "title": "Create Professional CSS Animations with This Dev Tool",
+      "url": "https://www.youtube.com/watch?v=PqDfILvhAtM",
+      "word_count": 15,
+      "executive_synopsis": "Tier 1 deep-dive content on 'Create Professional CSS Animations with This Dev Tool' by Web Dev Simplified. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"Error 408: Request failed (temporary). Request failed, please retry. Safe to retry after 1-5 seconds.\"}"
+    }
+  ]
+}

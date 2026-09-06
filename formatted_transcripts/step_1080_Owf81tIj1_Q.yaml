@@ -1,0 +1,39 @@
+video_id: Owf81tIj1_Q
+title: Hypnagogic Burst - Generative Modular Ambient & TP-7 Field Recording
+channel: Pierre's Generative Music
+handle: '@pierresgenerativemusic'
+url: https://www.youtube.com/watch?v=Owf81tIj1_Q
+duration: '49:06'
+type: video
+transcript: |-
+  A minimalist, slightly industrial soundscape from a late night in Hackney. A knocking sound on a variable LFO gives the sense of machinery slowly drifting out of control, set against field recordings from the early hours in East London. The piece sits low and dark, with unexpected glitches surfacing from a few different sources.
+
+  Patch Notes
+
+  1. Vhikk X by Forge TME is the core voice. A sample and hold random CV with a touch of slew is sent to its scan parameter, so it jumps through the wavetable and lands on a slightly different point each time. This is where one of the main variations comes from. The internal Field filter is set so only the lowest frequencies pass through.
+
+  2. Vhikk X runs into Beads by Mutable Instruments, where density and granularity are modulated along the way.
+
+  3. Zadar by Xaoc Devices sends a very random envelope to the seed input of Beads, triggering new grains every now and then.
+
+  4. Krach by Ritual Electronics adds a low-volume rumble, filtered by FX Aid by Happy Nerding in and out of the mix.
+
+  5. Marbles by Mutable Instruments sends notes to Scales by Intellijel, which feed Rings by Mutable Instruments. Rings passes into Veno Echo by Venus Instruments and on into the mix.
+
+  6. Ensemble Oscillator by 4ms provides a drone voice, with its cross FM modulated by Pamela's Pro Workout by ALM Busy Circuits.
+
+  7. Gliss by Bela is a new addition to the rack, a customisable touch controller and LFO. Here it controls the right time parameter of Veno Echo.
+
+  8. Everything is collected on Supamix by Eowave and sent to Starlab by Strymon, the end of chain reverb. Size and decay are dialled up for a wide, lush field, with a bit of LFO on the delay, a touch of glimmer and shimmer for the harmonics, and a little damp.
+
+  9. The field recording was captured on the TP-7 by Teenage Engineering with the Shure MV 88+ stereo microphone, late night in Hackney Wick as people drift home in the early hours.
+
+  The result is dark and spacious, with the knocking and glitches keeping it slightly restless under the reverb wash. Good for focus, slow listening, or late nights.
+
+  Listen & Follow
+  If you enjoy these textures, feel free to leave a comment or explore more modular works here: https://spotify.link/zegyM6IaJDb
+
+  It's a blend of modular ambient, tape textures, and natural field recordings (great for focus, slow mornings, or letting your mind wander).
+
+  #ambientmusic, Modular Synth, Field Recording, Generative Modular, Drone Music, Lofi Ambient, Relaxing Music, Focus Music, Teenage Engineering, TP-7, Strymon Starlab, Mutable Instruments
+timestamps: []

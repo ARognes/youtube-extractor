@@ -1,0 +1,38 @@
+video_id: _N6qPEA_dGc
+title: Why Gifted People Burn Out The Fastest
+channel: HealthyGamerGG
+url: https://www.youtube.com/watch?v=_N6qPEA_dGc
+duration: '15:49'
+word_count: 3287
+first_order_tags:
+- tag: vtag_neurodivergence_and_adhd
+  bound_second_order: neurodivergence_and_adhd
+  timestamp: 04:36
+  seconds: 275.5
+  context: affective disorders ADHD ASD and for
+- tag: vtag_neurodivergence_and_adhd
+  bound_second_order: neurodivergence_and_adhd
+  timestamp: 07:43
+  seconds: 463.4
+  context: IQ results in a a risk of ADHD, autism
+- tag: vtag_neurodivergence_and_adhd
+  bound_second_order: neurodivergence_and_adhd
+  timestamp: '15:01'
+  seconds: 901.1
+  context: they're predisposed to anxiety, ADHD,
+second_order_tags:
+- addiction_and_behavioral_medicine
+- clinical_lecture
+- clinical_psychiatry
+- neurobiology_and_neurotransmitters
+- neurodivergence_and_adhd
+third_order_tags:
+- T3_NEURODIVERGENCE_EXECUTIVE_FUNCTION
+key_phrases:
+- cognitive ability
+- ability better
+- perform more
+- more calculations
+- gifted kids
+- being able
+summary_hook: Explores clinical_psychiatry, neurobiology_and_neurotransmitters, addiction_and_behavioral_medicine.

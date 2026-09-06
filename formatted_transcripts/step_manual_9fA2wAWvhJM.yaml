@@ -1,0 +1,9 @@
+video_id: 9fA2wAWvhJM
+title: HTTPS Doesn't Hide This From Your ISP!!
+channel: NetworkChuck
+url: https://www.youtube.com/watch?v=9fA2wAWvhJM
+duration: 00:50
+published: '2026-08-28 02:53:42'
+type: short
+transcript: '{"content":"\n[0.0s] That padlock in your browser does not\n[1.76s] hide which websites you visit. Your ISP\n[4.36s] and potentially hackers see every single\n[6.6s] one. That padlock does mean HTTPS,\n[8.515s] [music]\n[9.32s] which means your traffic is encrypted,\n[11.36s] but it doesn''t hide which sites you\n[13.44s] visit. And I know what you''re thinking,\n[15.12s] Chuck, what about secure DNS?\n[17.03s] >> [music]\n[17.2s] >> It''s a good thought, but look at this\n[18.52s] Wireshark capture. With secure DNS, I\n[20.6s] suddenly cannot see DNS traffic. That\n[22.92s] doesn''t matter. I can still see SNI,\n[25.8s] which shows me exactly what site you''re\n[27.52s] visiting. So, what can you do? VPN. Many\n[29.92s] people think that because HTTPS exists,\n[32.36s] you don''t need a VPN, but it doesn''t do\n[34.0s] everything. And there''s more on your PC\n[36.04s] happening than just browser traffic. A\n[37.88s] VPN will encrypt it all. How? If you\n[40.56s] want to learn more, I got a video about\n[41.76s] it right around I mean, you''ll find it.\n[43.88s] Just click on it. Go ahead. Actually,\n[45.28s] here''s a link. Get it. Get it. I''m\n[47.68s] making my video editors work."}'
+timestamps: []

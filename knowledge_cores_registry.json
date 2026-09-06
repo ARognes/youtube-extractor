@@ -1,0 +1,56 @@
+[
+  {
+    "core_id": "core_software_engineering",
+    "title": "Software Engineering & System Architecture Core",
+    "channels_count": 6,
+    "videos_count": 308,
+    "words_count": 125409,
+    "json_path": "/Users/austinrognes/Documents/Projects/media-extractor/youtube-extractor/core_software_engineering_master_archive.json",
+    "md_path": "/Users/austinrognes/Documents/Projects/media-extractor/youtube-extractor/core_software_engineering_master_archive.md"
+  },
+  {
+    "core_id": "core_cognitive_psychology",
+    "title": "Cognitive Psychology & Emotional Processing Core",
+    "channels_count": 3,
+    "videos_count": 142,
+    "words_count": 291309,
+    "json_path": "/Users/austinrognes/Documents/Projects/media-extractor/youtube-extractor/core_cognitive_psychology_master_archive.json",
+    "md_path": "/Users/austinrognes/Documents/Projects/media-extractor/youtube-extractor/core_cognitive_psychology_master_archive.md"
+  },
+  {
+    "core_id": "core_business_monetization",
+    "title": "Business Systems & Offer Scaling Core",
+    "channels_count": 2,
+    "videos_count": 105,
+    "words_count": 110832,
+    "json_path": "/Users/austinrognes/Documents/Projects/media-extractor/youtube-extractor/core_business_monetization_master_archive.json",
+    "md_path": "/Users/austinrognes/Documents/Projects/media-extractor/youtube-extractor/core_business_monetization_master_archive.md"
+  },
+  {
+    "core_id": "core_science_philosophy",
+    "title": "Science, Physics & Classical Philosophy Core",
+    "channels_count": 4,
+    "videos_count": 21,
+    "words_count": 45660,
+    "json_path": "/Users/austinrognes/Documents/Projects/media-extractor/youtube-extractor/core_science_philosophy_master_archive.json",
+    "md_path": "/Users/austinrognes/Documents/Projects/media-extractor/youtube-extractor/core_science_philosophy_master_archive.md"
+  },
+  {
+    "core_id": "core_cybersecurity_homelab",
+    "title": "Cybersecurity, Homelabs & Hardware Hacking Core",
+    "channels_count": 2,
+    "videos_count": 137,
+    "words_count": 265891,
+    "json_path": "/Users/austinrognes/Documents/Projects/media-extractor/youtube-extractor/core_cybersecurity_homelab_master_archive.json",
+    "md_path": "/Users/austinrognes/Documents/Projects/media-extractor/youtube-extractor/core_cybersecurity_homelab_master_archive.md"
+  },
+  {
+    "core_id": "core_pali_philosophy",
+    "title": "P\u0101li Canon & Early Buddhist Philosophy Core",
+    "channels_count": 1,
+    "videos_count": 101,
+    "words_count": 182458,
+    "json_path": "/Users/austinrognes/Documents/Projects/media-extractor/youtube-extractor/core_pali_philosophy_master_archive.json",
+    "md_path": "/Users/austinrognes/Documents/Projects/media-extractor/youtube-extractor/core_pali_philosophy_master_archive.md"
+  }
+]

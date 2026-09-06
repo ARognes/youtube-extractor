@@ -1,0 +1,9 @@
+video_id: 4dqhgCM6LNU
+title: You can HACK AI with EMOJIS
+channel: NetworkChuck
+url: https://www.youtube.com/watch?v=4dqhgCM6LNU
+duration: 00:27
+published: '2026-08-28 02:53:57'
+type: short
+transcript: '{"content":"\n[0.0s] You can hack AI with emojis. It''s called\n[2.32s] emoji smuggling or emoji evasion. And\n[4.88s] you can hide instructions inside an\n[6.879s] emoji, bypassing guard rails. You can\n[9.12s] have a message encoded um in Unicode\n[12.0s] inside of um an emoji. And then you can\n[14.799s] copy the emoji visual and paste it into\n[17.44s] an LLM based system and it will actually\n[19.84s] look at the metadata of the emoji and do\n[22.0s] the instruction. And this bypasses the\n[24.16s] most current classifiers right now in\n[26.0s] guardrails."}'
+timestamps: []

@@ -1,0 +1,55 @@
+video_id: 6F58ZJt_qYU
+title: exposing abuse (part 2) | the fallout of truth-telling
+channel: TheraminTrees
+url: https://www.youtube.com/watch?v=6F58ZJt_qYU
+duration: 42 min
+word_count: 6506
+first_order_tags:
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: 05:34
+  seconds: 334.0
+  context: По време на срещата, баща й заплашил да я набие, да я пребие и да я убие.
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '10:37'
+  seconds: 637.0
+  context: и датирал по време на първоначалните срещи с BCG.
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '15:59'
+  seconds: 959.1
+  context: което довело до изненадващ момент, когато по време на свидетелските си
+    показания
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '17:34'
+  seconds: 1053.9
+  context: По време на показанията на де-Рой той многократно давал несериозни отговори
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '24:12'
+  seconds: 1452.1
+  context: по време на процеса, откъсвайки я от семейния живот.
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '29:33'
+  seconds: 1772.6
+  context: че човек, който прави чай по време на разследването, също е „замесен“
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '36:44'
+  seconds: 2204.1
+  context: Въпреки огромното количество време, което беше предоставено,
+second_order_tags:
+- buffer_response_delay
+- systemic_family_therapy
+third_order_tags: []
+key_phrases:
+- 1971 1972
+- 1972 2010
+- 2010 1976
+- 1976 watchtower
+- watchtower 11-14
+- 11-14 2001
+summary_hook: Explores systemic_family_therapy, buffer_response_delay.

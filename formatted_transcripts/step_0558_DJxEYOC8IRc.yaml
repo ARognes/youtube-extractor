@@ -1,0 +1,9 @@
+video_id: DJxEYOC8IRc
+title: Magic Swap
+channel: ThePrimeagen
+handle: '@ThePrimeagen'
+url: https://www.youtube.com/watch?v=DJxEYOC8IRc
+duration: '31:30'
+type: video
+transcript: here's the trick to be able to swap two variables without creating a temporary variable if you don't know what xor is xor simply means exclusive or or if the binary value is one and the other binary value is one it will equal zero if it's zero then one if it's exclusively one of them true then it will equal one so let's apply that to these two values up here we have 1 0 0 1 I'm going to assign a to that value then let's do it again and let's take this exclusive or and assign it to B so that's going to be 0 1 0 1 now let's do this again and assign it to a that's going to be 1 1 0 0 a is now b b is now a it's like magic
+timestamps: [[0, 0], [40, 2], [79, 4], [118, 6], [158, 10], [199, 13], [239, 16], [280, 18], [316, 21], [356, 22], [397, 27], [436, 30], [473, 32], [514, 35], [553, 38], [593, 43]]

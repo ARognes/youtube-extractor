@@ -1,0 +1,1013 @@
+{
+  "channel_name": "ThePrimeagen",
+  "total_videos_analyzed": 102,
+  "total_spoken_words": 19944,
+  "total_duration_hours": 25.5,
+  "first_principles": [
+    {
+      "principle": "Core Educational Synthesis",
+      "axiom": "Structure complex concepts into actionable mental models and step-by-step frameworks."
+    }
+  ],
+  "mental_model_dictionary": {
+    "Concept Mapping": "Linking foundational ideas into a unified knowledge structure."
+  },
+  "tactical_playbooks": [
+    {
+      "title": "General Domain Application",
+      "steps": [
+        "Extract key principle",
+        "Apply in real-world context",
+        "Evaluate outcome"
+      ]
+    }
+  ],
+  "video_knowledge_catalog": [
+    {
+      "video_id": "js7_bCY6WEw",
+      "title": "Layout is harder than you think..",
+      "url": "https://www.youtube.com/watch?v=js7_bCY6WEw",
+      "word_count": 4657,
+      "executive_synopsis": "Tier 1 deep-dive content on 'Layout is harder than you think..' by ThePrimeagen. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] All right, so we're a couple weeks now\\n[1.839s] into building with Odin and I have built\\n[4.4s] a layout system. I'm trying this little\\n[6.96s] experimental one right here, seeing how\\n[8.72s] I feel. A bunch of just about a bunch of\\n[10.8s] just like functions where you can start\\n[12.48s] and stop elements and all that. And\\n[14.16s] we're going to go over this. And the\\n[16.32s] outcome of me building this is something\\n[18.0s] that looks like this. Look at those\\n[19.119s] nicely aligned boxes. I can also go out\\n[21.52s] here and produce out a card. Look at\\n[23...."
+    },
+    {
+      "video_id": "GwcFxTuMYmU",
+      "title": "I Went To DEFCON!",
+      "url": "https://www.youtube.com/watch?v=GwcFxTuMYmU",
+      "word_count": 3220,
+      "executive_synopsis": "Tier 1 deep-dive content on 'I Went To DEFCON!' by ThePrimeagen. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.04s] look at me LARPing as a hacker at Defcon\\n[2.919s] 32 which also is my first Defcon if\\n[5.799s] you're not familiar with Defcon it's\\n[7.2s] just one giant playground of puzzle\\n[9.559s] solving and I decided to join Prim\\n[11.639s] engen's team the psychoholic and after\\n[14.559s] 72 hours of difficult Cipher cracking we\\n[18.4s] got first place in the gold bug\\n[20.8s] challenge the challenge the psychoholic\\n[22.64s] chose the gold bug crypto village\\n[25.24s] challenge which includes 13 puzzles and\\n[28.24s] one meta puzzle in which there was 250\\n[30.88s] teams that..."
+    },
+    {
+      "video_id": "HwmqZTnb7Co",
+      "title": "I learned Odin",
+      "url": "https://www.youtube.com/watch?v=HwmqZTnb7Co",
+      "word_count": 2194,
+      "executive_synopsis": "I learned Odin",
+      "core_takeaways": [],
+      "transcript_preview": "Approximately 1 year ago, I spent 7 days in a tower with a bunch of my friends including legendary pixel artist Adam C Eunice where we built a video game in effectively 7 days in Lua using Love 2D. Uh later that year, we actually went back to the tower, had everybody come back, had a bunch of people be able to do, you know, some build some cards and really explore out this idea of a pretty fun tower defense. During this, I built the UI system in which is how we kind of organized the world to be able to do all the menus, to be able to have expanding or reducing menus, not to have everything har..."
+    },
+    {
+      "video_id": "A_XGsAl-LqY",
+      "title": "the worst man in tech",
+      "url": "https://www.youtube.com/watch?v=A_XGsAl-LqY",
+      "word_count": 1172,
+      "executive_synopsis": "Tier 1 deep-dive content on 'the worst man in tech' by ThePrimeagen. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] there exists a man named Brooks borer\\n[2.44s] who has made it his life goal to never\\n[5.24s] work a day in his life and somehow make\\n[7.799s] millions of dollars an actual parasite\\n[11.08s] now how would someone make millions of\\n[13.04s] dollars without actually doing any work\\n[16.08s] patents you may not be familiar with the\\n[18.359s] documentary about software engineering\\n[20.439s] called the Silicon Valley which in\\n[22.519s] season 4 episode 7 the patent troll a\\n[26.279s] company uses its patents to legally\\n[28.4s] extort money from Richard Hendrick\\n[30.679..."
+    },
+    {
+      "video_id": "_iGHYwPU2WE",
+      "title": "A Billion Dollar Idea Gone Wrong",
+      "url": "https://www.youtube.com/watch?v=_iGHYwPU2WE",
+      "word_count": 224,
+      "executive_synopsis": "Tier 1 deep-dive content on 'A Billion Dollar Idea Gone Wrong' by ThePrimeagen. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.4s] DC, DC, I got a billion dollar idea. I\\n[3.04s] got a billion dollar idea.\\n[4.88s] >> I'm listening.\\n[6.319s] >> What if we use state-of-the-art GPT\\n[8.72s] rappers to monitor live streams for API\\n[11.28s] keys being leaked?\\n[12.24s] >> Isn't that a little too niche?\\n[13.92s] >> It's pronounced niche. And of course\\n[15.679s] not. According to my lived experience,\\n[17.76s] it's very common to leak API keys. I\\n[19.92s] just need you to set up a database that\\n[21.279s] can handle my scale.\\n[22.96s] >> All right. All right. I'll use Neon so\\n[24.56s] it can scale up..."
+    },
+    {
+      "video_id": "ZH3iKbEiks0",
+      "title": "I was wrong btw",
+      "url": "https://www.youtube.com/watch?v=ZH3iKbEiks0",
+      "word_count": 213,
+      "executive_synopsis": "I was wrong btw",
+      "core_takeaways": [],
+      "transcript_preview": "Thanks to our sponsor, https://blacksmith.sh today! Speed up your GitHub Actions\ud83d\udca8 AND pay less!! Twitch / theprimeagen Discord / discord Become Backend Dev: https://boot.dev/prime (plus i make courses for them) if you need coffee ssh terminal.shop This is also the best way to support me is to support yourself becoming a better backend engineer. \ud83d\udccc Chapters: 00:00:00 - Prime's Confession 00:01:20 - Prime's Philosophy 00:04:57 - Blacksmith.sh Sponsor! 00:05:38 - Managing Windows 00:06:47 - Why Prime is late to everything 00:07:58 - It's hard being an Arch Boy 00:09:05 - Organizing Workspaces 00:1..."
+    },
+    {
+      "video_id": "tLLQoF2JjAg",
+      "title": "Prime picks one language (Challenge Level: Impossible)",
+      "url": "https://www.youtube.com/watch?v=tLLQoF2JjAg",
+      "word_count": 194,
+      "executive_synopsis": "Tier 1 deep-dive content on 'Prime picks one language (Challenge Level: Impossible)' by ThePrimeagen. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.56s] Hey teach, just finished the front end.\\n[2.48s] I'm going to get the back end in JS.\\n[3.679s] Could you get me the database?\\n[5.12s] >> That's node problem. You got it, boss.\\n[8.32s] That was a mess without type safety. I\\n[10.48s] rewrote our back end in Typescript.\\n[12.24s] Could you fix up the database? I'm going\\n[13.759s] to fix the ESLint errors. Not any\\n[16.88s] problem for me. I got this. Gage, AI is\\n[19.92s] so hot right now, and my professor is\\n[21.76s] helping us rewrite our backend in\\n[23.119s] Python. Could you get a database up for\\n[24.72s] me? Cer..."
+    },
+    {
+      "video_id": "_ebVsYQou8A",
+      "title": "Programming Curves",
+      "url": "https://www.youtube.com/watch?v=_ebVsYQou8A",
+      "word_count": 193,
+      "executive_synopsis": "Tier 1 deep-dive content on 'Programming Curves' by ThePrimeagen. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.12s] every language has a learning curve like\\n[2.08s] when you use go the learning curve is\\n[4.24s] very very simple it's like you have to\\n[6.04s] get used to some of the things and then\\n[7.359s] you do this and then you discover some\\n[8.679s] of Go's warts and then boom you're done\\n[11.44s] right it's pretty straightforward uh\\n[13.559s] obviously like JavaScript and typescript\\n[15.639s] they're also kind of a confusing\\n[17.439s] language so they do something that's\\n[18.76s] like this for a little bit and then you\\n[19.96s] really get it and then there's some\\n[21.4s..."
+    },
+    {
+      "video_id": "Z0GX2mTUtfo",
+      "title": "Go is faster than Rust??!  Go vs Rust vs TypeScript Servers (as a scientist)",
+      "url": "https://www.youtube.com/watch?v=Z0GX2mTUtfo",
+      "word_count": 179,
+      "executive_synopsis": "Go is faster than Rust??!  Go vs Rust vs TypeScript Servers (as a scientist)",
+      "core_takeaways": [],
+      "transcript_preview": "This represents the last couple months of twitches work building up and comparing the servers. I was completely shocked by the results of all this. HOW COULD GO DO ME LIKE THIS??? GET THE HELL IN THE START UP ALREADY Discord for the degens Twitch for the alpha chads JS Sucks? Yes it does, it sucks so much that I made a hoodie (i only made 100 of them, so supply limited) https://shop.theprimeagen.tv The Project All three videos are on yt and the repository is https://github.com/ThePrimeagen/tyron... Support If you wish to support, please consider sponsoring me on Github, or giving me that SWEET..."
+    },
+    {
+      "video_id": "w7i4amO_zaE",
+      "title": "0 to LSP : Neovim RC From Scratch",
+      "url": "https://www.youtube.com/watch?v=w7i4amO_zaE",
+      "word_count": 179,
+      "executive_synopsis": "0 to LSP : Neovim RC From Scratch",
+      "core_takeaways": [],
+      "transcript_preview": "I setup the entire neovim experience from nothing to LSP! Become a backend engineer. Its my favorite site https://boot.dev/?promo=PRIMEAGENYT This is also the best way to support me is to support yourself becoming a better backend engineer. REPO: https://github.com/ThePrimeagen/init.lua chapters 00:00 Introduction 00:35 Init.lua - Your First Files 02:23 The First Remap 03:43 Plugin Manager and Fuzzy Finder 07:07 Colorscheme 09:08 Treesitter 13:30 3 Must Have Plugins 18:06 LSP Setup 21:33 Editor Settings 24:24 THE BEST Remaps 29:40 Thank you Twitch Everything is built live on twitch Twitch : ht..."
+    },
+    {
+      "video_id": "sYuFT-MJBFs",
+      "title": "Comparing Rust (Yew) vs TypeScript (React) NodeJS | SSR times",
+      "url": "https://www.youtube.com/watch?v=sYuFT-MJBFs",
+      "word_count": 172,
+      "executive_synopsis": "Comparing Rust (Yew) vs TypeScript (React) NodeJS | SSR times",
+      "core_takeaways": [],
+      "transcript_preview": "ALL MADE LIVE ON TWITCH: / theprimeagen Hey! I wrote an entirely too much fun program that made me just YEARN to actually write more front end. I cannot believe how much I enjoy the fact that I can write some sweet rust and do front end. I'll be doing all of my front end code in this! There is a small ad placement at the end, i decided to add that at the very end of the video because they have been giving me free hosting for some time and I should probably... you know,.... say something. :) I also didn't ask them if I could... so... well, we will see what happens. Linode: https://linode.com/pr..."
+    },
+    {
+      "video_id": "uL9oOZStezw",
+      "title": "Vim as your editor - Advanced Motions P2",
+      "url": "https://www.youtube.com/watch?v=uL9oOZStezw",
+      "word_count": 170,
+      "executive_synopsis": "Vim as your editor - Advanced Motions P2",
+      "core_takeaways": [],
+      "transcript_preview": "the full vertical goodness of vim along with some find and replace and a quick alternate use of vi* IF YOU LIKE THIS, BETTER LIKE THE VIDEO BECAUSE I'LL TAKE THIS FAR IF THERE IS ENOUGH LIKES Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod He is also open to do more editing, so slide deeeeeeeeep into his dms. Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Tw..."
+    },
+    {
+      "video_id": "x7v6SNIgJpE",
+      "title": "FULL Introduction To HTMX Using Golang",
+      "url": "https://www.youtube.com/watch?v=x7v6SNIgJpE",
+      "word_count": 164,
+      "executive_synopsis": "FULL Introduction To HTMX Using Golang",
+      "core_takeaways": [],
+      "transcript_preview": "This was a live course for FrontEnd Masters. They have been nice enough to let me put it on my channel. During the recording of this I was pretty new to Golang so forgive me for any non awesome go moves. The reason i chose go was to show that you DONT have to use JS for your backend. Its up to you to decide what backend Interested in MORE FEM?: https://frontendmasters.com/join/?cod... interested in more of my courses? https://frontendmasters.com/teachers/... Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open...."
+    },
+    {
+      "video_id": "4zJHs_L-GOc",
+      "title": "He did WHAT to the DB?",
+      "url": "https://www.youtube.com/watch?v=4zJHs_L-GOc",
+      "word_count": 162,
+      "executive_synopsis": "Tier 1 deep-dive content on 'He did WHAT to the DB?' by ThePrimeagen. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.24s] Hey teach, did you pull the latest\\n[1.68s] changes?\\n[2.56s] >> Um,\\n[5.759s] the schema diff says that you removed\\n[8.96s] >> all the foreign key constraints from the\\n[11.04s] database.\\n[11.92s] >> Yeah, I refactored those away.\\n[13.759s] >> You refactored the constraints away.\\n[16.72s] >> Don't worry, we use TDD.\\n[18.96s] >> First, no, we\\n[20.48s] >> Secondly, why did you remove the foreign\\n[23.439s] keys?\\n[24.32s] >> Pretty obvious.\\n[25.439s] >> Tariffs.\\n[26.16s] >> Do you even know what tariffs are? It's\\n[28.96s] a tax imposed by the government on goods\\n..."
+    },
+    {
+      "video_id": "E8cM12jRH7k",
+      "title": "How To Learn A New Programming Language",
+      "url": "https://www.youtube.com/watch?v=E8cM12jRH7k",
+      "word_count": 161,
+      "executive_synopsis": "How To Learn A New Programming Language",
+      "core_takeaways": [],
+      "transcript_preview": "As a 20 Year veteran of the HTML programming language here is my guide to learning a language quickly. Are you ready to take your programming skills to the next level? s a 20 Year veteran of the HTML programming language here is my guide to learning a language quickly. Here are a few techniques in this essential video tutorial that have worked for me and can help you to start coding like a pro today. Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited..."
+    },
+    {
+      "video_id": "U16RnpV48KQ",
+      "title": "This Algorithm is 1,606,240% FASTER",
+      "url": "https://www.youtube.com/watch?v=U16RnpV48KQ",
+      "word_count": 159,
+      "executive_synopsis": "This Algorithm is 1,606,240% FASTER",
+      "core_takeaways": [],
+      "transcript_preview": "7 Steps it took to make an algorithm 1,606,242% faster!!!! Become a backend engineer. Its my favorite site https://boot.dev/?promo=PRIMEAGENYT This is also the best way to support me is to support yourself becoming a better backend engineer. David Perez https://github.com/david-a-perez B3NNY / _b_3_n_n_y_ Bit video \u2022 Bit and Byte Explained in 6 Minutes - What... Code used in video https://github.com/ThePrimeagen/aoc/b... Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All..."
+    },
+    {
+      "video_id": "5JGVtttuDQA",
+      "title": "Vim As Your Editor - Horizontal",
+      "url": "https://www.youtube.com/watch?v=5JGVtttuDQA",
+      "word_count": 155,
+      "executive_synopsis": "Vim As Your Editor - Horizontal",
+      "core_takeaways": [],
+      "transcript_preview": "Coconut Oil smoothness is now in your future. get good at these and i promise you will feel faster than you currently do with a mouse. You can also gently place VSCode in the garbo. BEFORE YOU CLICK THOSE LINKS, like the video, hit that sub button. it really helps. the algo really loves to be edged. VIM RC \u2022 Video Vim As Your Editor Part 1 \u2022 Vim As Your Editor - Introduction Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follo..."
+    },
+    {
+      "video_id": "taoAAcS5PSw",
+      "title": "Musician turned Programmer turned Musician",
+      "url": "https://www.youtube.com/watch?v=taoAAcS5PSw",
+      "word_count": 155,
+      "executive_synopsis": "Musician turned Programmer turned Musician",
+      "core_takeaways": [],
+      "transcript_preview": "I made music... with crows, neovim, javascript and teej. Don't forget, check out our coffee shop if you live in the US! ssh terminal.shop We have more goodies and more ideas coming soon. Hope you enjoyed the video. See you all in the next one. Thank You DJ Dave for the inspiration! https://linktr.ee/dj_dave Twitch : / theprimeagen Discord: / discord Support me (by becoming a backend dev): https://boot.dev/prime \ud83d\udccc Chapters: 00:00:00 - From Gaming to Programming 00:00:35 - High School Reality Check 00:01:02 - The Social Network Effect 00:01:27 - 16 Years of Pure Programming Life 00:01:59 - The A..."
+    },
+    {
+      "video_id": "SCPVDpyApgQ",
+      "title": "Are Developers Ok?",
+      "url": "https://www.youtube.com/watch?v=SCPVDpyApgQ",
+      "word_count": 146,
+      "executive_synopsis": "Are Developers Ok?",
+      "core_takeaways": [],
+      "transcript_preview": "Lets deep dive into the world of open source and github and ask the age old question, are developers ok? Check out todays sponsor! https://gt.dev/prime Do you want to become a backend dev? Did you know I am about to make courses exclusively for boot dev? check out https://boot.dev/prime sign up, become a back end dev, and help me out :) Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod Join this channel to..."
+    },
+    {
+      "video_id": "slL7AW9q8Fc",
+      "title": "Why I Quit Netflix",
+      "url": "https://www.youtube.com/watch?v=slL7AW9q8Fc",
+      "word_count": 146,
+      "executive_synopsis": "Why I Quit Netflix",
+      "core_takeaways": [],
+      "transcript_preview": "This is really the story of the first time I quit Netflix. Yes I really did officially quit Netflix. I fully 100% did it. It was a very hard decision. But in the end, A man named Papa Jeff Wagner brought me back into netflix and I am still happily employed there. Become a backend engineer. Its my favorite site https://boot.dev/?promo=PRIMEAGENYT This is also the best way to support me is to support yourself becoming a better backend engineer. Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod He ..."
+    },
+    {
+      "video_id": "boD0ReK62FI",
+      "title": "Looking Under the Hood of JavaScript",
+      "url": "https://www.youtube.com/watch?v=boD0ReK62FI",
+      "word_count": 137,
+      "executive_synopsis": "Looking Under the Hood of JavaScript",
+      "core_takeaways": [],
+      "transcript_preview": "Ever wonder what in the world is going on with JS? Well in this we deep dive into v8, into the internals to figure out WTF IS GOING ON WITH SETTIMEOUT??? SMI in v8?? https://v8.dev/blog/pointer-compression Aleksei: / the_kozy Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod He is also open to do more editing, so slide deeeeeeeeep into his dms. Join this channel to get access to perks: / @theprimeagen Link..."
+    },
+    {
+      "video_id": "QIyc6NKS5J0",
+      "title": "If I could give advice to myself when starting as a software engineer",
+      "url": "https://www.youtube.com/watch?v=QIyc6NKS5J0",
+      "word_count": 136,
+      "executive_synopsis": "If I could give advice to myself when starting as a software engineer",
+      "core_takeaways": [],
+      "transcript_preview": "Yes. If i could go back, what would I tell myself to be a better engineer. This is a heartfelt moment so please make sure you go to my twitch page and subscribe with your amazon twitch prime to show your sympathy. Become a backend engineer. Its my favorite site https://boot.dev/?promo=PRIMEAGENYT This is also the best way to support me is to support yourself becoming a better backend engineer. Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod He is also open to do more editing, so slide deeeeeee..."
+    },
+    {
+      "video_id": "FrMRyXtiJkc",
+      "title": "How to Vim in 2023: Tips and Tricks",
+      "url": "https://www.youtube.com/watch?v=FrMRyXtiJkc",
+      "word_count": 134,
+      "executive_synopsis": "How to Vim in 2023: Tips and Tricks",
+      "core_takeaways": [],
+      "transcript_preview": "This is not another tutorial on how to do some key combos or how to install plugins, its about using the plugins and everything together to have a complete experience! I hope you enjoyed it! Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod He is also open to do more editing, so slide deeeeeeeeep into his dms. Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime ..."
+    },
+    {
+      "video_id": "sH0_LJoMJd4",
+      "title": "STOP LYING, The truth about Software Engineering",
+      "url": "https://www.youtube.com/watch?v=sH0_LJoMJd4",
+      "word_count": 132,
+      "executive_synopsis": "STOP LYING, The truth about Software Engineering",
+      "core_takeaways": [],
+      "transcript_preview": "The problem with these tweets is that they get insane engagement and they are completely false. You will never accomplish what this guy says. Become a backend engineer. Its my favorite site https://boot.dev/?promo=PRIMEAGENYT This is also the best way to support me is to support yourself becoming a better backend engineer. Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod He is also open to do more editing..."
+    },
+    {
+      "video_id": "ReeLQR7KCcM",
+      "title": "What Next...Finding a New Job In Software",
+      "url": "https://www.youtube.com/watch?v=ReeLQR7KCcM",
+      "word_count": 130,
+      "executive_synopsis": "What Next...Finding a New Job In Software",
+      "core_takeaways": [],
+      "transcript_preview": "As a Netflix Developer, my job is fairly secure but in this video I wanted to give my best tips on how to get a job in tech or get rehired! Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod He is also open to do more editing, so slide deeeeeeeeep into his dms. Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimea..."
+    },
+    {
+      "video_id": "o462tY758CY",
+      "title": "I Fixed Git",
+      "url": "https://www.youtube.com/watch?v=o462tY758CY",
+      "word_count": 129,
+      "executive_synopsis": "I Fixed Git",
+      "core_takeaways": [],
+      "transcript_preview": "Finally Git will be fixed. We never have to worry about Git being the way it is with these changes and you can finally sleep assured that your life will be easier. TELL ME WHAT YOU HATE ABOUT C++ AND WE WILL FIX IT / 1684206940086206466 Live on Twitch Twitch : https://bit.ly/3xhFO3E Degens Here Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: ..."
+    },
+    {
+      "video_id": "2gG08VUuwzg",
+      "title": "Twitter's Algorithm Has MASSIVE Problems",
+      "url": "https://www.youtube.com/watch?v=2gG08VUuwzg",
+      "word_count": 127,
+      "executive_synopsis": "Twitter's Algorithm Has MASSIVE Problems",
+      "core_takeaways": [],
+      "transcript_preview": "Twitter's Algorithm went Open-Source on GitHub...and it might just be the worst idea ever so Prime is here to react to it. Overdramatically. In the best way possible. Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod He is also open to do more editing, so slide deeeeeeeeep into his dms. Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / thep..."
+    },
+    {
+      "video_id": "RDd71IUIgpg",
+      "title": "CoPilot Review: My Thoughts After 6 Months",
+      "url": "https://www.youtube.com/watch?v=RDd71IUIgpg",
+      "word_count": 126,
+      "executive_synopsis": "CoPilot Review: My Thoughts After 6 Months",
+      "core_takeaways": [],
+      "transcript_preview": "I've been using CoPilot for 6 months now, and I wanted to share my thoughts on it. It's a great coding tool, but there are some shortcomings. Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod He is also open to do more editing, so slide deeeeeeeeep into his dms. Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprim..."
+    },
+    {
+      "video_id": "TB0cXGvuw9A",
+      "title": "Stepping Down From RustConf and Rust Project Controversy",
+      "url": "https://www.youtube.com/watch?v=TB0cXGvuw9A",
+      "word_count": 125,
+      "executive_synopsis": "Stepping Down From RustConf and Rust Project Controversy",
+      "core_takeaways": [],
+      "transcript_preview": "Bj\u00f6rkus \"Fix It Or Die Trying\" Dorkus has stepped down from rust conf 2023 this year. I read the article on twitch and here is my thoughts. Please read it yourself and show some support and love to Bj\u00f6rkus https://thephd.dev/i-am-no-longer-spe... Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitc..."
+    },
+    {
+      "video_id": "gutR_LNoZw0",
+      "title": "Rust Foundation IS DOING WHAT????",
+      "url": "https://www.youtube.com/watch?v=gutR_LNoZw0",
+      "word_count": 117,
+      "executive_synopsis": "Rust Foundation IS DOING WHAT????",
+      "core_takeaways": [],
+      "transcript_preview": "The new proposed trademark policy of the rust foundation is absolutely nuts, lets go over it / 1644132378858729474 Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod He is also open to do more editing, so slide deeeeeeeeep into his dms. Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeag..."
+    },
+    {
+      "video_id": "X6AR2RMB5tE",
+      "title": "Shorts",
+      "url": "https://www.youtube.com/watch?v=X6AR2RMB5tE",
+      "word_count": 117,
+      "executive_synopsis": "Shorts",
+      "core_takeaways": [],
+      "transcript_preview": "Neovim FROM SCRATCH!!! \u2022 0 to LSP : Neovim RC From Scratch Become a backend engineer. Its my favorite site https://boot.dev/?promo=PRIMEAGENYT This is also the best way to support me is to support yourself becoming a better backend engineer. Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod He is also open to do more editing, so slide deeeeeeeeep into his dms. Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / disco..."
+    },
+    {
+      "video_id": "Epwlk4B90vk",
+      "title": "RUST Enums ARE Better",
+      "url": "https://www.youtube.com/watch?v=Epwlk4B90vk",
+      "word_count": 115,
+      "executive_synopsis": "RUST Enums ARE Better",
+      "core_takeaways": [],
+      "transcript_preview": "RUST does ENUMS better than Typescript and that\u2019s a fact, no matter what they say. Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod He is also open to do more editing, so slide deeeeeeeeep into his dms. Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.co..."
+    },
+    {
+      "video_id": "nMHxdz-N7EU",
+      "title": "Primeagen Answers the Webs Most Asked Questions for a Software Engineer",
+      "url": "https://www.youtube.com/watch?v=nMHxdz-N7EU",
+      "word_count": 113,
+      "executive_synopsis": "Primeagen Answers the Webs Most Asked Questions for a Software Engineer",
+      "core_takeaways": [],
+      "transcript_preview": "I just wanted to take some time and talk about my most asked question Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod He is also open to do more editing, so slide deeeeeeeeep into his dms. Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeage..."
+    },
+    {
+      "video_id": "ZNFdkTIzdXM",
+      "title": "Rust for TypeScript devs : Borrow Checker",
+      "url": "https://www.youtube.com/watch?v=ZNFdkTIzdXM",
+      "word_count": 113,
+      "executive_synopsis": "Rust for TypeScript devs : Borrow Checker",
+      "core_takeaways": [],
+      "transcript_preview": "Borrow checker is really difficult. the goal of this video is to help you understand the borrow checker better. ChiselStrike! GIVE THIS A STAR ALREADY! It has some pretty incredible rust https://github.com/chiselstrike/chise... Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod He is also open to do more editing, so slide deeeeeeeeep into his dms. Join this channel to get access to perks: / @theprimeagen Li..."
+    },
+    {
+      "video_id": "v2a6Nv7RSd0",
+      "title": "Find And Replace",
+      "url": "https://www.youtube.com/watch?v=v2a6Nv7RSd0",
+      "word_count": 110,
+      "executive_synopsis": "Tier 1 deep-dive content on 'Find And Replace' by ThePrimeagen. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.04s] you want some f and replace magic here\\n[1.64s] we go we're going to highlight this\\n[2.679s] whole section I'm going to press colon s\\n[4.319s] and then I'm going to go Pub const and\\n[6.279s] I'm going to do a fight and one eye\\n[7.399s] curvy which is escape the opening\\n[9.36s] parentheses escape the closing and then\\n[10.84s] match on everything equal space there we\\n[13.04s] go I've just grabbed Tower right in\\n[14.44s] there then I'm going to dot star the\\n[15.559s] rest of it and I'm going to replace it\\n[16.68s] with test underscore equals SL1 my first\\n[20.359s]..."
+    },
+    {
+      "video_id": "7ap3CkBEpOE",
+      "title": "Faster than your favorite JS framework?",
+      "url": "https://www.youtube.com/watch?v=7ap3CkBEpOE",
+      "word_count": 109,
+      "executive_synopsis": "Faster than your favorite JS framework?",
+      "core_takeaways": [],
+      "transcript_preview": "vim royale (where this experiment was originally created in) https://github.com/theprimeagen/vim-r... Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod He is also open to do more editing, so slide deeeeeeeeep into his dms. Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3..."
+    },
+    {
+      "video_id": "qAYFepR4GcE",
+      "title": "Bun (TypeScript) is faster than Rust!?!",
+      "url": "https://www.youtube.com/watch?v=qAYFepR4GcE",
+      "word_count": 107,
+      "executive_synopsis": "Bun (TypeScript) is faster than Rust!?!",
+      "core_takeaways": [],
+      "transcript_preview": "I cannot believe this! Is bun ackshually faster? The best way to find out is to write some amazing tests. ### Repo https://github.com/ThePrimeagen/BunSpreader ### Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen ### Editor All my videos are edited by Flip. Give him a follow! https://twitter.com/flipmediaprod He is also open to do more editing, so slide deeeeeeeeep into his dms. ### Links Linode: https://linode.com/prime https://discord.gg/ThePrimeagen Twitch: https://twitch.tv/ThePrimeagen Insta: https://instagram.com/ThePrimeagen Twitt..."
+    },
+    {
+      "video_id": "SEVD2nI4Bis",
+      "title": "Why Do I Suck At Programming?",
+      "url": "https://www.youtube.com/watch?v=SEVD2nI4Bis",
+      "word_count": 105,
+      "executive_synopsis": "Tier 1 deep-dive content on 'Why Do I Suck At Programming?' by ThePrimeagen. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] So you bought a Kinesis Advantage\\n[1.88s] keyboard, amazing. You bought the Herman\\n[4.56s] Miller chair, amazing. Yet you still\\n[7.16s] suck at coding. Why? It's absolutely\\n[10.96s] simple. You didn't buy four monitors.\\n[13.6s] That's why you're not awesome at coding\\n[16.44s] yet. Just one more monitor, bro. Bro,\\n[18.64s] just one more. If you just had one more\\n[20.52s] monitor, bro, it'd be so good. You would\\n[22.48s] be the best. But no, you don't. Do you\\n[24.32s] have a vertical monitor? Probably you\\n[26.48s] don't. So guess what? You're not going\\n[28.76s] t..."
+    },
+    {
+      "video_id": "PHvbLmLPX6s",
+      "title": "This Lesson Taught Me How To Do Better Benchmarks",
+      "url": "https://www.youtube.com/watch?v=PHvbLmLPX6s",
+      "word_count": 101,
+      "executive_synopsis": "This Lesson Taught Me How To Do Better Benchmarks",
+      "core_takeaways": [],
+      "transcript_preview": "This benchmark was HORRIBLE but once I pushed it to the server, something WILD happened instead. Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/P..."
+    },
+    {
+      "video_id": "iKK_tY5Ph-4",
+      "title": "I Let Twitch Chat Create New Jokers for Balatro",
+      "url": "https://www.youtube.com/watch?v=iKK_tY5Ph-4",
+      "word_count": 100,
+      "executive_synopsis": "I Let Twitch Chat Create New Jokers for Balatro",
+      "core_takeaways": [],
+      "transcript_preview": "/ terminaldotshop - Want to order coffee over SSH? ssh terminal.shop Become Backend Dev: https://boot.dev/prime (plus i make courses for them) This is also the best way to support me is to support yourself becoming a better backend engineer. Great News? Want me to research and create video????: / theprimeagen Balatro, Balatro gameplay, Balatro jokers, Balatro mods, Balatro modding, Balatro chat integration, Balatro AI jokers, Balatro custom cards, ThePrimeagen, ThePrimeagen Highlights, Balatro stream highlights, Balatro twitch chat, AI game modding, Balatro comedy, Balatro challenge, gaming wi..."
+    },
+    {
+      "video_id": "TTjYjSEGHek",
+      "title": "JSON, I hardly know 'er",
+      "url": "https://www.youtube.com/watch?v=TTjYjSEGHek",
+      "word_count": 99,
+      "executive_synopsis": "JSON, I hardly know 'er",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod He is also open to do more editing, so slide deeeeeeeeep into his dms. Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/Prime360 USE CODE PRIME360 ..."
+    },
+    {
+      "video_id": "qZO9A5F6BZs",
+      "title": "Vim As You Editor - Advanced Motions P1",
+      "url": "https://www.youtube.com/watch?v=qZO9A5F6BZs",
+      "word_count": 97,
+      "executive_synopsis": "Vim As You Editor - Advanced Motions P1",
+      "core_takeaways": [],
+      "transcript_preview": "YES!! that is right. A new vim series. IF YOU LIKE THIS, BETTER LIKE THE VIDEO BECAUSE I'LL TAKE THIS FAR IF THERE IS ENOUGH LIKES Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod He is also open to do more editing, so slide deeeeeeeeep into his dms. Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrime..."
+    },
+    {
+      "video_id": "MuCK81q1edU",
+      "title": "Is JSON Blazingly Fast or...?",
+      "url": "https://www.youtube.com/watch?v=MuCK81q1edU",
+      "word_count": 96,
+      "executive_synopsis": "Is JSON Blazingly Fast or...?",
+      "core_takeaways": [],
+      "transcript_preview": "Is Json really that slow? Can the most popular interchange format really be that bad? Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod He is also open to do more editing, so slide deeeeeeeeep into his dms. Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github..."
+    },
+    {
+      "video_id": "KfENDDEpCsI",
+      "title": "Vim As Your Editor - Vertical Movements",
+      "url": "https://www.youtube.com/watch?v=KfENDDEpCsI",
+      "word_count": 94,
+      "executive_synopsis": "Vim As Your Editor - Vertical Movements",
+      "core_takeaways": [],
+      "transcript_preview": "Everything Vertical Movements. This will be an awesome guide to make you fast Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod He is also open to do more editing, so slide deeeeeeeeep into his dms. Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/The..."
+    },
+    {
+      "video_id": "JjHFubUPLV0",
+      "title": "From Meth To Netflix",
+      "url": "https://www.youtube.com/watch?v=JjHFubUPLV0",
+      "word_count": 93,
+      "executive_synopsis": "From Meth To Netflix",
+      "core_takeaways": [],
+      "transcript_preview": "This is just my story about how I went from a life totally under control to a life and control. Become a backend engineer. Its my favorite site https://boot.dev/?promo=PRIMEAGENYT This is also the best way to support me is to support yourself becoming a better backend engineer. Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/Prime360 USE CODE PRIME360 #coding #neovim #typescript #programming #vim #softwareengineering #codinglife #webdesign #..."
+    },
+    {
+      "video_id": "D4YTJ2W5q4Y",
+      "title": "Why I use Vim in 2022",
+      "url": "https://www.youtube.com/watch?v=D4YTJ2W5q4Y",
+      "word_count": 86,
+      "executive_synopsis": "Why I use Vim in 2022",
+      "core_takeaways": [],
+      "transcript_preview": "Surprisingly asked quite a bit, why would I ever use vim in 2022 when there is so many options written in the 21st century, like vscode, intellij, sublime, ... Editor All my videos are edited by Flip. Give him a follow! / 88thpl He is also open to do more editing, so slide deeeeeeeeep into his dms. Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard (15% off, I don't earn commission): https://bit.ly/primeagen-adv2 #vim #programming #softwareengineering"
+    },
+    {
+      "video_id": "oUDj8p7z0tQ",
+      "title": "Will It Run Doom ?",
+      "url": "https://www.youtube.com/watch?v=oUDj8p7z0tQ",
+      "word_count": 85,
+      "executive_synopsis": "Will It Run Doom ?",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/Prime360 USE CODE PRIME360 #coding #neovim #typescript #programming #vim #softwareengineering #cod..."
+    },
+    {
+      "video_id": "D9q5wnX2_DY",
+      "title": "AI Scuffed Programming",
+      "url": "https://www.youtube.com/watch?v=D9q5wnX2_DY",
+      "word_count": 85,
+      "executive_synopsis": "AI Scuffed Programming",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/Prime360 USE CODE PRIME360 #coding #neovim #typescript #programming #vim #softwareengineering #cod..."
+    },
+    {
+      "video_id": "r3pGWijDzHE",
+      "title": "Math.sqrt",
+      "url": "https://www.youtube.com/watch?v=r3pGWijDzHE",
+      "word_count": 85,
+      "executive_synopsis": "Math.sqrt",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/Prime360 USE CODE PRIME360 #coding #neovim #typescript #programming #vim #softwareengineering #cod..."
+    },
+    {
+      "video_id": "3aGylFJAzTk",
+      "title": "Imagine...",
+      "url": "https://www.youtube.com/watch?v=3aGylFJAzTk",
+      "word_count": 85,
+      "executive_synopsis": "Imagine...",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/Prime360 USE CODE PRIME360 #coding #neovim #typescript #programming #vim #softwareengineering #cod..."
+    },
+    {
+      "video_id": "u2trdurv638",
+      "title": "Imposter Syndrome",
+      "url": "https://www.youtube.com/watch?v=u2trdurv638",
+      "word_count": 85,
+      "executive_synopsis": "Imposter Syndrome",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/Prime360 USE CODE PRIME360 #coding #neovim #typescript #programming #vim #softwareengineering #cod..."
+    },
+    {
+      "video_id": "jHAOMOZ_DPI",
+      "title": "Easy Vim Motion",
+      "url": "https://www.youtube.com/watch?v=jHAOMOZ_DPI",
+      "word_count": 85,
+      "executive_synopsis": "Easy Vim Motion",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/Prime360 USE CODE PRIME360 #coding #neovim #typescript #programming #vim #softwareengineering #cod..."
+    },
+    {
+      "video_id": "fIhZqY_XKsc",
+      "title": "You Have Time...",
+      "url": "https://www.youtube.com/watch?v=fIhZqY_XKsc",
+      "word_count": 85,
+      "executive_synopsis": "You Have Time...",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/Prime360 USE CODE PRIME360 #coding #neovim #typescript #programming #vim #softwareengineering #cod..."
+    },
+    {
+      "video_id": "DJxEYOC8IRc",
+      "title": "Magic Swap",
+      "url": "https://www.youtube.com/watch?v=DJxEYOC8IRc",
+      "word_count": 85,
+      "executive_synopsis": "Magic Swap",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/Prime360 USE CODE PRIME360 #coding #neovim #typescript #programming #vim #softwareengineering #cod..."
+    },
+    {
+      "video_id": "i3TyJIyPm84",
+      "title": "Code Mentor",
+      "url": "https://www.youtube.com/watch?v=i3TyJIyPm84",
+      "word_count": 85,
+      "executive_synopsis": "Code Mentor",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/Prime360 USE CODE PRIME360 #coding #neovim #typescript #programming #vim #softwareengineering #cod..."
+    },
+    {
+      "video_id": "4P0HVCMX3kM",
+      "title": "Don't Make This Mistake | SWE",
+      "url": "https://www.youtube.com/watch?v=4P0HVCMX3kM",
+      "word_count": 85,
+      "executive_synopsis": "Don't Make This Mistake | SWE",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/Prime360 USE CODE PRIME360 #coding #neovim #typescript #programming #vim #softwareengineering #cod..."
+    },
+    {
+      "video_id": "RSY85SLXzwk",
+      "title": "Go is blazingly faster than Zig?",
+      "url": "https://www.youtube.com/watch?v=RSY85SLXzwk",
+      "word_count": 85,
+      "executive_synopsis": "Go is blazingly faster than Zig?",
+      "core_takeaways": [],
+      "transcript_preview": "The super challenge of languages. Because you subbed i decided to add a couple extra languages. Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod He is also open to do more editing, so slide deeeeeeeeep into his dms. Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard (15% off, I don't earn commission): https://bit.ly/primeagen-adv2 #vim..."
+    },
+    {
+      "video_id": "M-VU0fLjIUU",
+      "title": "This Is A Game Changer",
+      "url": "https://www.youtube.com/watch?v=M-VU0fLjIUU",
+      "word_count": 85,
+      "executive_synopsis": "This Is A Game Changer",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/Prime360 USE CODE PRIME360 #coding #neovim #typescript #programming #vim #softwareengineering #cod..."
+    },
+    {
+      "video_id": "P0XSS2Xst-U",
+      "title": "Do Something Different",
+      "url": "https://www.youtube.com/watch?v=P0XSS2Xst-U",
+      "word_count": 85,
+      "executive_synopsis": "Do Something Different",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/Prime360 USE CODE PRIME360 #coding #neovim #typescript #programming #vim #softwareengineering #cod..."
+    },
+    {
+      "video_id": "WCwD_1Qm218",
+      "title": "Modern Software Engineering",
+      "url": "https://www.youtube.com/watch?v=WCwD_1Qm218",
+      "word_count": 85,
+      "executive_synopsis": "Modern Software Engineering",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/Prime360 USE CODE PRIME360 #coding #neovim #typescript #programming #vim #softwareengineering #cod..."
+    },
+    {
+      "video_id": "6jPiuOXmxEc",
+      "title": "What You Need To Learn 2023 (as a software engineer)",
+      "url": "https://www.youtube.com/watch?v=6jPiuOXmxEc",
+      "word_count": 85,
+      "executive_synopsis": "What You Need To Learn 2023 (as a software engineer)",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/Prime360 USE CODE PRIME360 #coding #neovim #typescript #programming #vim #softwareengineering #cod..."
+    },
+    {
+      "video_id": "I5_Gx3JNho8",
+      "title": "How To Master JavaScript",
+      "url": "https://www.youtube.com/watch?v=I5_Gx3JNho8",
+      "word_count": 85,
+      "executive_synopsis": "How To Master JavaScript",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/Prime360 USE CODE PRIME360 #coding #neovim #typescript #programming #vim #softwareengineering #cod..."
+    },
+    {
+      "video_id": "UWb1dw_kbvo",
+      "title": "This Is Goodbye",
+      "url": "https://www.youtube.com/watch?v=UWb1dw_kbvo",
+      "word_count": 85,
+      "executive_synopsis": "This Is Goodbye",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/Prime360 USE CODE PRIME360 #coding #neovim #typescript #programming #vim #softwareengineering #cod..."
+    },
+    {
+      "video_id": "ksBNx1vBm_0",
+      "title": "Peak Production Code",
+      "url": "https://www.youtube.com/watch?v=ksBNx1vBm_0",
+      "word_count": 83,
+      "executive_synopsis": "Peak Production Code",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/Prime360 USE CODE PRIME360 #shorts #coding #neovim #typescript #programming #vim #softwareengineering #codinglife #webdesign #webdevelopment #webdev #javasc..."
+    },
+    {
+      "video_id": "Sp5_d6coiqU",
+      "title": "How to make TypeScript Blazingly Fast (JavaScript/NodeJS)",
+      "url": "https://www.youtube.com/watch?v=Sp5_d6coiqU",
+      "word_count": 82,
+      "executive_synopsis": "How to make TypeScript Blazingly Fast (JavaScript/NodeJS)",
+      "core_takeaways": [],
+      "transcript_preview": "I have been doing some performance stuff at Netflix for some time. I wanted to take some time to share with you two very specific techniques for making your applications faster. One of the two steps is surprisingly beneficial. HERE IS HOW TO RUN THE PERF COMMANDS: GO TO THIS LINK: https://github.com/ThePrimeagen/tyron... Links Linode: https://linode.com/prime Discord: / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard (15% off, I don't earn commission): https://bit.ly/primeagen-adv2 #vim #nodejs #javascri..."
+    },
+    {
+      "video_id": "Sp5_d6coiqU",
+      "title": "How to make TypeScript Blazingly Fast (JavaScript/NodeJS)",
+      "url": "https://www.youtube.com/watch?v=Sp5_d6coiqU",
+      "word_count": 82,
+      "executive_synopsis": "How to make TypeScript Blazingly Fast (JavaScript/NodeJS)",
+      "core_takeaways": [],
+      "transcript_preview": "I have been doing some performance stuff at Netflix for some time. I wanted to take some time to share with you two very specific techniques for making your applications faster. One of the two steps is surprisingly beneficial. HERE IS HOW TO RUN THE PERF COMMANDS: GO TO THIS LINK: https://github.com/ThePrimeagen/tyron... Links Linode: https://linode.com/prime Discord: / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard (15% off, I don't earn commission): https://bit.ly/primeagen-adv2 #vim #nodejs #javascri..."
+    },
+    {
+      "video_id": "461735zrjzY",
+      "title": "React Is This Fast???",
+      "url": "https://www.youtube.com/watch?v=461735zrjzY",
+      "word_count": 81,
+      "executive_synopsis": "React Is This Fast???",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor All my videos are edited by Flip. Give him a follow! / flipmediaprod He is also open to do more editing, so slide deeeeeeeeep into his dms. Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/Prime360 USE CODE PRIME360 ..."
+    },
+    {
+      "video_id": "38gVgJj0eFQ",
+      "title": "Immediate Mode UI and Animations with Casey Muratori",
+      "url": "https://www.youtube.com/watch?v=38gVgJj0eFQ",
+      "word_count": 78,
+      "executive_synopsis": "Immediate Mode UI and Animations with Casey Muratori",
+      "core_takeaways": [],
+      "transcript_preview": "More Casey in these places: https://www.computerenhance.com/ / @mollyrocket https://x.com/cmuratori / theprimeagen - I Stream on Twitch / terminaldotshop - Want to order coffee over SSH? ssh terminal.shop Become Backend Dev: https://boot.dev/prime (plus i make courses for them) This is also the best way to support me is to support yourself becoming a better backend engineer. Great News? Want me to research and create video????: / theprimeagen #theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop #gamedev #caseymuratori #computerscience #computerenhance #odin #gingerbill"
+    },
+    {
+      "video_id": "3f9tbqSIm-E",
+      "title": "1000 Players - One Game of Doom",
+      "url": "https://www.youtube.com/watch?v=3f9tbqSIm-E",
+      "word_count": 75,
+      "executive_synopsis": "1000 Players - One Game of Doom",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch Everything is built live on twitch Twitch : https://bit.ly/3xhFO3E Discord: discord.gg/ThePrimeagen Spotify DevHour: https://open.spotify.com/show/4MLaDrQ... Editor / flipmediaprod https://x.com/stxssx Join this channel to get access to perks: / @theprimeagen Links Linode: https://linode.com/prime / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard 15% off https://bit.ly/Prime360 USE CODE PRIME360 #coding #neovim #typescript #programming #vim #softwareengineering #codinglife #webdesign #webdevelopme..."
+    },
+    {
+      "video_id": "K9DXgfsY90U",
+      "title": "I am dying",
+      "url": "https://www.youtube.com/watch?v=K9DXgfsY90U",
+      "word_count": 70,
+      "executive_synopsis": "I am dying",
+      "core_takeaways": [],
+      "transcript_preview": "My guest, Ken Wheeler, has destroyed me in the worst possible way. Editor All my videos are edited by Flip. Give him a follow! / 88thpl He is also open to do more editing, so slide deeeeeeeeep into his dms. Links Linode: https://linode.com/prime Discord: / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard (15% off, I don't earn commission): https://bit.ly/primeagen-adv2 #coding #programming #softwareengineering"
+    },
+    {
+      "video_id": "GKpwO-DGKiI",
+      "title": "I Hate Google",
+      "url": "https://www.youtube.com/watch?v=GKpwO-DGKiI",
+      "word_count": 70,
+      "executive_synopsis": "Tier 1 deep-dive content on 'I Hate Google' by ThePrimeagen. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] I hate Google. In 2010, Google acquires\\n[3.36s] a company that created WEBP, a lossy\\n[6.16s] compression format for graphics on the\\n[8.08s] web. 15 years later, with all major\\n[11.44s] browsers supporting the WEBP format, you\\n[14.08s] would think surely that YouTube would\\n[16.24s] support it for their thumbnails.\\n[18.64s] No. Surely you would think that Google\\n[22.08s] Docs would support it as a format.\\n[25.279s] No. Why are you like this, Google? And\\n[28.64s] this is why\"}"
+    },
+    {
+      "video_id": "bdumjiHabhQ",
+      "title": "My Developer Workflow - How I use i3, tmux, and vim",
+      "url": "https://www.youtube.com/watch?v=bdumjiHabhQ",
+      "word_count": 63,
+      "executive_synopsis": "My Developer Workflow - How I use i3, tmux, and vim",
+      "core_takeaways": [],
+      "transcript_preview": "My developer workflow has been worked on for about 1 year now. I really love what I have built, with the help of twitch chat. tmux is great. i3 is grand, and vim is the best. Links Linode: https://linode.com/prime Discord: / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard: https://ohkeycaps.com/products/thepri... (PRIMEDACTYL $25 off) #vim #tmux #i3"
+    },
+    {
+      "video_id": "h7UEwBaGoVo",
+      "title": "Is TypeScript (NodeJS) Faster than Go?? |  A server comparison",
+      "url": "https://www.youtube.com/watch?v=h7UEwBaGoVo",
+      "word_count": 62,
+      "executive_synopsis": "Is TypeScript (NodeJS) Faster than Go?? |  A server comparison",
+      "core_takeaways": [],
+      "transcript_preview": "This is a condensed version of what I did on stream to create a go vs typescript server and the learnings I had from it. I was SHOCKED by the results. github.com/ThePrimeagen/tyrone-biggums Links Linode: https://linode.com/prime Discord: / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard (15% off, I don't earn commission): https://bit.ly/primeagen-adv2 #vim #golang #typescript"
+    },
+    {
+      "video_id": "tYQyh1tjSFc",
+      "title": "am I becoming a real Game Dev?",
+      "url": "https://www.youtube.com/watch?v=tYQyh1tjSFc",
+      "word_count": 54,
+      "executive_synopsis": "am I becoming a real Game Dev?",
+      "core_takeaways": [],
+      "transcript_preview": "Don\u2019t let bad code get merged without reviewing (hopefully not by merge cop!). Check out Code Rabbit at https://trm.sh/coderabbit / theprimeagen - I Stream on Twitch / terminaldotshop - Want to order coffee over SSH? ssh terminal.shop Great News? Want me to research and create video????: / theprimeagen #theprimeagen #programming #computerscience #ai #chatgippty #terminaldotshop"
+    },
+    {
+      "video_id": "q5jcjAQXiIU",
+      "title": "WHY STARBUCKS, WHY?!?!",
+      "url": "https://www.youtube.com/watch?v=q5jcjAQXiIU",
+      "word_count": 52,
+      "executive_synopsis": "Tier 1 deep-dive content on 'WHY STARBUCKS, WHY?!?!' by ThePrimeagen. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.719s] Hey, can I get some hot water?\\n[2.639s] >> Hey, buddy with the mustache. No\\n[4.56s] printers.\\n[5.2s] >> You don't allow printers anymore?\\n[6.72s] >> Yeah, no printers.\\n[7.52s] >> Well, how am I supposed to work?\\n[8.72s] >> You're not supposed to work here.\\n[10.88s] >> Sorry, bro. They're not going to let you\\n[12.24s] work here.\"}"
+    },
+    {
+      "video_id": "1-0r90bm6CE",
+      "title": "We Have A Problem..",
+      "url": "https://www.youtube.com/watch?v=1-0r90bm6CE",
+      "word_count": 49,
+      "executive_synopsis": "Tier 1 deep-dive content on 'We Have A Problem..' by ThePrimeagen. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.04s] fun fact male virginity has been on the\\n[1.8s] rise for the last 16 years but hey how\\n[4.2s] could it not with Halo 3 node typescript\\n[7.52s] Zig rust fortnite Apex Legends but who\\n[10.88s] needs to be a sexh when you have type\\n[13.2s] definitions like this you got to solve\"}"
+    },
+    {
+      "video_id": "w00JOVpapxA",
+      "title": "How To Properly Quit Vim",
+      "url": "https://www.youtube.com/watch?v=w00JOVpapxA",
+      "word_count": 49,
+      "executive_synopsis": "How To Properly Quit Vim",
+      "core_takeaways": [],
+      "transcript_preview": "I stream on twitch because I am an idiot. / theprimeagen I Meme on discord because I am an idiot. / discord Links Linode: https://linode.com/prime Discord: / discord Twitch: / theprimeagen Insta: / theprimeagen Twitter: / theprimeagen VimRC & i3: https://github.com/ThePrimeagen/.dotf... Keyboard: https://ohkeycaps.com/products/thepri... (PRIMEDACTYL $25 off) #vim #neovim #shorts"
+    },
+    {
+      "video_id": "nbVSITerFkE",
+      "title": "10 Years At Netflix",
+      "url": "https://www.youtube.com/watch?v=nbVSITerFkE",
+      "word_count": 46,
+      "executive_synopsis": "10 Years At Netflix",
+      "core_takeaways": [],
+      "transcript_preview": "it was a very fun and wild ride, but I cannot wait for what lies ahead. thank you everybody for hanging around Twitch / theprimeagen Best Way To Support Me The best way to support me is to support yourself by becoming a back-end dev https://boot.dev/prime"
+    },
+    {
+      "video_id": "nbVSITerFkE",
+      "title": "10 Years At Netflix",
+      "url": "https://www.youtube.com/watch?v=nbVSITerFkE",
+      "word_count": 42,
+      "executive_synopsis": "Tier 1 deep-dive content on '10 Years At Netflix' by ThePrimeagen. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.04s] 10 years at Netflix 10 and a half years\\n[2.919s] at Netflix and it's it's been two\\n[6.319s] weeks since I've quit and\\n[10.44s] man I've never felt better I don't have\\n[12.799s] node on my machine can you believe that\\n[15.0s] like this is amazing\"}"
+    },
+    {
+      "video_id": "iKifE10TUNA",
+      "title": "Is this TikTok Tech?",
+      "url": "https://www.youtube.com/watch?v=iKifE10TUNA",
+      "word_count": 39,
+      "executive_synopsis": "Tier 1 deep-dive content on 'Is this TikTok Tech?' by ThePrimeagen. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.24s] i'm going to show you how easy it is \\nto exit vim first you can open up vim\\n[8.0s] and sometimes you'll be presented \\nwith screens that look confusing\\n[12.96s] to exit vim press :wq :q it's just that easy\"}"
+    },
+    {
+      "video_id": "tLLQoF2JjAg",
+      "title": "Prime picks one language (Challenge Level: Impossible)",
+      "url": "https://www.youtube.com/watch?v=tLLQoF2JjAg",
+      "word_count": 31,
+      "executive_synopsis": "Prime picks one language (Challenge Level: Impossible)",
+      "core_takeaways": [],
+      "transcript_preview": "Ship Faster with Neon Postgres #ad Neon comes with Branching, Schema Diff, and Instant Point-In-Time Recovery to help you ship fast and recover faster. Get the free plan at neon.com #short"
+    },
+    {
+      "video_id": "4zJHs_L-GOc",
+      "title": "He did WHAT to the DB?",
+      "url": "https://www.youtube.com/watch?v=4zJHs_L-GOc",
+      "word_count": 30,
+      "executive_synopsis": "He did WHAT to the DB?",
+      "core_takeaways": [],
+      "transcript_preview": "Ship Faster with Neon Postgres #ad Neon comes with Branching, Schema Diff, and Instant Point-In-Time Recovery to help you ship fast and recover faster. Get the free plan at https://neon.com"
+    },
+    {
+      "video_id": "_iGHYwPU2WE",
+      "title": "A Billion Dollar Idea Gone Wrong",
+      "url": "https://www.youtube.com/watch?v=_iGHYwPU2WE",
+      "word_count": 29,
+      "executive_synopsis": "A Billion Dollar Idea Gone Wrong",
+      "core_takeaways": [],
+      "transcript_preview": "When traffic spikes, Neon\u2019s serverless Postgres autoscales to meet demand, without all that extra ops work. Get the free plan at https://neon.com Thanks Neon for sponsoring this video! #short"
+    },
+    {
+      "video_id": "V0MSrZ-ffjY",
+      "title": "Managing Software Engineers",
+      "url": "https://www.youtube.com/watch?v=V0MSrZ-ffjY",
+      "word_count": 27,
+      "executive_synopsis": "Managing Software Engineers",
+      "core_takeaways": [],
+      "transcript_preview": "Live At: / theprimeagen Full Video: __ FLP DELETE ME OR LINK PROPERLY __ Wanna Become a Backend Dev & Support me at the SAME TIME??? https://boot.dev/prime"
+    },
+    {
+      "video_id": "G8vdu30EEfw",
+      "title": "I like Game Programming",
+      "url": "https://www.youtube.com/watch?v=G8vdu30EEfw",
+      "word_count": 22,
+      "executive_synopsis": "I like Game Programming",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch : / theprimeagen Discord: / discord Support me (by becoming a backend dev): https://boot.dev/prime Get production ready SQLite with Turso: https://turso.tech/deeznuts"
+    },
+    {
+      "video_id": "js7_bCY6WEw",
+      "title": "Layout is harder than you think..",
+      "url": "https://www.youtube.com/watch?v=js7_bCY6WEw",
+      "word_count": 22,
+      "executive_synopsis": "Layout is harder than you think..",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch : / theprimeagen Discord: / discord Support me (by becoming a backend dev): https://boot.dev/prime Get production ready SQLite with Turso: https://turso.tech/deeznuts"
+    },
+    {
+      "video_id": "v2a6Nv7RSd0",
+      "title": "Find And Replace",
+      "url": "https://www.youtube.com/watch?v=v2a6Nv7RSd0",
+      "word_count": 22,
+      "executive_synopsis": "Find And Replace",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch : / theprimeagen Discord: / discord Support me (by becoming a backend dev): https://boot.dev/prime Get production ready SQLite with Turso: https://turso.tech/deeznuts"
+    },
+    {
+      "video_id": "c3yRbrYIUeo",
+      "title": "Programming Tier List 2024",
+      "url": "https://www.youtube.com/watch?v=c3yRbrYIUeo",
+      "word_count": 22,
+      "executive_synopsis": "Programming Tier List 2024",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch : / theprimeagen Discord: / discord Support me (by becoming a backend dev): https://boot.dev/prime Get production ready SQLite with Turso: https://turso.tech/deeznuts"
+    },
+    {
+      "video_id": "GKpwO-DGKiI",
+      "title": "I Hate Google",
+      "url": "https://www.youtube.com/watch?v=GKpwO-DGKiI",
+      "word_count": 22,
+      "executive_synopsis": "I Hate Google",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch : / theprimeagen Discord: / discord Support me (by becoming a backend dev): https://boot.dev/prime Get production ready SQLite with Turso: https://turso.tech/deeznuts"
+    },
+    {
+      "video_id": "A_XGsAl-LqY",
+      "title": "the worst man in tech",
+      "url": "https://www.youtube.com/watch?v=A_XGsAl-LqY",
+      "word_count": 22,
+      "executive_synopsis": "the worst man in tech",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch : / theprimeagen Discord: / discord Support me (by becoming a backend dev): https://boot.dev/prime Get production ready SQLite with Turso: https://turso.tech/deeznuts"
+    },
+    {
+      "video_id": "1-0r90bm6CE",
+      "title": "We Have A Problem..",
+      "url": "https://www.youtube.com/watch?v=1-0r90bm6CE",
+      "word_count": 22,
+      "executive_synopsis": "We Have A Problem..",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch : / theprimeagen Discord: / discord Support me (by becoming a backend dev): https://boot.dev/prime Get production ready SQLite with Turso: https://turso.tech/deeznuts"
+    },
+    {
+      "video_id": "dhuX9t2j5Hc",
+      "title": "This Keyboard",
+      "url": "https://www.youtube.com/watch?v=dhuX9t2j5Hc",
+      "word_count": 22,
+      "executive_synopsis": "This Keyboard",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch : / theprimeagen Discord: / discord Support me (by becoming a backend dev): https://boot.dev/prime Get production ready SQLite with Turso: https://turso.tech/deeznuts"
+    },
+    {
+      "video_id": "js7_bCY6WEw",
+      "title": "Layout is harder than you think..",
+      "url": "https://www.youtube.com/watch?v=js7_bCY6WEw",
+      "word_count": 22,
+      "executive_synopsis": "Layout is harder than you think..",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch : / theprimeagen Discord: / discord Support me (by becoming a backend dev): https://boot.dev/prime Get production ready SQLite with Turso: https://turso.tech/deeznuts"
+    },
+    {
+      "video_id": "GwcFxTuMYmU",
+      "title": "I Went To DEFCON!",
+      "url": "https://www.youtube.com/watch?v=GwcFxTuMYmU",
+      "word_count": 22,
+      "executive_synopsis": "I Went To DEFCON!",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch : / theprimeagen Discord: / discord Support me (by becoming a backend dev): https://boot.dev/prime Get production ready SQLite with Turso: https://turso.tech/deeznuts"
+    },
+    {
+      "video_id": "q5jcjAQXiIU",
+      "title": "WHY STARBUCKS, WHY?!?!",
+      "url": "https://www.youtube.com/watch?v=q5jcjAQXiIU",
+      "word_count": 19,
+      "executive_synopsis": "WHY STARBUCKS, WHY?!?!",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch : / theprimeagen Discord: / discord The Best Way To Support Me: Become A Better Backend Dev: https://boot.dev/prime"
+    },
+    {
+      "video_id": "c3yRbrYIUeo",
+      "title": "Programming Tier List 2024",
+      "url": "https://www.youtube.com/watch?v=c3yRbrYIUeo",
+      "word_count": 17,
+      "executive_synopsis": "Tier 1 deep-dive content on 'Programming Tier List 2024' by ThePrimeagen. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"Error 404: Not found. No transcript available for video c3yRbrYIUeo. Do not retry with the same input.\"}"
+    },
+    {
+      "video_id": "dhuX9t2j5Hc",
+      "title": "This Keyboard",
+      "url": "https://www.youtube.com/watch?v=dhuX9t2j5Hc",
+      "word_count": 17,
+      "executive_synopsis": "Tier 1 deep-dive content on 'This Keyboard' by ThePrimeagen. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"Error 404: Not found. No transcript available for video dhuX9t2j5Hc. Do not retry with the same input.\"}"
+    },
+    {
+      "video_id": "_TXO4RB3nIU",
+      "title": "How programming feels",
+      "url": "https://www.youtube.com/watch?v=_TXO4RB3nIU",
+      "word_count": 15,
+      "executive_synopsis": "Tier 1 deep-dive content on 'How programming feels' by ThePrimeagen. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"Error 408: Request failed (temporary). Request failed, please retry. Safe to retry after 1-5 seconds.\"}"
+    },
+    {
+      "video_id": "SEVD2nI4Bis",
+      "title": "Why Do I Suck At Programming?",
+      "url": "https://www.youtube.com/watch?v=SEVD2nI4Bis",
+      "word_count": 15,
+      "executive_synopsis": "Why Do I Suck At Programming?",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch : / theprimeagen Discord: / discord Support me (by becoming a backend dev): https://boot.dev/prime"
+    },
+    {
+      "video_id": "_ebVsYQou8A",
+      "title": "Programming Curves",
+      "url": "https://www.youtube.com/watch?v=_ebVsYQou8A",
+      "word_count": 15,
+      "executive_synopsis": "Programming Curves",
+      "core_takeaways": [],
+      "transcript_preview": "Twitch : / theprimeagen Discord: / discord Support me (by becoming a backend dev): https://boot.dev/prime"
+    },
+    {
+      "video_id": "_TXO4RB3nIU",
+      "title": "How programming feels",
+      "url": "https://www.youtube.com/watch?v=_TXO4RB3nIU",
+      "word_count": 13,
+      "executive_synopsis": "How programming feels",
+      "core_takeaways": [],
+      "transcript_preview": "This is how everything I do feels when I program. #shorts #coding #programming"
+    },
+    {
+      "video_id": "iKifE10TUNA",
+      "title": "Is this TikTok Tech?",
+      "url": "https://www.youtube.com/watch?v=iKifE10TUNA",
+      "word_count": 11,
+      "executive_synopsis": "Is this TikTok Tech?",
+      "core_takeaways": [],
+      "transcript_preview": "The hardest most excellent way to exit Vim ever. / theprimeagen"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+video_id: fwBIZRq-vzY
+title: 5 life-changing Linux tips
+channel: Fireship
+handle: '@Fireship'
+url: https://www.youtube.com/watch?v=fwBIZRq-vzY
+duration: '31:12'
+type: video
+transcript: this cooking trick recently changed my life if you just drop an egg to crack it instead of tapping it while holding it you'll never get shells in the result mind-blowing but now here are five Linux command tricks that will change your life if you're a programmer one use makeer to create multiple combinations of folders by surrounding the path with segments and braces two now CD into a deeply nested path and instead of using CD dot dot a bunch of times use CD Dash to go back where you started instead three now I want to create 100 files that could take all day unless you know how to run touch with a range of numbers and braces four one of these files is a log file that's constantly changing I can read the end of that file with tail but instead of constantly rerunning the command I can use f to follow changes and automatically get updates in real time pretty cool but if you already forgot all these tricks just run history 5 to print out your last five commands
+timestamps: [[0, 0], [39, 1], [80, 3], [119, 5], [157, 6], [198, 8], [235, 9], [271, 11], [310, 13], [350, 15], [388, 18], [428, 19], [468, 22], [505, 24], [542, 26], [582, 27], [623, 29], [663, 31], [701, 33], [741, 35], [781, 36], [819, 38], [857, 40], [893, 41], [934, 43]]

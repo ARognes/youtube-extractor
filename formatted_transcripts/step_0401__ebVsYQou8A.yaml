@@ -1,0 +1,9 @@
+video_id: _ebVsYQou8A
+title: Programming Curves
+channel: ThePrimeagen
+handle: '@ThePrimeagen'
+url: https://www.youtube.com/watch?v=_ebVsYQou8A
+duration: '35:00'
+type: video
+transcript: every language has a learning curve like when you use go the learning curve is very very simple it's like you have to get used to some of the things and then you do this and then you discover some of Go's warts and then boom you're done right it's pretty straightforward uh obviously like JavaScript and typescript they're also kind of a confusing language so they do something that's like this for a little bit and then you really get it and then there's some other hard stuff and it does this for a while but mostly it's a pretty easy language but rust on the other hand is where things go completely wrong so with rust the learning curve looks something like this you use it and you do single-threaded Rust and you learn about the borrow Checker and you're like ah this is easy it's not that bad and then you try async and you realize that you can't do it and then you spend the next two years of your life trying to understand rust only to find out that you actually truly should have just learned hll
+timestamps: [[0, 0], [41, 2], [79, 4], [118, 6], [158, 7], [197, 8], [237, 11], [274, 13], [315, 15], [348, 17], [385, 18], [425, 19], [461, 21], [501, 23], [537, 24], [576, 27], [617, 29], [657, 31], [689, 33], [730, 35], [768, 36], [808, 38], [847, 41], [887, 43], [920, 45], [958, 48], [994, 49]]

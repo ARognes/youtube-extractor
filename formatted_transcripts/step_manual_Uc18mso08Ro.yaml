@@ -1,0 +1,9 @@
+video_id: Uc18mso08Ro
+title: I Accidentally Turned Claude Into a Hacker...
+channel: NetworkChuck
+url: https://www.youtube.com/watch?v=Uc18mso08Ro
+duration: 00:58
+published: '2026-08-28 02:53:57'
+type: short
+transcript: '{"content":"\n[0.0s] Um, I accidentally turned Claw Desktop\n[2.0s] into a hacker. Watch this. I downloaded\n[4.0s] Docker Desktop and I enabled this new\n[6.0s] thing called the MCP toolkit. MCP or the\n[8.0s] model context protocol gives AI access\n[10.0s] to tools like Kali Linux. So, I enabled\n[13.0s] it and then I built a Kali Linux MCP\n[15.0s] server. It actually wasn''t that hard. I\n[17.0s] had this prompt I made and it tells\n[18.0s] Claude how to do everything. And then\n[20.0s] Claude spits out four files, a Docker\n[22.0s] file, a Python server, requirements, and\n[23.0s] a readme. Copy, paste, save. That''s it.\n[26.0s] Docker''s building our hacking container\n[27.0s] right now. With my new MCP server built,\n[29.0s] I can connect it to Docker''s MCP\n[31.0s] gateway. Click. That''s all it is. And\n[34.0s] once I restart Claude, boom. Claude now\n[37.0s] has access to Kali Linux, the hacking\n[39.0s] Linux distribution, which means it can\n[41.0s] hack. Let''s see what it can do. Scan\n[43.0s] this network. It''s running Net Map. Hack\n[45.0s] this web application. It''s doing it now.\n[47.0s] Check this out. The container starts up\n[49.0s] when it''s running, disappears when it''s\n[50.0s] done. No resources wasted. No permanent\n[53.0s] installation. No messing with your\n[54.0s] system. Just pure isolated ondemand\n[57.0s] hacking"}'
+timestamps: []

@@ -1,0 +1,9 @@
+video_id: pQMvO_ssdcA
+title: How many devs actually use that whole million-token context window...?
+channel: freeCodeCamp.org
+handle: '@freecodecamp'
+url: https://www.youtube.com/watch?v=pQMvO_ssdcA
+duration: '36:00'
+type: video
+transcript: we can't really extend the context lengths of LLMs a lot further. Like and and my I obviously I might regret saying this, but we've had million token context windows for 2 years now since Gemini first introduced it, and no one uses it. Everyone stays under 200k. Is Is that just practical reasons because of context rot and the fact that the more context you feed it generally the lower the quality output will become? So So yes, that that is that is up there uh in in the number of reasons, but there's also cost reasons, right? Like you get charged for every single context token that you put in there. So like why would you voluntarily make it more expensive for yourself? Uh and then there's also just order of magnitude reasons, right? Like let's say let's say I give you a million token context window today with zero context rot. It's perfect recall across all of it, right? Absolutely solved. 1 million. Then I Then I come along and go, you know what'd be really great? A 100 million token context window. Uh so you just 100x and like also perfect context rot. Like you know, uh amazing. Great. But I'm sitting over here. I'm in enterprise, and my document uh database and storage and notes started at 8 trillion tokens. What is your 100x going to do for me? Nothing. [laughter] Absolutely nothing.
+timestamps: [[0, 0], [35, 2], [75, 4], [116, 6], [150, 8], [188, 10], [227, 12], [266, 15], [305, 16], [342, 18], [381, 20], [422, 22], [463, 24], [504, 26], [543, 27], [582, 29], [623, 31], [662, 32], [676, 33], [715, 35], [756, 37], [793, 38], [832, 39], [871, 41], [912, 43], [949, 45], [984, 46], [1024, 48], [1064, 50], [1074, 51], [1111, 53], [1149, 55], [1189, 58], [1229, 61], [1267, 63]]

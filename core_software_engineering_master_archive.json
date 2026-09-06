@@ -1,0 +1,198 @@
+{
+  "core_id": "core_software_engineering",
+  "title": "Software Engineering & System Architecture Core",
+  "description": "High-density technical masterclasses on coding, Rust, VIM, web development, algorithms, and system design.",
+  "channels_included": [
+    "Derek Banas",
+    "Hacking and Cyber Security Club at Iowa State",
+    "ThePrimeagen",
+    "ThePrimeagenHighlights",
+    "Web Dev Simplified",
+    "freeCodeCamp.org"
+  ],
+  "total_videos_archived": 308,
+  "total_spoken_words": 125409,
+  "first_principles": [],
+  "taxonomy_dictionary": {
+    "Technical & Analytical Excellence": "Deep analysis of core domain concepts.",
+    "Practical Systems Architecture": "Real-world engineering and conceptual frameworks.",
+    "Actionable Key Insights": "Concise summary of key takeaways and mental models."
+  },
+  "catalog_summary": [
+    {
+      "video_id": "b-P5ZQ1NxxE",
+      "title": "Meta Muse Code & Muse Spark Course \u2013 Build AI Agents, APIs, and Full-Stack Apps",
+      "channel": "freeCodeCamp.org",
+      "word_count": 29882,
+      "synopsis": ""
+    },
+    {
+      "video_id": "wJWtZq6f-60",
+      "title": "Keyboard shortcuts",
+      "channel": "Derek Banas",
+      "word_count": 20602,
+      "synopsis": "Tier 1 deep-dive content on 'Keyboard shortcuts' by Derek Banas. High verbal density essay and technical breakdown."
+    },
+    {
+      "video_id": "N4mEzFDjqtA",
+      "title": "How to Make Video Games",
+      "channel": "Derek Banas",
+      "word_count": 9346,
+      "synopsis": "Tier 1 deep-dive content on 'How to Make Video Games' by Derek Banas. High verbal density essay and technical breakdown."
+    },
+    {
+      "video_id": "nwjAHQERL08",
+      "title": "C++ Tutorial",
+      "channel": "Derek Banas",
+      "word_count": 7660,
+      "synopsis": "Tier 1 deep-dive content on 'C++ Tutorial' by Derek Banas. High verbal density essay and technical breakdown."
+    },
+    {
+      "video_id": "sEte4hXEgJ8",
+      "title": "Learn in One Video",
+      "channel": "Derek Banas",
+      "word_count": 7406,
+      "synopsis": "Tier 1 deep-dive content on 'Learn in One Video' by Derek Banas. High verbal density essay and technical breakdown."
+    },
+    {
+      "video_id": "Yk-S8GKNKxM",
+      "title": "Learn to Program",
+      "channel": "Derek Banas",
+      "word_count": 5080,
+      "synopsis": "Tier 1 deep-dive content on 'Learn to Program' by Derek Banas. High verbal density essay and technical breakdown."
+    },
+    {
+      "video_id": "js7_bCY6WEw",
+      "title": "Layout is harder than you think..",
+      "channel": "ThePrimeagen",
+      "word_count": 4657,
+      "synopsis": "Tier 1 deep-dive content on 'Layout is harder than you think..' by ThePrimeagen. High verbal density essay and technical breakdown."
+    },
+    {
+      "video_id": "GwcFxTuMYmU",
+      "title": "I Went To DEFCON!",
+      "channel": "ThePrimeagen",
+      "word_count": 3220,
+      "synopsis": "Tier 1 deep-dive content on 'I Went To DEFCON!' by ThePrimeagen. High verbal density essay and technical breakdown."
+    },
+    {
+      "video_id": "HwmqZTnb7Co",
+      "title": "I learned Odin",
+      "channel": "ThePrimeagen",
+      "word_count": 2194,
+      "synopsis": ""
+    },
+    {
+      "video_id": "DamuE8TM3xo",
+      "title": "C# Tutorial",
+      "channel": "Derek Banas",
+      "word_count": 1409,
+      "synopsis": "Tier 1 deep-dive content on 'C# Tutorial' by Derek Banas. High verbal density essay and technical breakdown."
+    },
+    {
+      "video_id": "A_XGsAl-LqY",
+      "title": "the worst man in tech",
+      "channel": "ThePrimeagen",
+      "word_count": 1172,
+      "synopsis": "Tier 1 deep-dive content on 'the worst man in tech' by ThePrimeagen. High verbal density essay and technical breakdown."
+    },
+    {
+      "video_id": "y2YtMdNVElI",
+      "title": "Posts",
+      "channel": "Derek Banas",
+      "word_count": 874,
+      "synopsis": "Tier 1 deep-dive content on 'Posts' by Derek Banas. High verbal density essay and technical breakdown."
+    },
+    {
+      "video_id": "wEet5Gkn1Qg",
+      "title": "This Unknown TypeScript Feature is a Must Have for Large Projects",
+      "channel": "Web Dev Simplified",
+      "word_count": 678,
+      "synopsis": "Tier 1 deep-dive content on 'This Unknown TypeScript Feature is a Must Have for Large Projects' by Web Dev Simplified. High verbal density essay and technical breakdown."
+    },
+    {
+      "video_id": "eDqVqVyCo6k",
+      "title": "Python for Engineers & Robotics \u2013 Master NumPy, Pandas, and ChatGPT Automation",
+      "channel": "freeCodeCamp.org",
+      "word_count": 566,
+      "synopsis": ""
+    },
+    {
+      "video_id": "Ae6gQXacjaA",
+      "title": "The NEW React Activity Component Is a Game Changer for Performance",
+      "channel": "Web Dev Simplified",
+      "word_count": 530,
+      "synopsis": "Tier 1 deep-dive content on 'The NEW React Activity Component Is a Game Changer for Performance' by Web Dev Simplified. High verbal density essay and technical breakdown."
+    },
+    {
+      "video_id": "XMnRj4ooYz8",
+      "title": "3D Printing & Additive Manufacturing \u2013 Full Course",
+      "channel": "freeCodeCamp.org",
+      "word_count": 464,
+      "synopsis": ""
+    },
+    {
+      "video_id": "oDOw5tB3Udw",
+      "title": "Python for Beginners with Hands-On Projects",
+      "channel": "freeCodeCamp.org",
+      "word_count": 463,
+      "synopsis": ""
+    },
+    {
+      "video_id": "JcwH9RddzyE",
+      "title": "3 Must Use TSConfig Features",
+      "channel": "Web Dev Simplified",
+      "word_count": 447,
+      "synopsis": "Tier 1 deep-dive content on '3 Must Use TSConfig Features' by Web Dev Simplified. High verbal density essay and technical breakdown."
+    },
+    {
+      "video_id": "hIh2O9OL69o",
+      "title": "Build an AI Agent in Telegram with Vercel, Cursor, Composio",
+      "channel": "freeCodeCamp.org",
+      "word_count": 441,
+      "synopsis": ""
+    },
+    {
+      "video_id": "2WJ-ut_XEYQ",
+      "title": "Mastering JavaScript Dates and Times \u2013 Fundamentals to Advanced Techniques",
+      "channel": "freeCodeCamp.org",
+      "word_count": 439,
+      "synopsis": ""
+    },
+    {
+      "video_id": "YdhXnB5E-4s",
+      "title": "Intro to Shaders \u2013 JavaScript & p5.js Course for Beginners",
+      "channel": "freeCodeCamp.org",
+      "word_count": 393,
+      "synopsis": ""
+    },
+    {
+      "video_id": "Zy7EXDONlTY",
+      "title": "Agentic AI \u2013 Complete Course for Beginners",
+      "channel": "freeCodeCamp.org",
+      "word_count": 383,
+      "synopsis": ""
+    },
+    {
+      "video_id": "AZDSpS5v57w",
+      "title": "AI Agents For Beginners \u2013 OpenClaw Case Study",
+      "channel": "freeCodeCamp.org",
+      "word_count": 375,
+      "synopsis": ""
+    },
+    {
+      "video_id": "yhZhucDNxq4",
+      "title": "CSS corner-shape Is an Amazing NEW Property!",
+      "channel": "Web Dev Simplified",
+      "word_count": 362,
+      "synopsis": "Tier 1 deep-dive content on 'CSS corner-shape Is an Amazing NEW Property!' by Web Dev Simplified. High verbal density essay and technical breakdown."
+    },
+    {
+      "video_id": "lUnZ-NsD9Ag",
+      "title": "I Can\u2019t Believe This TS Feature Has No Documentation",
+      "channel": "Web Dev Simplified",
+      "word_count": 356,
+      "synopsis": "Tier 1 deep-dive content on 'I Can\u2019t Believe This TS Feature Has No Documentation' by Web Dev Simplified. High verbal density essay and technical breakdown."
+    }
+  ]
+}

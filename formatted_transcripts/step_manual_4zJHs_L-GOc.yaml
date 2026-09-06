@@ -1,0 +1,10 @@
+video_id: 4zJHs_L-GOc
+title: He did WHAT to the DB?
+channel: ThePrimeagen
+handle: '@ThePrimeagen'
+url: https://www.youtube.com/watch?v=4zJHs_L-GOc
+duration: 15 min
+published: '2026-08-28 03:04:26'
+type: video
+transcript: '{"content":"\n[0.24s] Hey teach, did you pull the latest\n[1.68s] changes?\n[2.56s] >> Um,\n[5.759s] the schema diff says that you removed\n[8.96s] >> all the foreign key constraints from the\n[11.04s] database.\n[11.92s] >> Yeah, I refactored those away.\n[13.759s] >> You refactored the constraints away.\n[16.72s] >> Don''t worry, we use TDD.\n[18.96s] >> First, no, we\n[20.48s] >> Secondly, why did you remove the foreign\n[23.439s] keys?\n[24.32s] >> Pretty obvious.\n[25.439s] >> Tariffs.\n[26.16s] >> Do you even know what tariffs are? It''s\n[28.96s] a tax imposed by the government on goods\n[30.88s] and services imported from another\n[32.8s] country. They serve as a trade barrier.\n[34.96s] >> You''re raising prices and could\n[36.079s] potentially reduce the available\n[37.2s] quantities for business and consumer.\n[39.44s] >> This was not how I pictured using\n[41.04s] instant restore.\n[42.079s] >> Fine, but don''t come crying to me when\n[44.64s] the IRS comes and knocking.\n[47.76s] Ship faster with Neon Postgress. Neon\n[50.079s] comes with branching, schema diff, and\n[52.079s] instant point in time recovery to help\n[53.84s] you ship fast and recover faster. Get\n[56.239s] the free plan at neon.com."}'
+timestamps: []

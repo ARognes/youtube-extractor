@@ -1,0 +1,9 @@
+video_id: SELP8EcngxQ
+title: DON'T MESS WITH THE MAIN LOOP!
+channel: The Cherno
+handle: '@TheCherno'
+url: https://www.youtube.com/watch?v=SELP8EcngxQ
+duration: '44:12'
+type: video
+transcript: What's also super weird is that we have another loop inside here. So these functions all have their own application loops. Then we've got one in here as well. That's a little bit weird. I think that this while loop is completely unnecessary if they happen to actually take over the entire code flow of the application by creating a pretty much endless while loop until the state changes. This is something that should be external to this function. This should be your main game loop. when you start to introduce subgame loops for no reason like this, it just destroys like the flow of your code. I'm going to go ahead and comment out every single Y loop that we have and then handle end state is also completely unnecessary. If I just run the game with those changes, look at that. We're playing the game. Our states work. Everything works the same way because this stuff was completely unnecessary and just added complexity to what I would call is a very critical part of our project, the main loop.
+timestamps: [[0, 0], [40, 3], [75, 5], [116, 7], [153, 9], [194, 11], [229, 13], [268, 15], [306, 18], [344, 20], [379, 22], [418, 23], [453, 25], [493, 27], [533, 30], [573, 32], [612, 34], [649, 36], [687, 37], [728, 40], [768, 42], [806, 44], [844, 46], [876, 47], [914, 49], [951, 51], [990, 54]]

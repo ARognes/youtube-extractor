@@ -1,0 +1,56 @@
+video_id: 7MykFJ7TByM
+title: Analyzing The Lindsay Clancy Case
+channel: HealthyGamerGG
+url: https://www.youtube.com/watch?v=7MykFJ7TByM
+duration: '29:29'
+word_count: 6362
+first_order_tags:
+- tag: vtag_dissociation_and_derealization
+  bound_second_order: dissociation_and_derealization
+  timestamp: '17:17'
+  seconds: 1036.8
+  context: depersonalization, bodily estrangement.
+- tag: vtag_task_initiation_and_procrastination
+  bound_second_order: task_initiation_and_procrastination
+  timestamp: '19:45'
+  seconds: 1184.6
+  context: injuries injuries. She is now paralyzed
+- tag: vtag_neurodivergence_and_adhd
+  bound_second_order: neurodivergence_and_adhd
+  timestamp: '24:29'
+  seconds: 1468.6
+  context: depression. I have trauma. I have ADHD.
+- tag: vtag_chronic_loneliness_and_isolation
+  bound_second_order: chronic_loneliness_and_isolation
+  timestamp: '29:00'
+  seconds: 1739.9
+  context: complete isolation because there's so
+- tag: vtag_chronic_loneliness_and_isolation
+  bound_second_order: chronic_loneliness_and_isolation
+  timestamp: '29:06'
+  seconds: 1746.3
+  context: lonely struggle. And so I think a lot of
+second_order_tags:
+- case_study_trial_breakdown
+- chronic_loneliness_and_isolation
+- clinical_lecture
+- clinical_psychiatry
+- developmental_and_childhood_trauma
+- dissociation_and_derealization
+- live_client_interview
+- neurodivergence_and_adhd
+- q_and_a_unpacking
+- relational_and_attachment_psychology
+- task_initiation_and_procrastination
+third_order_tags:
+- T3_EMOTIONAL_METABOLISM
+- T3_NEURODIVERGENCE_EXECUTIVE_FUNCTION
+key_phrases:
+- lindsay clancy
+- lindseay clancy
+- postpartum psychosis
+- mental illness
+- whether believe
+- been following
+summary_hook: Explores clinical_psychiatry, relational_and_attachment_psychology,
+  developmental_and_childhood_trauma.

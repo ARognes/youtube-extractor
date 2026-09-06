@@ -1,0 +1,9 @@
+video_id: FUbAgAE6Fh0
+title: 'Alice Ryhl: You cannot mess up switch statements in Rust'
+channel: The Pragmatic Engineer
+handle: '@pragmaticengineer'
+url: https://www.youtube.com/watch?v=FUbAgAE6Fh0
+duration: '27:42'
+type: video
+transcript: In almost every language, you have a switch for an enum, and you handle cases, and then you might have a default [music] or everything else, and sometimes you forget one of them. In Rust, you cannot do that either, right? >> That's right. So, in Rust, it's not called switch, it's called match, but it's the same idea. You can match on your enum, and then you can have a branch for each possibility it might be, and if you are missing one, that's a compiler error. And I think this kind of leads [music] to another way that Rust really helps with reliability, which is that if you're refactoring, I think Rust is really good at telling you all the places you need to update. And then, I just fix the compiler errors until the compiler stops shouting, and then, once I've done that, I've updated every place I need to update.
+timestamps: [[0, 0], [37, 1], [72, 3], [113, 4], [145, 5], [182, 7], [222, 8], [261, 10], [299, 12], [336, 13], [371, 15], [412, 17], [449, 19], [490, 20], [529, 22], [569, 25], [610, 27], [648, 29], [687, 31], [726, 34], [766, 36], [807, 37]]

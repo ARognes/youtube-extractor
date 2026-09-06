@@ -1,0 +1,5362 @@
+software_engineering:
+  title: Software Engineering, Systems & Game Dev
+  topic_count: 239
+  topics:
+    '285':
+      count: 1
+      video_ids:
+      - Bjrq1SMyFho
+    '501':
+      count: 1
+      video_ids:
+      - NYFGCESmikA
+    aaron:
+      count: 1
+      video_ids:
+      - wpn4H9BrbE0
+    adventure:
+      count: 1
+      video_ids:
+      - I5zgBXp4e8A
+    after:
+      count: 1
+      video_ids:
+      - QDxm5HEYbt8
+    ahmed:
+      count: 1
+      video_ids:
+      - DWct6VKwtF8
+    ai:
+      count: 42
+      video_ids:
+      - g3X8JauSWTM
+      - jIo2ccqPnLQ
+      - iqRcGCah0Kw
+      - Zy7EXDONlTY
+      - q3ca41YIZjc
+      - yVga-_gMfIM
+      - b-P5ZQ1NxxE
+      - suZ2Gt6i8do
+      - aC_LGqtk1WM
+      - AZDSpS5v57w
+      - 7q4D6_3syuE
+      - hIh2O9OL69o
+      - sgAZe8jOf9Y
+      - AXJqoPDCo4I
+      - 0Lo6MSGrxEA
+      - lFXt6mBEiTQ
+      - O3foXkb1Zos
+      - JoX93gO6eko
+      - A4aLYwtpyes
+      - NzpcuP2RAdQ
+      - s0oN6Tx5Xxo
+      - sSKAMOYPSho
+      - 1mvlBz6pj1I
+      - 7Z7ID5BbZU4
+      - cxQLKsktiBA
+      - t3my5ByUhFU
+      - w_nSaJRzLw4
+      - 7q4D6_3syuE
+      - CFI1ZnlHEFM
+      - quoNVa88XfE
+      - D9q5wnX2_DY
+      - G38pxFqeA6o
+      - Lr7JVKDZDPA
+      - vuK2gcA2l-Y
+      - NYFGCESmikA
+      - Y3h4XZPYIbI
+      - QMG5F64b454
+      - hwl5p-0LG1c
+      - NY9vbxnTV0Q
+      - Mt1w6TC5GLA
+      - O7XOUK4B5pg
+      - T7TkxOMftz4
+    algorithm:
+      count: 22
+      video_ids:
+      - RpLnQnurpLY
+      - R5fPn6W8m6k
+      - 1gy4sfsWGko
+      - n1VUnHD62r0
+      - EY-HmdHrUN8
+      - v87stFQMFNY
+      - 0Lo6MSGrxEA
+      - taoAAcS5PSw
+      - 2gG08VUuwzg
+      - _kNabHEZQlo
+      - Mzgw6zMtipQ
+      - dbq9uX_MycY
+      - by9lQvpvMIc
+      - U16RnpV48KQ
+      - t_QuHSwB0HY
+      - 5iSAvzU2WYY
+      - MazpwQNdJYQ
+      - p7IGZTjC008
+      - Bxdt6T_1qgc
+      - TsBDm0P0qaA
+      - 3FeySIv-gFM
+      - NY9vbxnTV0Q
+    all_videos:
+      count: 808
+      video_ids:
+      - L1Q5EdAewmw
+      - g3X8JauSWTM
+      - Gf0pR4_bv-o
+      - jIo2ccqPnLQ
+      - KZjDcePU7LQ
+      - RpLnQnurpLY
+      - R5fPn6W8m6k
+      - i8xSpSwm-90
+      - _aUO6n-m4pM
+      - iqRcGCah0Kw
+      - DC2p3kFjcK0
+      - eDqVqVyCo6k
+      - jTS0861fHLY
+      - 1gy4sfsWGko
+      - v3Pn71WQmOI
+      - nZgQhiD1V0o
+      - DkhhE97Swmo
+      - TsOQp1m3yd8
+      - oNxRxSE_eog
+      - C4--5aAgErI
+      - kHu709a0sp0
+      - UAv0LYLQi5c
+      - kt7HzEMHYbU
+      - JbELUePabIs
+      - lh6jyd8QT70
+      - QbFgSk70Or0
+      - aTshQwxKk4Q
+      - wDWKUvTKCaw
+      - 79MOweMsKJk
+      - hAsz5GAbBQE
+      - 2_HxguGi3Ek
+      - Zy7EXDONlTY
+      - XMnRj4ooYz8
+      - jSleBySk9sI
+      - bYgphDEWwvs
+      - cPydikT6iFE
+      - q3ca41YIZjc
+      - yVga-_gMfIM
+      - Rm3noBbrSSc
+      - reDRM0tqhNs
+      - -RwgDqKJlOw
+      - PVAstrvWPkQ
+      - b-P5ZQ1NxxE
+      - -NtGEpfzgzY
+      - suZ2Gt6i8do
+      - aC_LGqtk1WM
+      - uFcLedKoelA
+      - -eUtrUW2QVU
+      - p5-ldzaAa5E
+      - H7EtCra30vU
+      - fpjHZc9bbFk
+      - 06MiFKudGtE
+      - yrVWe_ZCAko
+      - L4-sJcTr0YU
+      - oDOw5tB3Udw
+      - YdhXnB5E-4s
+      - kApqGCMU1Rw
+      - 4GtVeULrNks
+      - g8iO2Z-oJDY
+      - ivcPYWmlkvA
+      - n1VUnHD62r0
+      - 0Z9RW_hhUT4
+      - aJP1AbZSqz8
+      - 4i5iFlP01mQ
+      - AZDSpS5v57w
+      - 6C14E9sQ_-w
+      - LEF7ZIRDFbg
+      - WjckELpzLOU
+      - 2WJ-ut_XEYQ
+      - c3pzcV9yi24
+      - eH6mUTHZ5C4
+      - uX719LQBLXw
+      - 60p4GF9UkWc
+      - hU6BVxtGd5g
+      - 1QF-3dchcL8
+      - FsxTQvo5QhM
+      - Ttgel7mQR-w
+      - fOnUAAUXC1E
+      - E189QG28rnE
+      - Sb0p1-TGjmc
+      - mABpAI-pCw0
+      - EY-HmdHrUN8
+      - lz9bQm3nZIM
+      - wc9gBBybgLw
+      - 7q4D6_3syuE
+      - Xa0Dcxd-qA8
+      - SWGFVNQNLm4
+      - gZ2V5VtwrCw
+      - 6ICGZ8RwNYQ
+      - RUlvn0dbA0k
+      - hIh2O9OL69o
+      - 2TqAC_VGRAc
+      - I7fEsbksKRE
+      - rQxPGqPq8wk
+      - QpR4QEv5Urk
+      - kpK1YHq2iUg
+      - JN7-ZBFYSCU
+      - zSEgcrsrgUk
+      - SAEdFG7_X_w
+      - zmGcJRYc03w
+      - 1EaMz6WLZN4
+      - FJU5ndGIrRs
+      - _kfST9l8nIE
+      - sUn3PtArxYI
+      - VfWbjvXDflY
+      - lbOghip5CPI
+      - 0_w09YMcWxw
+      - 1-tPqJ1F2TM
+      - m9pWPf7fHP0
+      - csIEMIoN0oQ
+      - j6eqC2mZI_0
+      - d9QHNkD_Pos
+      - j3nZR93bf5E
+      - 1jsr5okmlZ0
+      - lp1b29j0IB0
+      - v87stFQMFNY
+      - Sz7SImkdIpo
+      - wpn4H9BrbE0
+      - HotPesCSypw
+      - pkNzU-5oDiA
+      - mvXDQNNcDu4
+      - v84Hqh6y1Zs
+      - 4yzAmU1utkk
+      - KgTW0xfyr9A
+      - Qn5DDQn0fx0
+      - sgAZe8jOf9Y
+      - AXJqoPDCo4I
+      - I5zgBXp4e8A
+      - 6WRGN4Be7C8
+      - TX65XCk2-6U
+      - CKNh1zdwY6Q
+      - PiNeDarPzeI
+      - DWct6VKwtF8
+      - MxV24so-dw8
+      - 3sTR7e_BF38
+      - RwLSgaYPKA0
+      - HJetxNETyIg
+      - TTerxQRfcFc
+      - 7FKNmNYAP-4
+      - uuuzvOEC0zw
+      - 4fq8QlpEMec
+      - yZKdIxX9Zwc
+      - 5ioMqzMRFgM
+      - i8qUrxbyzos
+      - UAlT3cQ37LA
+      - qsBfyUzZhTc
+      - 5tl_e-sJPRY
+      - iVajTZgMk4M
+      - 7epj4wWX-tI
+      - VtCUn3mY-L8
+      - 1Ck0ETSfSf8
+      - 3j6v4wBZWR8
+      - HwmqZTnb7Co
+      - JFG0GMCMLgs
+      - usF4cpcxbZc
+      - n1cd1FhVAWY
+      - Iw_ldik9CDQ
+      - PkLwJicRI8s
+      - xVA-gUk8-aM
+      - TzWXqTJk6Qs
+      - kZNIHeCaZiM
+      - 0Lo6MSGrxEA
+      - r-GpCakJjxc
+      - 1vMtftJf7tQ
+      - XRKIa4k0h2E
+      - bybjFBOBJlg
+      - NlAFWaa9UQo
+      - cIbCxbrBCys
+      - MILJzR0x3IY
+      - l7xXW0EbK4g
+      - ZN16KVrEP8Q
+      - b2mLDkMSyn4
+      - UzDuMsnTIGQ
+      - NlZXAytUeeE
+      - xapvhkhlPNI
+      - MFY3Xhfs1Ck
+      - tYQyh1tjSFc
+      - js7_bCY6WEw
+      - 8tHJgtbj6rs
+      - JZ9GRFD-mSc
+      - Ip5pYl-MuYs
+      - 9UIIMBqq1D4
+      - kG3LWpuiLqg
+      - FWWhxfGq_yk
+      - taoAAcS5PSw
+      - ZH3iKbEiks0
+      - A_XGsAl-LqY
+      - GwcFxTuMYmU
+      - 3f9tbqSIm-E
+      - UWb1dw_kbvo
+      - x7v6SNIgJpE
+      - SCPVDpyApgQ
+      - lgG_vfbDPeo
+      - uuXrwA9nzM8
+      - 29kb8ouCGLA
+      - yXQipk_mBAo
+      - 6jPiuOXmxEc
+      - o462tY758CY
+      - E8cM12jRH7k
+      - TB0cXGvuw9A
+      - PHvbLmLPX6s
+      - gutR_LNoZw0
+      - 2gG08VUuwzg
+      - FrMRyXtiJkc
+      - SHZpaNdpJWo
+      - MHKRWmfcMBw
+      - 9K7zYN6_-2I
+      - qywq_1GVIGI
+      - -nwWpQJFGp8
+      - YHQWuLG78Hw
+      - lFXt6mBEiTQ
+      - O3foXkb1Zos
+      - _kNabHEZQlo
+      - XgqWCiOVh7A
+      - osOR3nusP2I
+      - heht1VB09fI
+      - JoX93gO6eko
+      - Q3phjJzF2Lg
+      - PS6SBnccxMA
+      - tHhiB1kA5Zw
+      - 9z_7WC8n5sY
+      - MrnOWLtCLas
+      - kEBXszEhC0U
+      - JZeJc9Z7dOg
+      - 5bL1WhHj668
+      - FVgbs2wvKmE
+      - uNZkTk5gLuo
+      - jNjaBcxaJ7Y
+      - ts4BD8AqD9g
+      - -sYDCt_NFIM
+      - nVD3pUEaTjU
+      - J6t5ev2Z9yk
+      - 5Cm0Lr-HPDk
+      - us6YPp9sNJM
+      - UOE6528pwFc
+      - ap08_AGPh8s
+      - zVRNcRFaZ94
+      - JzyE9hi912c
+      - zWIsnrxL-Zc
+      - 5dd8_N_nKRI
+      - kQLcoSuMKHg
+      - 6GuqNrV8LsQ
+      - Mzgw6zMtipQ
+      - BQLEW1c-69c
+      - DwYGgNebf_w
+      - crLnwWrPqvU
+      - kK10xwfKrdg
+      - TbZ3HzvFEto
+      - y53UNskR-zU
+      - 8X69_lt08nM
+      - Ir8oft_qAMQ
+      - 5pTBSafvQ7Y
+      - Y4IJxO518mI
+      - xtlDND7NVp8
+      - BBGef6HWwFA
+      - dbq9uX_MycY
+      - POzuXyuF9DQ
+      - xiK6w1pC8h4
+      - RDd71IUIgpg
+      - Epwlk4B90vk
+      - TTjYjSEGHek
+      - wV4i_kyKTmc
+      - ReeLQR7KCcM
+      - boD0ReK62FI
+      - nMHxdz-N7EU
+      - 7ap3CkBEpOE
+      - 3ra-jkrurR4
+      - w7i4amO_zaE
+      - X6AR2RMB5tE
+      - GKpwO-DGKiI
+      - QIyc6NKS5J0
+      - slL7AW9q8Fc
+      - bdumjiHabhQ
+      - D4YTJ2W5q4Y
+      - sH0_LJoMJd4
+      - h7UEwBaGoVo
+      - qAYFepR4GcE
+      - qZO9A5F6BZs
+      - A4aLYwtpyes
+      - -paLdjChPxo
+      - NzpcuP2RAdQ
+      - aWGVjFTbXc8
+      - q3197IjHQ0I
+      - cO42oAeC4jk
+      - vtGjBFBrYEw
+      - FP27I7v0BeM
+      - iRQfwiBIgRY
+      - KgBNqjhY230
+      - s0oN6Tx5Xxo
+      - KhftHT09F5g
+      - CKgNHc9YNe0
+      - MX2PNIzxXMc
+      - sSKAMOYPSho
+      - Glq1oDBy1cQ
+      - RzdM54i7buY
+      - -XT9R2P3I7M
+      - 8YBxh3s5Xe8
+      - BH9ZgUYjiic
+      - 2Pyp2QVjh6k
+      - bRBaIILTjf4
+      - qoQHvCylE_k
+      - 1mvlBz6pj1I
+      - 7Z7ID5BbZU4
+      - DogTO1jjFtI
+      - cxQLKsktiBA
+      - 7rxOOFvwU60
+      - t3my5ByUhFU
+      - U_D14T5TYuk
+      - UngVdAsQEiU
+      - 0SBuvicytZQ
+      - rK8iqJ9YtEg
+      - ixFH0MMFEvY
+      - khPGx9oCUYA
+      - 9aTRnV6g0eQ
+      - ULS7LHNScHc
+      - vmzt6I1IZg8
+      - NBjycPpPHQQ
+      - AhBL2MYlQj0
+      - 35cESnxXH6o
+      - PRBlLjHIV74
+      - S26VdcWQzRQ
+      - 88l9l3m5Vyw
+      - yxSl96druSQ
+      - Kxfz76plZHk
+      - bO2xNg3uX7I
+      - 63m2vvB4wo4
+      - Sh5B7ApPh7k
+      - MrlJQXOmTgo
+      - r-CKT4J14uM
+      - z76TrtlL930
+      - y8aYytIyzqs
+      - y-uopI6VtE4
+      - Mkcjcgo5X4c
+      - tUMFms9C3pc
+      - O2DPptDfYxs
+      - _CtiZMLZnCk
+      - rN4qvA2K8lA
+      - V9q-XvAwJQY
+      - pQMvO_ssdcA
+      - 1SKV4B_WPkg
+      - l0fEgTBT50M
+      - g4Jne1qDDhU
+      - 8C-lYCzCVX4
+      - MxaIP40tPCQ
+      - W6Ub1sJcW8Q
+      - QDxm5HEYbt8
+      - ko2IfE7NLvM
+      - u-xf1uMx9OE
+      - 4uNoRLpLud8
+      - 7l6bXLAKyEI
+      - ETQjANMlkWo
+      - w_nSaJRzLw4
+      - SXfDBlyqkNQ
+      - shN9XmVABnY
+      - 1ad9y0FmQ9g
+      - by8eAnez0i8
+      - 2daDUDDzFO8
+      - 4iLBN-30lQE
+      - VYfWfrk5P7w
+      - DlL_20x0QH8
+      - rBr-0bHQfxc
+      - Pv26QAOcb6Q
+      - ai2B8JYKz6I
+      - GyYhq5rVCFQ
+      - FUWfwyFb4fA
+      - p8ah0eA0NoI
+      - MoA9smLFUrc
+      - VGX97Pf-jkE
+      - pq4KLNfSr8w
+      - YwJeD1DH1zs
+      - 7q4D6_3syuE
+      - RSY85SLXzwk
+      - ZNFdkTIzdXM
+      - Sp5_d6coiqU
+      - 461735zrjzY
+      - MuCK81q1edU
+      - sYuFT-MJBFs
+      - Z0GX2mTUtfo
+      - 5JGVtttuDQA
+      - KfENDDEpCsI
+      - uL9oOZStezw
+      - q5jcjAQXiIU
+      - tLLQoF2JjAg
+      - _iGHYwPU2WE
+      - 4zJHs_L-GOc
+      - dhuX9t2j5Hc
+      - v2a6Nv7RSd0
+      - 1-0r90bm6CE
+      - c3yRbrYIUeo
+      - _ebVsYQou8A
+      - SEVD2nI4Bis
+      - EV13CNrq4ZA
+      - Iw_ldik9CDQ
+      - by9lQvpvMIc
+      - G8vdu30EEfw
+      - js7_bCY6WEw
+      - O-zPsGqbGkc
+      - SEp0NrXWwoo
+      - FSWPxvQvVd8
+      - Y7nhXvJ7yH8
+      - ovnyeq-Xxrc
+      - Xm_VGeTpS2Q
+      - CFI1ZnlHEFM
+      - HXIHpDnsizk
+      - nQrUeK0n1qw
+      - bP8mrNdR-hs
+      - quoNVa88XfE
+      - aP6w2OzidYM
+      - NykJhYdBoqU
+      - BY63sGoGXq0
+      - W7bZA9Fj6SA
+      - u2trdurv638
+      - fIhZqY_XKsc
+      - U16RnpV48KQ
+      - Fcryd-2e5Iw
+      - D9q5wnX2_DY
+      - JjHFubUPLV0
+      - WCwD_1Qm218
+      - ksBNx1vBm_0
+      - i3TyJIyPm84
+      - M-VU0fLjIUU
+      - jHAOMOZ_DPI
+      - P0XSS2Xst-U
+      - IHnKFire7Sk
+      - r3pGWijDzHE
+      - DJxEYOC8IRc
+      - 4P0HVCMX3kM
+      - I5_Gx3JNho8
+      - nbVSITerFkE
+      - oUDj8p7z0tQ
+      - _TXO4RB3nIU
+      - K9DXgfsY90U
+      - NHM_0w70sqo
+      - G38pxFqeA6o
+      - S_BvAiBAzyE
+      - iKifE10TUNA
+      - JcwH9RddzyE
+      - pe0ez1I7cgU
+      - lUnZ-NsD9Ag
+      - h1ZPBYhTT1k
+      - Ae6gQXacjaA
+      - wEet5Gkn1Qg
+      - Lr7JVKDZDPA
+      - Igrah5d-O68
+      - VRF1RJ0I77k
+      - gJMF924lrzc
+      - 7q3rvDU-kzk
+      - yhZhucDNxq4
+      - PqDfILvhAtM
+      - zv8ZDr0zGdU
+      - qoQHvCylE_k
+      - Sp5_d6coiqU
+      - Xm_VGeTpS2Q
+      - SQTij8_Kwl4
+      - 3aGylFJAzTk
+      - 1Rzz6mtab4c
+      - AzOWedAKoNQ
+      - m_QzKQAwNQw
+      - b2dmTqUtDfM
+      - UjR3eCwRi3U
+      - Jlxpwxt9FUU
+      - qpbcLKlL0RM
+      - Btv_oJFDjuE
+      - 4CYkhXIDxeQ
+      - t_QuHSwB0HY
+      - s2jm2Z22ibA
+      - d0GgzjCFWq0
+      - KR61bXsPlLU
+      - g3-PXyF8U70
+      - qhs-xppFRgE
+      - 25omXt_OjD4
+      - 0Ad5Frf8NBM
+      - 5iSAvzU2WYY
+      - IF414I26_K8
+      - R5UZsIwPbJA
+      - vfNHdVbE-l4
+      - T99fNXTUUaQ
+      - pbjR20eTLVs
+      - MazpwQNdJYQ
+      - 2h8VArJ3gnQ
+      - dJNFPv9Mj-Y
+      - p7IGZTjC008
+      - 6UlGLB_jiCs
+      - Bxdt6T_1qgc
+      - w00JOVpapxA
+      - hbCoIIApUpY
+      - QQIIP2d9tLc
+      - NqCFDLr5sJE
+      - qcDpJ2ptlMs
+      - NSWwX_ke760
+      - KmHe_QUCATQ
+      - zn8NQJr-Llg
+      - 3rzFiHb_wrA
+      - tWlILiOPXt4
+      - UUKugcJFoYc
+      - cIDiG9OiE5Y
+      - sK3HF8ctjJA
+      - y5MQPlIASHg
+      - OFIWQ4ACRAg
+      - 71UYjetDyVI
+      - EW-TnCOE1KE
+      - O0sqKJwh2Vk
+      - tzChF8csQKE
+      - sLVa0jK4Ea4
+      - Z09xJq5iA0c
+      - VShY5EliCMU
+      - cc7DSpNjB4E
+      - ootsnGiJhlU
+      - HjQEY4DXn2I
+      - yctUTf4-QcQ
+      - kUVH_cwpnpU
+      - hGtsTbYqMlo
+      - jX59sHt1g-M
+      - KG6BhJQxFvI
+      - l_OarXFY3eM
+      - FXpPVfribx4
+      - NK0QjGpolok
+      - PHXdLe2f9rs
+      - eopps3YF6aE
+      - rUxZ5N77M5E
+      - t1B1MyTH9Gk
+      - nmzhdLq_px4
+      - lAXOmE481j4
+      - Oyfv1ZeJnCM
+      - OVPT5jmoW4Y
+      - anmGtQQnE5c
+      - BQS365W0KXY
+      - 8bNsCBkX_bA
+      - Vz40rDiWnN8
+      - g5HWm3PTueE
+      - doD22hXmFgA
+      - kNau3hw-fPc
+      - wFfZx9WPpog
+      - qk205Lp2A10
+      - RLtvI4L1ntM
+      - c03m1QoyCjo
+      - bmwrKGV8YS0
+      - 2XZr5f0bdec
+      - ZZB1qRteuzc
+      - M_UI8tIsoYk
+      - v3OFlOkjr2c
+      - eXmMMuATJA0
+      - SELP8EcngxQ
+      - L4u7Zy_b868
+      - Ggxt06qSAe4
+      - AvQcTjB3gPg
+      - wM3TEvQn2hw
+      - e2Y-rhTlHHI
+      - rzRV2KhZK6I
+      - Xs0yQKI7Yw4
+      - Om0j9SLBDPQ
+      - 46WOuOrMwTQ
+      - 4JzDttgdILQ
+      - 5O2Yw_ldRjA
+      - rVBTxnRyOuE
+      - IxdGyqhppis
+      - h5ZNcAPXxew
+      - KRDJAHArqaw
+      - _bCx__Kczp4
+      - YdSdvIRkkDY
+      - BT-qkoaeGrw
+      - h9tLcD1r-6w
+      - QKn9yiLVlMM
+      - ZfHVlMqJIxY
+      - lFrpa_JSMRE
+      - CBy3RU_8fwk
+      - TsBDm0P0qaA
+      - 3FeySIv-gFM
+      - 1KqQeqZ3R9Y
+      - 92h_kU8O58M
+      - c1BPd8omBro
+      - 6Y_D4kAmmMw
+      - Ev7FqNa5rD0
+      - GtNvEna6bxc
+      - NRFT3iQx1BY
+      - rNaTxFf7McU
+      - oQPk9J7spw0
+      - 3anIKHxzjtc
+      - _rRan888rRY
+      - WG4vg-WyjNw
+      - YCjNT9qGjh4
+      - tdorU3sjt_0
+      - ST_fD5NL_pg
+      - DRlhpzc7ImA
+      - t2PwvjduEu4
+      - ouO1R6vFDBo
+      - W7sv1m-U2tk
+      - 9Cswiqrq6So
+      - lB0EBH30RLQ
+      - awegilW3DTc
+      - r-MPMKgQxEM
+      - DT1hWKnHiao
+      - NdA6aQR-s4U
+      - fAyGmUeNIFQ
+      - o4Hcwkr8t18
+      - LqXLcgXxaFE
+      - a8f_qpVHa3w
+      - 38gVgJj0eFQ
+      - iKK_tY5Ph-4
+      - KSkcgIYQy0U
+      - xafwfGVBxos
+      - nRI0dn6GTj8
+      - V0MSrZ-ffjY
+      - vuK2gcA2l-Y
+      - xwQ5dx4dE9g
+      - zWLMnCrD-XQ
+      - rp15VP8DStE
+      - -ZvR0R_ECg0
+      - rqX8PFcOpxA
+      - C1cs536u9u0
+      - yorTG9at90g
+      - IVcPPT799_A
+      - YDB_rzVacKY
+      - d_rZY6RsW8Y
+      - pBQ8ZP3WQP4
+      - NYFGCESmikA
+      - FknTw9bJsXM
+      - ZELTlRxTomE
+      - iyFRJLfmI6g
+      - UmAWPUGYeL0
+      - VoTdpW06DUY
+      - FUbAgAE6Fh0
+      - _S5w18sjYLk
+      - _02z3tvMr4I
+      - 8xBJPa_480Q
+      - Y3h4XZPYIbI
+      - Bjrq1SMyFho
+      - tbCKWX34_G4
+      - pOxDmRZIvZw
+      - smhGbgMTJFo
+      - rQZcO6tOkOc
+      - QMG5F64b454
+      - rZp6EBXzZVs
+      - hwl5p-0LG1c
+      - ZEFAlBd9SFg
+      - _qpFlXJJRag
+      - rv_ZacJYRFA
+      - yQDARWdrPeY
+      - zikJTpJgzzo
+      - CraafYnthYY
+      - 2CP_9-jCV6A
+      - DuU6ojvBIic
+      - JfPWbttemYE
+      - 8mh2R2OQ6IY
+      - ri0bERwqHsg
+      - TZ3cAtnU1hg
+      - 0UsSXSo3FBo
+      - N6N57HGRzik
+      - JTyNbRe1wBs
+      - oOGKHy__X1w
+      - dK44TlrSrhs
+      - EVqtBoU3pSw
+      - laCgvPLhL4I
+      - 9b4gl9IGCQ4
+      - mmxtoUnuNho
+      - jWgf7Nkwgto
+      - _RSEiT7I2ks
+      - NY9vbxnTV0Q
+      - -dhLuNcMUIo
+      - -wXAWc1RSS4
+      - 0Dt3175NeFs
+      - 0EvRSD1-jII
+      - 0Fp6-Feu1c4
+      - 0p0JLFZj2C8
+      - 0pLC2cNNVtM
+      - 0yxfb-drlE4
+      - 1-0r90bm6CE
+      - 1NEa-OcsTow
+      - 2ClljZaK6_A
+      - 2mq6YT-rlbk
+      - 3DCb1oeQ0Co
+      - 4E9TnpVBA6k
+      - 4JoBM7GkYyM
+      - 4Ju6eFW6_z0
+      - 4b-HN00X4F8
+      - 4vn8EgFl730
+      - 4zJHs_L-GOc
+      - 5baWML_4hRw
+      - 6IzjFGq5678
+      - 7afNvogg9kQ
+      - 7cq_t_Q_aPY
+      - 7q3rvDU-kzk
+      - 9O-ILd4UCXI
+      - 9gjUgJPMAMY
+      - 9okx4cA-wEE
+      - 9zk-IiT7c1U
+      - A_XGsAl-LqY
+      - Ae6gQXacjaA
+      - AtextKpPO-w
+      - AtgO8V_Enzo
+      - Ax4EfY9LrF4
+      - BN9BF0PyXHc
+      - DZsMkKIphHk
+      - DamuE8TM3xo
+      - Eg1dlwOsTuk
+      - EqjFFp36X4o
+      - FEDiAHzS0zw
+      - Fp5oQyNV_ws
+      - FxCr_oWSM8k
+      - GKpwO-DGKiI
+      - GwcFxTuMYmU
+      - H-ZyZ_CVIs8
+      - H6GdK-dChtY
+      - HURvJDldVGA
+      - Ht0anZiDrBs
+      - Ie6sSZQkUTM
+      - IwrvE-wHm84
+      - JcwH9RddzyE
+      - Jt6t6QKiq-8
+      - KBkkN12nVqs
+      - Kh8M_iiIhUY
+      - MkIp3vmeZls
+      - Mt1w6TC5GLA
+      - N4mEzFDjqtA
+      - NF3UAVFS6zE
+      - NavlPobhj7A
+      - NuGKoHIeaWs
+      - O7XOUK4B5pg
+      - OL9cQI5hIVE
+      - OosYzkP-pLk
+      - P1kaODKMisg
+      - P3bRQVw6Mrw
+      - P9U2ueWPAi4
+      - PqDfILvhAtM
+      - QPWi0yARPvk
+      - QqbMOgT9EFY
+      - S0VXZWlckIM
+      - SEVD2nI4Bis
+      - T7TkxOMftz4
+      - TDUgALOz99k
+      - WXGEXwL64aM
+      - XNhTZYl_qsM
+      - Xn6WhQHd40c
+      - XuCGItsAHXQ
+      - YXZPEo8BmNI
+      - Yk-S8GKNKxM
+      - ZTSI3DDP_4A
+      - ZZlg42OMc40
+      - _TXO4RB3nIU
+      - _TlQb8MKCNo
+      - _ebVsYQou8A
+      - _iGHYwPU2WE
+      - _puiq2M22oY
+      - bfTKHtZcA9w
+      - c3yRbrYIUeo
+      - cBKHkm_rt4I
+      - cNbWmjGNZD8
+      - cT22fTzotYc
+      - cqNBVrym3_U
+      - d4hFQyuKVhs
+      - dSIdMxhxI-w
+      - dhuX9t2j5Hc
+      - e8fYY0bYBDE
+      - evJJNusTTqg
+      - fKWAseIH3hg
+      - fZ0HabnlL-k
+      - fmlc6chSVU8
+      - fxgc_nkb-Bc
+      - gIJEjN9_fl8
+      - gnk86UQ0j0I
+      - h04f8Fjdvv0
+      - h1ZPBYhTT1k
+      - iKifE10TUNA
+      - ipIQsFJbMCk
+      - is4VisljPGM
+      - js7_bCY6WEw
+      - kXEQtQaDihI
+      - kihBEpEDSAE
+      - lP2XLZFTEAw
+      - lUnZ-NsD9Ag
+      - m5A1Wg8hYGo
+      - mE-DBId8u18
+      - mQQgB6VK_m4
+      - mtchx9_I7rY
+      - nbVSITerFkE
+      - nwjAHQERL08
+      - o3Yd93syPPs
+      - oJbfMBROEO0
+      - ocQ7ZKhHU5Q
+      - okrWXiQ3fHM
+      - oqsFdmvj3hM
+      - p4M50NgC9qU
+      - pIZ_MXutC0o
+      - pe0ez1I7cgU
+      - q5jcjAQXiIU
+      - q_kRP-SDPGQ
+      - qb02HEfPFks
+      - riOZ7BqSgDM
+      - rsrx4XsLlrA
+      - rzXwUp2_Kt8
+      - sEte4hXEgJ8
+      - tLLQoF2JjAg
+      - tb5yrBZSVh4
+      - uNdqKaiLwNE
+      - uh6o2UzoGo0
+      - uxCozEhW_Q4
+      - v2a6Nv7RSd0
+      - vx1VH3qTFjc
+      - wEet5Gkn1Qg
+      - wJWtZq6f-60
+      - wu8F-LbkgQA
+      - x1Tq_6LDK14
+      - xlG3DvMAQm0
+      - y2YtMdNVElI
+      - y6KFy6b4Uek
+      - yKAOMiNv-go
+      - yhZhucDNxq4
+      - zv8ZDr0zGdU
+    also:
+      count: 2
+      video_ids:
+      - crLnwWrPqvU
+      - W6Ub1sJcW8Q
+    amazon:
+      count: 4
+      video_ids:
+      - lp1b29j0IB0
+      - 3sTR7e_BF38
+      - yZKdIxX9Zwc
+      - y-uopI6VtE4
+    ania:
+      count: 2
+      video_ids:
+      - nVD3pUEaTjU
+      - 8C-lYCzCVX4
+    anniversary:
+      count: 1
+      video_ids:
+      - TbZ3HzvFEto
+    api:
+      count: 46
+      video_ids:
+      - _aUO6n-m4pM
+      - jTS0861fHLY
+      - 1gy4sfsWGko
+      - v3Pn71WQmOI
+      - nZgQhiD1V0o
+      - oNxRxSE_eog
+      - C4--5aAgErI
+      - kt7HzEMHYbU
+      - JbELUePabIs
+      - QbFgSk70Or0
+      - 79MOweMsKJk
+      - 2_HxguGi3Ek
+      - Zy7EXDONlTY
+      - bYgphDEWwvs
+      - L4-sJcTr0YU
+      - YdhXnB5E-4s
+      - kApqGCMU1Rw
+      - 4GtVeULrNks
+      - AZDSpS5v57w
+      - WjckELpzLOU
+      - 2WJ-ut_XEYQ
+      - gZ2V5VtwrCw
+      - hIh2O9OL69o
+      - v87stFQMFNY
+      - 7epj4wWX-tI
+      - ts4BD8AqD9g
+      - 1mvlBz6pj1I
+      - 7rxOOFvwU60
+      - U_D14T5TYuk
+      - s2jm2Z22ibA
+      - KR61bXsPlLU
+      - 25omXt_OjD4
+      - 0Ad5Frf8NBM
+      - IF414I26_K8
+      - R5UZsIwPbJA
+      - vfNHdVbE-l4
+      - AvQcTjB3gPg
+      - wM3TEvQn2hw
+      - 46WOuOrMwTQ
+      - 1KqQeqZ3R9Y
+      - GtNvEna6bxc
+      - NRFT3iQx1BY
+      - 9Cswiqrq6So
+      - NdA6aQR-s4U
+      - QMG5F64b454
+      - NY9vbxnTV0Q
+    apollo:
+      count: 1
+      video_ids:
+      - 4fq8QlpEMec
+    aran:
+      count: 1
+      video_ids:
+      - Kxfz76plZHk
+    arena:
+      count: 1
+      video_ids:
+      - QKn9yiLVlMM
+    async:
+      count: 5
+      video_ids:
+      - d0GgzjCFWq0
+      - 25omXt_OjD4
+      - 0Ad5Frf8NBM
+      - AvQcTjB3gPg
+      - 1KqQeqZ3R9Y
+    auri:
+      count: 1
+      video_ids:
+      - s0oN6Tx5Xxo
+    become:
+      count: 2
+      video_ids:
+      - 6WRGN4Be7C8
+      - q5jcjAQXiIU
+    berlin:
+      count: 2
+      video_ids:
+      - Kxfz76plZHk
+      - bO2xNg3uX7I
+    blockbuster:
+      count: 1
+      video_ids:
+      - 8C-lYCzCVX4
+    blow:
+      count: 1
+      video_ids:
+      - YdSdvIRkkDY
+    boss:
+      count: 1
+      video_ids:
+      - DuU6ojvBIic
+    branching:
+      count: 2
+      video_ids:
+      - tLLQoF2JjAg
+      - 4zJHs_L-GOc
+    burnout:
+      count: 4
+      video_ids:
+      - HjQEY4DXn2I
+      - NK0QjGpolok
+      - DT1hWKnHiao
+      - fxgc_nkb-Bc
+    chapters:
+      count: 1
+      video_ids:
+      - uuXrwA9nzM8
+    cheat:
+      count: 1
+      video_ids:
+      - wV4i_kyKTmc
+    check:
+      count: 4
+      video_ids:
+      - TbZ3HzvFEto
+      - Glq1oDBy1cQ
+      - W6Ub1sJcW8Q
+      - y5MQPlIASHg
+    choose:
+      count: 1
+      video_ids:
+      - HotPesCSypw
+    claudecode:
+      count: 1
+      video_ids:
+      - mQQgB6VK_m4
+    coderabbit:
+      count: 2
+      video_ids:
+      - vtGjBFBrYEw
+      - Glq1oDBy1cQ
+    coming:
+      count: 1
+      video_ids:
+      - 60p4GF9UkWc
+    compiler:
+      count: 6
+      video_ids:
+      - suZ2Gt6i8do
+      - aC_LGqtk1WM
+      - 06MiFKudGtE
+      - I7fEsbksKRE
+      - 9UIIMBqq1D4
+      - 9Cswiqrq6So
+    consider:
+      count: 1
+      video_ids:
+      - oQPk9J7spw0
+    consultant:
+      count: 1
+      video_ids:
+      - YDB_rzVacKY
+    continue:
+      count: 1
+      video_ids:
+      - RUlvn0dbA0k
+    counter_strike:
+      count: 1
+      video_ids:
+      - _RSEiT7I2ks
+    creativecoding:
+      count: 1
+      video_ids:
+      - fAyGmUeNIFQ
+    css:
+      count: 24
+      video_ids:
+      - kEBXszEhC0U
+      - 5Cm0Lr-HPDk
+      - vmzt6I1IZg8
+      - AhBL2MYlQj0
+      - Y7nhXvJ7yH8
+      - HXIHpDnsizk
+      - bP8mrNdR-hs
+      - BY63sGoGXq0
+      - pe0ez1I7cgU
+      - yhZhucDNxq4
+      - PqDfILvhAtM
+      - zv8ZDr0zGdU
+      - AzOWedAKoNQ
+      - dJNFPv9Mj-Y
+      - zn8NQJr-Llg
+      - 3rzFiHb_wrA
+      - cIDiG9OiE5Y
+      - VShY5EliCMU
+      - pOxDmRZIvZw
+      - QMG5F64b454
+      - PqDfILvhAtM
+      - pe0ez1I7cgU
+      - yhZhucDNxq4
+      - zv8ZDr0zGdU
+    danny:
+      count: 3
+      video_ids:
+      - PS6SBnccxMA
+      - Om0j9SLBDPQ
+      - Bjrq1SMyFho
+    dare:
+      count: 6
+      video_ids:
+      - g5HWm3PTueE
+      - doD22hXmFgA
+      - kNau3hw-fPc
+      - wFfZx9WPpog
+      - qk205Lp2A10
+      - RLtvI4L1ntM
+    database:
+      count: 7
+      video_ids:
+      - iqRcGCah0Kw
+      - aTshQwxKk4Q
+      - Zy7EXDONlTY
+      - 4GtVeULrNks
+      - hIh2O9OL69o
+      - 0Lo6MSGrxEA
+      - U_D14T5TYuk
+    dedicated:
+      count: 1
+      video_ids:
+      - _RSEiT7I2ks
+    delete:
+      count: 1
+      video_ids:
+      - V0MSrZ-ffjY
+    delivery:
+      count: 1
+      video_ids:
+      - DWct6VKwtF8
+    developing:
+      count: 1
+      video_ids:
+      - MHKRWmfcMBw
+    devlog:
+      count: 1
+      video_ids:
+      - kK10xwfKrdg
+    different:
+      count: 1
+      video_ids:
+      - lp1b29j0IB0
+    disagreed:
+      count: 1
+      video_ids:
+      - 1Ck0ETSfSf8
+    disco:
+      count: 1
+      video_ids:
+      - 60p4GF9UkWc
+    discordmarch25:
+      count: 1
+      video_ids:
+      - RUlvn0dbA0k
+    discover:
+      count: 2
+      video_ids:
+      - O2DPptDfYxs
+      - b2dmTqUtDfM
+    dive:
+      count: 1
+      video_ids:
+      - b2dmTqUtDfM
+    docker:
+      count: 6
+      video_ids:
+      - DC2p3kFjcK0
+      - Zy7EXDONlTY
+      - 0Lo6MSGrxEA
+      - 7Z7ID5BbZU4
+      - tbCKWX34_G4
+      - pOxDmRZIvZw
+    docs:
+      count: 4
+      video_ids:
+      - 3ra-jkrurR4
+      - 3anIKHxzjtc
+      - _rRan888rRY
+      - WG4vg-WyjNw
+    doom:
+      count: 1
+      video_ids:
+      - PS6SBnccxMA
+    dwarf:
+      count: 2
+      video_ids:
+      - I5zgBXp4e8A
+      - TX65XCk2-6U
+    elder:
+      count: 1
+      video_ids:
+      - QKn9yiLVlMM
+    elysium:
+      count: 1
+      video_ids:
+      - 60p4GF9UkWc
+    embark:
+      count: 1
+      video_ids:
+      - QKn9yiLVlMM
+    emotional:
+      count: 1
+      video_ids:
+      - smhGbgMTJFo
+    endor:
+      count: 1
+      video_ids:
+      - s0oN6Tx5Xxo
+    engineer:
+      count: 4
+      video_ids:
+      - yZKdIxX9Zwc
+      - d_rZY6RsW8Y
+      - pBQ8ZP3WQP4
+      - VoTdpW06DUY
+    europe:
+      count: 1
+      video_ids:
+      - lgG_vfbDPeo
+    ever:
+      count: 1
+      video_ids:
+      - mmxtoUnuNho
+    example:
+      count: 1
+      video_ids:
+      - 1Ck0ETSfSf8
+    explore:
+      count: 1
+      video_ids:
+      - O2DPptDfYxs
+    fallout:
+      count: 1
+      video_ids:
+      - QKn9yiLVlMM
+    faster:
+      count: 2
+      video_ids:
+      - tLLQoF2JjAg
+      - 4zJHs_L-GOc
+    feed:
+      count: 1
+      video_ids:
+      - Q3phjJzF2Lg
+    find:
+      count: 1
+      video_ids:
+      - EV13CNrq4ZA
+    finishing:
+      count: 1
+      video_ids:
+      - hbCoIIApUpY
+    first:
+      count: 1
+      video_ids:
+      - 0_w09YMcWxw
+    formal:
+      count: 1
+      video_ids:
+      - YDB_rzVacKY
+    fortress:
+      count: 2
+      video_ids:
+      - I5zgBXp4e8A
+      - TX65XCk2-6U
+    founder:
+      count: 2
+      video_ids:
+      - pBQ8ZP3WQP4
+      - VoTdpW06DUY
+    frank:
+      count: 1
+      video_ids:
+      - Bjrq1SMyFho
+    free:
+      count: 8
+      video_ids:
+      - 3ra-jkrurR4
+      - cO42oAeC4jk
+      - KhftHT09F5g
+      - sSKAMOYPSho
+      - Glq1oDBy1cQ
+      - 3anIKHxzjtc
+      - _rRan888rRY
+      - WG4vg-WyjNw
+    game:
+      count: 9
+      video_ids:
+      - n1cd1FhVAWY
+      - 3ra-jkrurR4
+      - g5HWm3PTueE
+      - 3anIKHxzjtc
+      - _rRan888rRY
+      - WG4vg-WyjNw
+      - ouO1R6vFDBo
+      - Bjrq1SMyFho
+      - DuU6ojvBIic
+    game_engine:
+      count: 2
+      video_ids:
+      - KgBNqjhY230
+      - 8xBJPa_480Q
+    games:
+      count: 2
+      video_ids:
+      - lgG_vfbDPeo
+      - oQPk9J7spw0
+    gergely:
+      count: 1
+      video_ids:
+      - d_rZY6RsW8Y
+    ghidra:
+      count: 1
+      video_ids:
+      - wV4i_kyKTmc
+    git:
+      count: 231
+      video_ids:
+      - RpLnQnurpLY
+      - R5fPn6W8m6k
+      - iqRcGCah0Kw
+      - DC2p3kFjcK0
+      - aTshQwxKk4Q
+      - wDWKUvTKCaw
+      - XMnRj4ooYz8
+      - 06MiFKudGtE
+      - 2WJ-ut_XEYQ
+      - hIh2O9OL69o
+      - I7fEsbksKRE
+      - rQxPGqPq8wk
+      - QpR4QEv5Urk
+      - v87stFQMFNY
+      - cIbCxbrBCys
+      - MFY3Xhfs1Ck
+      - ZH3iKbEiks0
+      - 3f9tbqSIm-E
+      - UWb1dw_kbvo
+      - x7v6SNIgJpE
+      - SCPVDpyApgQ
+      - 6jPiuOXmxEc
+      - o462tY758CY
+      - E8cM12jRH7k
+      - TB0cXGvuw9A
+      - PHvbLmLPX6s
+      - gutR_LNoZw0
+      - 2gG08VUuwzg
+      - FrMRyXtiJkc
+      - us6YPp9sNJM
+      - UOE6528pwFc
+      - ap08_AGPh8s
+      - zVRNcRFaZ94
+      - zWIsnrxL-Zc
+      - 5dd8_N_nKRI
+      - kQLcoSuMKHg
+      - 6GuqNrV8LsQ
+      - Mzgw6zMtipQ
+      - dbq9uX_MycY
+      - RDd71IUIgpg
+      - Epwlk4B90vk
+      - TTjYjSEGHek
+      - ReeLQR7KCcM
+      - boD0ReK62FI
+      - nMHxdz-N7EU
+      - 7ap3CkBEpOE
+      - w7i4amO_zaE
+      - X6AR2RMB5tE
+      - QIyc6NKS5J0
+      - slL7AW9q8Fc
+      - bdumjiHabhQ
+      - D4YTJ2W5q4Y
+      - sH0_LJoMJd4
+      - h7UEwBaGoVo
+      - qAYFepR4GcE
+      - qZO9A5F6BZs
+      - -paLdjChPxo
+      - NzpcuP2RAdQ
+      - aWGVjFTbXc8
+      - q3197IjHQ0I
+      - iRQfwiBIgRY
+      - CKgNHc9YNe0
+      - MX2PNIzxXMc
+      - RzdM54i7buY
+      - 8YBxh3s5Xe8
+      - BH9ZgUYjiic
+      - 1mvlBz6pj1I
+      - 7Z7ID5BbZU4
+      - DogTO1jjFtI
+      - cxQLKsktiBA
+      - 7rxOOFvwU60
+      - t3my5ByUhFU
+      - U_D14T5TYuk
+      - UngVdAsQEiU
+      - 9aTRnV6g0eQ
+      - ULS7LHNScHc
+      - vmzt6I1IZg8
+      - NBjycPpPHQQ
+      - AhBL2MYlQj0
+      - 35cESnxXH6o
+      - PRBlLjHIV74
+      - S26VdcWQzRQ
+      - 63m2vvB4wo4
+      - Sh5B7ApPh7k
+      - 7l6bXLAKyEI
+      - 2daDUDDzFO8
+      - RSY85SLXzwk
+      - ZNFdkTIzdXM
+      - Sp5_d6coiqU
+      - 461735zrjzY
+      - MuCK81q1edU
+      - sYuFT-MJBFs
+      - Z0GX2mTUtfo
+      - 5JGVtttuDQA
+      - KfENDDEpCsI
+      - uL9oOZStezw
+      - by9lQvpvMIc
+      - Y7nhXvJ7yH8
+      - ovnyeq-Xxrc
+      - Xm_VGeTpS2Q
+      - CFI1ZnlHEFM
+      - HXIHpDnsizk
+      - nQrUeK0n1qw
+      - bP8mrNdR-hs
+      - quoNVa88XfE
+      - aP6w2OzidYM
+      - NykJhYdBoqU
+      - BY63sGoGXq0
+      - W7bZA9Fj6SA
+      - u2trdurv638
+      - fIhZqY_XKsc
+      - U16RnpV48KQ
+      - D9q5wnX2_DY
+      - JjHFubUPLV0
+      - WCwD_1Qm218
+      - ksBNx1vBm_0
+      - i3TyJIyPm84
+      - M-VU0fLjIUU
+      - jHAOMOZ_DPI
+      - P0XSS2Xst-U
+      - r3pGWijDzHE
+      - DJxEYOC8IRc
+      - 4P0HVCMX3kM
+      - I5_Gx3JNho8
+      - oUDj8p7z0tQ
+      - K9DXgfsY90U
+      - JcwH9RddzyE
+      - pe0ez1I7cgU
+      - lUnZ-NsD9Ag
+      - h1ZPBYhTT1k
+      - Ae6gQXacjaA
+      - wEet5Gkn1Qg
+      - gJMF924lrzc
+      - 7q3rvDU-kzk
+      - yhZhucDNxq4
+      - PqDfILvhAtM
+      - zv8ZDr0zGdU
+      - Sp5_d6coiqU
+      - Xm_VGeTpS2Q
+      - SQTij8_Kwl4
+      - 3aGylFJAzTk
+      - 1Rzz6mtab4c
+      - AzOWedAKoNQ
+      - m_QzKQAwNQw
+      - Jlxpwxt9FUU
+      - qpbcLKlL0RM
+      - Btv_oJFDjuE
+      - 4CYkhXIDxeQ
+      - t_QuHSwB0HY
+      - s2jm2Z22ibA
+      - d0GgzjCFWq0
+      - KR61bXsPlLU
+      - g3-PXyF8U70
+      - qhs-xppFRgE
+      - 25omXt_OjD4
+      - 0Ad5Frf8NBM
+      - 5iSAvzU2WYY
+      - IF414I26_K8
+      - R5UZsIwPbJA
+      - vfNHdVbE-l4
+      - T99fNXTUUaQ
+      - pbjR20eTLVs
+      - MazpwQNdJYQ
+      - 2h8VArJ3gnQ
+      - dJNFPv9Mj-Y
+      - p7IGZTjC008
+      - 6UlGLB_jiCs
+      - Bxdt6T_1qgc
+      - w00JOVpapxA
+      - QQIIP2d9tLc
+      - NqCFDLr5sJE
+      - qcDpJ2ptlMs
+      - NSWwX_ke760
+      - zn8NQJr-Llg
+      - 3rzFiHb_wrA
+      - tWlILiOPXt4
+      - UUKugcJFoYc
+      - cIDiG9OiE5Y
+      - sK3HF8ctjJA
+      - OFIWQ4ACRAg
+      - sLVa0jK4Ea4
+      - Z09xJq5iA0c
+      - VShY5EliCMU
+      - cc7DSpNjB4E
+      - ootsnGiJhlU
+      - HjQEY4DXn2I
+      - yctUTf4-QcQ
+      - kUVH_cwpnpU
+      - FXpPVfribx4
+      - NK0QjGpolok
+      - PHXdLe2f9rs
+      - eopps3YF6aE
+      - rUxZ5N77M5E
+      - nmzhdLq_px4
+      - lAXOmE481j4
+      - Oyfv1ZeJnCM
+      - 8bNsCBkX_bA
+      - 2XZr5f0bdec
+      - L4u7Zy_b868
+      - Ggxt06qSAe4
+      - AvQcTjB3gPg
+      - wM3TEvQn2hw
+      - 46WOuOrMwTQ
+      - 4JzDttgdILQ
+      - 5O2Yw_ldRjA
+      - rVBTxnRyOuE
+      - IxdGyqhppis
+      - h5ZNcAPXxew
+      - KRDJAHArqaw
+      - _bCx__Kczp4
+      - ZfHVlMqJIxY
+      - lFrpa_JSMRE
+      - CBy3RU_8fwk
+      - TsBDm0P0qaA
+      - 3FeySIv-gFM
+      - 1KqQeqZ3R9Y
+      - 92h_kU8O58M
+      - c1BPd8omBro
+      - t2PwvjduEu4
+      - r-MPMKgQxEM
+      - fAyGmUeNIFQ
+      - xwQ5dx4dE9g
+      - yorTG9at90g
+      - _02z3tvMr4I
+      - tbCKWX34_G4
+      - pOxDmRZIvZw
+      - rQZcO6tOkOc
+      - QMG5F64b454
+      - rZp6EBXzZVs
+      - dK44TlrSrhs
+      - jWgf7Nkwgto
+    golf:
+      count: 4
+      video_ids:
+      - crLnwWrPqvU
+      - kK10xwfKrdg
+      - y53UNskR-zU
+      - YwJeD1DH1zs
+    google:
+      count: 1
+      video_ids:
+      - ETQjANMlkWo
+    grunn:
+      count: 3
+      video_ids:
+      - W6Ub1sJcW8Q
+      - QDxm5HEYbt8
+      - ko2IfE7NLvM
+    hades:
+      count: 1
+      video_ids:
+      - oQPk9J7spw0
+    half_life:
+      count: 1
+      video_ids:
+      - TbZ3HzvFEto
+    handma:
+      count: 1
+      video_ids:
+      - smhGbgMTJFo
+    handmade:
+      count: 1
+      video_ids:
+      - smhGbgMTJFo
+    hazel:
+      count: 8
+      video_ids:
+      - doD22hXmFgA
+      - kNau3hw-fPc
+      - wFfZx9WPpog
+      - qk205Lp2A10
+      - RLtvI4L1ntM
+      - M_UI8tIsoYk
+      - eXmMMuATJA0
+      - SELP8EcngxQ
+    hideko:
+      count: 1
+      video_ids:
+      - O2DPptDfYxs
+    hillel:
+      count: 1
+      video_ids:
+      - YDB_rzVacKY
+    host:
+      count: 1
+      video_ids:
+      - _RSEiT7I2ks
+    html:
+      count: 8
+      video_ids:
+      - E8cM12jRH7k
+      - Mzgw6zMtipQ
+      - NBjycPpPHQQ
+      - by8eAnez0i8
+      - Y7nhXvJ7yH8
+      - BY63sGoGXq0
+      - OFIWQ4ACRAg
+      - pOxDmRZIvZw
+    iasg:
+      count: 1
+      video_ids:
+      - wV4i_kyKTmc
+    ilspy:
+      count: 1
+      video_ids:
+      - wV4i_kyKTmc
+    implementing:
+      count: 1
+      video_ids:
+      - n1cd1FhVAWY
+    improve:
+      count: 1
+      video_ids:
+      - cO42oAeC4jk
+    interviewers:
+      count: 1
+      video_ids:
+      - wpn4H9BrbE0
+    intro:
+      count: 1
+      video_ids:
+      - uuXrwA9nzM8
+    itch:
+      count: 2
+      video_ids:
+      - QDxm5HEYbt8
+      - ko2IfE7NLvM
+    japan:
+      count: 1
+      video_ids:
+      - J6t5ev2Z9yk
+    jason:
+      count: 1
+      video_ids:
+      - 4fq8QlpEMec
+    javascript:
+      count: 86
+      video_ids:
+      - RpLnQnurpLY
+      - b-P5ZQ1NxxE
+      - YdhXnB5E-4s
+      - 2WJ-ut_XEYQ
+      - TTerxQRfcFc
+      - 7epj4wWX-tI
+      - 9UIIMBqq1D4
+      - taoAAcS5PSw
+      - 3f9tbqSIm-E
+      - UWb1dw_kbvo
+      - x7v6SNIgJpE
+      - SCPVDpyApgQ
+      - 6jPiuOXmxEc
+      - o462tY758CY
+      - E8cM12jRH7k
+      - TB0cXGvuw9A
+      - PHvbLmLPX6s
+      - gutR_LNoZw0
+      - 2gG08VUuwzg
+      - FrMRyXtiJkc
+      - RDd71IUIgpg
+      - Epwlk4B90vk
+      - TTjYjSEGHek
+      - ReeLQR7KCcM
+      - boD0ReK62FI
+      - nMHxdz-N7EU
+      - 7ap3CkBEpOE
+      - w7i4amO_zaE
+      - qAYFepR4GcE
+      - 7Z7ID5BbZU4
+      - 7rxOOFvwU60
+      - NBjycPpPHQQ
+      - 35cESnxXH6o
+      - Sh5B7ApPh7k
+      - Sp5_d6coiqU
+      - HXIHpDnsizk
+      - NykJhYdBoqU
+      - BY63sGoGXq0
+      - u2trdurv638
+      - fIhZqY_XKsc
+      - U16RnpV48KQ
+      - D9q5wnX2_DY
+      - JjHFubUPLV0
+      - WCwD_1Qm218
+      - ksBNx1vBm_0
+      - i3TyJIyPm84
+      - M-VU0fLjIUU
+      - jHAOMOZ_DPI
+      - P0XSS2Xst-U
+      - r3pGWijDzHE
+      - DJxEYOC8IRc
+      - 4P0HVCMX3kM
+      - I5_Gx3JNho8
+      - oUDj8p7z0tQ
+      - Sp5_d6coiqU
+      - 3aGylFJAzTk
+      - t_QuHSwB0HY
+      - s2jm2Z22ibA
+      - d0GgzjCFWq0
+      - KR61bXsPlLU
+      - g3-PXyF8U70
+      - 25omXt_OjD4
+      - 0Ad5Frf8NBM
+      - 5iSAvzU2WYY
+      - IF414I26_K8
+      - R5UZsIwPbJA
+      - vfNHdVbE-l4
+      - T99fNXTUUaQ
+      - pbjR20eTLVs
+      - MazpwQNdJYQ
+      - dJNFPv9Mj-Y
+      - p7IGZTjC008
+      - 6UlGLB_jiCs
+      - Bxdt6T_1qgc
+      - L4u7Zy_b868
+      - Ggxt06qSAe4
+      - AvQcTjB3gPg
+      - wM3TEvQn2hw
+      - 46WOuOrMwTQ
+      - rVBTxnRyOuE
+      - IxdGyqhppis
+      - h5ZNcAPXxew
+      - c1BPd8omBro
+      - 9Cswiqrq6So
+      - QMG5F64b454
+      - JfPWbttemYE
+    jeremy:
+      count: 1
+      video_ids:
+      - Bjrq1SMyFho
+    jessica:
+      count: 1
+      video_ids:
+      - J6t5ev2Z9yk
+    joke:
+      count: 1
+      video_ids:
+      - 1SKV4B_WPkg
+    jonathan:
+      count: 1
+      video_ids:
+      - YdSdvIRkkDY
+    kemple:
+      count: 1
+      video_ids:
+      - 4fq8QlpEMec
+    keys:
+      count: 1
+      video_ids:
+      - DuU6ojvBIic
+    kurt:
+      count: 1
+      video_ids:
+      - 4fq8QlpEMec
+    labs:
+      count: 1
+      video_ids:
+      - s0oN6Tx5Xxo
+    landon:
+      count: 1
+      video_ids:
+      - y8aYytIyzqs
+    last:
+      count: 3
+      video_ids:
+      - Iw_ldik9CDQ
+      - Kxfz76plZHk
+      - Iw_ldik9CDQ
+    league:
+      count: 1
+      video_ids:
+      - Om0j9SLBDPQ
+    legend:
+      count: 2
+      video_ids:
+      - MILJzR0x3IY
+      - ouO1R6vFDBo
+    lengstorf:
+      count: 1
+      video_ids:
+      - 4fq8QlpEMec
+    level:
+      count: 1
+      video_ids:
+      - smhGbgMTJFo
+    lindsay:
+      count: 1
+      video_ids:
+      - _S5w18sjYLk
+    link:
+      count: 1
+      video_ids:
+      - V0MSrZ-ffjY
+    linux:
+      count: 12
+      video_ids:
+      - DC2p3kFjcK0
+      - wDWKUvTKCaw
+      - oDOw5tB3Udw
+      - WjckELpzLOU
+      - j6eqC2mZI_0
+      - 0Lo6MSGrxEA
+      - ZH3iKbEiks0
+      - cc7DSpNjB4E
+      - NYFGCESmikA
+      - zikJTpJgzzo
+      - 2CP_9-jCV6A
+      - 9b4gl9IGCQ4
+    live:
+      count: 1
+      video_ids:
+      - V0MSrZ-ffjY
+    llm:
+      count: 10
+      video_ids:
+      - DkhhE97Swmo
+      - Zy7EXDONlTY
+      - b-P5ZQ1NxxE
+      - 06MiFKudGtE
+      - AZDSpS5v57w
+      - V9q-XvAwJQY
+      - t_QuHSwB0HY
+      - s2jm2Z22ibA
+      - 9Cswiqrq6So
+      - xafwfGVBxos
+    ludum:
+      count: 6
+      video_ids:
+      - g5HWm3PTueE
+      - doD22hXmFgA
+      - kNau3hw-fPc
+      - wFfZx9WPpog
+      - qk205Lp2A10
+      - RLtvI4L1ntM
+    maker:
+      count: 2
+      video_ids:
+      - ouO1R6vFDBo
+      - DuU6ojvBIic
+    march:
+      count: 1
+      video_ids:
+      - y53UNskR-zU
+    mark:
+      count: 2
+      video_ids:
+      - XgqWCiOVh7A
+      - heht1VB09fI
+    math:
+      count: 4
+      video_ids:
+      - zVRNcRFaZ94
+      - 5dd8_N_nKRI
+      - 8X69_lt08nM
+      - r3pGWijDzHE
+    maze:
+      count: 2
+      video_ids:
+      - Kxfz76plZHk
+      - bO2xNg3uX7I
+    meeting:
+      count: 1
+      video_ids:
+      - wV4i_kyKTmc
+    memory:
+      count: 16
+      video_ids:
+      - iqRcGCah0Kw
+      - 1gy4sfsWGko
+      - wDWKUvTKCaw
+      - Zy7EXDONlTY
+      - 06MiFKudGtE
+      - AZDSpS5v57w
+      - E189QG28rnE
+      - 7q4D6_3syuE
+      - hIh2O9OL69o
+      - HwmqZTnb7Co
+      - cIbCxbrBCys
+      - 9UIIMBqq1D4
+      - 7q4D6_3syuE
+      - h9tLcD1r-6w
+      - 9Cswiqrq6So
+      - yorTG9at90g
+    methods:
+      count: 1
+      video_ids:
+      - YDB_rzVacKY
+    midsize:
+      count: 1
+      video_ids:
+      - wpn4H9BrbE0
+    miro:
+      count: 1
+      video_ids:
+      - KhftHT09F5g
+    mode:
+      count: 1
+      video_ids:
+      - I5zgBXp4e8A
+    monday:
+      count: 1
+      video_ids:
+      - 6WRGN4Be7C8
+    more:
+      count: 4
+      video_ids:
+      - 3ra-jkrurR4
+      - 3anIKHxzjtc
+      - _rRan888rRY
+      - WG4vg-WyjNw
+    most:
+      count: 1
+      video_ids:
+      - 0_w09YMcWxw
+    music:
+      count: 1
+      video_ids:
+      - SHZpaNdpJWo
+    nebula:
+      count: 1
+      video_ids:
+      - _S5w18sjYLk
+    neet:
+      count: 2
+      video_ids:
+      - pBQ8ZP3WQP4
+      - VoTdpW06DUY
+    neetcode:
+      count: 2
+      video_ids:
+      - pBQ8ZP3WQP4
+      - VoTdpW06DUY
+    neon:
+      count: 3
+      video_ids:
+      - tLLQoF2JjAg
+      - _iGHYwPU2WE
+      - 4zJHs_L-GOc
+    neovim:
+      count: 1
+      video_ids:
+      - w7i4amO_zaE
+    netflix:
+      count: 1
+      video_ids:
+      - 8C-lYCzCVX4
+    next:
+      count: 1
+      video_ids:
+      - 29kb8ouCGLA
+    nintendo:
+      count: 1
+      video_ids:
+      - MILJzR0x3IY
+    noclip:
+      count: 16
+      video_ids:
+      - TsOQp1m3yd8
+      - lh6jyd8QT70
+      - -NtGEpfzgzY
+      - eH6mUTHZ5C4
+      - Ttgel7mQR-w
+      - SAEdFG7_X_w
+      - 1EaMz6WLZN4
+      - lbOghip5CPI
+      - RwLSgaYPKA0
+      - yXQipk_mBAo
+      - -nwWpQJFGp8
+      - PS6SBnccxMA
+      - xiK6w1pC8h4
+      - Om0j9SLBDPQ
+      - YdSdvIRkkDY
+      - oQPk9J7spw0
+    october:
+      count: 1
+      video_ids:
+      - ko2IfE7NLvM
+    official:
+      count: 1
+      video_ids:
+      - MILJzR0x3IY
+    order:
+      count: 1
+      video_ids:
+      - FSWPxvQvVd8
+    organizing:
+      count: 1
+      video_ids:
+      - 5bL1WhHj668
+    original:
+      count: 1
+      video_ids:
+      - FSWPxvQvVd8
+    orosz:
+      count: 1
+      video_ids:
+      - d_rZY6RsW8Y
+    other:
+      count: 1
+      video_ids:
+      - lp1b29j0IB0
+    page:
+      count: 1
+      video_ids:
+      - Q3phjJzF2Lg
+    performance:
+      count: 39
+      video_ids:
+      - L1Q5EdAewmw
+      - Gf0pR4_bv-o
+      - i8xSpSwm-90
+      - _aUO6n-m4pM
+      - v3Pn71WQmOI
+      - oNxRxSE_eog
+      - kt7HzEMHYbU
+      - QbFgSk70Or0
+      - aTshQwxKk4Q
+      - 2_HxguGi3Ek
+      - jSleBySk9sI
+      - q3ca41YIZjc
+      - Rm3noBbrSSc
+      - suZ2Gt6i8do
+      - p5-ldzaAa5E
+      - L4-sJcTr0YU
+      - g8iO2Z-oJDY
+      - 2WJ-ut_XEYQ
+      - FsxTQvo5QhM
+      - 7q4D6_3syuE
+      - Xa0Dcxd-qA8
+      - gZ2V5VtwrCw
+      - zSEgcrsrgUk
+      - zmGcJRYc03w
+      - sUn3PtArxYI
+      - d9QHNkD_Pos
+      - HJetxNETyIg
+      - 7FKNmNYAP-4
+      - i8qUrxbyzos
+      - UAlT3cQ37LA
+      - 5tl_e-sJPRY
+      - VtCUn3mY-L8
+      - 7q4D6_3syuE
+      - Sp5_d6coiqU
+      - by9lQvpvMIc
+      - Sp5_d6coiqU
+      - 5iSAvzU2WYY
+      - YCjNT9qGjh4
+      - 8xBJPa_480Q
+    play:
+      count: 8
+      video_ids:
+      - n1cd1FhVAWY
+      - uuXrwA9nzM8
+      - 29kb8ouCGLA
+      - SHZpaNdpJWo
+      - MHKRWmfcMBw
+      - crLnwWrPqvU
+      - QDxm5HEYbt8
+      - g5HWm3PTueE
+    playstation:
+      count: 1
+      video_ids:
+      - lgG_vfbDPeo
+    podcast:
+      count: 1
+      video_ids:
+      - d_rZY6RsW8Y
+    postgres:
+      count: 3
+      video_ids:
+      - tLLQoF2JjAg
+      - _iGHYwPU2WE
+      - 4zJHs_L-GOc
+    pragmatic:
+      count: 3
+      video_ids:
+      - d_rZY6RsW8Y
+      - pBQ8ZP3WQP4
+      - VoTdpW06DUY
+    president:
+      count: 1
+      video_ids:
+      - 1Ck0ETSfSf8
+    principal:
+      count: 2
+      video_ids:
+      - yZKdIxX9Zwc
+      - 1Ck0ETSfSf8
+    principle:
+      count: 1
+      video_ids:
+      - O-zPsGqbGkc
+    produced:
+      count: 1
+      video_ids:
+      - YdSdvIRkkDY
+    programming:
+      count: 2
+      video_ids:
+      - fAyGmUeNIFQ
+      - smhGbgMTJFo
+    python:
+      count: 29
+      video_ids:
+      - eDqVqVyCo6k
+      - b-P5ZQ1NxxE
+      - oDOw5tB3Udw
+      - n1VUnHD62r0
+      - WjckELpzLOU
+      - 1jsr5okmlZ0
+      - mvXDQNNcDu4
+      - iVajTZgMk4M
+      - 7epj4wWX-tI
+      - 3j6v4wBZWR8
+      - PkLwJicRI8s
+      - kZNIHeCaZiM
+      - 1vMtftJf7tQ
+      - XRKIa4k0h2E
+      - bybjFBOBJlg
+      - b2mLDkMSyn4
+      - UzDuMsnTIGQ
+      - NlZXAytUeeE
+      - xapvhkhlPNI
+      - 9UIIMBqq1D4
+      - SXfDBlyqkNQ
+      - KR61bXsPlLU
+      - ZEFAlBd9SFg
+      - _qpFlXJJRag
+      - rv_ZacJYRFA
+      - ri0bERwqHsg
+      - JTyNbRe1wBs
+      - oOGKHy__X1w
+      - laCgvPLhL4I
+    rachel:
+      count: 1
+      video_ids:
+      - 5bL1WhHj668
+    reach:
+      count: 1
+      video_ids:
+      - kHu709a0sp0
+    react:
+      count: 16
+      video_ids:
+      - 4GtVeULrNks
+      - aJP1AbZSqz8
+      - MFY3Xhfs1Ck
+      - 9aTRnV6g0eQ
+      - ULS7LHNScHc
+      - NBjycPpPHQQ
+      - 461735zrjzY
+      - sYuFT-MJBFs
+      - Ae6gQXacjaA
+      - sLVa0jK4Ea4
+      - Z09xJq5iA0c
+      - nRI0dn6GTj8
+      - vuK2gcA2l-Y
+      - pOxDmRZIvZw
+      - rZp6EBXzZVs
+      - Ae6gQXacjaA
+    rocket:
+      count: 1
+      video_ids:
+      - Om0j9SLBDPQ
+    rust:
+      count: 70
+      video_ids:
+      - 1gy4sfsWGko
+      - DkhhE97Swmo
+      - C4--5aAgErI
+      - aTshQwxKk4Q
+      - PVAstrvWPkQ
+      - b-P5ZQ1NxxE
+      - LEF7ZIRDFbg
+      - WjckELpzLOU
+      - gZ2V5VtwrCw
+      - v87stFQMFNY
+      - v84Hqh6y1Zs
+      - 3f9tbqSIm-E
+      - UWb1dw_kbvo
+      - x7v6SNIgJpE
+      - SCPVDpyApgQ
+      - 6jPiuOXmxEc
+      - o462tY758CY
+      - E8cM12jRH7k
+      - TB0cXGvuw9A
+      - PHvbLmLPX6s
+      - gutR_LNoZw0
+      - 2gG08VUuwzg
+      - FrMRyXtiJkc
+      - RDd71IUIgpg
+      - Epwlk4B90vk
+      - TTjYjSEGHek
+      - ReeLQR7KCcM
+      - boD0ReK62FI
+      - nMHxdz-N7EU
+      - 7ap3CkBEpOE
+      - w7i4amO_zaE
+      - qAYFepR4GcE
+      - A4aLYwtpyes
+      - -paLdjChPxo
+      - aWGVjFTbXc8
+      - FP27I7v0BeM
+      - iRQfwiBIgRY
+      - cxQLKsktiBA
+      - MxaIP40tPCQ
+      - ZNFdkTIzdXM
+      - sYuFT-MJBFs
+      - Z0GX2mTUtfo
+      - u2trdurv638
+      - fIhZqY_XKsc
+      - U16RnpV48KQ
+      - D9q5wnX2_DY
+      - JjHFubUPLV0
+      - WCwD_1Qm218
+      - ksBNx1vBm_0
+      - i3TyJIyPm84
+      - M-VU0fLjIUU
+      - jHAOMOZ_DPI
+      - P0XSS2Xst-U
+      - r3pGWijDzHE
+      - DJxEYOC8IRc
+      - 4P0HVCMX3kM
+      - I5_Gx3JNho8
+      - oUDj8p7z0tQ
+      - 3aGylFJAzTk
+      - tdorU3sjt_0
+      - ST_fD5NL_pg
+      - DRlhpzc7ImA
+      - W7sv1m-U2tk
+      - 9Cswiqrq6So
+      - NdA6aQR-s4U
+      - IVcPPT799_A
+      - ZELTlRxTomE
+      - iyFRJLfmI6g
+      - UmAWPUGYeL0
+      - FUbAgAE6Fh0
+    sales:
+      count: 1
+      video_ids:
+      - -wXAWc1RSS4
+    scrolls:
+      count: 1
+      video_ids:
+      - QKn9yiLVlMM
+    security:
+      count: 3
+      video_ids:
+      - _aUO6n-m4pM
+      - jTS0861fHLY
+      - G38pxFqeA6o
+    send:
+      count: 1
+      video_ids:
+      - hbCoIIApUpY
+    senior:
+      count: 1
+      video_ids:
+      - wpn4H9BrbE0
+    series:
+      count: 1
+      video_ids:
+      - TX65XCk2-6U
+    share:
+      count: 1
+      video_ids:
+      - b2dmTqUtDfM
+    ship:
+      count: 2
+      video_ids:
+      - tLLQoF2JjAg
+      - 4zJHs_L-GOc
+    shorts:
+      count: 1
+      video_ids:
+      - fAyGmUeNIFQ
+    sign:
+      count: 2
+      video_ids:
+      - cO42oAeC4jk
+      - _S5w18sjYLk
+    single:
+      count: 1
+      video_ids:
+      - O-zPsGqbGkc
+    sinking:
+      count: 1
+      video_ids:
+      - FSWPxvQvVd8
+    software:
+      count: 2
+      video_ids:
+      - yZKdIxX9Zwc
+      - PS6SBnccxMA
+    sokpop:
+      count: 2
+      video_ids:
+      - Kxfz76plZHk
+      - u-xf1uMx9OE
+    soon:
+      count: 1
+      video_ids:
+      - 60p4GF9UkWc
+    source:
+      count: 2
+      video_ids:
+      - O-zPsGqbGkc
+      - _RSEiT7I2ks
+    sources:
+      count: 1
+      video_ids:
+      - MILJzR0x3IY
+    spotify:
+      count: 1
+      video_ids:
+      - Q3phjJzF2Lg
+    sql:
+      count: 11
+      video_ids:
+      - yVga-_gMfIM
+      - js7_bCY6WEw
+      - A_XGsAl-LqY
+      - GwcFxTuMYmU
+      - GKpwO-DGKiI
+      - dhuX9t2j5Hc
+      - v2a6Nv7RSd0
+      - 1-0r90bm6CE
+      - c3yRbrYIUeo
+      - G8vdu30EEfw
+      - js7_bCY6WEw
+    star:
+      count: 1
+      video_ids:
+      - FSWPxvQvVd8
+    stars:
+      count: 1
+      video_ids:
+      - kHu709a0sp0
+    stay:
+      count: 6
+      video_ids:
+      - 0_w09YMcWxw
+      - lp1b29j0IB0
+      - HotPesCSypw
+      - 6WRGN4Be7C8
+      - DWct6VKwtF8
+      - 3sTR7e_BF38
+    steam:
+      count: 13
+      video_ids:
+      - kHu709a0sp0
+      - I5zgBXp4e8A
+      - TX65XCk2-6U
+      - n1cd1FhVAWY
+      - uuXrwA9nzM8
+      - 29kb8ouCGLA
+      - SHZpaNdpJWo
+      - MHKRWmfcMBw
+      - crLnwWrPqvU
+      - kK10xwfKrdg
+      - y53UNskR-zU
+      - QDxm5HEYbt8
+      - ko2IfE7NLvM
+    stocks:
+      count: 2
+      video_ids:
+      - Iw_ldik9CDQ
+      - Iw_ldik9CDQ
+    stories:
+      count: 1
+      video_ids:
+      - 3sTR7e_BF38
+    subscribe:
+      count: 5
+      video_ids:
+      - Ttgel7mQR-w
+      - 3ra-jkrurR4
+      - 3anIKHxzjtc
+      - _rRan888rRY
+      - WG4vg-WyjNw
+    summer:
+      count: 1
+      video_ids:
+      - Bjrq1SMyFho
+    supergiant:
+      count: 1
+      video_ids:
+      - oQPk9J7spw0
+    surf:
+      count: 1
+      video_ids:
+      - _RSEiT7I2ks
+    switch:
+      count: 1
+      video_ids:
+      - lgG_vfbDPeo
+    takeyourpromotion:
+      count: 1
+      video_ids:
+      - RUlvn0dbA0k
+    talk:
+      count: 1
+      video_ids:
+      - 3sTR7e_BF38
+    terminal:
+      count: 15
+      video_ids:
+      - DC2p3kFjcK0
+      - 4GtVeULrNks
+      - AZDSpS5v57w
+      - WjckELpzLOU
+      - mABpAI-pCw0
+      - Xa0Dcxd-qA8
+      - I7fEsbksKRE
+      - tYQyh1tjSFc
+      - taoAAcS5PSw
+      - ZH3iKbEiks0
+      - wM3TEvQn2hw
+      - 46WOuOrMwTQ
+      - 38gVgJj0eFQ
+      - iKK_tY5Ph-4
+      - yQDARWdrPeY
+    thanks:
+      count: 2
+      video_ids:
+      - s0oN6Tx5Xxo
+      - _iGHYwPU2WE
+    thecherno:
+      count: 1
+      video_ids:
+      - cO42oAeC4jk
+    these:
+      count: 1
+      video_ids:
+      - kK10xwfKrdg
+    they:
+      count: 4
+      video_ids:
+      - lp1b29j0IB0
+      - wpn4H9BrbE0
+      - 6WRGN4Be7C8
+      - 3sTR7e_BF38
+    toolkit:
+      count: 2
+      video_ids:
+      - ouO1R6vFDBo
+      - DuU6ojvBIic
+    tracklist:
+      count: 1
+      video_ids:
+      - W6Ub1sJcW8Q
+    transform:
+      count: 1
+      video_ids:
+      - RUlvn0dbA0k
+    treehacks:
+      count: 1
+      video_ids:
+      - 5bL1WhHj668
+    tripleten:
+      count: 1
+      video_ids:
+      - cO42oAeC4jk
+    trmnl:
+      count: 1
+      video_ids:
+      - y5MQPlIASHg
+    truth:
+      count: 1
+      video_ids:
+      - O-zPsGqbGkc
+    twitch:
+      count: 3
+      video_ids:
+      - q5jcjAQXiIU
+      - _ebVsYQou8A
+      - SEVD2nI4Bis
+    typecraft:
+      count: 1
+      video_ids:
+      - EVqtBoU3pSw
+    typescript:
+      count: 53
+      video_ids:
+      - bYgphDEWwvs
+      - b-P5ZQ1NxxE
+      - aJP1AbZSqz8
+      - 3f9tbqSIm-E
+      - UWb1dw_kbvo
+      - x7v6SNIgJpE
+      - SCPVDpyApgQ
+      - 6jPiuOXmxEc
+      - o462tY758CY
+      - E8cM12jRH7k
+      - TB0cXGvuw9A
+      - PHvbLmLPX6s
+      - gutR_LNoZw0
+      - 2gG08VUuwzg
+      - FrMRyXtiJkc
+      - RDd71IUIgpg
+      - Epwlk4B90vk
+      - TTjYjSEGHek
+      - ReeLQR7KCcM
+      - boD0ReK62FI
+      - nMHxdz-N7EU
+      - 7ap3CkBEpOE
+      - w7i4amO_zaE
+      - h7UEwBaGoVo
+      - 9aTRnV6g0eQ
+      - 35cESnxXH6o
+      - S26VdcWQzRQ
+      - 63m2vvB4wo4
+      - Sh5B7ApPh7k
+      - ovnyeq-Xxrc
+      - Xm_VGeTpS2Q
+      - nQrUeK0n1qw
+      - aP6w2OzidYM
+      - u2trdurv638
+      - fIhZqY_XKsc
+      - U16RnpV48KQ
+      - D9q5wnX2_DY
+      - JjHFubUPLV0
+      - WCwD_1Qm218
+      - ksBNx1vBm_0
+      - i3TyJIyPm84
+      - M-VU0fLjIUU
+      - jHAOMOZ_DPI
+      - P0XSS2Xst-U
+      - r3pGWijDzHE
+      - DJxEYOC8IRc
+      - 4P0HVCMX3kM
+      - I5_Gx3JNho8
+      - oUDj8p7z0tQ
+      - Igrah5d-O68
+      - Xm_VGeTpS2Q
+      - 3aGylFJAzTk
+      - sK3HF8ctjJA
+    ui:
+      count: 3
+      video_ids:
+      - vmzt6I1IZg8
+      - by9lQvpvMIc
+      - 38gVgJj0eFQ
+    undo:
+      count: 1
+      video_ids:
+      - mmxtoUnuNho
+    unreal:
+      count: 1
+      video_ids:
+      - Om0j9SLBDPQ
+    update:
+      count: 1
+      video_ids:
+      - TbZ3HzvFEto
+    valve:
+      count: 1
+      video_ids:
+      - TbZ3HzvFEto
+    vice:
+      count: 1
+      video_ids:
+      - 1Ck0ETSfSf8
+    vim:
+      count: 11
+      video_ids:
+      - FrMRyXtiJkc
+      - bdumjiHabhQ
+      - D4YTJ2W5q4Y
+      - qZO9A5F6BZs
+      - 5JGVtttuDQA
+      - KfENDDEpCsI
+      - uL9oOZStezw
+      - jHAOMOZ_DPI
+      - w00JOVpapxA
+      - mmxtoUnuNho
+      - jWgf7Nkwgto
+    warp:
+      count: 1
+      video_ids:
+      - sSKAMOYPSho
+    wayne:
+      count: 1
+      video_ids:
+      - YDB_rzVacKY
+    well:
+      count: 1
+      video_ids:
+      - XgqWCiOVh7A
+    while:
+      count: 2
+      video_ids:
+      - Iw_ldik9CDQ
+      - Iw_ldik9CDQ
+    witness:
+      count: 1
+      video_ids:
+      - YdSdvIRkkDY
+    word:
+      count: 5
+      video_ids:
+      - n1cd1FhVAWY
+      - uuXrwA9nzM8
+      - 29kb8ouCGLA
+      - SHZpaNdpJWo
+      - MHKRWmfcMBw
+    xbox:
+      count: 1
+      video_ids:
+      - lgG_vfbDPeo
+    yours:
+      count: 2
+      video_ids:
+      - Iw_ldik9CDQ
+      - Iw_ldik9CDQ
+    zelda:
+      count: 2
+      video_ids:
+      - MILJzR0x3IY
+      - ouO1R6vFDBo
+cybersecurity_homelabs:
+  title: Cybersecurity, Networking & Homelabs
+  topic_count: 89
+  topics:
+    agenda:
+      count: 2
+      video_ids:
+      - 2hxD1nDvafE
+      - dm7ZvqnFweI
+    agent:
+      count: 1
+      video_ids:
+      - qU6ZQRSYusQ
+    ai:
+      count: 24
+      video_ids:
+      - 0ogfPb6aejo
+      - 1AVlW7TB-Oo
+      - 4dqhgCM6LNU
+      - 86MHiDGHUgo
+      - EOPo7yL86vE
+      - FYL9e_aqZY0
+      - LDLRxUcdbyc
+      - MsQACpcuTkU
+      - Tb8m5nE7PZk
+      - YSsvdQ12Jns
+      - YiVD5IPxif0
+      - _yfiUQSbdPY
+      - d0gTthacB5c
+      - d17gJs4n45Y
+      - eGBxLRPBLM4
+      - gEElEzKazYA
+      - gi3h2wr_wwM
+      - kerRwLePW7I
+      - pSZilybp7mc
+      - pwWBcsxEoLk
+      - s1O09zc3xVY
+      - tgmEHQv7ozQ
+      - tu1amrfflb8
+      - v7-gJ3uqZ5A
+    all_videos:
+      count: 178
+      video_ids:
+      - 5bsI3M44NWo
+      - AVd3ds5U2xc
+      - NQGYqypeUOs
+      - -SSI6E5QCOw
+      - j43j9iwU158
+      - -mKb75P7wT0
+      - mWFKVqtAkeI
+      - qUVsX49fNFw
+      - b1huB4CSzks
+      - bMPgRlgcJcE
+      - ssavPVf6JvE
+      - mrcnQu6Xfas
+      - W5fK8BmgBow
+      - 3lJ5oT_JviI
+      - TpVM45JNupQ
+      - oMUaZsvJQVQ
+      - xVm6_IIrHc4
+      - XXrCAC6bUsk
+      - 2hxD1nDvafE
+      - dm7ZvqnFweI
+      - iCY_p4-8ARU
+      - H17fPCEcKCs
+      - 07misOuLmAM
+      - sabTrAoB_9s
+      - WQU2B3DCle0
+      - miR9CW5JEWI
+      - wThDpMvmVL4
+      - B0YuL_RHre4
+      - 0YBB5I5FuNk
+      - yxNhs5fzFDU
+      - E7SMiSG5-T4
+      - WHbfbfI6F_M
+      - fa9HLNUgZdM
+      - R0GB59nBKHs
+      - AlM0vylK_r8
+      - uNw6XzFhQ8w
+      - mBCQTqgwJxw
+      - Ux07J-wS2VA
+      - yPkRPVPMtWE
+      - TX_FqZ2ZlC8
+      - -xCp7nag3GM
+      - HHEQVXNCrW8
+      - iqxMMSuv1RY
+      - ByfvX1z0u-I
+      - Dm9cRcuiG2I
+      - pGjXwvD9tB4
+      - oTMRGD5B2fI
+      - d3lLtSnLoEo
+      - uk1AjAwZuvU
+      - iCY_p4-8ARU
+      - O-Wu5Whk8eI
+      - cY9s-c7X0ok
+      - NZ_PEaXWDRA
+      - VMCyEZSwsz4
+      - 3TLLAS54Pl0
+      - DsfsZQjOfu0
+      - f38sotYHqtA
+      - oCez-4XUoew
+      - bZDE6I5B9-E
+      - f0C3RH7baEw
+      - qU6ZQRSYusQ
+      - W_vcDJPSZLU
+      - oFiJ-EJIGrQ
+      - I6mlaPLPcXU
+      - 1NoocEuep2s
+      - EsCfPxjmnjo
+      - QQEgIo4Juxg
+      - 7Ovt55dTtRg
+      - L8tdPYqFV7E
+      - 6Yt9VV2QYBw
+      - bFgTxr5yst0
+      - s96JeuuwLzc
+      - _KzObeom88Y
+      - GVlq6lATZ2M
+      - _CuibYl_Fh0
+      - p8zckJ8Tg9Y
+      - fwBIZRq-vzY
+      - 4G-bi-aUu0E
+      - pvn-fxkEiZk
+      - HKAgsjTx-bs
+      - dZ4l-pUG7jo
+      - 5dxuppvclxE
+      - GGKACegWMAE
+      - -abob21omcM
+      - -xCp7nag3GM
+      - 0ogfPb6aejo
+      - 1AVlW7TB-Oo
+      - 1h6TKnVOqQw
+      - 34D1imLordU
+      - 3XkBH83P93s
+      - 4dqhgCM6LNU
+      - 5UE_G0zGsO0
+      - 5zyujD1gDc4
+      - 7-CouekrkOc
+      - 86MHiDGHUgo
+      - 8DUV6axCC3M
+      - 8W92cckXuTg
+      - 8aArJSRLpJw
+      - 8jWFN6vQf8Y
+      - 9LjgqZ2wP0g
+      - 9SDkU5VDQEQ
+      - 9fA2wAWvhJM
+      - 9lWDK_6FTjo
+      - AUb-xpYoV8I
+      - AlM0vylK_r8
+      - CqFfcZELbG0
+      - DlEr86sNnFo
+      - Dm9cRcuiG2I
+      - EOPo7yL86vE
+      - EbRLfRZoejM
+      - F2pG7EJ0lS4
+      - FYL9e_aqZY0
+      - G3jvn7n-68Y
+      - GE1c4Tb3Zsw
+      - GVlq6lATZ2M
+      - GuTcle5edjk
+      - HHEQVXNCrW8
+      - HUXUnMbeOyo
+      - IQX3MIzIBBA
+      - LDLRxUcdbyc
+      - LcueDIPb3vk
+      - LhnH0juUaGw
+      - MDIqCQh5B-c
+      - MsQACpcuTkU
+      - NfG_yQ4RpyI
+      - R0GB59nBKHs
+      - RHQmwsw5Aeo
+      - T-HZHO_PQPY
+      - TX_FqZ2ZlC8
+      - Tb8m5nE7PZk
+      - Uc18mso08Ro
+      - W-uDWefB-6c
+      - WHbfbfI6F_M
+      - WQveY48yM7U
+      - W_vcDJPSZLU
+      - X-3aaDeP9Rw
+      - XApvdsXEyyw
+      - YC77Lb_cN6c
+      - YSsvdQ12Jns
+      - YiVD5IPxif0
+      - _31113MIaxI
+      - _3pW7mkKTDk
+      - _yfiUQSbdPY
+      - a3RI4DjFBzw
+      - acSlR6UD6yM
+      - axfNxZ1R6C4
+      - budTmdQfXYU
+      - cGXAmnUabEY
+      - d0gTthacB5c
+      - d17gJs4n45Y
+      - dbMXi9q78Tk
+      - eGBxLRPBLM4
+      - eGSsoSEppNU
+      - fa9HLNUgZdM
+      - g-Ss2AEEP58
+      - gEElEzKazYA
+      - gM5O0zCqriM
+      - gi3h2wr_wwM
+      - iKTKDRkVEQU
+      - kerRwLePW7I
+      - l1L0OTlI00k
+      - lO961HRQn5Q
+      - lax6vdOko20
+      - m1fxirQn9AA
+      - mTpvUlng5ls
+      - o-8amaZBi5M
+      - pSZilybp7mc
+      - pwWBcsxEoLk
+      - qFsj6KL8_nU
+      - qK7uaQyjTqg
+      - s1O09zc3xVY
+      - tMFtT7xBhp8
+      - tgmEHQv7ozQ
+      - tu1amrfflb8
+      - uk1AjAwZuvU
+      - v7-gJ3uqZ5A
+      - vD-5FhePDGY
+      - yPGimRqITrc
+    amazon:
+      count: 1
+      video_ids:
+      - bZDE6I5B9-E
+    anonymous:
+      count: 1
+      video_ids:
+      - oFiJ-EJIGrQ
+    api:
+      count: 3
+      video_ids:
+      - ByfvX1z0u-I
+      - O-Wu5Whk8eI
+      - s96JeuuwLzc
+    become:
+      count: 1
+      video_ids:
+      - 5dxuppvclxE
+    brandon:
+      count: 1
+      video_ids:
+      - 0YBB5I5FuNk
+    cartel:
+      count: 1
+      video_ids:
+      - qU6ZQRSYusQ
+    ccna:
+      count: 1
+      video_ids:
+      - GVlq6lATZ2M
+    center:
+      count: 1
+      video_ids:
+      - cY9s-c7X0ok
+    check:
+      count: 1
+      video_ids:
+      - W_vcDJPSZLU
+    collateral:
+      count: 1
+      video_ids:
+      - oFiJ-EJIGrQ
+    dart:
+      count: 2
+      video_ids:
+      - iCY_p4-8ARU
+      - iCY_p4-8ARU
+    david:
+      count: 1
+      video_ids:
+      - WQU2B3DCle0
+    dead:
+      count: 1
+      video_ids:
+      - oFiJ-EJIGrQ
+    defence:
+      count: 2
+      video_ids:
+      - iCY_p4-8ARU
+      - iCY_p4-8ARU
+    deleteme:
+      count: 3
+      video_ids:
+      - oTMRGD5B2fI
+      - d3lLtSnLoEo
+      - VMCyEZSwsz4
+    dirb:
+      count: 1
+      video_ids:
+      - yxNhs5fzFDU
+    docker:
+      count: 5
+      video_ids:
+      - 5bsI3M44NWo
+      - W5fK8BmgBow
+      - EsCfPxjmnjo
+      - _KzObeom88Y
+      - YiVD5IPxif0
+    epic:
+      count: 1
+      video_ids:
+      - uNw6XzFhQ8w
+    evans:
+      count: 1
+      video_ids:
+      - 0YBB5I5FuNk
+    follow:
+      count: 2
+      video_ids:
+      - W_vcDJPSZLU
+      - oFiJ-EJIGrQ
+    food:
+      count: 1
+      video_ids:
+      - uk1AjAwZuvU
+    free:
+      count: 2
+      video_ids:
+      - uk1AjAwZuvU
+      - bZDE6I5B9-E
+    fury:
+      count: 1
+      video_ids:
+      - uNw6XzFhQ8w
+    german:
+      count: 1
+      video_ids:
+      - f0C3RH7baEw
+    git:
+      count: 13
+      video_ids:
+      - Ux07J-wS2VA
+      - ByfvX1z0u-I
+      - pGjXwvD9tB4
+      - 3TLLAS54Pl0
+      - EsCfPxjmnjo
+      - QQEgIo4Juxg
+      - 7Ovt55dTtRg
+      - bFgTxr5yst0
+      - s96JeuuwLzc
+      - _KzObeom88Y
+      - _CuibYl_Fh0
+      - p8zckJ8Tg9Y
+      - HKAgsjTx-bs
+    greely:
+      count: 1
+      video_ids:
+      - cY9s-c7X0ok
+    hacked:
+      count: 1
+      video_ids:
+      - qU6ZQRSYusQ
+    hacking:
+      count: 1
+      video_ids:
+      - HHEQVXNCrW8
+    hextree:
+      count: 1
+      video_ids:
+      - f0C3RH7baEw
+    honey:
+      count: 1
+      video_ids:
+      - bZDE6I5B9-E
+    html:
+      count: 1
+      video_ids:
+      - 7Ovt55dTtRg
+    iasg:
+      count: 5
+      video_ids:
+      - 2hxD1nDvafE
+      - dm7ZvqnFweI
+      - iCY_p4-8ARU
+      - 07misOuLmAM
+      - iCY_p4-8ARU
+    including:
+      count: 1
+      video_ids:
+      - 0YBB5I5FuNk
+    insta:
+      count: 1
+      video_ids:
+      - W_vcDJPSZLU
+    international:
+      count: 3
+      video_ids:
+      - oTMRGD5B2fI
+      - d3lLtSnLoEo
+      - VMCyEZSwsz4
+    intro:
+      count: 7
+      video_ids:
+      - uNw6XzFhQ8w
+      - HHEQVXNCrW8
+      - oTMRGD5B2fI
+      - d3lLtSnLoEo
+      - uk1AjAwZuvU
+      - VMCyEZSwsz4
+      - qU6ZQRSYusQ
+    iowa:
+      count: 1
+      video_ids:
+      - 07misOuLmAM
+    kerberos:
+      count: 1
+      video_ids:
+      - WQU2B3DCle0
+    learning:
+      count: 1
+      video_ids:
+      - 2hxD1nDvafE
+    linux:
+      count: 13
+      video_ids:
+      - 5bsI3M44NWo
+      - W5fK8BmgBow
+      - 3lJ5oT_JviI
+      - XXrCAC6bUsk
+      - H17fPCEcKCs
+      - 3TLLAS54Pl0
+      - QQEgIo4Juxg
+      - 7Ovt55dTtRg
+      - _CuibYl_Fh0
+      - p8zckJ8Tg9Y
+      - fwBIZRq-vzY
+      - HKAgsjTx-bs
+      - 9SDkU5VDQEQ
+    listen:
+      count: 1
+      video_ids:
+      - 5dxuppvclxE
+    llm:
+      count: 1
+      video_ids:
+      - bFgTxr5yst0
+    mary:
+      count: 1
+      video_ids:
+      - cY9s-c7X0ok
+    matic:
+      count: 1
+      video_ids:
+      - sabTrAoB_9s
+    mcdonald:
+      count: 1
+      video_ids:
+      - uk1AjAwZuvU
+    medical:
+      count: 1
+      video_ids:
+      - cY9s-c7X0ok
+    meeting:
+      count: 2
+      video_ids:
+      - 2hxD1nDvafE
+      - dm7ZvqnFweI
+    member:
+      count: 1
+      video_ids:
+      - 5dxuppvclxE
+    memory:
+      count: 6
+      video_ids:
+      - NQGYqypeUOs
+      - -mKb75P7wT0
+      - mWFKVqtAkeI
+      - b1huB4CSzks
+      - QQEgIo4Juxg
+      - bFgTxr5yst0
+    microsoft:
+      count: 3
+      video_ids:
+      - iCY_p4-8ARU
+      - iCY_p4-8ARU
+      - 4G-bi-aUu0E
+    murder:
+      count: 1
+      video_ids:
+      - oFiJ-EJIGrQ
+    newegg:
+      count: 1
+      video_ids:
+      - bZDE6I5B9-E
+    nicholas:
+      count: 1
+      video_ids:
+      - E7SMiSG5-T4
+    nichole:
+      count: 1
+      video_ids:
+      - cY9s-c7X0ok
+    omarchy:
+      count: 1
+      video_ids:
+      - 5zyujD1gDc4
+    performance:
+      count: 2
+      video_ids:
+      - AVd3ds5U2xc
+      - O-Wu5Whk8eI
+    phone:
+      count: 1
+      video_ids:
+      - qU6ZQRSYusQ
+    plans:
+      count: 3
+      video_ids:
+      - oTMRGD5B2fI
+      - d3lLtSnLoEo
+      - VMCyEZSwsz4
+    president:
+      count: 1
+      video_ids:
+      - E7SMiSG5-T4
+    psyops:
+      count: 1
+      video_ids:
+      - uNw6XzFhQ8w
+    python:
+      count: 1
+      video_ids:
+      - dZ4l-pUG7jo
+    rust:
+      count: 3
+      video_ids:
+      - b1huB4CSzks
+      - 1NoocEuep2s
+      - _KzObeom88Y
+    setup:
+      count: 1
+      video_ids:
+      - uNw6XzFhQ8w
+    seytonic:
+      count: 3
+      video_ids:
+      - oTMRGD5B2fI
+      - d3lLtSnLoEo
+      - VMCyEZSwsz4
+    shorts:
+      count: 3
+      video_ids:
+      - 6Yt9VV2QYBw
+      - 4G-bi-aUu0E
+      - pvn-fxkEiZk
+    signal:
+      count: 1
+      video_ids:
+      - HHEQVXNCrW8
+    socs:
+      count: 1
+      video_ids:
+      - 6Yt9VV2QYBw
+    spotify:
+      count: 1
+      video_ids:
+      - 5dxuppvclxE
+    springer:
+      count: 1
+      video_ids:
+      - yxNhs5fzFDU
+    state:
+      count: 1
+      video_ids:
+      - 07misOuLmAM
+    subscribe:
+      count: 1
+      video_ids:
+      - 5dxuppvclxE
+    sumer:
+      count: 1
+      video_ids:
+      - GVlq6lATZ2M
+    summer:
+      count: 1
+      video_ids:
+      - GVlq6lATZ2M
+    terminal:
+      count: 1
+      video_ids:
+      - s96JeuuwLzc
+    those:
+      count: 1
+      video_ids:
+      - pvn-fxkEiZk
+    today:
+      count: 2
+      video_ids:
+      - iCY_p4-8ARU
+      - iCY_p4-8ARU
+    track:
+      count: 1
+      video_ids:
+      - HHEQVXNCrW8
+    twtr:
+      count: 1
+      video_ids:
+      - W_vcDJPSZLU
+    university:
+      count: 1
+      video_ids:
+      - 07misOuLmAM
+    unlimited:
+      count: 1
+      video_ids:
+      - uk1AjAwZuvU
+    usbs:
+      count: 1
+      video_ids:
+      - 2hxD1nDvafE
+    welcome:
+      count: 1
+      video_ids:
+      - 07misOuLmAM
+    whatsapp:
+      count: 1
+      video_ids:
+      - HHEQVXNCrW8
+    will:
+      count: 1
+      video_ids:
+      - yxNhs5fzFDU
+    wolfe:
+      count: 1
+      video_ids:
+      - WQU2B3DCle0
+business_systems:
+  title: Business Systems, Career & Offer Scaling
+  topic_count: 25
+  topics:
+    ai:
+      count: 1
+      video_ids:
+      - m-wqkIipJG4
+    all_videos:
+      count: 120
+      video_ids:
+      - H0KAi8AWsnM
+      - cgsWQd5EM1k
+      - gTyRQert4JY
+      - 0EqJD2o-Mnk
+      - yb2cLMMuMdQ
+      - 4cfQZhNYy90
+      - 9vQO4rlLn74
+      - pEjnU9_K1A8
+      - Bp9mX5kGQz8
+      - PkiDEcRZRpo
+      - YH_CR5wjFis
+      - jxEtHQhzUEw
+      - wPSsz1WrJ7c
+      - WomWMHrhK0Y
+      - 48Rig6v-xYU
+      - wEChfncwMZc
+      - M51asSwRLxA
+      - BmMKr5YO0gE
+      - neZTYCPGd4s
+      - vOK0Cdbk-Ps
+      - 5tCfik9R8ss
+      - 1fHm30-66Do
+      - Yh1-y3TzSO4
+      - -s0pv16rz3M
+      - 138y93ywE_g
+      - 1UhIosOiM0E
+      - 1yrUusYt_10
+      - 2Z5c9nSKM6U
+      - 30P_6jzAMlw
+      - 3MjRwOVG1UA
+      - 3w__xK7Hzkk
+      - 4YNE7cjWCJM
+      - 4cfQZhNYy90
+      - 6FBdeH2hBcc
+      - 7IPgbO7-O2M
+      - 7pVv8gh5DUs
+      - 8ZytH3iVE68
+      - 8y6IAYhFl6U
+      - 99OmscrVwSE
+      - 9F7arP3Gt8A
+      - 9vQO4rlLn74
+      - AbVVWSHrKAE
+      - Ads8VOa0qKQ
+      - Ah0WFQjBVxw
+      - AqD4wxjQ9bI
+      - B-ogfFiQpXg
+      - BEA2dLy2API
+      - BKdN0KQ8G-g
+      - DI-vvEm-IoY
+      - EIj0WRm7zQo
+      - EWf0j3SAmAE
+      - EjyFW6aM9Yo
+      - FMB1gcQouMs
+      - FTbj5sF_D4M
+      - GjTtRAIJVkc
+      - Gm2Q6oVgAp0
+      - I9ZMJzsGAQE
+      - IdjrSDxmEP4
+      - IqtlIS0RQ3E
+      - JBlBsq18DJ8
+      - Je849HwcHn0
+      - LpOP9GZMAZM
+      - MPHn-nW30QU
+      - Nuhx0BIMDPc
+      - OAjN4vasXf4
+      - OHu1FY1R-x0
+      - OvuTWgFfjxc
+      - QBwjJ_QMR1Y
+      - QIm0JUVSv34
+      - Q_z1QywKkDw
+      - QgmRlzh0Y7M
+      - RYGyvPUwJpc
+      - SDhEntMvhKA
+      - SNgdsc5WsCo
+      - T9GFkkeZGUo
+      - TLgSkSQUql4
+      - TQUIL82x58c
+      - Uj5XKwW0Vbs
+      - WnhfPaP_uMw
+      - X39rITUMEPA
+      - Y9DKkM0cqlw
+      - YYxej3cD5FU
+      - Z1NuQk5NWhM
+      - ZH7pPmuXVgo
+      - ZbK3UW-4tlU
+      - bkeEyxXidck
+      - cLhgkuRxk9I
+      - cW6eHGxUZAI
+      - dPYiGYqF_Mc
+      - dWEPfalYqK0
+      - ehmBlLNGgsA
+      - fDtdQCs7_cc
+      - iNhYNQcDG88
+      - iR6PAPCHV5I
+      - jam4V9pP9QU
+      - k-3XuEBhhVY
+      - l4TlCvJqasg
+      - l9XY1XFVYvQ
+      - lcH9yVgiDbA
+      - lkseJAJNPOs
+      - m-wqkIipJG4
+      - mOEkXLyxQCc
+      - mRlSb0O5QNU
+      - noE1MQPMvAc
+      - pnrTnlJgrK4
+      - qb10PdKMizM
+      - rKtMAVm6omA
+      - r_FT9q4ucgw
+      - s8z77Bhrf6c
+      - sKcpNOothVA
+      - tJIDnwdTCZA
+      - u4jZFwnXNSU
+      - uB8QCz--r3M
+      - ukwqA7Xswm0
+      - vAF-WDUkpwc
+      - w82ztl5kBjg
+      - wXfCwxyY9Sw
+      - ydI2C0HijUU
+      - zDQi5GEYKbU
+      - zmImO1QLYiY
+    api:
+      count: 3
+      video_ids:
+      - H0KAi8AWsnM
+      - gTyRQert4JY
+      - 48Rig6v-xYU
+    clerk:
+      count: 1
+      video_ids:
+      - M51asSwRLxA
+    dispatch:
+      count: 1
+      video_ids:
+      - 5tCfik9R8ss
+    ewolvvz:
+      count: 1
+      video_ids:
+      - M51asSwRLxA
+    googling:
+      count: 1
+      video_ids:
+      - WomWMHrhK0Y
+    greg:
+      count: 1
+      video_ids:
+      - 5tCfik9R8ss
+    javascript:
+      count: 1
+      video_ids:
+      - H0KAi8AWsnM
+    llm:
+      count: 1
+      video_ids:
+      - H0KAi8AWsnM
+    marketing:
+      count: 1
+      video_ids:
+      - B-ogfFiQpXg
+    memory:
+      count: 2
+      video_ids:
+      - H0KAi8AWsnM
+      - cgsWQd5EM1k
+    miller:
+      count: 1
+      video_ids:
+      - 5tCfik9R8ss
+    mira:
+      count: 1
+      video_ids:
+      - M51asSwRLxA
+    murati:
+      count: 1
+      video_ids:
+      - M51asSwRLxA
+    performance:
+      count: 1
+      video_ids:
+      - 48Rig6v-xYU
+    python:
+      count: 1
+      video_ids:
+      - H0KAi8AWsnM
+    roach:
+      count: 1
+      video_ids:
+      - BmMKr5YO0gE
+    rust:
+      count: 1
+      video_ids:
+      - gTyRQert4JY
+    sales:
+      count: 4
+      video_ids:
+      - TLgSkSQUql4
+      - bkeEyxXidck
+      - noE1MQPMvAc
+      - zDQi5GEYKbU
+    speed:
+      count: 1
+      video_ids:
+      - 4cfQZhNYy90
+    steam:
+      count: 1
+      video_ids:
+      - 5tCfik9R8ss
+    thinking:
+      count: 1
+      video_ids:
+      - M51asSwRLxA
+    whether:
+      count: 1
+      video_ids:
+      - WomWMHrhK0Y
+    ziwe:
+      count: 1
+      video_ids:
+      - BmMKr5YO0gE
+cognitive_psychology:
+  title: Cognitive Psychology & Mental Processing
+  topic_count: 11
+  topics:
+    adhd:
+      count: 4
+      video_ids:
+      - bvZGZuh2n2I
+      - 0C2qldDF8HY
+      - 6h8Eaz6oNCg
+      - 7Fj5dGyKm7s
+    all_videos:
+      count: 154
+      video_ids:
+      - lOV5nyyzOxk
+      - bvZGZuh2n2I
+      - PsxHgmvwVAM
+      - kOauN-_W2FQ
+      - eemjosdmE-I
+      - WSnvLfW8ZBU
+      - O0EKaSmtpA0
+      - tY4FaVRsDM0
+      - IG5BIAaBwdE
+      - qMXXoNCN1kE
+      - xvsvFd09Z3M
+      - MQgC2nI6Wu4
+      - OJAJZebXdb8
+      - -JX-KbkI0MM
+      - -u7cN4IK67Q
+      - 0C2qldDF8HY
+      - 0g_muVjm8OE
+      - 2MwTDoT8q_A
+      - 2qbj2UQWZjc
+      - 3JR2QGBL3IU
+      - 3X880TLeor8
+      - 3dmlGcHg294
+      - 3wOQ8LaP5CI
+      - 4D5tZoF8cC4
+      - 50kYVMyrsJc
+      - 6Aq_VsUOk3Y
+      - 6F58ZJt_qYU
+      - 6h8Eaz6oNCg
+      - 7Fj5dGyKm7s
+      - 7MykFJ7TByM
+      - 8VHxLBVityk
+      - A3BuvfIJYMM
+      - AmgJ77lp_Bg
+      - BEpG_6KkDUA
+      - BU1THQZtFuc
+      - B_JENlNS1t8
+      - BcNb6yhOrww
+      - Cm_K_R3_JRY
+      - Cx4GvzjRMx8
+      - D8s73jmS3go
+      - DKGqWvOjB7w
+      - DoXpQ8haM8s
+      - EIrH2aM9r8s
+      - F2ggnC-xsAI
+      - F6cWQucPMLs
+      - G1fhYZdn1pE
+      - H877DXOAlXI
+      - HATCgWTF-oA
+      - HSg7cDuWtzQ
+      - ID1cX3ICMYo
+      - IaIuvMRdYcc
+      - IiwvvV_xB-4
+      - Iji6q4AM2r8
+      - K4YZoNxSZNU
+      - Kl-UQPeRvRs
+      - L-gJ_Fo72-k
+      - MU1Rp184IT4
+      - MnrBi5jf8I0
+      - N6Rw9tnwy8I
+      - Ng8X-ln5Ijo
+      - NkLM8HTYY1g
+      - NxtKtltHeFA
+      - OsAaxOFOUl4
+      - PEexQAkhFpM
+      - PTuDDW1gHlk
+      - RC0tacY2iKQ
+      - Rq_9asA_kn0
+      - SBBnT-XtHGc
+      - S_I8G1BWdLM
+      - TsvJMlg_SaM
+      - Tt1rKpEKCzU
+      - Ty_6S-SElb8
+      - U8Bt7xsOQ_I
+      - VAPIfT8kSPs
+      - VDL60Ef4qLI
+      - Vc0echv-LJ8
+      - Vuo4lmOGdtE
+      - X30BDtXF1Tg
+      - XSShv4lhgKQ
+      - YHyfu-LYnIk
+      - YIQocoxv5tg
+      - YqnCwp9Ia68
+      - _N6qPEA_dGc
+      - _QnpfGb4fqI
+      - _jsl5oXB6fs
+      - avtRRZ_OqO8
+      - bKZkFkKwpr0
+      - bRqUmhAcckc
+      - c39F04inLJ0
+      - d9GUe48Rcrc
+      - dJGJPBJ3wQA
+      - dNgZWnyfWAs
+      - dV4jXpMyU5U
+      - e-2WZsP6LA0
+      - edM8CqDxqDw
+      - ee0Ox-buy1M
+      - f1iykhLqY1A
+      - fDzWqR-dU90
+      - fHyDoY6L25k
+      - fbFATNu3K7Q
+      - h7oUthN0BUw
+      - h8tBPhNkjN0
+      - hFNM7HrmZ0Q
+      - hH6R20mzYDQ
+      - hxJKaG7clOo
+      - iqDijkHGgKk
+      - jWLZfeKpIhg
+      - je23p7YiS7U
+      - joAreHuo1pQ
+      - kA0jyBJcrAs
+      - kCk-4MRUSY4
+      - kMeehIpxH5k
+      - kpY0TERXymU
+      - l7BaFufR23E
+      - lFP7mcduAts
+      - mMLyYU-vv20
+      - mdDAHekq9yc
+      - mpkWFn5KaOY
+      - npDA9kV88fs
+      - o1G4JFuLlO8
+      - o6-Htscvf4k
+      - oCB-sCIKnkU
+      - oDQo2LFe7ew
+      - oM0KpfNPcGw
+      - oUUrSiqywVc
+      - oX3qM4VqbJo
+      - ojPcF-oLABE
+      - pAa8RQKCUm0
+      - pCZdJiGSk8g
+      - pXshjy6WwWI
+      - qjZ3f-IXEXU
+      - rYB9W8wlsMI
+      - rvlmDZxlqhg
+      - s9yrMPIJHC8
+      - sUazbGC_XI4
+      - sXcTIkuzQ3I
+      - sodkGvZzLDE
+      - t9OCVTnq-MM
+      - tszAuL3v2NY
+      - u91ctugBCsg
+      - udhkUX4THpY
+      - vCNoVamkbbQ
+      - vWF7qQQX0IE
+      - vnSiJOOdo30
+      - w27nenP7fsQ
+      - wHyFC7F3ekA
+      - xFt_aeQw2GA
+      - xHkcIRZa6lo
+      - xWz2oqOqPHw
+      - y4uIy73IH6o
+      - yocx57jH1jM
+      - ypShRWUDW3c
+      - zCvWTJHgfKE
+      - zcRUj8H3rc4
+    apply:
+      count: 1
+      video_ids:
+      - OJAJZebXdb8
+    coaching:
+      count: 1
+      video_ids:
+      - OJAJZebXdb8
+    git:
+      count: 1
+      video_ids:
+      - eemjosdmE-I
+    incogni:
+      count: 1
+      video_ids:
+      - IG5BIAaBwdE
+    julien:
+      count: 1
+      video_ids:
+      - OJAJZebXdb8
+    online:
+      count: 1
+      video_ids:
+      - OJAJZebXdb8
+    performance:
+      count: 1
+      video_ids:
+      - PsxHgmvwVAM
+    rust:
+      count: 4
+      video_ids:
+      - lOV5nyyzOxk
+      - PsxHgmvwVAM
+      - eemjosdmE-I
+      - WSnvLfW8ZBU
+    tiktok:
+      count: 1
+      video_ids:
+      - IG5BIAaBwdE
+pali_philosophy:
+  title: Pāli Canon & Contemplative Philosophy
+  topic_count: 4
+  topics:
+    ai:
+      count: 2
+      video_ids:
+      - cU2Cqq8zkE4
+      - oDQ1hvW6trs
+    all_videos:
+      count: 97
+      video_ids:
+      - MQYmuoKdsGY
+      - qaQWgCzoHyg
+      - yTxKgz8MeWg
+      - rDbEbPNZQiE
+      - vglW1WiL490
+      - HKlvHEPTqwQ
+      - 3jT9JjywcKA
+      - -1Q_bVnPFCA
+      - -Hk-MhKEeio
+      - -oQiCveY-Rw
+      - 1MPFVkANplM
+      - 2jL9F7b7kfQ
+      - 3jl_7v3hwqQ
+      - 5CxRQHhNJLM
+      - 6Coc7r_d_l4
+      - 6EFJcP_sbrs
+      - 6WtRetCi_Oc
+      - 9xpzIIu4Dpw
+      - 9yCXPCjXvMk
+      - AVMj9ViiuDM
+      - D_7vrCTHcz4
+      - EfvfjqTEpeA
+      - FnSfJ7AxKRA
+      - Fo96KED3PhA
+      - G__vk2WZfPc
+      - Ger9h33r8Lk
+      - Gss2kQtTKo4
+      - H_nVhawUrTI
+      - IAWx_eTeDqU
+      - IvAd0VhkQiI
+      - IzinQ4r7s10
+      - JEtgJMRpOZQ
+      - JcVus8XXTjo
+      - JlF3crwEcRs
+      - K6sbls1uzt0
+      - Ksxej1dCTgo
+      - LN064MEf_V4
+      - LbkDlRrV62c
+      - LypuXZX8BK4
+      - M8IVFijYLEs
+      - MT9kuyeeI4I
+      - NeUt2jyhScY
+      - OEqvlc26Cp0
+      - OW4-kuUbhIU
+      - Ou7iVfUG2xU
+      - QwtmWCx5Mko
+      - S_fl8lU71Os
+      - U0XEkSFoWE8
+      - Ugs5JQ5E0pQ
+      - W3u18K5xL1E
+      - WhpF_bqXzdY
+      - X_YFWdGA3Zs
+      - XmT8Msu6gqg
+      - Y87ObheErVU
+      - YDPMqWY1qXk
+      - Yzi--o10cJA
+      - _Reed8IFv-g
+      - _XyKDd1zLbw
+      - _hCmTyYiLVk
+      - aM71qEEI1yI
+      - aYM3RatBOXs
+      - bCvmeLup4VM
+      - cU2Cqq8zkE4
+      - dcJ-2iKdS0I
+      - egrYsmcyn2s
+      - fZQQa2VQsMk
+      - fsdO0ojCLrA
+      - g5KPDC__yVc
+      - h1A7GwrvaGw
+      - hFygtrD5Qlo
+      - iPH3Ys-pzZU
+      - jtnGy7Y3JgE
+      - jyMhA6UZZJ4
+      - kLzA1yNHNbc
+      - lBOoZIK3438
+      - lLYNiGT1Ix0
+      - luvp0ZSSeBE
+      - m-d3KpaaXZM
+      - mzZ4PcwbJtk
+      - oCsBs824rxs
+      - oDQ1hvW6trs
+      - oxskxqJSUA4
+      - pNjPpr6xFpw
+      - qet0WqgCUoA
+      - qkhj0sCPlM8
+      - rRglc-b2rko
+      - sPvuvq5E0g4
+      - tHUUxBpKL_w
+      - toZ-U26iCbc
+      - u50pV7iLOHk
+      - u7T1Q-ezQVM
+      - uTyspcgyhnU
+      - vjYeXuIR3Lc
+      - wDFhZ5xrwWg
+      - ypiz1bl5hxY
+      - zP25O1MCMn0
+      - zTzCjeg34ng
+    git:
+      count: 2
+      video_ids:
+      - yTxKgz8MeWg
+      - rDbEbPNZQiE
+    rust:
+      count: 1
+      video_ids:
+      - MQYmuoKdsGY
+science_philosophy:
+  title: Science, Physics & Foundational Philosophy
+  topic_count: 23
+  topics:
+    ai:
+      count: 1
+      video_ids:
+      - VQjPKqE39No
+    all_videos:
+      count: 54
+      video_ids:
+      - A3nfS_1am4Y
+      - DX_oIQ-tA6M
+      - HBluLfX2F_k
+      - Ib1izyUjlZ8
+      - g3F729_C-74
+      - 3p7RV-Bc1Eo
+      - eIKppRjnPcg
+      - EagBNt7199M
+      - 8SxTo2lBa8A
+      - L4A4KMsJTXQ
+      - h4Wc1BX1cyU
+      - SG5HZj-7qew
+      - hGiowzK35NE
+      - Qe-Pw6T7gTg
+      - TptgAbYH6FM
+      - mqFab-eSwlQ
+      - qR6WdMYgFdU
+      - WMBzeXRJfhY
+      - MxTq2aUD5EQ
+      - 2296RxbVqwQ
+      - 8bBpX2GyMoQ
+      - hBuJ1hnrof0
+      - y894m7joEBc
+      - BUtzl6b0uKU
+      - Ctwc8t5CsQs
+      - 0y6wiBzPMSI
+      - o1OsDWT_DUc
+      - 8HzIlKe--NU
+      - VQjPKqE39No
+      - sKouPOhh_9I
+      - Fzhkwyoe5vI
+      - P9Q3crLWQY8
+      - ZoVGONU34sw
+      - LoakcQM-Dk8
+      - F6SrOpYT6lw
+      - 1a9FfyuoJ8c
+      - MWMmxYEQ2Bg
+      - NB2b1-aU1Ec
+      - -eWOxKcpsXU
+      - 2bJTOymi3eo
+      - 3HJGagNFv4k
+      - AoQalV3g77U
+      - BlfeDPMLQ8I
+      - GwzN5YwMzv0
+      - LMGICLFMn8Y
+      - PBsA7S8jxfU
+      - R3LjJeeae68
+      - UNIx3GcYh1g
+      - WBAFPbypyn4
+      - Wsjgtp9XZxo
+      - ZRAbAlOnTT8
+      - gfyCzLbcAvk
+      - hOJeLiwsNwQ
+      - vzRbCrIWURY
+    api:
+      count: 3
+      video_ids:
+      - A3nfS_1am4Y
+      - HBluLfX2F_k
+      - Fzhkwyoe5vI
+    because:
+      count: 1
+      video_ids:
+      - F6SrOpYT6lw
+    books:
+      count: 2
+      video_ids:
+      - F6SrOpYT6lw
+      - 1a9FfyuoJ8c
+    exurb1a:
+      count: 1
+      video_ids:
+      - Ctwc8t5CsQs
+    facebook:
+      count: 2
+      video_ids:
+      - F6SrOpYT6lw
+      - 1a9FfyuoJ8c
+    git:
+      count: 1
+      video_ids:
+      - A3nfS_1am4Y
+    help:
+      count: 3
+      video_ids:
+      - Ctwc8t5CsQs
+      - F6SrOpYT6lw
+      - 1a9FfyuoJ8c
+    limmys:
+      count: 1
+      video_ids:
+      - BUtzl6b0uKU
+    memory:
+      count: 1
+      video_ids:
+      - A3nfS_1am4Y
+    newly:
+      count: 1
+      video_ids:
+      - Ctwc8t5CsQs
+    other:
+      count: 1
+      video_ids:
+      - Ctwc8t5CsQs
+    performance:
+      count: 2
+      video_ids:
+      - HBluLfX2F_k
+      - Ib1izyUjlZ8
+    python:
+      count: 1
+      video_ids:
+      - DX_oIQ-tA6M
+    quantum:
+      count: 2
+      video_ids:
+      - DX_oIQ-tA6M
+      - R3LjJeeae68
+    rust:
+      count: 3
+      video_ids:
+      - A3nfS_1am4Y
+      - HBluLfX2F_k
+      - Ib1izyUjlZ8
+    show:
+      count: 1
+      video_ids:
+      - BUtzl6b0uKU
+    sql:
+      count: 1
+      video_ids:
+      - DX_oIQ-tA6M
+    sublimia_syndr:
+      count: 1
+      video_ids:
+      - BUtzl6b0uKU
+    time:
+      count: 1
+      video_ids:
+      - 1a9FfyuoJ8c
+    valeia:
+      count: 1
+      video_ids:
+      - Ctwc8t5CsQs
+    whats:
+      count: 1
+      video_ids:
+      - BUtzl6b0uKU
+longevity_creative_tech:
+  title: Longevity, Robotics & Creative Technology
+  topic_count: 52
+  topics:
+    ai:
+      count: 2
+      video_ids:
+      - OjmBLe6peHA
+      - Bev6TXDfnvA
+    algorithm:
+      count: 2
+      video_ids:
+      - 9OSbaPjv0Rc
+      - 7xQDTJ7-UfY
+    all_videos:
+      count: 55
+      video_ids:
+      - w7vHXba9RLo
+      - QEnOYoKQ2rQ
+      - iuRr_5j9qkY
+      - 9OSbaPjv0Rc
+      - LwOITqr_fz4
+      - hkHCnZ5GrNc
+      - vrk40pZ8Kc8
+      - fzJrH_DR6SY
+      - USKD3vPD6ZA
+      - tqsy9Wtr1qE
+      - zrrs9LGIfyQ
+      - hLDifD8nz7o
+      - A_BlNA7bBxo
+      - 9q3_8N4YZRI
+      - hBP-NzOadL0
+      - DvrkHAWj1Sk
+      - pE39KdptM40
+      - KPQcy0dylrM
+      - mvz3LRK263E
+      - B0eSPogdaHs
+      - c2gq4IwIc_s
+      - B1dWbiXnz_s
+      - bMMFmpbbY6M
+      - UWgzB5B_fjM
+      - AuOwfkQHUp4
+      - JNuORofHhrk
+      - YJiuPyo87uY
+      - VGY_XMXMSZc
+      - o9f6EZaCRng
+      - 3-CqN8EpX8U
+      - ZIxaGgTY8UM
+      - setwpDYtHk0
+      - BQVLon0owJY
+      - rGmXQNZ2yBU
+      - kiUM92VDI1Y
+      - KsADygzaOGQ
+      - OjmBLe6peHA
+      - cjKA95519SI
+      - agF-JwliFw0
+      - pDQOF3Jns5E
+      - _Kca3-PFIaU
+      - Bev6TXDfnvA
+      - jQtIns7A9kU
+      - Owf81tIj1_Q
+      - RJC7PHQfzOk
+      - 7xQDTJ7-UfY
+      - JV7KbSWh6Bo
+      - lVsn229WRLs
+      - 4SmmupgdP5o
+      - AvhixwT2RnE
+      - Y5MaqHrbalQ
+      - oA85M9JHsW0
+      - L-LXk0jHzG4
+      - djKu-HZJYXM
+      - 27_EQbVnhiE
+    also:
+      count: 1
+      video_ids:
+      - 9q3_8N4YZRI
+    amazon:
+      count: 1
+      video_ids:
+      - zrrs9LGIfyQ
+    api:
+      count: 5
+      video_ids:
+      - 9OSbaPjv0Rc
+      - JV7KbSWh6Bo
+      - lVsn229WRLs
+      - 4SmmupgdP5o
+      - Y5MaqHrbalQ
+    banggood:
+      count: 1
+      video_ids:
+      - ZIxaGgTY8UM
+    beast:
+      count: 1
+      video_ids:
+      - fzJrH_DR6SY
+    blueprint:
+      count: 8
+      video_ids:
+      - YJiuPyo87uY
+      - o9f6EZaCRng
+      - 3-CqN8EpX8U
+      - setwpDYtHk0
+      - rGmXQNZ2yBU
+      - kiUM92VDI1Y
+      - OjmBLe6peHA
+      - cjKA95519SI
+    boys:
+      count: 1
+      video_ids:
+      - zrrs9LGIfyQ
+    brought:
+      count: 2
+      video_ids:
+      - fzJrH_DR6SY
+      - 9q3_8N4YZRI
+    chad:
+      count: 1
+      video_ids:
+      - B0eSPogdaHs
+    chapters:
+      count: 1
+      video_ids:
+      - o9f6EZaCRng
+    check:
+      count: 2
+      video_ids:
+      - zrrs9LGIfyQ
+      - BQVLon0owJY
+    dave:
+      count: 1
+      video_ids:
+      - B0eSPogdaHs
+    expressvpn:
+      count: 1
+      video_ids:
+      - fzJrH_DR6SY
+    finnish:
+      count: 1
+      video_ids:
+      - kiUM92VDI1Y
+    free:
+      count: 1
+      video_ids:
+      - ZIxaGgTY8UM
+    friends:
+      count: 1
+      video_ids:
+      - 3-CqN8EpX8U
+    git:
+      count: 3
+      video_ids:
+      - 9OSbaPjv0Rc
+      - 7xQDTJ7-UfY
+      - Y5MaqHrbalQ
+    guys:
+      count: 1
+      video_ids:
+      - BQVLon0owJY
+    honey:
+      count: 1
+      video_ids:
+      - ZIxaGgTY8UM
+    katetolo:
+      count: 1
+      video_ids:
+      - BQVLon0owJY
+    llm:
+      count: 1
+      video_ids:
+      - 9OSbaPjv0Rc
+    longevity:
+      count: 1
+      video_ids:
+      - setwpDYtHk0
+    memory:
+      count: 1
+      video_ids:
+      - 9OSbaPjv0Rc
+    michaelreeves:
+      count: 1
+      video_ids:
+      - pE39KdptM40
+    must:
+      count: 1
+      video_ids:
+      - 3-CqN8EpX8U
+    newegg:
+      count: 1
+      video_ids:
+      - ZIxaGgTY8UM
+    nordvpn:
+      count: 1
+      video_ids:
+      - pE39KdptM40
+    nutty:
+      count: 1
+      video_ids:
+      - setwpDYtHk0
+    offlinetv:
+      count: 1
+      video_ids:
+      - 9q3_8N4YZRI
+    performance:
+      count: 4
+      video_ids:
+      - Bev6TXDfnvA
+      - jQtIns7A9kU
+      - JV7KbSWh6Bo
+      - AvhixwT2RnE
+    prime:
+      count: 1
+      video_ids:
+      - zrrs9LGIfyQ
+    protect:
+      count: 1
+      video_ids:
+      - pE39KdptM40
+    protein:
+      count: 1
+      video_ids:
+      - setwpDYtHk0
+    psilocybin:
+      count: 1
+      video_ids:
+      - 3-CqN8EpX8U
+    pudding:
+      count: 1
+      video_ids:
+      - setwpDYtHk0
+    raycon:
+      count: 1
+      video_ids:
+      - 9q3_8N4YZRI
+    reeves:
+      count: 1
+      video_ids:
+      - fzJrH_DR6SY
+    rust:
+      count: 1
+      video_ids:
+      - QEnOYoKQ2rQ
+    skillshare:
+      count: 1
+      video_ids:
+      - B1dWbiXnz_s
+    start:
+      count: 7
+      video_ids:
+      - YJiuPyo87uY
+      - o9f6EZaCRng
+      - 3-CqN8EpX8U
+      - rGmXQNZ2yBU
+      - kiUM92VDI1Y
+      - OjmBLe6peHA
+      - cjKA95519SI
+    subscribe:
+      count: 1
+      video_ids:
+      - kiUM92VDI1Y
+    terminal:
+      count: 1
+      video_ids:
+      - w7vHXba9RLo
+    thank:
+      count: 1
+      video_ids:
+      - 9q3_8N4YZRI
+    thanks:
+      count: 2
+      video_ids:
+      - B0eSPogdaHs
+      - ZIxaGgTY8UM
+    they:
+      count: 1
+      video_ids:
+      - o9f6EZaCRng
+    tiktok:
+      count: 4
+      video_ids:
+      - YJiuPyo87uY
+      - rGmXQNZ2yBU
+      - OjmBLe6peHA
+      - cjKA95519SI
+    ultra_processed:
+      count: 1
+      video_ids:
+      - o9f6EZaCRng
+    website:
+      count: 1
+      video_ids:
+      - B1dWbiXnz_s
+    will:
+      count: 1
+      video_ids:
+      - B0eSPogdaHs
+news_media_culture:
+  title: Digital News, Media Analysis & Current Affairs
+  topic_count: 24
+  topics:
+    ai:
+      count: 1
+      video_ids:
+      - I1n-cMvA_sA
+    algorithm:
+      count: 1
+      video_ids:
+      - XPHrx7HnEnU
+    all_videos:
+      count: 12
+      video_ids:
+      - XPHrx7HnEnU
+      - Puv0Anpmdxs
+      - T9IV09cvXx4
+      - D6P4xBspFts
+      - -tvQqh7VUbQ
+      - I1n-cMvA_sA
+      - Ri_aF0L0POA
+      - SDlk0jOjqiE
+      - ZVT05AYT0fA
+      - cUxgalB3rkk
+      - iyyBlxDSXd4
+      - lJyuOY9VE9s
+    api:
+      count: 1
+      video_ids:
+      - XPHrx7HnEnU
+    benshapiro:
+      count: 1
+      video_ids:
+      - Ri_aF0L0POA
+    clippers:
+      count: 1
+      video_ids:
+      - I1n-cMvA_sA
+    flock:
+      count: 1
+      video_ids:
+      - cUxgalB3rkk
+    hasanabi:
+      count: 1
+      video_ids:
+      - SDlk0jOjqiE
+    joerogan:
+      count: 2
+      video_ids:
+      - Ri_aF0L0POA
+      - cUxgalB3rkk
+    jubilee:
+      count: 1
+      video_ids:
+      - D6P4xBspFts
+    lindsayclancy:
+      count: 1
+      video_ids:
+      - I1n-cMvA_sA
+    markiplier:
+      count: 1
+      video_ids:
+      - lJyuOY9VE9s
+    memory:
+      count: 1
+      video_ids:
+      - XPHrx7HnEnU
+    meta:
+      count: 1
+      video_ids:
+      - iyyBlxDSXd4
+    mkbhd:
+      count: 1
+      video_ids:
+      - lJyuOY9VE9s
+    moistcritikal:
+      count: 1
+      video_ids:
+      - ZVT05AYT0fA
+    news:
+      count: 8
+      video_ids:
+      - -tvQqh7VUbQ
+      - I1n-cMvA_sA
+      - Ri_aF0L0POA
+      - SDlk0jOjqiE
+      - ZVT05AYT0fA
+      - cUxgalB3rkk
+      - iyyBlxDSXd4
+      - lJyuOY9VE9s
+    petehegseth:
+      count: 1
+      video_ids:
+      - -tvQqh7VUbQ
+    politics:
+      count: 1
+      video_ids:
+      - D6P4xBspFts
+    rust:
+      count: 1
+      video_ids:
+      - XPHrx7HnEnU
+    supremecourt:
+      count: 1
+      video_ids:
+      - SDlk0jOjqiE
+    surrounded:
+      count: 1
+      video_ids:
+      - D6P4xBspFts
+    tuckercarlson:
+      count: 1
+      video_ids:
+      - -tvQqh7VUbQ
+    twitch:
+      count: 1
+      video_ids:
+      - ZVT05AYT0fA
+general_knowledge:
+  title: General Knowledge & Broad Media
+  topic_count: 117
+  topics:
+    '500':
+      count: 1
+      video_ids:
+      - l6USUAIKJls
+    after:
+      count: 1
+      video_ids:
+      - XPaKSn4wXs4
+    ai:
+      count: 10
+      video_ids:
+      - kzcI5F4tGiU
+      - KiUTjX9ox3U
+      - w2fv664Ndf4
+      - 0R3-CcuYXsg
+      - Y6Dd2dl795k
+      - -JQsdvOfDVo
+      - qazhWj8kYLo
+      - 1GTR7X0baDc
+      - X0zA3nn4MFM
+      - N-fFq2yDt5o
+    algorithm:
+      count: 4
+      video_ids:
+      - 2CIz-P3kIUM
+      - jktuzvxRSNE
+      - NvkZaWLe0Sk
+      - War3PvOQnRc
+    all_videos:
+      count: 270
+      video_ids:
+      - kzcI5F4tGiU
+      - rQXjfwUfitI
+      - GEkoGCFpY8c
+      - GqEeOrDk5DI
+      - 509xIJJdCaA
+      - bu1-1SixVVE
+      - pTOHrYA5Q0g
+      - KiUTjX9ox3U
+      - oMnpatXgMzU
+      - itGeItWc2rw
+      - F_7B2shTPPU
+      - oUVWcnwveJw
+      - K1JwyKoEy44
+      - 7VnPwhXid8Y
+      - KIvLywqLCW0
+      - BwiGjoeZ66k
+      - KhWwuQ7qf5A
+      - F6AIOqiqXqo
+      - RNiZy6t-XnA
+      - 6GiaqeDkAts
+      - hKO3Lt-hrvY
+      - zFk-8_0dXYo
+      - Dzn0woX-WW0
+      - iOCEoulzBEQ
+      - x1N0lCDgst0
+      - zGT49VsMP-Y
+      - KnXIaBMN5Us
+      - eXQ3VVRuy1I
+      - _oSwBHpOG2o
+      - Y5wD227-BFk
+      - l6USUAIKJls
+      - eHglidMHJM4
+      - FvXUt-yrUUQ
+      - t0fqRqLHq_w
+      - s-41UF02vrU
+      - yfQAnBol6Jw
+      - y90R8BPc8Ag
+      - yVVfNDoN9qs
+      - i4yOYHBm3rY
+      - WgqaxMOKfnI
+      - R1ul9iBhpVM
+      - w2fv664Ndf4
+      - 4alV5LzHLE4
+      - _BZ0OqG9A2M
+      - w_9ynCt9nLc
+      - _nfMSscxBhQ
+      - WvKz0hBA5KE
+      - XVFUtEh9zrY
+      - QoMNRMcUv6o
+      - -soMNhNqEVc
+      - iONG8uAJUYg
+      - btgRMHZUVgY
+      - BBlqpNlGgaQ
+      - 2CIz-P3kIUM
+      - jktuzvxRSNE
+      - L2ehWbxphKc
+      - fsP41-iIysQ
+      - NvkZaWLe0Sk
+      - 2OcbNmny7Z0
+      - dUHL5aj2SN4
+      - 83dWSrfX1zY
+      - PVNB8JpeTP4
+      - vEDU7Jn2JOI
+      - h3GCA-xAY9o
+      - m68pZV3Pjig
+      - s9kctaY0Wl8
+      - Kl1Oq7YH6_I
+      - 3W0Iy6bo4Uc
+      - E_y8XIX6EYk
+      - SIxbWAlD8ok
+      - sNAXpYpOEWI
+      - fWsOuFsqFLY
+      - wKVXtvWwYr8
+      - vpSkBV5vydg
+      - YuaJ8x_NcLw
+      - HkSc5_1aqyU
+      - KwBuV7YZido
+      - y11XNXi9dgs
+      - GZ6PuLikw84
+      - DYWTw19_8r4
+      - hI9aN8ZG4vg
+      - I_N0wIT1C9Q
+      - wvPaeKBVDac
+      - U-ve8Yh4Ro8
+      - WwkuAqObplU
+      - AXI-pUCU_tI
+      - OMbabnaiE90
+      - nlCob9cZgvk
+      - 2cgHjpQFUW4
+      - -ALcsLK0u0U
+      - ynq9UMcSsEE
+      - Hgz_f1nRNMo
+      - 2BaWG1n3bO8
+      - LYVPezGGpvM
+      - gi-yYZXIZ9I
+      - a8OYmkcfM-Y
+      - XOY2MYoAAVg
+      - n8ToxrNbOAI
+      - yQK0UQ_T-Oo
+      - 0R3-CcuYXsg
+      - 2jfsuWdw6dI
+      - Y6Dd2dl795k
+      - 6JidkHUWgUY
+      - uId9r7NA8KA
+      - WUL8UAzuwV4
+      - 534l55Njr2w
+      - dzNNaKb6Jck
+      - pWlyatkNJ6c
+      - RT0mp4f4QIs
+      - jDRw8f17wLk
+      - Ynqfo_Vxpp8
+      - GWezJdTgz4A
+      - fBopWx6OFfs
+      - g_3esioU6Qs
+      - ussfBmLmtZk
+      - 5S9JiVmzRDo
+      - gN_-OTYWZys
+      - irThJuQUC50
+      - xUg5di2BQ24
+      - LiMylPwy-RU
+      - 2L-7u-3yux8
+      - 7rLkEvmkNqw
+      - Ri9nN90CNDU
+      - 0m41Mv4E3h0
+      - xUViGkrrsNI
+      - 9NSVfPVONTs
+      - jFrHuYfQrBY
+      - ZwIvfTXuzNc
+      - bxYYR-CwgYo
+      - sNaX4MYDxq8
+      - z7O68B5jdjw
+      - mSwU7ifd-jY
+      - OUaMzGcdPts
+      - mzzqXUY20do
+      - g2xgeqt44Fg
+      - xBByvFrqmWU
+      - 4M9qEgGYoc8
+      - 3cXzRubknwg
+      - QKfKeJruynw
+      - 4gJTS743LzM
+      - s2fAUDPVQGQ
+      - HPYWU3Uh3yw
+      - A6PGAuNT5L0
+      - irPRqtBZ4co
+      - ca-723Sp2o8
+      - DZdDwuMvvD0
+      - V4zb8QhQY58
+      - wrmXr-T0AXo
+      - 0AA-Le7cmH0
+      - KB2eRY8ZT4E
+      - Mdyu5yRiXJs
+      - 23h0mpylkAU
+      - WQ62_J6gp8o
+      - BZr7EzZxWFU
+      - 9CS3q0uG1LI
+      - oeqUHEp4sYM
+      - szvRHq5gPQk
+      - XrZKpY5g-iU
+      - wV5X5od6-Vw
+      - 4-HxxZuOc4E
+      - XPaKSn4wXs4
+      - tNmPTgMoZUI
+      - aTNeaKRjzkg
+      - oCH_EmuiqDY
+      - pBOwn4C3Shg
+      - C_0xBbEFjLk
+      - zXDLfjsueJ0
+      - D2soN0ALY9U
+      - -JQsdvOfDVo
+      - QLSGh6PBB9U
+      - 4omkl2HFFNI
+      - JlHpbKf4JEU
+      - QVAc1WWj58M
+      - 690p3RnSC1g
+      - jzqw_Vekjos
+      - zCh7OZYRYn0
+      - dZHaVN5keiQ
+      - aYoWAJz8LFw
+      - L_bQB9Fbnwo
+      - RaOCK2A7HWo
+      - zK6bfy2bihw
+      - CcrgG5MjGOk
+      - WtQ64nSbdY4
+      - -0JKHuzJ67A
+      - aU5ACoL2Ke8
+      - banRsciq1ww
+      - -WVhL9Qp_lk
+      - 49N2G1jPfIw
+      - -ioBzo12gH0
+      - sNlr7OF4Ne4
+      - l5ws7I0kXLk
+      - qazhWj8kYLo
+      - 2-x4rwLwysM
+      - 83s4Qxmvg_0
+      - yNnbWAHX1gA
+      - Ad1G2KVEjhw
+      - cuhgyg3naBE
+      - UDO8FWVDR5g
+      - PMMmY3WB5P4
+      - nK0mA3s0s9Q
+      - K-4xhVD7WDQ
+      - MGEjY-nRcT8
+      - o0Hu1qaMKis
+      - KzDPt77Ry8U
+      - 1GTR7X0baDc
+      - XsXVkXq9T_c
+      - czyWvwEW_g0
+      - MpwygIqcJhc
+      - X0zA3nn4MFM
+      - fE9tNN9Mfqo
+      - dicToifZBxw
+      - WfCfW6W2Owk
+      - vZ6pj1l_bC4
+      - w7wXtDn4TCE
+      - hn4nzZf7hQM
+      - E7nTaISU-7I
+      - hUf9dJE8W9c
+      - FQkrLg7KEBc
+      - hLRzMV18-fw
+      - Yn0irVFBD90
+      - KxoppLofeZw
+      - A5tl2x5SloM
+      - 4U-XG7cY7bI
+      - vvr7pnqCOKo
+      - ZEe-jweftZ8
+      - Zd28NM8DMeU
+      - kF6O4PmuonM
+      - LmXU6SEH3Ks
+      - NgUNjjV_AkY
+      - OoJsPvmFixU
+      - Vl4JXR9ELi8
+      - SPd5W9V0Mvs
+      - -Wg89JEyEZ0
+      - rRlNkOq_ChU
+      - Yo2Sfpi_8-M
+      - 3NT8MkU2MBI
+      - r7Ds4nF1kKY
+      - hyemXbp-EJQ
+      - pI8aE3aQJoo
+      - A4d1AYZiofQ
+      - TUZfd1YNfZ0
+      - XVSBN1UKVTg
+      - UHJgQVmIajY
+      - _6zAAhkU_Iw
+      - FM5-R4VPArw
+      - d6V-nGaNbhw
+      - fsLh-NYhOoU
+      - pbwRl3u8Dp0
+      - N-fFq2yDt5o
+      - Bf-49tgDXW0
+      - aGJm3fuKLhA
+      - VeDPnWA_GVI
+      - 0wVfPfL1vmA
+      - Y7-pAErMQ0w
+      - CS1mmwxohz8
+      - -1uaRDEBshI
+      - 4At6G-91wV8
+      - f3BSnXjtw9g
+      - WvT9EEqhcLo
+      - cQWwYR3QgR4
+      - zwXjknPvhxc
+      - A9fq3GLlP5M
+      - mvMQcz401yo
+      - yy4b6geeQSY
+      - lAwS-V1Co2E
+      - NwnYHoNtfJ0
+      - War3PvOQnRc
+      - 7WOsi8S39-k
+      - dQw4w9WgXcQ
+      - ext_1788036809
+    amazon:
+      count: 1
+      video_ids:
+      - -0JKHuzJ67A
+    anything:
+      count: 1
+      video_ids:
+      - gi-yYZXIZ9I
+    api:
+      count: 25
+      video_ids:
+      - itGeItWc2rw
+      - oUVWcnwveJw
+      - K1JwyKoEy44
+      - BwiGjoeZ66k
+      - eXQ3VVRuy1I
+      - l6USUAIKJls
+      - y90R8BPc8Ag
+      - R1ul9iBhpVM
+      - 4alV5LzHLE4
+      - _BZ0OqG9A2M
+      - w_9ynCt9nLc
+      - _nfMSscxBhQ
+      - iONG8uAJUYg
+      - btgRMHZUVgY
+      - BBlqpNlGgaQ
+      - L2ehWbxphKc
+      - fsP41-iIysQ
+      - 83dWSrfX1zY
+      - vEDU7Jn2JOI
+      - Y6Dd2dl795k
+      - irThJuQUC50
+      - 9NSVfPVONTs
+      - bxYYR-CwgYo
+      - mSwU7ifd-jY
+      - Yn0irVFBD90
+    async:
+      count: 2
+      video_ids:
+      - GZ6PuLikw84
+      - 4M9qEgGYoc8
+    bethesda:
+      count: 1
+      video_ids:
+      - aTNeaKRjzkg
+    black:
+      count: 1
+      video_ids:
+      - XPaKSn4wXs4
+    boating:
+      count: 1
+      video_ids:
+      - 83s4Qxmvg_0
+    brad:
+      count: 1
+      video_ids:
+      - -0JKHuzJ67A
+    carolinereturns:
+      count: 1
+      video_ids:
+      - oCH_EmuiqDY
+    chad:
+      count: 1
+      video_ids:
+      - -0JKHuzJ67A
+    chili:
+      count: 1
+      video_ids:
+      - E_y8XIX6EYk
+    christinakartchner:
+      count: 1
+      video_ids:
+      - KxoppLofeZw
+    christmas:
+      count: 1
+      video_ids:
+      - 4gJTS743LzM
+    click:
+      count: 3
+      video_ids:
+      - aTNeaKRjzkg
+      - WtQ64nSbdY4
+      - OoJsPvmFixU
+    codecrafters:
+      count: 1
+      video_ids:
+      - zwXjknPvhxc
+    come:
+      count: 1
+      video_ids:
+      - KiUTjX9ox3U
+    compiler:
+      count: 3
+      video_ids:
+      - GEkoGCFpY8c
+      - GqEeOrDk5DI
+      - Dzn0woX-WW0
+    cracovia:
+      count: 1
+      video_ids:
+      - E_y8XIX6EYk
+    database:
+      count: 5
+      video_ids:
+      - KnXIaBMN5Us
+      - _BZ0OqG9A2M
+      - 83dWSrfX1zY
+      - -1uaRDEBshI
+      - lAwS-V1Co2E
+    daxflame:
+      count: 1
+      video_ids:
+      - KxoppLofeZw
+    derek:
+      count: 1
+      video_ids:
+      - XPaKSn4wXs4
+    dexter:
+      count: 1
+      video_ids:
+      - FQkrLg7KEBc
+    difficulty:
+      count: 1
+      video_ids:
+      - OMbabnaiE90
+    discover:
+      count: 1
+      video_ids:
+      - yQK0UQ_T-Oo
+    discs:
+      count: 1
+      video_ids:
+      - -0JKHuzJ67A
+    donating:
+      count: 1
+      video_ids:
+      - QLSGh6PBB9U
+    down:
+      count: 1
+      video_ids:
+      - KiUTjX9ox3U
+    dylan:
+      count: 1
+      video_ids:
+      - FQkrLg7KEBc
+    elder:
+      count: 1
+      video_ids:
+      - aTNeaKRjzkg
+    ending:
+      count: 1
+      video_ids:
+      - 0AA-Le7cmH0
+    etat:
+      count: 1
+      video_ids:
+      - PVNB8JpeTP4
+    fagnes:
+      count: 1
+      video_ids:
+      - E7nTaISU-7I
+    football:
+      count: 1
+      video_ids:
+      - E_y8XIX6EYk
+    game_engine:
+      count: 2
+      video_ids:
+      - KIvLywqLCW0
+      - pbwRl3u8Dp0
+    gift:
+      count: 1
+      video_ids:
+      - WtQ64nSbdY4
+    girl:
+      count: 1
+      video_ids:
+      - oCH_EmuiqDY
+    git:
+      count: 38
+      video_ids:
+      - rQXjfwUfitI
+      - hKO3Lt-hrvY
+      - Dzn0woX-WW0
+      - _oSwBHpOG2o
+      - R1ul9iBhpVM
+      - btgRMHZUVgY
+      - L2ehWbxphKc
+      - fsP41-iIysQ
+      - dUHL5aj2SN4
+      - wKVXtvWwYr8
+      - vpSkBV5vydg
+      - DYWTw19_8r4
+      - mSwU7ifd-jY
+      - 3cXzRubknwg
+      - s2fAUDPVQGQ
+      - HPYWU3Uh3yw
+      - A6PGAuNT5L0
+      - V4zb8QhQY58
+      - WQ62_J6gp8o
+      - tNmPTgMoZUI
+      - pBOwn4C3Shg
+      - zXDLfjsueJ0
+      - -JQsdvOfDVo
+      - CcrgG5MjGOk
+      - qazhWj8kYLo
+      - hUf9dJE8W9c
+      - ZEe-jweftZ8
+      - pI8aE3aQJoo
+      - TUZfd1YNfZ0
+      - _6zAAhkU_Iw
+      - pbwRl3u8Dp0
+      - aGJm3fuKLhA
+      - VeDPnWA_GVI
+      - CS1mmwxohz8
+      - cQWwYR3QgR4
+      - mvMQcz401yo
+      - yy4b6geeQSY
+      - lAwS-V1Co2E
+    gofundme:
+      count: 1
+      video_ids:
+      - Ynqfo_Vxpp8
+    going:
+      count: 1
+      video_ids:
+      - FQkrLg7KEBc
+    hall:
+      count: 1
+      video_ids:
+      - 83s4Qxmvg_0
+    happy:
+      count: 1
+      video_ids:
+      - XVFUtEh9zrY
+    hardboiled:
+      count: 1
+      video_ids:
+      - QLSGh6PBB9U
+    hautes:
+      count: 1
+      video_ids:
+      - E7nTaISU-7I
+    heat:
+      count: 2
+      video_ids:
+      - KiUTjX9ox3U
+      - XVFUtEh9zrY
+    hello:
+      count: 1
+      video_ids:
+      - sNAXpYpOEWI
+    hextree:
+      count: 2
+      video_ids:
+      - 23h0mpylkAU
+      - 9CS3q0uG1LI
+    html:
+      count: 3
+      video_ids:
+      - UHJgQVmIajY
+      - cQWwYR3QgR4
+      - lAwS-V1Co2E
+    javascript:
+      count: 2
+      video_ids:
+      - GEkoGCFpY8c
+      - A6PGAuNT5L0
+    kiwico:
+      count: 1
+      video_ids:
+      - WtQ64nSbdY4
+    lincoln:
+      count: 1
+      video_ids:
+      - XPaKSn4wXs4
+    linux:
+      count: 6
+      video_ids:
+      - GqEeOrDk5DI
+      - hKO3Lt-hrvY
+      - Dzn0woX-WW0
+      - -soMNhNqEVc
+      - L2ehWbxphKc
+      - UHJgQVmIajY
+    llm:
+      count: 8
+      video_ids:
+      - kzcI5F4tGiU
+      - GEkoGCFpY8c
+      - iONG8uAJUYg
+      - L2ehWbxphKc
+      - fsP41-iIysQ
+      - 83dWSrfX1zY
+      - pI8aE3aQJoo
+      - A9fq3GLlP5M
+    math:
+      count: 1
+      video_ids:
+      - U-ve8Yh4Ro8
+    memory:
+      count: 16
+      video_ids:
+      - GqEeOrDk5DI
+      - 509xIJJdCaA
+      - itGeItWc2rw
+      - KIvLywqLCW0
+      - Dzn0woX-WW0
+      - l6USUAIKJls
+      - _BZ0OqG9A2M
+      - dUHL5aj2SN4
+      - vpSkBV5vydg
+      - KwBuV7YZido
+      - y11XNXi9dgs
+      - GZ6PuLikw84
+      - hI9aN8ZG4vg
+      - A6PGAuNT5L0
+      - -Wg89JEyEZ0
+      - hyemXbp-EJQ
+    minecraft:
+      count: 1
+      video_ids:
+      - XVSBN1UKVTg
+    monde:
+      count: 1
+      video_ids:
+      - PVNB8JpeTP4
+    monitor:
+      count: 1
+      video_ids:
+      - 83s4Qxmvg_0
+    more:
+      count: 1
+      video_ids:
+      - 0AA-Le7cmH0
+    music:
+      count: 1
+      video_ids:
+      - KxoppLofeZw
+    mvpdisc:
+      count: 1
+      video_ids:
+      - -0JKHuzJ67A
+    mykeytheartist:
+      count: 2
+      video_ids:
+      - oCH_EmuiqDY
+      - KxoppLofeZw
+    non_technical:
+      count: 1
+      video_ids:
+      - 23h0mpylkAU
+    nusa:
+      count: 1
+      video_ids:
+      - jDRw8f17wLk
+    obligatory:
+      count: 1
+      video_ids:
+      - KB2eRY8ZT4E
+    order:
+      count: 4
+      video_ids:
+      - -ALcsLK0u0U
+      - ynq9UMcSsEE
+      - Hgz_f1nRNMo
+      - pWlyatkNJ6c
+    original:
+      count: 4
+      video_ids:
+      - -ALcsLK0u0U
+      - ynq9UMcSsEE
+      - Hgz_f1nRNMo
+      - pWlyatkNJ6c
+    peppers:
+      count: 1
+      video_ids:
+      - E_y8XIX6EYk
+    performance:
+      count: 13
+      video_ids:
+      - 509xIJJdCaA
+      - itGeItWc2rw
+      - oUVWcnwveJw
+      - iOCEoulzBEQ
+      - s-41UF02vrU
+      - WgqaxMOKfnI
+      - -soMNhNqEVc
+      - btgRMHZUVgY
+      - vpSkBV5vydg
+      - DYWTw19_8r4
+      - WwkuAqObplU
+      - l5ws7I0kXLk
+      - 4U-XG7cY7bI
+    point:
+      count: 1
+      video_ids:
+      - oCH_EmuiqDY
+    pour:
+      count: 1
+      video_ids:
+      - PVNB8JpeTP4
+    printable:
+      count: 1
+      video_ids:
+      - WtQ64nSbdY4
+    python:
+      count: 6
+      video_ids:
+      - BBlqpNlGgaQ
+      - 83dWSrfX1zY
+      - s9kctaY0Wl8
+      - A6PGAuNT5L0
+      - d6V-nGaNbhw
+      - fsLh-NYhOoU
+    question:
+      count: 1
+      video_ids:
+      - gi-yYZXIZ9I
+    redis:
+      count: 1
+      video_ids:
+      - zwXjknPvhxc
+    rust:
+      count: 38
+      video_ids:
+      - kzcI5F4tGiU
+      - GEkoGCFpY8c
+      - GqEeOrDk5DI
+      - 509xIJJdCaA
+      - oMnpatXgMzU
+      - oUVWcnwveJw
+      - 7VnPwhXid8Y
+      - KhWwuQ7qf5A
+      - zFk-8_0dXYo
+      - Dzn0woX-WW0
+      - x1N0lCDgst0
+      - eXQ3VVRuy1I
+      - _oSwBHpOG2o
+      - Y5wD227-BFk
+      - l6USUAIKJls
+      - eHglidMHJM4
+      - t0fqRqLHq_w
+      - yfQAnBol6Jw
+      - y90R8BPc8Ag
+      - yVVfNDoN9qs
+      - R1ul9iBhpVM
+      - _BZ0OqG9A2M
+      - _nfMSscxBhQ
+      - WvKz0hBA5KE
+      - iONG8uAJUYg
+      - btgRMHZUVgY
+      - BBlqpNlGgaQ
+      - fsP41-iIysQ
+      - 2OcbNmny7Z0
+      - dUHL5aj2SN4
+      - s9kctaY0Wl8
+      - mzzqXUY20do
+      - zK6bfy2bihw
+      - o0Hu1qaMKis
+      - w7wXtDn4TCE
+      - ZEe-jweftZ8
+      - NgUNjjV_AkY
+      - Vl4JXR9ELi8
+    school:
+      count: 1
+      video_ids:
+      - 83s4Qxmvg_0
+    scrolls:
+      count: 1
+      video_ids:
+      - aTNeaKRjzkg
+    sethward:
+      count: 1
+      video_ids:
+      - oCH_EmuiqDY
+    share:
+      count: 2
+      video_ids:
+      - yQK0UQ_T-Oo
+      - 6JidkHUWgUY
+    shorts:
+      count: 2
+      video_ids:
+      - XVSBN1UKVTg
+      - 7WOsi8S39-k
+    similarly:
+      count: 1
+      video_ids:
+      - gi-yYZXIZ9I
+    sinking:
+      count: 4
+      video_ids:
+      - -ALcsLK0u0U
+      - ynq9UMcSsEE
+      - Hgz_f1nRNMo
+      - pWlyatkNJ6c
+    skip:
+      count: 1
+      video_ids:
+      - QLSGh6PBB9U
+    some:
+      count: 1
+      video_ids:
+      - KB2eRY8ZT4E
+    something:
+      count: 1
+      video_ids:
+      - gi-yYZXIZ9I
+    sorry:
+      count: 1
+      video_ids:
+      - 9CS3q0uG1LI
+    spongebob:
+      count: 1
+      video_ids:
+      - 83s4Qxmvg_0
+    sql:
+      count: 4
+      video_ids:
+      - BBlqpNlGgaQ
+      - CS1mmwxohz8
+      - -1uaRDEBshI
+      - 4At6G-91wV8
+    stacy:
+      count: 1
+      video_ids:
+      - FQkrLg7KEBc
+    stadium:
+      count: 1
+      video_ids:
+      - E_y8XIX6EYk
+    star:
+      count: 2
+      video_ids:
+      - ynq9UMcSsEE
+      - pWlyatkNJ6c
+    starring:
+      count: 2
+      video_ids:
+      - XPaKSn4wXs4
+      - KxoppLofeZw
+    sticker:
+      count: 1
+      video_ids:
+      - OoJsPvmFixU
+    subscribe:
+      count: 1
+      video_ids:
+      - Zd28NM8DMeU
+    subscribe2sed:
+      count: 1
+      video_ids:
+      - WtQ64nSbdY4
+    sulawesi:
+      count: 1
+      video_ids:
+      - jDRw8f17wLk
+    summer:
+      count: 1
+      video_ids:
+      - Ynqfo_Vxpp8
+    taped:
+      count: 1
+      video_ids:
+      - wrmXr-T0AXo
+    tarot:
+      count: 1
+      video_ids:
+      - 0wVfPfL1vmA
+    team:
+      count: 1
+      video_ids:
+      - OoJsPvmFixU
+    tenggara:
+      count: 1
+      video_ids:
+      - jDRw8f17wLk
+    terminal:
+      count: 13
+      video_ids:
+      - GqEeOrDk5DI
+      - oMnpatXgMzU
+      - F_7B2shTPPU
+      - hKO3Lt-hrvY
+      - 4alV5LzHLE4
+      - _BZ0OqG9A2M
+      - -soMNhNqEVc
+      - fsP41-iIysQ
+      - 83dWSrfX1zY
+      - s9kctaY0Wl8
+      - LmXU6SEH3Ks
+      - NgUNjjV_AkY
+      - N-fFq2yDt5o
+    thank:
+      count: 2
+      video_ids:
+      - KiUTjX9ox3U
+      - aTNeaKRjzkg
+    these:
+      count: 1
+      video_ids:
+      - gi-yYZXIZ9I
+    trentlenkarski:
+      count: 1
+      video_ids:
+      - FQkrLg7KEBc
+    turn:
+      count: 1
+      video_ids:
+      - XVFUtEh9zrY
+    ui:
+      count: 1
+      video_ids:
+      - DYWTw19_8r4
+    want:
+      count: 1
+      video_ids:
+      - 4gJTS743LzM
+    whether:
+      count: 1
+      video_ids:
+      - yQK0UQ_T-Oo
+    woohoo:
+      count: 1
+      video_ids:
+      - XVFUtEh9zrY
+    wowcube:
+      count: 1
+      video_ids:
+      - 4gJTS743LzM
+    zoom:
+      count: 1
+      video_ids:
+      - wrmXr-T0AXo

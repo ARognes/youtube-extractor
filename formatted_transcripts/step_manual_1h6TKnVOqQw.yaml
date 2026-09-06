@@ -1,0 +1,9 @@
+video_id: 1h6TKnVOqQw
+title: 'Your Car is EASY to Hack... this is why:'
+channel: NetworkChuck
+url: https://www.youtube.com/watch?v=1h6TKnVOqQw
+duration: 00:39
+published: '2026-08-28 02:53:55'
+type: short
+transcript: '{"content":"\n[0.0s] If you didn''t know this, your car is\n[1.2s] pretty stinking vulnerable. Now, this\n[2.76s] really wasn''t an issue until we decided\n[4.64s] to add 4G and Wi-Fi and Bluetooth and\n[7.04s] all the cool ways we can connect to our\n[8.28s] car, giving hackers the ability to\n[9.8s] connect to our cars and hack them. Your\n[11.6s] car is not just one computer, it''s\n[13.44s] hundreds of computers doing their own\n[14.88s] specialized things. And all these\n[16.12s] computers are connected in a network\n[17.4s] called the [music] CAN bus. Now, here''s\n[18.76s] the glaring problem with the CAN bus.\n[20.32s] The CAN bus is a broadcast network.\n[22.24s] Means when one computer on that network\n[24.32s] sends a message, that message goes out\n[26.0s] to every single system on that network.\n[28.52s] That''s bad, but why? [music] Well,\n[30.6s] if I were to connect myself to that\n[32.08s] network, I could send messages to every\n[34.92s] computer on that network, malicious\n[37.04s] messages."}'
+timestamps: []

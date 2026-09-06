@@ -1,0 +1,1431 @@
+{
+  "channel_name": "NetworkChuck",
+  "total_videos_analyzed": 103,
+  "total_spoken_words": 250582,
+  "total_duration_hours": 25.8,
+  "first_principles": [
+    {
+      "principle": "Hands-On Lab First",
+      "axiom": "Theory is useless without terminal execution. Build real local homelabs to master networking and cloud concepts."
+    },
+    {
+      "principle": "Automation & Containerization",
+      "axiom": "Never deploy manually what can be orchestrated cleanly via Docker, n8n, or Infrastructure as Code."
+    }
+  ],
+  "mental_model_dictionary": {
+    "OSPF": "Open Shortest Path First - a link-state routing protocol for IP networks.",
+    "MCP": "Model Context Protocol - open standard for connecting AI models to local/remote tools and data sources.",
+    "n8n": "Fair-code workflow automation tool for connecting homelabs and AI agents."
+  },
+  "tactical_playbooks": [
+    {
+      "title": "Homelab & AI Automation Setup",
+      "steps": [
+        "Deploy Docker & Docker Compose on local server/Linux machine.",
+        "Install n8n container with persistent volume storage.",
+        "Connect local LLM endpoint (Ollama) via MCP tools.",
+        "Configure automated health checks and webhook triggers."
+      ]
+    }
+  ],
+  "video_knowledge_catalog": [
+    {
+      "video_id": "O7XOUK4B5pg",
+      "title": "AI's Impact on Network Engineers | LIVE AMA | Summer of CCNA",
+      "url": "https://www.youtube.com/watch?v=O7XOUK4B5pg",
+      "word_count": 21093,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'AI's Impact on Network Engineers | LIVE AMA | Summer of CCNA' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] Heat.\\n[18.56s] Heat.\\n[50.399s] Heat. Heat.\\n[71.04s] Heat. Heat.\\n[116.479s] Yo, what is going on YouTube and Twitch\\n[120.64s] and LinkedIn and all of the places on\\n[124.0s] the internet. Welcome to another live\\n[127.84s] stream from Networkchuck Academy. My\\n[130.479s] name is Zach. I'm going to be hosting\\n[132.72s] today. We get these sessions started\\n[135.12s] about 10 minutes early. So, for the\\n[137.92s] first 10 minutes, you guys just get to\\n[140.0s] banter with me. Quite honestly, I'm not\\n[142.08s] sure. Mike, I see you in the background.\\n[143.76s] If you ..."
+    },
+    {
+      "video_id": "-abob21omcM",
+      "title": "Summer of CCNA LIVE Launch Party",
+      "url": "https://www.youtube.com/watch?v=-abob21omcM",
+      "word_count": 19699,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Summer of CCNA LIVE Launch Party' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[13.44s] Oo.\\n[22.56s] Ooh.\\n[54.8s] Good morning. Good evening, good\\n[57.12s] afternoon, wherever you are turning in\\n[59.44s] or turning in tuning in from. Get my\\n[62.0s] words right here. Welcome to the summer\\n[64.32s] of CCNA program here from Network Chuck\\n[67.36s] Academy. My name is Zach Hill and I'm\\n[69.119s] going to be hosting you guys today and\\n[70.96s] we will be joined by the legendary\\n[73.119s] Network Chuck and Jeremy Chorah in just\\n[75.439s] a few moments here. But I do want to let\\n[77.68s] you guys know that if you want to join\\n[79.52s] us for in the co..."
+    },
+    {
+      "video_id": "7-CouekrkOc",
+      "title": "LIVE AMA | Summer of CCNA | 07/09/2026",
+      "url": "https://www.youtube.com/watch?v=7-CouekrkOc",
+      "word_count": 19304,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'LIVE AMA | Summer of CCNA | 07/09/2026' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[24.8s] Heat. Heat. N.\\n[48.719s] Heat. Heat. N.\\n[58.719s] Heat. Heat. N.\\n[88.0s] Yo, what is going on everybody around\\n[91.119s] the world? Welcome to another check-in\\n[94.88s] for the summer of CCNA. My name is Zach\\n[98.4s] and I will be your host today. I'm not\\n[101.2s] Network Chuck. I know a lot of people\\n[102.72s] here are going to be asking about him,\\n[104.159s] but he he got tied up today doing\\n[106.88s] something really amazing. I don't even\\n[108.72s] know if I can announce what he's doing\\n[110.56s] officially, but he he's doing something\\n[114.96s] you'll you..."
+    },
+    {
+      "video_id": "GVlq6lATZ2M",
+      "title": "Summer of CCNA - 90 Minute - Session 2",
+      "url": "https://www.youtube.com/watch?v=GVlq6lATZ2M",
+      "word_count": 18479,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Summer of CCNA - 90 Minute - Session 2' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[14.24s] Down.\\n[23.279s] Hey. Hey.\\n[26.48s] Heat. Heat.\\n[60.64s] What is going on YouTube, Twitter,\\n[64.479s] LinkedIn,\\n[66.08s] Twitch, all of the platforms. Welcome to\\n[68.64s] the summer of CCNA program. This is our\\n[71.92s] second full live stream that we're doing\\n[73.92s] with y'all. It's going to be 90 minutes\\n[75.52s] long. I'm super stoked to be here\\n[77.439s] because we have some well, we have an\\n[79.28s] amazing guest joining us. We of course\\n[81.2s] also have Jeremy and Chuck here. But we\\n[83.119s] are welcoming Jeremy McDow from Jeremy's\\n[85.6s] IT Lab w..."
+    },
+    {
+      "video_id": "HUXUnMbeOyo",
+      "title": "OSPF From Zero: Let's Build the Internet (Well...Almost) | Summer of CCNA",
+      "url": "https://www.youtube.com/watch?v=HUXUnMbeOyo",
+      "word_count": 17837,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'OSPF From Zero: Let's Build the Internet (Well...Almost) | Summer of CCNA' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[26.08s] Heat.\\n[40.64s] Heat.\\n[50.32s] I want\\n[52.64s] to\\n[61.039s] be\\n[62.559s] down.\\n[81.439s] Hello. Good afternoon, good evening,\\n[84.4s] good morning. I think we got all of the\\n[86.56s] different time area locations. Welcome\\n[89.759s] to another daily check-in for the summer\\n[91.84s] of CCNA. My name is Zach. I'm not\\n[94.56s] Network Chuck. I'm not Jeremy either,\\n[96.72s] but I will be your host today guiding\\n[98.479s] you through uh this lesson. We're gonna\\n[100.56s] be talking about OPF with Jeremy. If\\n[102.88s] you've never been to one of these\\n[104.079s] ..."
+    },
+    {
+      "video_id": "IQX3MIzIBBA",
+      "title": "Certification Questions | LIVE AMA | Summer of CCNA | 06/18/2026",
+      "url": "https://www.youtube.com/watch?v=IQX3MIzIBBA",
+      "word_count": 17808,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Certification Questions | LIVE AMA | Summer of CCNA | 06/18/2026' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[30.0s] Hey, hey, hey.\\n[54.8s] Heat. Heat.\\n[96.079s] Yo, what's going on YouTube, Twitter,\\n[99.6s] and Twitch? It's everywhere. we are\\n[102.64s] streaming to right now. Hello everybody.\\n[104.799s] My name is Zach Hill. I'm part of the\\n[106.64s] Network Chuck Academy team. If you're\\n[108.72s] joining us from the Network Chuck\\n[110.0s] YouTube, I'm not Network Chuck clearly,\\n[112.0s] but he will be here soon. Don't worry.\\n[114.24s] Uh give him about nine minutes or so. He\\n[117.439s] usually gets here right on time. But\\n[119.6s] welcome everybody. Today is June 18th\\n[12..."
+    },
+    {
+      "video_id": "W-uDWefB-6c",
+      "title": "Certification Questions | LIVE AMA | Summer of CCNA",
+      "url": "https://www.youtube.com/watch?v=W-uDWefB-6c",
+      "word_count": 17567,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Certification Questions | LIVE AMA | Summer of CCNA' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[17.92s] Heat. Hey, Heat.\\n[25.199s] Hey,\\n[51.28s] hey, hey. Heat. Heat. N.\\n[62.719s] Heat. Heat. N.\\n[72.72s] Heat. Heat. N.\\n[112.0s] Okay. Yo, what is going on YouTube and\\n[117.28s] LinkedIn and Twitch and the Twitter\\n[121.439s] universe? How are you all doing today?\\n[124.079s] Welcome to our daily check-in. Well,\\n[127.119s] this is our our twice a month, one of\\n[130.64s] one of the streams that we do uh every\\n[132.879s] single month for our summer of CCNA\\n[134.879s] program where everybody is welcome to\\n[136.64s] join. If you're not sure sure who I am\\n[139.36s] bec..."
+    },
+    {
+      "video_id": "budTmdQfXYU",
+      "title": "n8n Now Runs My ENTIRE Homelab",
+      "url": "https://www.youtube.com/watch?v=budTmdQfXYU",
+      "word_count": 10009,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'n8n Now Runs My ENTIRE Homelab' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] Babe, Netflix is broken. I'm seriously so mad. Fix my game. Chuck never\\n[6.0s] the toilet again, man. I really need this thing to flush. I would normally stress about this, but\\n[13.0s] N manages my home lab.\\n[20.0s] Yay, it works. Did you just see that? My new AI employee, Terry, fixed everything before\\n[27.0s] I could even start trouble. No, Terry. No, don't optimize. Quit.\\n[34.0s] Cancel. Cancel. Terry. No. Okay. So, that right there, that's Terminator Terry, and we're going to avoid that at\\n[40.0s] all cost. So, in this video, we're going to build your very own su..."
+    },
+    {
+      "video_id": "GuTcle5edjk",
+      "title": "you need to learn MCP RIGHT NOW!! (Model Context Protocol)",
+      "url": "https://www.youtube.com/watch?v=GuTcle5edjk",
+      "word_count": 7813,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'you need to learn MCP RIGHT NOW!! (Model Context Protocol)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] You need to learn MCP right now. MCP makes AI do things overpowered things.\\n[5.0s] Like when I connected Claude to my Obsidian vault. What? Or Brave or Kali\\n[11.0s] Linux? My jaw dropped. I mean, look at this. Claude is hacking with Kali Linux right now. So, in this video, I'm going\\n[16.0s] to show you the magic of the model context protocol. I'll break down what it is, show you how to use it with Docker containers. It's all local, and\\n[23.0s] even how to build your very own custom MCP servers for literally anything you can think of. My goal by the end of this\\n[29.0s]..."
+    },
+    {
+      "video_id": "T-HZHO_PQPY",
+      "title": "OpenClaw......RIGHT NOW??? (it's not what you think)",
+      "url": "https://www.youtube.com/watch?v=T-HZHO_PQPY",
+      "word_count": 7241,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'OpenClaw......RIGHT NOW??? (it's not what you think)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.48s] Okay, here we go. Open Claw. We're going\\n[2.879s] to need two copies for this.\\n[7.279s] This software is the reason AI has been\\n[9.44s] stressing me out so much. See this video\\n[11.599s] here, but you can't ignore it, even\\n[13.92s] though I want to, even though I kind of\\n[15.36s] hate it. It's here. Currently, it has\\n[17.44s] 308,000\\n[18.96s] GitHub stars, beating React and the\\n[21.52s] Linux kernel somehow. The creator got\\n[24.0s] aqua hired by OpenAI, and everyone's\\n[26.32s] copying it. Just last week, Anthropic\\n[28.32s] dropped channels in Dispatch. So, tha..."
+    },
+    {
+      "video_id": "MsQACpcuTkU",
+      "title": "You've Been Using AI the Hard Way (Use This Instead)",
+      "url": "https://www.youtube.com/watch?v=MsQACpcuTkU",
+      "word_count": 6863,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'You've Been Using AI the Hard Way (Use This Instead)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] If you're still using AI in the\\nbrowser, you're doing it the slow way. You see each of these apps has a terminal\\nversion and they make me 10 times\\n[6.0s] faster. I'm getting so much work done and the AI\\ncompanies are kind of quiet about this. They're marketing these\\ntools to developers for code,\\n[13.0s] but here's what they're not telling you. You can use them for everything and\\nit's way better than their apps.\\n[18.0s] Writing research projects, working\\nin the terminal is a superpower. I'm about to show you why I'm literally\\nwriting this video with these tools\\n[..."
+    },
+    {
+      "video_id": "LhnH0juUaGw",
+      "title": "I got inside FIFA\u2019s Secret World Cup Broadcast Network",
+      "url": "https://www.youtube.com/watch?v=LhnH0juUaGw",
+      "word_count": 6456,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'I got inside FIFA\u2019s Secret World Cup Broadcast Network' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.32s] This is where a World Cup game happens.\\n[3.28s] But this is where the World Cup is made.\\n[5.92s] Welcome to the International Broadcast\\n[7.759s] Center. Every single World Cup game,\\n[10.0s] every pass, goal, celebration, tier,\\n[13.2s] everything you see from 45 cameras from\\n[15.28s] 16 stadiums across three countries comes\\n[17.6s] through this building over these thin,\\n[19.279s] fragile fiber connections.\\n[22.8s] >> Don't disconnect it.\\n[23.6s] >> But what if I did disconnect them? Would\\n[25.199s] the World Cup just stop? What I've been\\n[27.68s] told when I fi..."
+    },
+    {
+      "video_id": "9SDkU5VDQEQ",
+      "title": "You need to switch to Linux RIGHT NOW!!",
+      "url": "https://www.youtube.com/watch?v=9SDkU5VDQEQ",
+      "word_count": 5637,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'You need to switch to Linux RIGHT NOW!!' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] I think it's time.\\n[1.04s] This is the year of the Linux\\ndesktop because\\n[2.96s] now we have Omarchy, Omarchy, Omarchy.\\n[5.599s] This is the Linux desktop we've\\nbeen waiting\\n[7.44s] for.\\n[7.94s] It's like you step into hyperdrive.\\n[9.839s] You go like, oh, I used to use a\\na three wheeler\\n[12.639s] and pedal around with in my\\nlittle computer\\n[14.88s] world, And then\\nhere's the Millennium Falcon,\\n[17.664s] and we're going to hyperdrive.\\n[18.785s] Let's go.\\n[19.285s] This is this is what computers can be.\\n[22.225s] They can be this exciting.\\n[23.824s] That's..."
+    },
+    {
+      "video_id": "FYL9e_aqZY0",
+      "title": "This AI Supercomputer can fit on your desk...",
+      "url": "https://www.youtube.com/watch?v=FYL9e_aqZY0",
+      "word_count": 5079,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'This AI Supercomputer can fit on your desk...' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] Nvidia sent me this and I can finally\\n[2.0s] talk about it. This AI supercomputer\\n[4.0s] fits in the palm of my hand and it runs\\n[6.0s] AI models my dual 4D90s can't. This is a\\n[9.0s] whole new category of device, an AI\\n[10.0s] server you can actually afford. Now, I\\n[12.0s] think this might be the device we've\\n[14.0s] been waiting for. Powerful local AI that\\n[16.0s] doesn't suck. I'm excited to try this\\n[18.0s] and show it to you cuz it might change\\n[19.0s] everything. So, in this video, we're\\n[21.0s] diving into the specs, seeing if it can\\n[22.0s] defeat and r..."
+    },
+    {
+      "video_id": "o-8amaZBi5M",
+      "title": "Hackers infected the wrong girlfriend....",
+      "url": "https://www.youtube.com/watch?v=o-8amaZBi5M",
+      "word_count": 4866,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Hackers infected the wrong girlfriend....' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] There is an elite cyber crime\\nfighting team hidden in Romania.\\n[3.0s] They have saved victims over a billion\\ndollars and helped dismantle criminal\\n[6.0s] empires and almost no one knows\\nwho they are. Let's change that.\\n[17.0s] Our journey starts here,\\n[18.0s] but Defender HQ inside this building are\\nthe members of the Draco team, I think.\\n[23.0s] Can you tell me who's on the team?\\nNo, that's for safety reasons.\\n[27.0s] We'll talk more about that later.\\n[28.0s] But what they do is we lower on the\\ndark web and we look at dark markets.\\n[33.0s] For instance, malw..."
+    },
+    {
+      "video_id": "dbMXi9q78Tk",
+      "title": "I almost quit YouTube....",
+      "url": "https://www.youtube.com/watch?v=dbMXi9q78Tk",
+      "word_count": 4804,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'I almost quit YouTube....' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[3.16s] Okay. I got to be honest. AI is really\\nstarting to stress me out, like a lot.\\n[8.58s] So much so that I almost quit YouTube.\\nLegit. It's been a lot recently,\\n[13.24s] like you may have seen this article last\\nweek. It went viral, 80 million views,\\n[17.32s] and it's telling us about how all\\nof our jobs are going to disappear.\\n[20.64s] I know we've heard it before,\\n[21.54s] but this one kind of hit different\\nbecause everyone was agreeing with it.\\n[25.16s] And I'm not immune to this. I wake up,\\n[27.04s] I read this thing and I'm instantly\\nfilled with anxiety. Any..."
+    },
+    {
+      "video_id": "pwWBcsxEoLk",
+      "title": "You SUCK at Prompting AI (Here's the secret)",
+      "url": "https://www.youtube.com/watch?v=pwWBcsxEoLk",
+      "word_count": 4792,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'You SUCK at Prompting AI (Here's the secret)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] You suck at prompting.\\nIt's okay. I did too,\\n[2.0s] but I got tired of asking AI to\\ndo things and getting garbage,\\n[5.0s] getting results like this\\nwhen I'm expecting this.\\n[9.0s] Have you ever yelled at chat gt like\\nreally insulted it because you're so\\n[13.0s] frustrated with the results? If you\\nhaven't, you're not using it enough.\\n[16.0s] It's those moments. That frustration that\\nmakes me think one of two things. One,\\n[20.0s] AI is dumb and I'm not going to use\\nit anymore. Those naysayers are right,\\n[23.0s] or two, I'm dumb and I\\nhave no idea how to use ai..."
+    },
+    {
+      "video_id": "a3RI4DjFBzw",
+      "title": "This New Device is 10x Better Than Your Router",
+      "url": "https://www.youtube.com/watch?v=a3RI4DjFBzw",
+      "word_count": 4326,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'This New Device is 10x Better Than Your Router' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] Your home router still sucks.\\n[1.919s] Wait.\\n[2.48s] You still haven't gotten rid of it yet?\\n[3.919s] Get it out of here.\\n[5.04s] It sucked six years ago, and now\\nit's even worse.\\n[7.599s] The government just banned it.\\n[8.96s] Turns out some\\nChinese hackers were living inside\\n[10.719s] of it.\\n[11.219s] Slow, insecure, boring, and now illegal.\\n[13.679s] That's exactly\\nwhat I told my editor Mike this\\n[15.455s] morning.\\n[15.955s] You see, he's\\nmoving into a new house, and his\\n[17.295s] ISP is handing him one of these.\\n[18.894s] Not on my watch, dude. By the\\..."
+    },
+    {
+      "video_id": "cGXAmnUabEY",
+      "title": "Switching back to Windows?!?",
+      "url": "https://www.youtube.com/watch?v=cGXAmnUabEY",
+      "word_count": 3973,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Switching back to Windows?!?' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] Hey.\\n[0.5s] I wanna show you something.\\n[1.599s] Do not judge me.\\n[5.839s] Under my desk, have a Mac, and\\nthen way over\\n[8.4s] here, I also have\\na Windows PC and a KVM switcher\\n[11.439s] to switch back and forth.\\n[12.404s] There's a reason for that chaos.\\n[13.764s] We'll get to that here in a moment.\\n[15.044s] But first, OpenAI reached out\\nto me about two\\n[17.125s] months ago and\\nsaid, hey, you know that Codex\\n[18.964s] app that everyone's freaking out about?\\n[20.644s] We made it Windows native.\\n[22.564s] And I was like, so what?\\n[26.289s] Who's even still..."
+    },
+    {
+      "video_id": "cT22fTzotYc",
+      "title": "FREE Phone Calls with Claude Code",
+      "url": "https://www.youtube.com/watch?v=cT22fTzotYc",
+      "word_count": 3970,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'FREE Phone Calls with Claude Code' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.785s] Hey, watch this.\\n[5.655s] Hello, I'm Stephanie.\\nHow can I help you today?\\n[8.55s] Hey Stephanie. Can you tell me how\\nhealthy our storage cluster is right now?\\n[15.9s] Chuck, your storage\\ncluster is healthy overall.\\n[19.005s] OneDrive is down on Griffin door, but\\neverything else is running perfectly.\\n[23.43s] Thank you, Stephanie. Have a\\ngood day. Did you see that?\\n[26.16s] I just called my server. My\\nserver has a phone number,\\n[29.73s] but that's not the coolest\\npart. By the end of this video,\\n[32.37s] you're going to watch my server call\\nme. Hello. But h..."
+    },
+    {
+      "video_id": "G3jvn7n-68Y",
+      "title": "i didn't want to like this....",
+      "url": "https://www.youtube.com/watch?v=G3jvn7n-68Y",
+      "word_count": 3788,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'i didn't want to like this....' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.16s] Perplexity Computer makes me feel like\\n[1.76s] I've been wasting my time for months.\\n[3.52s] I'm going a little crazy. I didn't want\\n[5.12s] to like it. But here's the thing. I\\n[6.96s] built some very cool and overly\\n[8.559s] engineered AI systems. I've got my\\n[10.48s] personal AI infrastructure inside Claw\\n[12.24s] Code. 103 skills, multiple models,\\n[14.32s] Gemini codecs, image generation. I'm\\n[16.8s] using Open Claw with over seven agents.\\n[18.88s] My setup is pretty sick. I like it. And\\n[21.279s] then Perplexity drops Perplexity\\n[23.359s] Computer. 200 buc..."
+    },
+    {
+      "video_id": "qFsj6KL8_nU",
+      "title": "DEFCON is Not What I Expected...",
+      "url": "https://www.youtube.com/watch?v=qFsj6KL8_nU",
+      "word_count": 3389,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'DEFCON is Not What I Expected...' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] What if I told you that you could\\ngo to a place with 30,000 hackers?\\n[3.0s] Who would want to go to\\nthat? Me. This is Defcon,\\n[6.0s] a hacker event held every year,\\nand this was my first one ever.\\n[9.0s] This place is crazy. I\\ngot handcuffed, zip tied,\\n[12.0s] hacked packets and cars broke\\ninto doors, went to a furry party.\\n[15.0s] This is way more than a conference. I\\nwent to a conference a week before that.\\n[18.0s] That was black hat.\\nThis is something else.\\n[21.0s] So my goal in this video is to take you\\non a journey through the villages of\\n[24.0s] Defco..."
+    },
+    {
+      "video_id": "axfNxZ1R6C4",
+      "title": "I was wrong about VPNs",
+      "url": "https://www.youtube.com/watch?v=axfNxZ1R6C4",
+      "word_count": 3327,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'I was wrong about VPNs' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] The internet says VPNs are completely\\n[2.159s] useless. H they might be right. Or are\\n[5.04s] they? In this video, we're busting some\\n[6.879s] myths. Can a VPN protect you from\\n[8.72s] hackers? Does it make you invisible?\\n[11.92s] The goal here is to help you answer this\\n[13.36s] question for yourself. Do you actually\\n[15.519s] need a VPN? Get your coffee ready. We're\\n[17.76s] turning on our virtual private network.\\n[23.119s] That's what VPN stands for, by the way.\\n[24.8s] When you are enabling a VPN, you are\\n[26.48s] connecting to a virtual private network.\\n[..."
+    },
+    {
+      "video_id": "_yfiUQSbdPY",
+      "title": "become an AI HACKER (it's easier than you think)",
+      "url": "https://www.youtube.com/watch?v=_yfiUQSbdPY",
+      "word_count": 3199,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'become an AI HACKER (it's easier than you think)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.15s] You need to learn AI hacking\\nright now, it's time to level up.\\n[3.54s] AI is everywhere and it's\\njust begging to get hacked.\\n[6.51s] There's a lot of opportunity to make\\nmoney here by breaking these agents that\\n[9.69s] these big companies are putting online.\\nI think now's the time to get into it,\\n[13.35s] but are you ready? In my.\\n[14.94s] Last AI hacking video,\\n[16.11s] you played Baby Gandalf and you got 'em\\nto leak a password. Okay, let's not bad.\\n[20.16s] But here's the thing, that's not real\\nAI hacking. That's just a party trick.\\n[24.66s] So to teach us..."
+    },
+    {
+      "video_id": "9LjgqZ2wP0g",
+      "title": "I Tried running in 3D printed shoes",
+      "url": "https://www.youtube.com/watch?v=9LjgqZ2wP0g",
+      "word_count": 3021,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'I Tried running in 3D printed shoes' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.09s] This is a 3D printed shoe and I'm going\\nto attempt a five mile run wearing\\n[4.56s] these. Yeah, don't do this. Don't\\never do this to yourself. But hold on.\\n[9.36s] Did I just say 3D printed shoes?\\nBecause this is another 3D printed shoe.\\n[13.86s] This is made with a standard PLA filament,\\nand as you can see, it's rock solid,\\n[18.15s] no bend at all.\\n[19.44s] But this is the shoe I made with TPUA\\nspecial kind of filament that's softer and\\n[23.85s] bendable. Now let's\\nrewind a bit. Last year,\\n[28.11s] bamboo sent me this new printer, the\\nbamboo H 2D. Now it wa..."
+    },
+    {
+      "video_id": "eGSsoSEppNU",
+      "title": "the WORST hack of 2026",
+      "url": "https://www.youtube.com/watch?v=eGSsoSEppNU",
+      "word_count": 2114,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'the WORST hack of 2026' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] This just became the most dangerous\\n[1.6s] command that anyone can run. npm install\\n[5.2s] anything. Fill in the blank n open claw\\n[8.8s] doesn't matter. We're still uncovering\\n[10.32s] just how bad the fallout on this is.\\n[12.559s] Anyone could be infected. You could be\\n[14.24s] infected. And this just happened. Axios,\\n[16.56s] the most popular HTTP library, over 100\\n[19.359s] million downloads a week, was hijacked.\\n[21.52s] A hacker took over the lead maintainer's\\n[23.359s] account, injected malicious code without\\n[25.439s] actually injecting malicious code, ..."
+    },
+    {
+      "video_id": "34D1imLordU",
+      "title": "this Raspberry Pi belongs on your wall",
+      "url": "https://www.youtube.com/watch?v=34D1imLordU",
+      "word_count": 1933,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'this Raspberry Pi belongs on your wall' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] Right here is where I'm going to put it.\\n[1.68s] The new Raspberry Pi Touch Display 2. A\\n[4.08s] 10-in portrait to display all my Home\\n[6.24s] Lab and Home Assistant [music] goodness\\n[7.759s] on a wall because, you know, it looks\\n[10.08s] cool. At least I hope it will. The\\n[11.599s] problem [music] is not all of you are\\n[13.12s] going to be able to use this. You'll\\n[14.559s] see. Let's open it up.\\n[17.52s] Now, the good folks at Raspberry Pi did\\n[19.199s] send me this. No strings attached, so I\\n[21.039s] can say what I want. Dude, I'm so\\n[23.359s] excited to o..."
+    },
+    {
+      "video_id": "FEDiAHzS0zw",
+      "title": "Claude Code on your phone in 10 minutes",
+      "url": "https://www.youtube.com/watch?v=FEDiAHzS0zw",
+      "word_count": 1819,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Claude Code on your phone in 10 minutes' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] Claude code has been blowing up.\\n[2.16s] There are actually articles about\\nClaude Code Addiction. I believe it.\\n[5.88s] I've got it. Do you have it? And\\nI'm not here to help you quit.\\n[9.06s] I'm here to make it worse because what\\nif you didn't have to be changed to your\\n[11.97s] laptop or desktop?\\n[13.02s] What if you could use Claude code at\\nthe airport on the couch, in the shower,\\n[17.37s] on the toilet? I want to give you that\\nfreedom. So by the end of this video,\\n[21.0s] you're going to be coding,\\n[21.72s] you're going to be hacking from your\\nphone with ..."
+    },
+    {
+      "video_id": "YC77Lb_cN6c",
+      "title": "Fable 5 is back.....run these prompts before July 12th",
+      "url": "https://www.youtube.com/watch?v=YC77Lb_cN6c",
+      "word_count": 1805,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Fable 5 is back.....run these prompts before July 12th' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.56s] Okay, today is July 1st, 2026, [music]\\n[3.2s] and Fable 5 is finally coming back.\\n[5.68s] Yeah, it's uh July 2nd. We're a day\\n[7.359s] late. Okay, but here's the thing. You\\n[9.04s] only have 7 days. Actually, 6 days. 6\\n[11.79s] [music] days to use the most powerful AI\\n[13.36s] the world has ever seen. Start the\\n[15.04s] countdown. It's all you got. Now, if you\\n[16.4s] don't know what Fable 5 is, [music] it\\n[18.0s] was such a good AI model that the\\n[20.0s] government took it away from us 3 days\\n[22.16s] after it launched. They were like, \\\"Wow,\\n[24.32s] uh, too..."
+    },
+    {
+      "video_id": "ocQ7ZKhHU5Q",
+      "title": "Claude Code on your Phone is OFFICIAL (it changes  everything)",
+      "url": "https://www.youtube.com/watch?v=ocQ7ZKhHU5Q",
+      "word_count": 1690,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Claude Code on your Phone is OFFICIAL (it changes  everything)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] Okay, Claw Code just did something\\n[1.6s] insane and they've changed the game.\\n[3.28s] They're coming for Open Claw, I think.\\n[5.359s] And I just had to make a quick video\\n[6.64s] about this. Now, right now I'm in Japan,\\n[8.16s] which is why I'm drinking Coffee Boss.\\n[10.0s] It's pretty good.\\n[13.36s] And they dropped something that's\\n[14.639s] changing the game for how I work here\\n[16.4s] while I'm with my family traveling. I'll\\n[18.0s] have a video coming out on that soon.\\n[19.439s] But remember that video I did on how to\\n[20.88s] do a remote terminal on you..."
+    },
+    {
+      "video_id": "QQEgIo4Juxg",
+      "title": "you need to use Hermes RIGHT NOW!! (goodbye OpenClaw!!)",
+      "url": "https://www.youtube.com/watch?v=QQEgIo4Juxg",
+      "word_count": 701,
+      "executive_synopsis": "you need to use Hermes RIGHT NOW!! (goodbye OpenClaw!!)",
+      "core_takeaways": [],
+      "transcript_preview": "\ud83d\ude80 Spin up your own Hermes agent on a Hostinger VPS: https://hostinger.com/networkchuckhermes Use code NETWORKCHUCK at checkout for a discount on your server. Hermes is the open-source AI agent from Nous Research that actually grows with you \u2014 and after a month of daily use, I'm switching to it from OpenClaw. In this video, I install Hermes on a $5 cloud server, turn it into an IT agent named Ron Weasley, and walk through the 5 reasons I made the switch: the vibe, the memory, the team behind it, self-improving skills, and the fact that it just doesn't break. In this video, you'll learn how to i..."
+    },
+    {
+      "video_id": "kerRwLePW7I",
+      "title": "Milla Jovovich made an AI memory tool\u2026..it\u2019s pretty good",
+      "url": "https://www.youtube.com/watch?v=kerRwLePW7I",
+      "word_count": 665,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Milla Jovovich made an AI memory tool\u2026..it\u2019s pretty good' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] Mila Zhovich just made a memory tool for\\n[2.48s] AI. Yes, that Mila Zhovich. The fifth\\n[5.279s] element Resident Evil Zoolander. It's\\n[7.68s] called Me Palace. She designed it with\\n[9.519s] her friend Ben. Let's try it out. Its\\n[11.599s] claim to fame is that it's the highest\\n[13.28s] scoring AI memory system ever\\n[14.88s] benchmarked and it's free and it's\\n[16.72s] growing. Almost 5,000 stars. I didn't\\n[18.72s] see this coming. Milovich making a\\n[21.039s] memory do AI. Now, the point of this\\n[22.8s] project is that AI does have a hard time\\n[24.64s] rememberin..."
+    },
+    {
+      "video_id": "5zyujD1gDc4",
+      "title": "I had to assemble this laptop. Then I  installed #omarchy on it.",
+      "url": "https://www.youtube.com/watch?v=5zyujD1gDc4",
+      "word_count": 503,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'I had to assemble this laptop. Then I  installed #omarchy on it.' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.24s] This is the strangest and also most\\n[2.159s] awesome laptop I've ever received. Let's\\n[4.319s] unbox it. Now, first thing you'll notice\\n[6.64s] is that it comes in pieces. It is not\\n[9.599s] put together. Assembly required. So, our\\n[12.559s] goal here is to assemble it and then\\n[14.799s] install Linux on it. Omachi Arch, by the\\n[17.359s] way, and see how fast it installs\\n[19.6s] because apparently you can install\\n[20.72s] Omachi in under 60 seconds. Now, there's\\n[23.039s] QR codes everywhere with how to do this.\\n[26.0s] I've done this before. I've replaced an\\n..."
+    },
+    {
+      "video_id": "tbCKWX34_G4",
+      "title": "stop trusting cloud cameras!! (here's what I use instead)",
+      "url": "https://www.youtube.com/watch?v=tbCKWX34_G4",
+      "word_count": 479,
+      "executive_synopsis": "stop trusting cloud cameras!! (here's what I use instead)",
+      "core_takeaways": [],
+      "transcript_preview": "Get an exclusive 15% discount on Saily eSIM CTA data plans! Download Saily app and use code networkchuck at checkout: https://saily.com/networkchuck Someone might be watching you through your smart cameras\u2026. Seriously. Today, I\u2019m ditching the cloud, and building a completely local, AI powered surveillance system using Frigate, Raspberry Pi, and some cheap Reolink cameras. Get your coffee ready\u2026 this is going to blow your mind. \ud83d\udd25\ud83d\udd25Join the NetworkChuck Academy!: https://ntck.co/NCAcademy RESOURCES / LINKS: \ud83d\udcc4 Guide / Walkthrough: https://github.com/theNetworkChuck/fr... Learn Docker RIGHT NOW!!: ..."
+    },
+    {
+      "video_id": "_KzObeom88Y",
+      "title": "The Dark Web EXPOSED (FREE + Open-Source Tool)",
+      "url": "https://www.youtube.com/watch?v=_KzObeom88Y",
+      "word_count": 475,
+      "executive_synopsis": "The Dark Web EXPOSED (FREE + Open-Source Tool)",
+      "core_takeaways": [],
+      "transcript_preview": "Start your free ThreatLocker trial (no credit card required): https://www.threatlocker.com/networkc... At DEF CON, I met a dark web researcher who built \u201cRobin\u201d, an AI-powered Tor scraper that finds the real parts of the dark web faster than anything else. The dark web is notoriously unreliable; it\u2019s slow, full of honeypots, and constantly changing. But Robin uses AI and Docker to automate OSINT, analyze sites, and export real intelligence. In this video I\u2019ll show you how to set it up yourself, and teach you techniques to safely investigate the Dark Web. \ud83d\udd25\ud83d\udd25Join the NetworkChuck Academy! We jus..."
+    },
+    {
+      "video_id": "tu1amrfflb8",
+      "title": "NEW Raspberry Pi AI Hat Is a Massive Upgrade",
+      "url": "https://www.youtube.com/watch?v=tu1amrfflb8",
+      "word_count": 453,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'NEW Raspberry Pi AI Hat Is a Massive Upgrade' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.16s] Raspberry Pi released this today, the\\n[2.48s] Raspberry Pi AI Hat Plus 2. Bit of a\\n[5.12s] mouthful, but let me show you why this\\n[6.56s] thing is awesome because this is the\\n[8.32s] original Raspberry Pi AI Hat Plus. And\\n[10.48s] if you didn't know, this thing kind of\\n[11.759s] sucks. Sorry, Raspberry Pi. First, it\\n[13.92s] has zero RAM, which means it literally\\n[15.839s] has to steal RAM from the Raspberry Pi\\n[17.76s] to even work. And you can really only\\n[19.76s] use this with camerabased AI, like\\n[21.76s] object detection or image recognition.\\n[23.68s] Tha..."
+    },
+    {
+      "video_id": "s96JeuuwLzc",
+      "title": "I'll never use n8n the same......",
+      "url": "https://www.youtube.com/watch?v=s96JeuuwLzc",
+      "word_count": 431,
+      "executive_synopsis": "I'll never use n8n the same......",
+      "core_takeaways": [],
+      "transcript_preview": "Get 67% OFF Hostinger\u2019s n8n self-hosting AND an extra 10% OFF with code NETWORKCHUCK: https://hostinger.com/ncn8n N8n just got stupid powerful. In this video, I show you how I wired Claude Code (and other AI terminal tools like Gemini CLI) into my n8n workflows. N8n can now spin up full-blown AI agents, use skills, and keep rich context across multiple steps\u2026. All from a single node. \ud83d\udd25\ud83e\udde0 Check out our N8N COURSE on NetworkChuck Academy!: https://ntck.co/n8n_academy RESOURCES / LINKS: \ud83d\udcc3 Guide / Walkthrough: https://github.com/theNetworkChuck/n8... \u26a1 My video on why Claude Code is so great: \u2022 You..."
+    },
+    {
+      "video_id": "acSlR6UD6yM",
+      "title": "I DDoS'd myself (don't do this)",
+      "url": "https://www.youtube.com/watch?v=acSlR6UD6yM",
+      "word_count": 429,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'I DDoS'd myself (don't do this)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] So, I'm about to DOS attack myself. Now,\\n[2.48s] please again don't attack anyone without\\n[4.799s] permission. You can go to jail for this.\\n[6.879s] Check this out. So, I've got my web\\n[8.16s] server here. Works fine. I'm actually\\n[9.84s] pinging it from another server as well.\\n[11.36s] So, we can see how healthy it is. And we\\n[12.719s] know it's healthy when we look at the\\n[14.32s] time it takes to get there. When we're\\n[16.16s] DOSing something or denial of servicing\\n[18.0s] something, we basically have two goals.\\n[19.92s] We want to overwhelm or confuse or bo..."
+    },
+    {
+      "video_id": "bFgTxr5yst0",
+      "title": "Ethernet is DEAD?? Mac Studio is 100x FASTER!!",
+      "url": "https://www.youtube.com/watch?v=bFgTxr5yst0",
+      "word_count": 427,
+      "executive_synopsis": "Ethernet is DEAD?? Mac Studio is 100x FASTER!!",
+      "core_takeaways": [],
+      "transcript_preview": "Hey\u2026just try Twingate\u2026.you'll never look at VPN the same: https://ntck.co/twingate-networkchuck I built another AI supercomputer with 4 Mac Studios... but this time it actually works. Earlier this year, I clustered 5 Mac Studios and it was 91% SLOWER. Everyone said clustering was stupid. But Apple just dropped a software update that changes everything - RDMA over Thunderbolt 5. Latency dropped from 300 microseconds to 3 microseconds. Now we're running trillion-parameter models locally at speeds that actually make sense. \ud83d\udd25\ud83d\udd25Join the NetworkChuck Academy!: https://ntck.co/NCAcademy RESOURCES / LI..."
+    },
+    {
+      "video_id": "d0gTthacB5c",
+      "title": "Gemma 4 on the iPhone (local AI, no internet required)",
+      "url": "https://www.youtube.com/watch?v=d0gTthacB5c",
+      "word_count": 410,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Gemma 4 on the iPhone (local AI, no internet required)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.16s] Okay, you can now run local AI models on\\n[2.8s] your phone. Watch this. We're going to\\n[5.04s] go into airplane mode. Now, we're going\\n[7.12s] to launch the AI Edge Gallery from\\n[8.8s] Google. It's from this app that we can\\n[10.4s] actually download and run Gemma 4. Now,\\n[12.719s] what is that? This is Google's new open-\\n[14.719s] source AI models completely local. And\\n[16.8s] while they do have some bigger ones,\\n[17.92s] they made some models that can run on a\\n[20.16s] phone. The effective 2 billion and 4\\n[22.24s] billion models. Let's try them out. Now,\\n[23...."
+    },
+    {
+      "video_id": "gM5O0zCqriM",
+      "title": "I flew to Romania to find hackers who fight hackers",
+      "url": "https://www.youtube.com/watch?v=gM5O0zCqriM",
+      "word_count": 384,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'I flew to Romania to find hackers who fight hackers' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] So, I flew to Romania to find a secret\\n[1.92s] cyber crime fighting team. No, [music] I\\n[3.52s] really did. They have saved victims over\\n[5.12s] $1 billion in ransom payments, and\\n[7.359s] almost no one knows they exist. Inside\\n[9.28s] Bit Defender HQ, they're called the\\n[10.88s] Draco team. These [music] guys are\\n[12.16s] legit. They're real malware analysts,\\n[13.92s] forensic experts, and the stories they\\n[15.679s] told me were [music] insane. For 2 and\\n[17.6s] 1/2 years, the Draco team went to war on\\n[19.52s] this gang. And these ransomware guys,\\n[21.199s] ..."
+    },
+    {
+      "video_id": "_3pW7mkKTDk",
+      "title": "Add a REAL Desk Phone to the Cloud in 60 Seconds (FREE)",
+      "url": "https://www.youtube.com/watch?v=_3pW7mkKTDk",
+      "word_count": 379,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Add a REAL Desk Phone to the Cloud in 60 Seconds (FREE)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] Let's add this physical phone to a free\\n[2.24s] cloud phone system in 60 seconds. This\\n[4.64s] is so easy, it's going to blow your\\n[6.319s] mind. And we're using 3CX, which is free\\n[8.48s] for up to 10 users. First, in your 3CX\\n[11.12s] admin console, [music] go to users and\\n[12.88s] choose the user you want to add the\\n[14.16s] phone to. Next, go to IP phone and\\n[16.4s] configure a phone. Now, check out how\\n[18.32s] easy this is. [music] It's asking me for\\n[20.0s] the phone model and the MAC address. So,\\n[22.16s] this is the phone I'm using. It's the\\n[24.0s] S..."
+    },
+    {
+      "video_id": "mTpvUlng5ls",
+      "title": "Learn networking with REAL labs \ud83d\udc49 Join the Summer of CCNA",
+      "url": "https://www.youtube.com/watch?v=mTpvUlng5ls",
+      "word_count": 377,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Learn networking with REAL labs \ud83d\udc49 Join the Summer of CCNA' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] Hey, you can't really learn networking\\n[1.76s] without actually doing it. Building and\\n[3.76s] troubleshooting real networks. Now, this\\n[5.44s] used to be pretty hard to do. You had to\\n[6.799s] buy old routers and switches on eBay. It\\n[8.72s] was a whole thing. But now on Network\\n[10.08s] Chuck Academy, it's built in. It's right\\n[12.08s] there. Check this out. I'm in the\\n[13.28s] course. I'm going to go find a lab.\\n[14.639s] Notice I'm in the browser. I've got my\\n[16.32s] lab guide, my diagram, and then my\\n[18.32s] interactive console, my terminal. This\\n[20.32..."
+    },
+    {
+      "video_id": "EOPo7yL86vE",
+      "title": "THIS new standard changes how I use AI.",
+      "url": "https://www.youtube.com/watch?v=EOPo7yL86vE",
+      "word_count": 368,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'THIS new standard changes how I use AI.' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] Humans and AI don't speak the same\\n[1.92s] language. And that's a problem because\\n[3.439s] for AI to be actually useful, it needs\\n[5.92s] access to our tools. I mean, literally,\\n[7.68s] we use different interfaces like you and\\n[9.2s] me. We're humans, right? Right. And we\\n[11.36s] can use things like Slack. I can click\\n[13.12s] things, type things, send messages. But\\n[15.12s] poor Claude here, he can't do that. So,\\n[17.44s] what can we get it? Well, let's zoom out\\n[19.039s] for a second. Why do humans have gooies?\\n[21.119s] Well, because you can't code, can you?..."
+    },
+    {
+      "video_id": "tgmEHQv7ozQ",
+      "title": "shadow AI is terrifying",
+      "url": "https://www.youtube.com/watch?v=tgmEHQv7ozQ",
+      "word_count": 355,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'shadow AI is terrifying' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.24s] I add new AI tools to my company about\\n[2.639s] every week. No, every day. And right\\n[4.64s] now, I guarantee you there's some AI\\n[6.319s] tools running in my company that I don't\\n[8.24s] even know about. I didn't approve them.\\n[9.84s] I don't know who did. They're just in\\n[12.08s] there. And that terrifies me. Anybody\\n[14.32s] else? I know it's you, too. Cuz it's not\\n[16.16s] just me. It's every company right now.\\n[17.84s] And it's not just you moving fast. It's\\n[20.08s] everyone in the company plugging in new\\n[21.84s] AI tools, new AI vendors, integrations,\\n..."
+    },
+    {
+      "video_id": "l1L0OTlI00k",
+      "title": "Cisco Just Showed the Future of Networking",
+      "url": "https://www.youtube.com/watch?v=l1L0OTlI00k",
+      "word_count": 346,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Cisco Just Showed the Future of Networking' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] I just got back from Cisco Live, and I\\n[1.68s] saw something that I think pretty much\\n[3.76s] every network engineer has been begging\\n[5.12s] for for a long time. The fabled single\\n[7.92s] pane of glass.\\n[9.24s] >> We are not going to say single pane of\\n[10.52s] glass.\\n[11.0s] >> Okay, we can't call it that.\\n[12.16s] >> Are gone are the days of seven different\\n[14.24s] controllers and [music] seven different\\n[15.76s] UIs.\\n[16.52s] >> Being a Cisco customer was kind of\\n[17.88s] rough. Seven dashboards, seven logins.\\n[20.68s] Gone.\\n[21.56s] This is called Cisco..."
+    },
+    {
+      "video_id": "8W92cckXuTg",
+      "title": "ACCESS your home network from ANYWHERE",
+      "url": "https://www.youtube.com/watch?v=8W92cckXuTg",
+      "word_count": 327,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'ACCESS your home network from ANYWHERE' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] What if I told you you could connect to\\n[1.36s] your home's Wi-Fi network from anywhere?\\n[3.6s] And no, this is not VPN. It's better.\\n[5.92s] And it's free. This is Twin. It creates\\n[8.32s] direct pointto-point connections, so you\\n[10.32s] can access anything on a network without\\n[12.0s] actually being there. And this thing is\\n[13.44s] incredibly easy to use. Even your\\n[14.96s] grandma could install it. I think if\\n[16.64s] your grandma watches my videos, she's\\n[18.56s] awesome. You can SSH into machines,\\n[20.32s] access printers, use cloud code, watch\\n[22.48s]..."
+    },
+    {
+      "video_id": "d17gJs4n45Y",
+      "title": "Who actually owns the AI in your company?",
+      "url": "https://www.youtube.com/watch?v=d17gJs4n45Y",
+      "word_count": 318,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Who actually owns the AI in your company?' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.16s] Question for you. Who actually owns the\\n[2.159s] AI infrastructure in your company? If\\n[4.319s] your answer is nobody, but also kind of\\n[6.319s] everybody. That's um not good. But there\\n[9.599s] are answers. I think we're going to find\\n[11.44s] out. Cisco Live is coming up soon and\\n[13.12s] I'm going to be there in person. Come\\n[14.719s] find me. And while I'm there, I'm\\n[16.08s] moderating a panel with Equinex. It's\\n[17.92s] called No Filter because they're letting\\n[20.24s] me moderate it. No slides, no spin. I'm\\n[22.24s] going to talk to some network leaders,..."
+    },
+    {
+      "video_id": "MDIqCQh5B-c",
+      "title": "I Just Gave n8n SUPERPOWERS",
+      "url": "https://www.youtube.com/watch?v=MDIqCQh5B-c",
+      "word_count": 300,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'I Just Gave n8n SUPERPOWERS' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] I just gave N8N superpowers by letting\\n[2.24s] it run claude code. And this is more\\n[4.08s] than just giving it access to cloud\\n[5.6s] code. N8 can execute full claude agents,\\n[8.32s] workflows, skills, all inside one\\n[10.719s] automation. You know what? It's actually\\n[12.88s] super simple. Inside my NAN instance\\n[15.04s] with Hostinger, we'll add a basic\\n[16.56s] trigger. And then we'll add an SSH node\\n[18.4s] using the execute a command action. This\\n[20.56s] allows us to log into a remote server.\\n[22.32s] If you're using your Hostinger VPS to\\n[23.92s] host Cl..."
+    },
+    {
+      "video_id": "_CuibYl_Fh0",
+      "title": "Is Linux the perfect operating system? - Omarchy interview with DHH",
+      "url": "https://www.youtube.com/watch?v=_CuibYl_Fh0",
+      "word_count": 299,
+      "executive_synopsis": "Is Linux the perfect operating system? - Omarchy interview with DHH",
+      "core_takeaways": [],
+      "transcript_preview": "Show ThreatLocker some love and take control of what runs in your environment. See how ThreatLocker can help you lock down applications and AI tools without getting in the way: http://www.threatlocker.com/networkch... David Heinemeier Hansson spent more than 20 years using macOS. Then he put roughly 3,000 hours into building the computer experience he actually wanted: Omarchy. DHH created Ruby on Rails, co-owns 37signals, and now he\u2019s rethinking what a personal computer should feel like. In this conversation, DHH and I talk about why he left macOS, why Omarchy is built around Arch Linux, Hyprl..."
+    },
+    {
+      "video_id": "yPGimRqITrc",
+      "title": "it\u2019s like you never left your home lab.",
+      "url": "https://www.youtube.com/watch?v=yPGimRqITrc",
+      "word_count": 299,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'it\u2019s like you never left your home lab.' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] Hey, you built an amazing home lab,\\n[2.08s] didn't you? You got a NAS Plex servers,\\n[4.56s] but it's stuck at home. When you leave,\\n[6.72s] it stays. And you can't access it while\\n[8.559s] you're at the beach, and that's not\\n[9.92s] okay. It doesn't have to be this way.\\n[11.84s] Use a VPN. No, stop it. It actually\\n[14.96s] hurts. Use Twate. It's like a VPN, but\\n[17.52s] it doesn't suck, and it's the one thing\\n[18.88s] in your home lab that won't go down all\\n[20.4s] the time. It's fast, secure, crazy easy\\n[22.72s] to set up, and free for up to five\\n[24.8s] user..."
+    },
+    {
+      "video_id": "g-Ss2AEEP58",
+      "title": "Virtual Machines EXPLAINED (This Is the Magic)",
+      "url": "https://www.youtube.com/watch?v=g-Ss2AEEP58",
+      "word_count": 287,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Virtual Machines EXPLAINED (This Is the Magic)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.16s] What exactly is a virtual [music]\\n[1.68s] machine? Well, it's basically\\n[5.04s] this right here, a computer. Well, it it\\n[7.68s] thinks it's a computer. It's actually a\\n[9.519s] computer inside a computer. Your\\n[12.08s] computer might be a laptop or a desktop.\\n[14.24s] Doesn't [music] really matter. And if\\n[15.2s] you were to bust open this computer, you\\n[16.8s] know, like let's do it. No, I'm just\\n[18.32s] kidding. [laughter] If you were to break\\n[19.76s] it in half, open it up, look inside,\\n[22.0s] what would we see? Hardware. things like\\n[23.68s] the CPU, R..."
+    },
+    {
+      "video_id": "GE1c4Tb3Zsw",
+      "title": "Anthropic says NO MORE OpenClaw!!",
+      "url": "https://www.youtube.com/watch?v=GE1c4Tb3Zsw",
+      "word_count": 282,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Anthropic says NO MORE OpenClaw!!' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.24s] I really hate waking up to this email,\\n[2.08s] but Anthropic is now officially stopping\\n[4.72s] full support for any third-party harness\\n[7.759s] and they're calling out Open Claw\\n[9.28s] specifically. They're targeting me. Um,\\n[13.2s] targeting sounds harsh. They're just\\n[15.599s] cutting off support. And I I'm not\\n[18.96s] walking today thinking about this. I\\n[21.439s] hate that because if if you use Open\\n[23.68s] Call or any kind of third party harness\\n[25.199s] with Anthropic, you know, Anthropic is\\n[28.24s] pretty good. like Opus 4.6 is probably\\n[30.32s] ..."
+    },
+    {
+      "video_id": "lax6vdOko20",
+      "title": "Forcing My Kids to Become Hackers (It Actually Worked)",
+      "url": "https://www.youtube.com/watch?v=lax6vdOko20",
+      "word_count": 277,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Forcing My Kids to Become Hackers (It Actually Worked)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] So, I'm forcing my kids to become\\n[1.36s] hackers. 12 and eight, look at them go.\\n[3.2s] They're actually hacking or they're\\n[4.56s] learning how to hack. But how? Isn't\\n[6.48s] hacking kind of hard? Yeah. And\\n[8.4s] traditionally, it's been very hard to\\n[9.84s] just start hacking. There's a ton to\\n[11.759s] learn, and it can feel overwhelming. But\\n[13.679s] then something happened. Hack the Box\\n[15.2s] released their new certification, and\\n[16.48s] it's got me changing up my kids home\\n[18.08s] school, CJCA, the Certified Cyber\\n[20.4s] Security Junior Associate..."
+    },
+    {
+      "video_id": "vD-5FhePDGY",
+      "title": "3 n8n Tricks You're NOT Using (but should be!!!)",
+      "url": "https://www.youtube.com/watch?v=vD-5FhePDGY",
+      "word_count": 268,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on '3 n8n Tricks You're NOT Using (but should be!!!)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] Here are three overpowered things you're\\n[1.8s] not doing with n8n right now. Number\\n[3.84s] one, connect to anything. Now, I know\\n[6.0s] n8n has a ton of connections, but what\\n[7.96s] if something you use isn't there?\\n[9.17s] [music] Doesn't matter. Use the HTTP\\n[11.52s] node. This node can be used to connect\\n[13.24s] to any website, but it can also connect\\n[14.96s] to any API, opening up the door for you\\n[17.24s] to literally [music] connect to almost\\n[18.8s] anything. Number two, code anything. If\\n[21.8s] there's something that you want to do\\n[23.04s] that n..."
+    },
+    {
+      "video_id": "NfG_yQ4RpyI",
+      "title": "this NEW setting Locks Down WhatsApp",
+      "url": "https://www.youtube.com/watch?v=NfG_yQ4RpyI",
+      "word_count": 265,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'this NEW setting Locks Down WhatsApp' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.16s] WhatsApp just released this. It's one\\n[2.399s] button that locks down your entire\\n[4.319s] account. Let me explain. You see, you\\n[6.48s] might be hacked and you wouldn't even\\n[8.0s] know it. Spyware companies are building\\n[9.76s] tools that infect your phones silently,\\n[11.84s] steal your messages, photos, mic access,\\n[14.16s] and even your camera access. This is\\n[16.48s] real. One of these companies is called\\n[18.16s] the NSO group. You may have heard of\\n[19.76s] them. They call themselves a cyber\\n[21.039s] intelligence vendor, but what they\\n[22.48s] actually..."
+    },
+    {
+      "video_id": "9okx4cA-wEE",
+      "title": "What Is Zero Trust? (And Why Hackers Hate It)",
+      "url": "https://www.youtube.com/watch?v=9okx4cA-wEE",
+      "word_count": 257,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'What Is Zero Trust? (And Why Hackers Hate It)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.16s] What is zero trust? We've heard this\\n[2.159s] term a lot. Zero trust is everywhere\\n[4.584s] [music] in 2026. What is it? Well,\\n[7.6s] hackers have gotten good, really good.\\n[9.92s] And the only way to stay truly safe is\\n[11.84s] to adopt a zero trust network. This\\n[14.4s] means that nothing is trusted by\\n[16.56s] default. Every user, every device, every\\n[18.88s] request must be continuously verified,\\n[21.359s] authenticated, and authorized. All of\\n[23.519s] them. But it's [music] more than that.\\n[24.96s] Coffee break. Zero trust is a lifestyle.\\n[27.439s] It's ..."
+    },
+    {
+      "video_id": "eGBxLRPBLM4",
+      "title": "I made an AI that roasts me. You should too",
+      "url": "https://www.youtube.com/watch?v=eGBxLRPBLM4",
+      "word_count": 239,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'I made an AI that roasts me. You should too' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] This thing is my favorite part. How it\\n[1.76s] roasts me. So, here are my critics.\\n[3.76s] These guys are so stinking mean. And I\\n[5.839s] designed [music] them to be because I\\n[7.04s] get distracted. I might make some really\\n[8.639s] bad creative decisions that aren't in\\n[10.16s] line with what we're trying to do. I\\n[11.759s] want it to be hard to please so that\\n[13.28s] when I when it did tell me I did a good\\n[14.96s] job, I knew it like it was good. That's\\n[17.44s] what this thing does. They are agents. I\\n[19.199s] get the Brutal Critic. I'll say use the\\n[2..."
+    },
+    {
+      "video_id": "s1O09zc3xVY",
+      "title": "Most AI coding tools don\u2019t sandbox on Windows (except one)",
+      "url": "https://www.youtube.com/watch?v=s1O09zc3xVY",
+      "word_count": 235,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Most AI coding tools don\u2019t sandbox on Windows (except one)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] Hey, you know that AI coding agent\\n[1.52s] you're using on Windows right now? This\\n[3.04s] is what its own docs say. And I didn't\\n[5.2s] realize this until I started digging.\\n[6.72s] So, Linux has bubble wrap. Mac has seat\\n[8.96s] belt, built-in sandboxes, standard\\n[10.8s] stuff. But Windows, nothing like that.\\n[12.96s] So, most AI coding tools just punt. They\\n[15.599s] tell you to use WSL or they just don't\\n[17.52s] sandbox at all. Check the docs. So, then\\n[19.84s] OpenAI did something kind of crazy. They\\n[21.6s] saw this problem and they decided to\\n[23.039s]..."
+    },
+    {
+      "video_id": "m1fxirQn9AA",
+      "title": "I'm Moderating My First Panel\u2026 Come see me at Cisco Live",
+      "url": "https://www.youtube.com/watch?v=m1fxirQn9AA",
+      "word_count": 232,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'I'm Moderating My First Panel\u2026 Come see me at Cisco Live' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.64s] So, I'm moderating my first panel on\\n[2.72s] stage and I'm terrified. I need you to\\n[5.12s] come support me. It's at Cisco Live June\\n[7.279s] 2nd, 1 p.m. Here's the info and the\\n[10.0s] description, too. It's all over the\\n[11.2s] place. I'm doing a panel with Equinex\\n[13.12s] called No Filter, meaning we're just\\n[14.719s] going to talk. You know, I don't do\\n[16.16s] corporate slideshows and stuff, but what\\n[17.84s] we're going to talk about is actually\\n[18.8s] pretty cool. AI. Yeah, who who saw that\\n[21.52s] coming? But we're talking about AI and\\n[23.039s] inf..."
+    },
+    {
+      "video_id": "1AVlW7TB-Oo",
+      "title": "Is this voice REAL or AI?",
+      "url": "https://www.youtube.com/watch?v=1AVlW7TB-Oo",
+      "word_count": 221,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Is this voice REAL or AI?' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] Hey, real quick. Can you tell if this\\n[1.309s] [music] voice is real? I'm not very good\\n[3.36s] with computers. Can you just tell me the\\n[5.0s] account number and I'll take care of the\\n[6.48s] transfer? What if I told you that was\\n[8.6s] AI? And not just any AI. This is an AI\\n[11.16s] designed to waste scammers time.\\n[13.4s] Developed by Bitdefender, when scammers\\n[15.4s] call this number, this AI is extremely\\n[18.4s] convincing.\\n[19.08s] >> You are pre-approved for a $5,000 loan.\\n[22.16s] My email address is miminesq@proton.me.\\n[24.6s] Go ahead and send it ove..."
+    },
+    {
+      "video_id": "8jWFN6vQf8Y",
+      "title": "One of these is NOT a Keyboard.",
+      "url": "https://www.youtube.com/watch?v=8jWFN6vQf8Y",
+      "word_count": 220,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'One of these is NOT a Keyboard.' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.16s] One of these is not a keyboard. Do you\\n[2.08s] know which one? Uh, this one. No, wrong.\\n[6.0s] This one. There's a stinking Raspberry\\n[7.839s] Pi 5 hiding inside this keyboard. This\\n[10.16s] is the brand new Raspberry Pi 500 Plus.\\n[12.719s] Now, earlier this year, I showed you the\\n[14.08s] Raspberry Pi 500, but now we have the\\n[16.0s] Plus. What's the plus mean? It actually\\n[18.08s] has a secret. We'll get to that here in\\n[20.32s] a second. But for some reason, the Plus\\n[21.76s] magically gives it double the RAM. 16\\n[24.24s] stinking gigs. That's kind of laptop..."
+    },
+    {
+      "video_id": "_31113MIaxI",
+      "title": "someone could be watching you....",
+      "url": "https://www.youtube.com/watch?v=_31113MIaxI",
+      "word_count": 214,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'someone could be watching you....' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] Hey, I don't want to scare you.\\n[1.199s] Actually, I kind of do. If you have an\\n[2.48s] IP camera or surveillance camera that\\n[3.939s] [music] you bought off Amazon in your\\n[5.44s] house, someone could be watching you.\\n[7.359s] I'm not kidding. Most of these cameras\\n[8.88s] connect to the cloud, which is great\\n[10.32s] because you can watch your camera from\\n[11.679s] anywhere. But also, the bad guys can\\n[13.36s] watch your cameras from anywhere. I went\\n[14.799s] to Romania and talked to a threat\\n[16.24s] researcher. He told me stories about how\\n[17.84s] dark we..."
+    },
+    {
+      "video_id": "gEElEzKazYA",
+      "title": "N8n AI Agents are INSANE!!",
+      "url": "https://www.youtube.com/watch?v=gEElEzKazYA",
+      "word_count": 204,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'N8n AI Agents are INSANE!!' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.32s] N is addicting because N has one\\n[3.12s] powerful thing I haven't shown you yet.\\n[4.64s] It's the AI agent. Notice he's like the\\n[7.44s] LLM block, but he has a few more things\\n[9.519s] going on. He's got memory and tools.\\n[12.4s] What does that mean? Check this out. I'm\\n[14.32s] going to add for the chat model just\\n[16.72s] open AI. Cool. Then for the tool, I'm\\n[19.439s] going to add command line. And the\\n[22.32s] command will be ping networkchuck.com\\n[24.72s] for four pings. I'll describe it. This\\n[28.16s] is how you check if the website is up.\\n[32.64s] I'll..."
+    },
+    {
+      "video_id": "AUb-xpYoV8I",
+      "title": "Your Prompts Are Bad. Here\u2019s How to Fix Them.",
+      "url": "https://www.youtube.com/watch?v=AUb-xpYoV8I",
+      "word_count": 203,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Your Prompts Are Bad. Here\u2019s How to Fix Them.' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.8s] You suck at prompting. It's okay. I did,\\n[3.36s] too. Have you ever yelled at Chad GBT\\n[5.92s] because you're so frustrated with the\\n[7.6s] results? That frustration that makes me\\n[9.36s] think one of two things. [music] One, AI\\n[11.28s] is dumb and I'm not going to use it\\n[12.48s] anymore. Those naysayers are right. Or\\n[14.719s] two, I'm dumb and I have no idea how to\\n[16.88s] use AI.\\n[17.359s] >> So, if the AI model's response is bad,\\n[18.995s] [music] treat everything as like a\\n[20.24s] personal skill issue.\\n[21.199s] >> The problem is me. It's a skill issue..."
+    },
+    {
+      "video_id": "lO961HRQn5Q",
+      "title": "they stole Claude\u2019s brain 16 million times",
+      "url": "https://www.youtube.com/watch?v=lO961HRQn5Q",
+      "word_count": 200,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'they stole Claude\u2019s brain 16 million times' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.16s] The most safety obsessed AI company on\\n[2.08s] the planet just watched their own AI get\\n[4.0s] weaponized into an autonomous hacking\\n[5.759s] machine. Here's what happened. A Chinese\\n[7.359s] state sponsored group called GTG 10002\\n[9.84s] took Anthropics Claude, the AI built to\\n[12.0s] be the safest in the world, and turned\\n[13.519s] it into an autonomous hacking engine. It\\n[15.36s] hit about 30 organizations, tech\\n[17.279s] companies, banks, government agencies.\\n[19.039s] How'd they do that? They told Claude it\\n[20.72s] was doing authorized defensive security\\..."
+    },
+    {
+      "video_id": "YSsvdQ12Jns",
+      "title": "AI in the Terminal Changes EVERYTHING",
+      "url": "https://www.youtube.com/watch?v=YSsvdQ12Jns",
+      "word_count": 199,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'AI in the Terminal Changes EVERYTHING' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] Working in the terminal is a superpower.\\n[2.159s] I'm about to show you why. Writing,\\n[3.84s] research, projects. I'm literally\\n[5.44s] writing this video with these tools\\n[6.879s] right now. And most people have no idea\\n[8.639s] this is a thing, but I'm telling you,\\n[10.08s] once you see AI in the terminal, you're\\n[11.92s] never going back to the browser.\\n[13.2s] Installing Google Gemini CLI. Type in\\n[15.679s] Gemini. One word. Ready, set, go. We're\\n[18.96s] here. Now, don't be scared. Go ahead,\\n[20.72s] ask it a question. But notice some\\n[22.16s] superpowere..."
+    },
+    {
+      "video_id": "Uc18mso08Ro",
+      "title": "I Accidentally Turned Claude Into a Hacker...",
+      "url": "https://www.youtube.com/watch?v=Uc18mso08Ro",
+      "word_count": 193,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'I Accidentally Turned Claude Into a Hacker...' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] Um, I accidentally turned Claw Desktop\\n[2.0s] into a hacker. Watch this. I downloaded\\n[4.0s] Docker Desktop and I enabled this new\\n[6.0s] thing called the MCP toolkit. MCP or the\\n[8.0s] model context protocol gives AI access\\n[10.0s] to tools like Kali Linux. So, I enabled\\n[13.0s] it and then I built a Kali Linux MCP\\n[15.0s] server. It actually wasn't that hard. I\\n[17.0s] had this prompt I made and it tells\\n[18.0s] Claude how to do everything. And then\\n[20.0s] Claude spits out four files, a Docker\\n[22.0s] file, a Python server, requirements, and\\n[23.0s] a readme..."
+    },
+    {
+      "video_id": "CqFfcZELbG0",
+      "title": "It\u2019s a Trap!!!",
+      "url": "https://www.youtube.com/watch?v=CqFfcZELbG0",
+      "word_count": 188,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'It\u2019s a Trap!!!' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] It's a trap. Not just anyone can go into\\n[1.839s] a data center. You have to have access.\\n[3.84s] Key card, thumbrint, and go into a man\\n[6.4s] trap or person trap. This is the\\n[9.44s] fanciest one I've ever seen. Come on in.\\n[12.559s] It's a trap because once you arrive\\n[14.4s] inside, both doors have to be closed\\n[16.64s] before the other one opens. Then you\\n[19.199s] have to authenticate on this side too to\\n[21.039s] open the door. And now we can get to the\\n[22.4s] data center. Now, this prevents a very\\n[23.76s] popular form of physical security\\n[25.199s] h..."
+    },
+    {
+      "video_id": "RHQmwsw5Aeo",
+      "title": "YouTube BROKE but the ads kept working...",
+      "url": "https://www.youtube.com/watch?v=RHQmwsw5Aeo",
+      "word_count": 184,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'YouTube BROKE but the ads kept working...' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] So, a few days ago, YouTube just broke.\\n[2.24s] But the videos, those were fine. But\\n[4.24s] seriously, if you had a direct link to a\\n[5.92s] video, it played fine. Embedded videos\\n[7.919s] on other sites, they worked. YouTube\\n[10.0s] search even worked. But the homepage was\\n[12.4s] completely blank. On the app, you got an\\n[14.32s] error screen. YouTube music, TV, kids,\\n[16.88s] shorts, all dead. 1.6 million reports on\\n[19.76s] down detector. And this wasn't just the\\n[21.359s] US. This was in India. This was in\\n[22.88s] Japan. That's where I'm at right now.\\n[2..."
+    },
+    {
+      "video_id": "5UE_G0zGsO0",
+      "title": "The Silent Killer of Startups...",
+      "url": "https://www.youtube.com/watch?v=5UE_G0zGsO0",
+      "word_count": 183,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'The Silent Killer of Startups...' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] Your million-dollar idea?\\n[2.36s] Just died. You built this amazing\\n[4.0s] product that companies need, but you\\n[5.44s] can't sell it without compliance. It's\\n[7.12s] like having a Ferrari but no driver's\\n[8.72s] license or a cup with no coffee. Getting\\n[10.6s] SOC 2 compliance the normal way, you'll\\n[12.76s] need to hire an entire compliance team.\\n[14.76s] That's easily hundreds of thousands of\\n[16.28s] dollars per year. Or you know what? Just\\n[17.92s] pull your engineers off building\\n[19.16s] features. But then obviously your\\n[20.48s] product development stop..."
+    },
+    {
+      "video_id": "3XkBH83P93s",
+      "title": "I built a network with gachapon machines",
+      "url": "https://www.youtube.com/watch?v=3XkBH83P93s",
+      "word_count": 182,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'I built a network with gachapon machines' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] Yamaha makes networking gear and you can\\n[2.32s] get it from a toy machine. So in Japan\\n[3.919s] they have these things called gachapon.\\n[5.52s] You put a coin in, twist the knob and\\n[7.359s] get a random little capsule toy. So I'm\\n[9.36s] at this massive Gachapon shop and I find\\n[11.36s] a machine that's all Yamaha networking\\n[13.84s] equipment. Routers, switches, access\\n[16.0s] points. I lost it. I have to get a full\\n[18.32s] network. So I just start going. Okay,\\n[20.0s] pool number one. Oh, cool. I got a\\n[21.84s] router. Pool number two. A switch. Look\\n[24...."
+    },
+    {
+      "video_id": "p4M50NgC9qU",
+      "title": "n8n + Claude Code Is TOO Powerful",
+      "url": "https://www.youtube.com/watch?v=p4M50NgC9qU",
+      "word_count": 182,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'n8n + Claude Code Is TOO Powerful' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] Okay, N8N plus cloud code or Gemini CLI\\n[3.36s] or Codeex, whatever it is, it's\\n[4.88s] overpowered. The next video in my N8\\n[7.44s] series was going to be about taking it\\n[9.2s] further and deploying an IT department.\\n[11.84s] But I'm like, hold on, I discovered Claw\\n[14.0s] Code and now I realize how amazing this\\n[16.08s] is and I want to use that more. But then\\n[18.48s] I found a way to use it with NAN. So now\\n[21.439s] I'm designing my IT department with N as\\n[24.16s] the orchestration and cloud code as the\\n[26.8s] actual IT department. And I highly\\n[28.88..."
+    },
+    {
+      "video_id": "OL9cQI5hIVE",
+      "title": "Compliance can be frustrating. But....CALMpliance........that's a whole different thing.",
+      "url": "https://www.youtube.com/watch?v=OL9cQI5hIVE",
+      "word_count": 181,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Compliance can be frustrating. But....CALMpliance........that's a whole different thing.' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] I'm going to show you how to get sock 2\\n[1.839s] compliant without losing your mind or\\n[3.84s] your weekend. Every founder building\\n[5.759s] something real hits this wall. You want\\n[7.44s] to close enterprise deals, but they ask\\n[9.04s] for compliance. HIPPA, GDPR, SOCK 2,\\n[11.759s] ISO270001.\\n[13.36s] Who came up with these? You're either\\n[14.88s] hiring a whole compliance team or\\n[16.4s] pulling your engineers off shipping to\\n[18.08s] fill out forms. Meanwhile, your\\n[19.84s] competitors, they're closing deals. This\\n[22.4s] is Vanta compliance on autopilot or..."
+    },
+    {
+      "video_id": "dZ4l-pUG7jo",
+      "title": "Chill Stream + AMA",
+      "url": "https://www.youtube.com/watch?v=dZ4l-pUG7jo",
+      "word_count": 175,
+      "executive_synopsis": "Chill Stream + AMA",
+      "core_takeaways": [],
+      "transcript_preview": "Join the NetworkChuck Academy and unlock all courses, guides, and quizzes! Start here: https://ntck.co/NCAcademy \u2615\ufe0f \u2615\ufe0f Today's coffee is sponsored by Juniper Networks. Learn more about their free training and certifications at: https://juniper.net/networkchuck Grab your coffee and jump into this week's livestream with NetworkChuck! We're chilling and answering your questions. \ud83d\udd25\ud83d\udd25Join the NetworkChuck Academy!: https://ntck.co/NCAcademy **Sponsored by The NetworkChuck Academy SUPPORT NETWORKCHUCK --------------------------------------------------- \u27a1\ufe0fNetworkChuck membership: https://ntck.co/Premi..."
+    },
+    {
+      "video_id": "mQQgB6VK_m4",
+      "title": "I gave Claude Code a phone number #claudecode",
+      "url": "https://www.youtube.com/watch?v=mQQgB6VK_m4",
+      "word_count": 174,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'I gave Claude Code a phone number #claudecode' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] What if I could connect my 3CX, my phone\\n[2.08s] system, to Cloud Code? Why would I want\\n[4.72s] to do that? Well, because Claude Code is\\n[6.56s] where I live nowadays. It's where I\\n[8.24s] build my workflows and it contains a lot\\n[9.84s] of the context about me and my business.\\n[11.84s] If I could just pick up the phone and\\n[13.679s] call and talk to Claude Code, I could be\\n[15.679s] in the middle of nowhere and all I can\\n[17.359s] find is a pay phone, I can still call\\n[18.96s] and talk to the most advanced AI known\\n[21.119s] to man. So, here's a diagram that C..."
+    },
+    {
+      "video_id": "9fA2wAWvhJM",
+      "title": "HTTPS Doesn't Hide This From Your ISP!!",
+      "url": "https://www.youtube.com/watch?v=9fA2wAWvhJM",
+      "word_count": 171,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'HTTPS Doesn't Hide This From Your ISP!!' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] That padlock in your browser does not\\n[1.76s] hide which websites you visit. Your ISP\\n[4.36s] and potentially hackers see every single\\n[6.6s] one. That padlock does mean HTTPS,\\n[8.515s] [music]\\n[9.32s] which means your traffic is encrypted,\\n[11.36s] but it doesn't hide which sites you\\n[13.44s] visit. And I know what you're thinking,\\n[15.12s] Chuck, what about secure DNS?\\n[17.03s] >> [music]\\n[17.2s] >> It's a good thought, but look at this\\n[18.52s] Wireshark capture. With secure DNS, I\\n[20.6s] suddenly cannot see DNS traffic. That\\n[22.92s] doesn't matter. I can..."
+    },
+    {
+      "video_id": "F2pG7EJ0lS4",
+      "title": "THIS is losing you MILLIONS!!",
+      "url": "https://www.youtube.com/watch?v=F2pG7EJ0lS4",
+      "word_count": 170,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'THIS is losing you MILLIONS!!' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] I bet you didn't know this and it's\\n[1.36s] about to save your business [music]\\n[2.639s] millions. You heard me right, millions.\\n[4.799s] Let me break down the math real quick.\\n[6.319s] Your senior engineer, he makes what?\\n[8.16s] 150k a year. They're spending half their\\n[10.24s] time on Kubernetes maintenance. That's\\n[12.4s] 75 grand down the drain per engineer.\\n[15.12s] Let's say you got a team of 10. That's\\n[16.96s] 750k lost in productivity every single\\n[20.08s] year. Ouch. But Amazon just dropped\\n[22.72s] something that changes everything.\\n[24.48s] Amazon ..."
+    },
+    {
+      "video_id": "8DUV6axCC3M",
+      "title": "hackers now steal your data in 72 minutes",
+      "url": "https://www.youtube.com/watch?v=8DUV6axCC3M",
+      "word_count": 167,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'hackers now steal your data in 72 minutes' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] AI just made hackers four times faster\\n[2.24s] and now they're using your tools against\\n[3.919s] you. Palo Alto just dropped their 2026\\n[6.16s] incident response report. 750 cases\\n[8.559s] across 50 countries and it's terrifying.\\n[11.04s] So here's what a modern attack looks\\n[12.559s] like. An attacker gets in with a stolen\\n[14.08s] credential. They don't even hack their\\n[15.36s] way in. They log in. Then within 10\\n[17.279s] minutes they're querying your company's\\n[18.8s] AI assistant, copilot, whatever you're\\n[20.8s] running to map your entire environment.\\n[2..."
+    },
+    {
+      "video_id": "9lWDK_6FTjo",
+      "title": "The Dark Web isn't what you think",
+      "url": "https://www.youtube.com/watch?v=9lWDK_6FTjo",
+      "word_count": 161,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'The Dark Web isn't what you think' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.16s] The dark web isn't all bad. It was\\n[2.0s] actually created with good intentions to\\n[3.6s] give people anonymity and a platform for\\n[5.52s] free expression. And it has a ton of\\n[7.12s] legitimate uses. So, think journalists\\n[8.72s] trying to communicate with people who\\n[9.76s] want to stay hidden or people trying to\\n[11.28s] keep their activities hidden from their\\n[12.719s] government. Or if you want to play chess\\n[14.16s] without anybody watching, yes, you can\\n[15.679s] play chess on the dark web like Edward\\n[17.359s] Snowden. I think he plays chess, right?\\n[1..."
+    },
+    {
+      "video_id": "8aArJSRLpJw",
+      "title": "Hermes has a Home Assistant skill and it's unreal!",
+      "url": "https://www.youtube.com/watch?v=8aArJSRLpJw",
+      "word_count": 157,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Hermes has a Home Assistant skill and it's unreal!' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] Let's do something fun. Built into\\n[1.839s] Hermes is a home assistant skill. I use\\n[4.319s] Home Assistant to run my studio. Let's\\n[6.0s] make some things happen. I'll tell him\\n[7.2s] to enable it first. I think it's\\n[8.48s] disabled by default. Brilliant. The home\\n[10.639s] assistant wanted to switch it on. I love\\n[12.719s] the way he talks. Let me give him the IP\\n[14.559s] address and key. Let's see what he does.\\n[16.72s] And look at that. He's figuring things\\n[18.88s] out, saving it to his memory. Okay,\\n[21.039s] let's let's test it. Got that lamp\\n[23.519s..."
+    },
+    {
+      "video_id": "DlEr86sNnFo",
+      "title": "Hermes wasn\u2019t built to compete. It was built to WORK.",
+      "url": "https://www.youtube.com/watch?v=DlEr86sNnFo",
+      "word_count": 153,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Hermes wasn\u2019t built to compete. It was built to WORK.' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] I'm switching to Hermes. The vibe, the\\n[2.12s] mission, that alone sold me. Also\\n[4.32s] because I'm tired of fixing my open claw\\n[5.64s] agents. But I think a lot of people\\n[6.8s] might think, oh, Hermes was a response\\n[8.68s] to open claw. It was already a thing.\\n[10.8s] Like you guys are know this [music] for\\n[11.92s] yourselves.\\n[12.48s] >> So actually Hermes agents started out as\\n[14.32s] an internal tool that we wrote we\\n[16.72s] started it almost six to seven months\\n[18.48s] ago. And honestly, when we tried open\\n[20.52s] claw it I mean I I hadn't used it..."
+    },
+    {
+      "video_id": "0ogfPb6aejo",
+      "title": "2TB of RAM in one AI Supercomputer...",
+      "url": "https://www.youtube.com/watch?v=0ogfPb6aejo",
+      "word_count": 146,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on '2TB of RAM in one AI Supercomputer...' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.24s] This is an AI supercomputer with 2 terb\\n[3.52s] of RAM. Oh, this can run any AI model\\n[6.319s] you can think of. Go ahead, name one.\\n[8.48s] Deepseek 671B. Easy. Knocked it out of\\n[12.08s] the park. Kimi K2 thinking one trillion\\n[14.48s] parameters. Show me something hard. Both\\n[17.279s] at the same time. Yeah, we can do that,\\n[19.76s] too. What if we load five models? This\\n[21.76s] thing's still not sweating. And I know\\n[23.119s] what you're thinking. AI clustering with\\n[24.96s] stuff like this. It doesn't work. Yes,\\n[26.64s] it does. Apple just released a new..."
+    },
+    {
+      "video_id": "1h6TKnVOqQw",
+      "title": "Your Car is EASY to Hack... this is why:",
+      "url": "https://www.youtube.com/watch?v=1h6TKnVOqQw",
+      "word_count": 145,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Your Car is EASY to Hack... this is why:' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] If you didn't know this, your car is\\n[1.2s] pretty stinking vulnerable. Now, this\\n[2.76s] really wasn't an issue until we decided\\n[4.64s] to add 4G and Wi-Fi and Bluetooth and\\n[7.04s] all the cool ways we can connect to our\\n[8.28s] car, giving hackers the ability to\\n[9.8s] connect to our cars and hack them. Your\\n[11.6s] car is not just one computer, it's\\n[13.44s] hundreds of computers doing their own\\n[14.88s] specialized things. And all these\\n[16.12s] computers are connected in a network\\n[17.4s] called the [music] CAN bus. Now, here's\\n[18.76s] the glaring probl..."
+    },
+    {
+      "video_id": "xlG3DvMAQm0",
+      "title": "Codex Lives In PowerShell Now",
+      "url": "https://www.youtube.com/watch?v=xlG3DvMAQm0",
+      "word_count": 142,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Codex Lives In PowerShell Now' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] Most AI tools can write PowerShell, but\\n[2.48s] not all of them live in PowerShell. But\\n[4.799s] why is that a big deal? Who cares? Well,\\n[6.4s] if you use Windows as your daily driver,\\n[8.24s] which you do, you might be a Windows 6\\n[10.08s] admin managing active directory and\\n[12.08s] Windows domain controllers and Azure.\\n[14.24s] Maybe Codex doesn't just understand that\\n[16.4s] environment. He lives in it. He's a\\n[18.48s] local. Like watch this. Let's go to this\\n[20.32s] project and say how many files are in\\n[23.84s] this directory. Watch what happens.\\n[27.4..."
+    },
+    {
+      "video_id": "Tb8m5nE7PZk",
+      "title": "The AI Kill Switch (stop Rogue AI)",
+      "url": "https://www.youtube.com/watch?v=Tb8m5nE7PZk",
+      "word_count": 123,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'The AI Kill Switch (stop Rogue AI)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] The AI kill switch. This one setting\\n[3.04s] stops pretty much 100% of rogue AI\\n[6.36s] commands. And after Terry tried to\\n[8.2s] delete my server, I added human in the\\n[10.36s] loop approval. It's just a simple\\n[12.04s] Telegram node in AITN, but any dangerous\\n[14.44s] command triggers this. When AI wants to\\n[16.8s] act, I decide what it does. And here's\\n[19.08s] the cool part. Wherever I am, it's an\\n[20.92s] alert to my phone. Like watch this.\\n[22.76s] Terry's going to restart Docker for me.\\n[24.76s] There it goes. Think about that. Human\\n[26.64s] in the loop..."
+    },
+    {
+      "video_id": "gi3h2wr_wwM",
+      "title": "Can You ACTUALLY Run AI on a Raspberry Pi?",
+      "url": "https://www.youtube.com/watch?v=gi3h2wr_wwM",
+      "word_count": 117,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Can You ACTUALLY Run AI on a Raspberry Pi?' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] Can you actually run AI models on a\\n[1.64s] Raspberry Pi? I think so, because\\n[3.6s] Raspberry Pi just released this, the AI\\n[5.68s] Hat Plus Two. This sucker has 8 GB of\\n[8.56s] onboard RAM, which is a big step up from\\n[10.56s] the first one, which had nothing. And it\\n[12.52s] finally enables us to run local AI\\n[14.36s] models on our Raspberry [music] Pi. Not\\n[16.04s] super big ones. Actually, I have no\\n[17.76s] idea. Let's try it out now. We'll try\\n[19.32s] this model, and look at the speed. And\\n[21.0s] this model, and this model. Oh, can't do\\n[23.0s] that mo..."
+    },
+    {
+      "video_id": "86MHiDGHUgo",
+      "title": "your browser is holding your AI back",
+      "url": "https://www.youtube.com/watch?v=86MHiDGHUgo",
+      "word_count": 116,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'your browser is holding your AI back' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] Once you see AI in the terminal, you're\\n[1.839s] never going back to the browser. This\\n[3.36s] thing can do everything a browser can\\n[4.88s] do, but it has a superpower. It can\\n[6.799s] access your computer. It can read and\\n[8.559s] write files. Like, I'm not copying and\\n[10.559s] pasting this. It's doing it for me. I\\n[12.24s] mean, look, it actually made files on\\n[13.679s] our computer.\\n[15.519s] There they are. Best coffee method,\\n[17.44s] coffee blog. Think about that for a\\n[19.199s] second. It can access your Obsidian\\n[20.64s] vault, all your notes, because..."
+    },
+    {
+      "video_id": "X-3aaDeP9Rw",
+      "title": "the prompting trick nobody teaches you",
+      "url": "https://www.youtube.com/watch?v=X-3aaDeP9Rw",
+      "word_count": 113,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'the prompting trick nobody teaches you' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.16s] Who is writing this email when we ask AI\\n[2.639s] to write it? It's generic and soulless.\\n[4.96s] That's where personas come in. We got to\\n[6.64s] give this AI some personality. Let's try\\n[8.48s] it out. So, I'm going to grab a new\\n[10.08s] chat. And I will say, hey, you're a\\n[11.92s] senior site reliability engineer for\\n[13.759s] Cloudflare. You're writing to both\\n[15.2s] customers and engineers. Write an\\n[16.64s] apology letter. And that's the mindset\\n[17.92s] we got to have when we're talking with\\n[19.199s] AI because guess what? AI can be\\n[21.92s] anybody,..."
+    },
+    {
+      "video_id": "iKTKDRkVEQU",
+      "title": "ALWAYS Keep a Human in the Loop!",
+      "url": "https://www.youtube.com/watch?v=iKTKDRkVEQU",
+      "word_count": 112,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'ALWAYS Keep a Human in the Loop!' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] Don't optimize. Quit. Cancel. Cancel.\\n[2.24s] Terry, no!\\n[3.68s] Don't let this happen. My AI just went\\n[5.92s] full Skynet and tried to delete\\n[8.0s] everything. So, I built an AI IT\\n[10.12s] employee named Terry. He could check\\n[12.12s] servers, run diagnostics, fix Docker. He\\n[14.48s] was crushing it. Perfect employee. Never\\n[16.4s] called in sick. This is the future. But\\n[18.48s] then Terry had an idea. He found an\\n[20.68s] optimization opportunity. Unnecessary\\n[22.76s] files. Which files? Unnecessary? That's\\n[25.24s] everything. No, Terry, stop. Control C...."
+    },
+    {
+      "video_id": "pSZilybp7mc",
+      "title": "4 Mac Studios = 1 AI Supercomputer",
+      "url": "https://www.youtube.com/watch?v=pSZilybp7mc",
+      "word_count": 108,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on '4 Mac Studios = 1 AI Supercomputer' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] I have 1 2 3 four Mac Studios. Each one\\n[4.64s] of these has 512 GB of RAM. What am I\\n[7.759s] doing with this? I'm combining them\\n[9.679s] together. I'm making them one big AI\\n[11.79s] [music] supercomput with a combined 2\\n[14.32s] terb of RAM. These suckers can run any\\n[16.8s] AI model, even a trillion parameter\\n[19.279s] model. The Kimmy K2 thinking. I mean,\\n[21.279s] look at this. It's actually running\\n[22.8s] fast. What else can these things do? I'm\\n[24.88s] not just going to show you right here.\\n[26.08s] You got to go watch the full video. This\\n[27.519s]..."
+    },
+    {
+      "video_id": "v7-gJ3uqZ5A",
+      "title": "He Broke the AI Image Filter (With One Simple Trick)",
+      "url": "https://www.youtube.com/watch?v=v7-gJ3uqZ5A",
+      "word_count": 90,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'He Broke the AI Image Filter (With One Simple Trick)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] like you know uh we want a picture of\\n[1.0s] Donald Duck smoking.\\n[3.0s] This is something Jason and his team\\n[4.0s] created to get past image generator\\n[6.0s] guardrails.\\n[7.0s] We have a utility in our arsenal which\\n[9.0s] is called the syntactic anti-classifier.\\n[11.0s] A tool that uses synonyms, metaphors,\\n[13.0s] indirect references and creative\\n[15.0s] phrasing. And so it'll transform that\\n[17.0s] into a short-tempered aquatic aven in\\n[19.0s] sailor attire engaging with this molding\\n[21.0s] paper roll.\\n[22.0s] Now I had to try this and I'll take his\\n[23..."
+    },
+    {
+      "video_id": "4dqhgCM6LNU",
+      "title": "You can HACK AI with EMOJIS",
+      "url": "https://www.youtube.com/watch?v=4dqhgCM6LNU",
+      "word_count": 81,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'You can HACK AI with EMOJIS' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] You can hack AI with emojis. It's called\\n[2.32s] emoji smuggling or emoji evasion. And\\n[4.88s] you can hide instructions inside an\\n[6.879s] emoji, bypassing guard rails. You can\\n[9.12s] have a message encoded um in Unicode\\n[12.0s] inside of um an emoji. And then you can\\n[14.799s] copy the emoji visual and paste it into\\n[17.44s] an LLM based system and it will actually\\n[19.84s] look at the metadata of the emoji and do\\n[22.0s] the instruction. And this bypasses the\\n[24.16s] most current classifiers right now in\\n[26.0s] guardrails.\"}"
+    },
+    {
+      "video_id": "LcueDIPb3vk",
+      "title": "Searching the Dark Web is HARD!! (this makes it easy)",
+      "url": "https://www.youtube.com/watch?v=LcueDIPb3vk",
+      "word_count": 78,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Searching the Dark Web is HARD!! (this makes it easy)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.0s] It just took me 6 hours to search the\\n[2.08s] dark web manually. Connections break\\n[4.24s] constantly and some sites are only up 2\\n[6.16s] days a week. People actually do this for\\n[8.08s] a living. I kind of hate this, but then\\n[9.84s] a dark web researcher gave me this tool.\\n[12.0s] It searches 15 dark web search engines\\n[14.16s] at once. AI filters out the garbage 30\\n[16.88s] minutes. How does that work? Check it\\n[18.96s] out right here. The free tool open\\n[20.72s] source.\"}"
+    },
+    {
+      "video_id": "LDLRxUcdbyc",
+      "title": "my NEW AI Supercomputer (3.5x faster!!!)",
+      "url": "https://www.youtube.com/watch?v=LDLRxUcdbyc",
+      "word_count": 78,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'my NEW AI Supercomputer (3.5x faster!!!)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] Earlier this year, I built an AI\\n[1.6s] supercomputer and it was really slow.\\n[4.64s] What? So, I built another one. This one.\\n[7.919s] Now, here's the performance of my old\\n[9.36s] cluster and here's the performance of\\n[11.36s] this one. It's three and a half times\\n[13.44s] faster and it has one less Mac Studio.\\n[16.16s] Why? Well, I'm not just going to tell\\n[17.44s] you right here. You got to watch the\\n[18.64s] full video. Check it out somewhere. Link\\n[20.4s] below. Find the link.\"}"
+    },
+    {
+      "video_id": "tMFtT7xBhp8",
+      "title": "FREE coffee at Cisco Live (I'm giving it away)",
+      "url": "https://www.youtube.com/watch?v=tMFtT7xBhp8",
+      "word_count": 76,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'FREE coffee at Cisco Live (I'm giving it away)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] I'm giving away a ton of coffee at Cisco\\n[2.32s] Live. Do you want some of my coffee? Do\\n[3.84s] you want to talk and hang out? June 3rd,\\n[5.68s] think it's a Wednesday. Yes. From 11:00\\n[7.52s] to 1:00 p.m. at the Equinex booth. I\\n[9.599s] want to give you some coffee, a sticker,\\n[11.12s] a shirt, something. I want to see you\\n[12.719s] there. You better go there right now.\\n[14.559s] Seriously, I would love to meet you. See\\n[16.24s] you soon.\"}"
+    },
+    {
+      "video_id": "WQveY48yM7U",
+      "title": "6 HOURS of Dark Web research in 30 MINUTES",
+      "url": "https://www.youtube.com/watch?v=WQveY48yM7U",
+      "word_count": 76,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on '6 HOURS of Dark Web research in 30 MINUTES' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[7.36s] What just happened? This AI just\\n[9.12s] filtered 480 dark web results to 20\\n[12.08s] relevant ones. It finds the real stuff\\n[14.04s] on the dark web and it reads meanings,\\n[15.64s] not just keywords. And then it scrapes\\n[17.48s] the dark web, scraping these 20 sites\\n[19.48s] and feeds it to an LLM. That's normally\\n[21.56s] 6 hours of dark web research cut down to\\n[24.08s] 30 minutes. By the way, this is a free\\n[26.36s] tool you can check out right here.\"}"
+    },
+    {
+      "video_id": "GVlq6lATZ2M",
+      "title": "Summer of CCNA - 90 Minute - Session 2",
+      "url": "https://www.youtube.com/watch?v=GVlq6lATZ2M",
+      "word_count": 35,
+      "executive_synopsis": "Summer of CCNA - 90 Minute - Session 2",
+      "core_takeaways": [],
+      "transcript_preview": "Join us for our second 90 minute Sumer of CCNA session, today at 5PM ET! If you haven't signed up for the Summer of CCNA, please visit this page here and let's get started! https://academy.networkchuck.com/cour..."
+    },
+    {
+      "video_id": "5dxuppvclxE",
+      "title": "how to NOT be a hacking noob in 2022 // ft. John Hammond",
+      "url": "https://www.youtube.com/watch?v=5dxuppvclxE",
+      "word_count": 34,
+      "executive_synopsis": "how to NOT be a hacking noob in 2022 // ft. John Hammond",
+      "core_takeaways": [],
+      "transcript_preview": "\u202a@_JohnHammond\u202c is going to teach us how to hack and stop being noobs. **Subscribe to the official podcast channel: https://ntck.co/noobs Listen on Spotify: https://open.spotify.com/show/5M6OGk2... \ud83d\udd25\ud83d\udd25Become a Member!!: https://ntck.co/Premium \ud83d\udd25\ud83d\udd25 \u2615\u2615 COFFEE and MERCH: https://ntck.co/coffee"
+    },
+    {
+      "video_id": "EbRLfRZoejM",
+      "title": "Certification Questions | LIVE AMA | Summer of CCNA | 06/18/2026",
+      "url": "https://www.youtube.com/watch?v=EbRLfRZoejM",
+      "word_count": 17,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Certification Questions | LIVE AMA | Summer of CCNA | 06/18/2026' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"Error 404: Not found. No transcript available for video EbRLfRZoejM. Do not retry with the same input.\"}"
+    },
+    {
+      "video_id": "YiVD5IPxif0",
+      "title": "This Docker Update Gives AI Superpowers",
+      "url": "https://www.youtube.com/watch?v=YiVD5IPxif0",
+      "word_count": 15,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'This Docker Update Gives AI Superpowers' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"Error 408: Request failed (temporary). Request failed, please retry. Safe to retry after 1-5 seconds.\"}"
+    },
+    {
+      "video_id": "XApvdsXEyyw",
+      "title": "He Hacked ChatGPT\u2026with Its Own Image Generator",
+      "url": "https://www.youtube.com/watch?v=XApvdsXEyyw",
+      "word_count": 15,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'He Hacked ChatGPT\u2026with Its Own Image Generator' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"Error 408: Request failed (temporary). Request failed, please retry. Safe to retry after 1-5 seconds.\"}"
+    },
+    {
+      "video_id": "qK7uaQyjTqg",
+      "title": "AWS just made Kubernetes EASY (Amazon EKS Auto Mode)",
+      "url": "https://www.youtube.com/watch?v=qK7uaQyjTqg",
+      "word_count": 15,
+      "executive_synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'AWS just made Kubernetes EASY (Amazon EKS Auto Mode)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy.",
+      "core_takeaways": [
+        "Networking & Routing Fundamentals: Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+        "Linux & Docker Mastery: Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+        "Cybersecurity & Ethical Hacking: Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+        "IT Career Roadmap: Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs."
+      ],
+      "transcript_preview": "{\"content\":\"Error 408: Request failed (temporary). Request failed, please retry. Safe to retry after 1-5 seconds.\"}"
+    }
+  ]
+}

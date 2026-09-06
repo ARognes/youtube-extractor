@@ -1,0 +1,44 @@
+video_id: lVsn229WRLs
+title: Theta Burst - Generative Modular Ambient & TP-7 Field Recording
+channel: Pierre's Generative Music
+handle: '@pierresgenerativemusic'
+url: https://www.youtube.com/watch?v=lVsn229WRLs
+duration: '49:06'
+type: video
+transcript: |-
+  A patch built around slowly shifting chords, a Helsinki airport field recording, and intentional dissonance.
+
+  The core of this piece is NOH Pianist (NOH Modular) driving a sequence of minor and major chords through Chord v2 (Qu-Bit), moving at a pace slow enough that the harmonic shifts feel like breathing. Rather than keep everything locked into one tonal space, I let some dissonance sit in the granular layers this time. It felt right against the field recording underneath.
+
+  Patch Notes
+
+  1. NOH Pianist (NOH Modular) generates the primary chord progressions through Chord v2 (Qu-Bit Electronix), moving between minor and major voicings with slow, intentional shifts. The harmonic framework evolves gradually across the piece.
+
+  2. 4ms Ensemble oscillator sits underneath as a drone layer, with cross FM modulation creating subtle timbral shifts that follow the chord movement.
+
+  3. Cloud Terrarium contributes a drone with very slow wavetable scanning, adding a deep, slowly morphing texture beneath the entire patch.
+
+  4. Marbles (Mutable Instruments) quantizes two separate melodic voices. The first feeds into Rings (Mutable Instruments) for granular synthesis layered with reverb. The second runs through Dixie 2 (Intellijel), shaped by envelope before moving into mfx (tape echo and distortion effects). Both voices then reach FX Aid (reverb effects unit) for final spatial processing.
+
+  5. Happy Nerding Dual X Fade crossfades between the two quantized voices, breaking up potential monotony in the generative texture.
+
+  6. Ghost (Endorphin.es) processes elements of the signal chain with modulated effects for tonal shaping.
+
+  7. Starlab (Strymon), housed in a custom 3D-printed enclosure, receives the full mix at maximum wetness and size with high decay. Occasional shimmer and glimmer variations add subtle movement to the reverb tail. The output is visualized on an APF Tiliqua round screen, showing the reverb's spatial evolution in real time.
+
+  8. TX-6 (Teenage Engineering) balances all modular layers and field recording independently before final mix.
+
+  9. The final recording is captured on TP-7 (Teenage Engineering).
+
+  The synth textures are paired with a field recording captured at Helsinki airport on TP-7 with Shure MV 88+ stereo capture: distant flight announcements and overlapping international chatter sit underneath the evolving chords. The result is caught between two contradictions, something both lush and slightly unsettled, like listening to generative beauty while surrounded by the texture of transience.
+
+  All modules are spread across the main Intellijel case, Skid case, mini case, and the 3D-printed Star Lab enclosure. That spread created cables everywhere, which somehow felt fitting for the piece.
+
+  Listen & Follow
+
+  If you enjoy these textures, feel free to leave a comment or explore more modular works here: https://spotify.link/zegyM6IaJDb
+
+  It's a blend of modular ambient, field recordings, and generative harmony (great for focus, slow mornings, or letting your mind wander).
+
+  #ambientmusic #ModularSynth #FieldRecording #LofiAmbient #GenerativeModular #RelaxingMusic #DroneMusic #Eurorack #TapeEcho #GranularSynthesis #FieldRecordingAmbient
+timestamps: []

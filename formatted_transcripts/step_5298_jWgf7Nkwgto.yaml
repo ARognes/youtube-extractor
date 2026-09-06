@@ -1,0 +1,9 @@
+video_id: jWgf7Nkwgto
+title: 'Vim commands you NEED TO KNOW #6'
+channel: typecraft
+handle: '@typecraft_dev'
+url: https://www.youtube.com/watch?v=jWgf7Nkwgto
+duration: '13:12'
+type: video
+transcript: so let's say you want to do some multi-line editing within Vim like you know VSS code or Sublime Text would but then you realize Vim doesn't do multiline editing well with the plugin Vim visual multi you can do some really cool multiline editing within Vim let me show you how it works now when you install this plug-in you get access to some interesting features if I type control n on a word it highlights that word and then if I keep typing crln it'll go to the next word and put another cursor on it so I do contrl n again but I don't want to refactor this because it's a string and it needs to be required and that string cannot change so I can type Q to go to the next match and then CR NRL NRL n now all of my cursors are on this word if I hit C I can change that word all at once and change it to something interesting now I just write the file and there you go that's an amazing workflow in Vim for multi-and editing with Vim visual multi subscribe for more Vim tricks and hey thanks nerds
+timestamps: [[0, 0], [33, 1], [72, 3], [112, 6], [144, 7], [183, 10], [223, 12], [264, 14], [299, 16], [338, 17], [374, 19], [413, 22], [449, 24], [483, 26], [521, 28], [561, 30], [602, 31], [641, 33], [681, 35], [717, 38], [755, 41], [792, 43], [815, 45], [853, 47], [888, 48], [926, 50], [967, 53], [982, 54]]

@@ -1,0 +1,9 @@
+video_id: v2a6Nv7RSd0
+title: Find And Replace
+channel: ThePrimeagen
+handle: '@ThePrimeagen'
+url: https://www.youtube.com/watch?v=v2a6Nv7RSd0
+duration: '35:00'
+type: video
+transcript: you want some f and replace magic here we go we're going to highlight this whole section I'm going to press colon s and then I'm going to go Pub const and I'm going to do a fight and one eye curvy which is escape the opening parentheses escape the closing and then match on everything equal space there we go I've just grabbed Tower right in there then I'm going to dot star the rest of it and I'm going to replace it with test underscore equals SL1 my first capture Group which is that oneeyed fight in Kirby semicolon that enter there we go find and replace
+timestamps: [[0, 0], [39, 1], [75, 2], [116, 4], [155, 6], [191, 7], [225, 9], [265, 10], [306, 13], [342, 14], [379, 15], [418, 16], [459, 20], [495, 21], [531, 24]]

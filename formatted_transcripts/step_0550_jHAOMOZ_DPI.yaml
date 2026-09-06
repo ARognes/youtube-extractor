@@ -1,0 +1,9 @@
+video_id: jHAOMOZ_DPI
+title: Easy Vim Motion
+channel: ThePrimeagen
+handle: '@ThePrimeagen'
+url: https://www.youtube.com/watch?v=jHAOMOZ_DPI
+duration: '31:30'
+type: video
+transcript: I was so happy when I learned this have you ever been using vim and you find yourself like right here so you go DW DW DW DW DW DW just to delete the whole thing that kind of sucks right well let me show you two things that are actually pretty awesome so first off you can go diw and you'll notice that it deleted the word that I was in the middle of but even better if you go di capital W it will delete the entire thing that you're inside of and it will go to all the white spaces on the outside
+timestamps: [[0, 0], [40, 2], [77, 4], [118, 6], [155, 9], [195, 11], [236, 12], [275, 14], [313, 17], [354, 19], [392, 22], [433, 24], [469, 25]]

@@ -1,0 +1,44 @@
+video_id: jQtIns7A9kU
+title: Neural Entrainment · Ambient for Deep Focus & Reading · Generative Modular Drone (10 min)
+channel: Pierre's Generative Music
+handle: '@pierresgenerativemusic'
+url: https://www.youtube.com/watch?v=jQtIns7A9kU
+duration: '49:06'
+type: video
+transcript: |-
+  Ten minutes of slow, monotonous ambient for deep focus, reading, or quiet background calm. Neural Entrainment is a generative modular drone that thickens as it goes, starting from almost nothing and gradually gaining weight, with sparse industrial bursts breaking through the surface. Put it on and let it disappear behind whatever you are doing.
+
+  This one is semi-modular and I am more hands-on than usual, mostly because of the Vhikk X, which is notoriously hard to keep purely generative. It goes into uncharted territory very fast if you let it.
+
+  Here's the breakdown of the patch:
+
+  1. Ensemble Oscillator by 4ms is the base drone voice and the spine of the whole piece. I am progressing the number of active oscillators across the track, so the bed starts thin and gradually gains body and harmonic density as things go on. Nothing else about it changes much, which is the point.
+
+  2. Vhikk X by Forge TME provides the industrial, dissonant bursts. I start with a strong low-pass filter fully closed and only let the sound through by opening the cutoff by hand, so this voice appears sparsely throughout. I am also pushing it into overfeed for unpredictable bursts, and that one has to stay manual because it will very quickly overpower the rest of the mix.
+
+  3. Beads by Mutable Instruments gives the repetitive beeping voice, using its wavetable oscillator mode. A slow LFO moves the rhythm from slow to fast across the piece, and I am playing the length of each burst and pushing it further back or closer with the reverb, so it drifts between foreground and distance.
+
+  4. Rings by Mutable Instruments carries the melodic line, sending a string of notes that feels like a slow arpeggio on a guitar. Note length and resonance on Rings shift the tone as it goes. The pitches are quantized by Scales by Intellijel using two pre-programmed scales, and every few minutes it jumps from minor to major, which is where most of the colour change in the soundscape comes from.
+
+  5. Those same quantized notes are also sent to the Vhikk X, so it plays a note now and then at the same level as the notes going to Rings. That is what ties the harsh voice back into the harmony instead of leaving it sitting outside the piece.
+
+  6. Everything is mixed through Supamix, then into Starlab by Strymon, running high on delay and wet mix for a lush reverb. I use the internal LFO on Starlab to vary the intensity of the decay, give the Infinite button a short press here and there for swells, and towards the end I cut some of the lower frequencies to thin it out.
+
+  7. The full mix is recorded live to the TP-7 by Teenage Engineering, then straight onto my iPhone.
+
+  Small note on post: I did all the editing on my phone. I have been building a little iOS app that does only the few things I actually need before a YouTube upload, normalisation to -14 dB, a limiter, and fade in / fade out. It means I never have to open my computer for this part. If anyone wants to beta test it, let me know in the comments. It is iOS only for now but it might be useful for other people.
+
+  The piece is deliberately monotonous. There is enough movement in the scale jumps and the burst density to keep it from going flat, but not enough to pull your attention away from whatever you are doing. Right click and select Loop if 10 minutes is not enough for you.
+
+  Listen on Spotify: https://spotify.link/zegyM6IaJDb
+  Subscribe for new soundscapes:    / @pierresgenerativemusic  
+
+  More to get lost in:
+  Ambient for Deep Work & Focus:    • Ambient for Deep Work & Focus  
+  Ambient for Sleep:    • Ambient for Sleep  
+  Space Ambient & Drones:    • Space Ambient & Drones  
+
+  Recorded live on a modular synth. Generative and always evolving, so no two performances are the same.
+
+  #AmbientMusic #GenerativeMusic #ModularSynth #Eurorack #DroneMusic #StudyMusic #FocusMusic #4msEnsemble #MutableInstruments #Beads #Rings #Intellijel #StrymonStarlab #NeuralEntrainment
+timestamps: []

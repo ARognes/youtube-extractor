@@ -1,0 +1,9 @@
+video_id: s1O09zc3xVY
+title: Most AI coding tools don’t sandbox on Windows (except one)
+channel: NetworkChuck
+url: https://www.youtube.com/watch?v=s1O09zc3xVY
+duration: 01:03
+published: '2026-08-28 02:53:44'
+type: video
+transcript: '{"content":"\n[0.08s] Hey, you know that AI coding agent\n[1.52s] you''re using on Windows right now? This\n[3.04s] is what its own docs say. And I didn''t\n[5.2s] realize this until I started digging.\n[6.72s] So, Linux has bubble wrap. Mac has seat\n[8.96s] belt, built-in sandboxes, standard\n[10.8s] stuff. But Windows, nothing like that.\n[12.96s] So, most AI coding tools just punt. They\n[15.599s] tell you to use WSL or they just don''t\n[17.52s] sandbox at all. Check the docs. So, then\n[19.84s] OpenAI did something kind of crazy. They\n[21.6s] saw this problem and they decided to\n[23.039s] build their own Windows security sandbox\n[25.519s] from scratch in Rust. restricted tokens,\n[28.32s] file system ACLs, dedicated sandbox\n[30.72s] users, firewall rules, all of it. And\n[33.04s] they open sourced the whole thing.\n[34.32s] Nobody else did that for Windows, but\n[35.92s] OpenAI did. And this is all using stuff\n[37.84s] built into Windows. And I asked the\n[39.36s] OpenAI team, like, why isn''t anyone else\n[41.28s] doing this? And they said, it''s kind of\n[43.04s] hard, but they did it. They figured it\n[45.36s] out. Seriously, this is making me want\n[46.879s] to switch back to Windows. And if you\n[48.399s] haven''t tried the Codeex app for\n[50.239s] Windows, it''s kind of fire. And I love\n[52.079s] that they''re showing love to Windows\n[54.16s] developers who make up the majority of\n[56.0s] developers out there and the majority of\n[57.68s] users. Try it out. Link right here in\n[59.6s] the description. I don''t know where\n[60.719s] we''re putting this thing. Let me know\n[61.84s] what you think."}'
+timestamps: []

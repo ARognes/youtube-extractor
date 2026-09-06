@@ -1,0 +1,9 @@
+video_id: 8DUV6axCC3M
+title: hackers now steal your data in 72 minutes
+channel: NetworkChuck
+url: https://www.youtube.com/watch?v=8DUV6axCC3M
+duration: 00:49
+published: '2026-08-28 02:53:45'
+type: short
+transcript: '{"content":"\n[0.08s] AI just made hackers four times faster\n[2.24s] and now they''re using your tools against\n[3.919s] you. Palo Alto just dropped their 2026\n[6.16s] incident response report. 750 cases\n[8.559s] across 50 countries and it''s terrifying.\n[11.04s] So here''s what a modern attack looks\n[12.559s] like. An attacker gets in with a stolen\n[14.08s] credential. They don''t even hack their\n[15.36s] way in. They log in. Then within 10\n[17.279s] minutes they''re querying your company''s\n[18.8s] AI assistant, copilot, whatever you''re\n[20.8s] running to map your entire environment.\n[22.96s] By minute at 30 they''re moving laterally\n[24.8s] through overly permissive identity\n[26.4s] policies. By minute 60, AI scripts are\n[28.8s] staging your data across endpoints,\n[30.48s] cloud, and SAS. By minute 72, they''re\n[32.96s] gone. You might not even know what\n[34.64s] started. 22% of attacks now exfiltrate\n[37.36s] data in under 1 hour. And 90% of all\n[39.6s] breaches identity weaknesses. So,\n[41.6s] they''re not breaking in, they''re logging\n[43.04s] in. And AI just made them four times\n[44.8s] faster than you. Subscribe or follow. If\n[46.64s] you want to stay ahead of this, you got\n[47.92s] to use AI,"}'
+timestamps: []

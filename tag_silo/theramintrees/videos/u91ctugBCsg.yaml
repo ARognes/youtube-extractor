@@ -1,0 +1,68 @@
+video_id: u91ctugBCsg
+title: compelled love / weaponised love | love as emotional debt
+channel: TheraminTrees
+url: https://www.youtube.com/watch?v=u91ctugBCsg
+duration: 35 min
+word_count: 5333
+first_order_tags:
+- tag: vtag_weaponised_and_compelled_love
+  bound_second_order: weaponised_and_compelled_love
+  timestamp: 00:05
+  seconds: 4.9
+  context: |-
+    Насилствена обич.
+    TheraminTrees
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: 05:20
+  seconds: 320.3
+  context: Както и при играчките, единствената им функция е непрекъснато да подсилват
+    всяко изображение, което по всяко време реши да приеме техния нас...
+- tag: vtag_toxic_guilt_and_false_responsibility
+  bound_second_order: toxic_guilt_and_false_responsibility
+  timestamp: 09:22
+  seconds: 562.2
+  context: то може да се съчетае с чувство за вина.
+- tag: vtag_weaponised_and_compelled_love
+  bound_second_order: weaponised_and_compelled_love
+  timestamp: '12:26'
+  seconds: 746.1
+  context: Насилствена обич за тиранин
+- tag: vtag_family_estrangement_and_grief
+  bound_second_order: family_estrangement_and_grief
+  timestamp: '15:00'
+  seconds: 900.5
+  context: За мен изглеждаше като смърт.
+- tag: vtag_toxic_guilt_and_false_responsibility
+  bound_second_order: toxic_guilt_and_false_responsibility
+  timestamp: '22:49'
+  seconds: 1369.1
+  context: положително или отрицателно; правилно или грешно; вина��и или никога; ние
+    или те.
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '32:17'
+  seconds: 1936.8
+  context: Нищо чудно, че се нараних по време на процеса.
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '33:16'
+  seconds: 1996.3
+  context: Овладяването им отне време и търпение. Но сега си позволих да чувствам
+    всичко.
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '36:37'
+  seconds: 2197.1
+  context: вече няма да губим ценното си време в тези мрачни театрални постановки.
+second_order_tags:
+- buffer_response_delay
+- family_estrangement_and_grief
+- systemic_family_therapy
+- toxic_guilt_and_false_responsibility
+- weaponised_and_compelled_love
+third_order_tags:
+- T3_ATTACHMENT_RELATIONAL_BONDING
+- T3_SHAME_GUILT_EGO_PRESERVATION
+key_phrases: []
+summary_hook: Explores systemic_family_therapy, weaponised_and_compelled_love, toxic_guilt_and_false_responsibility.

@@ -1,0 +1,9 @@
+video_id: PHXdLe2f9rs
+title: Must Have Tailwind Plugin For Responsive Design
+channel: Web Dev Simplified
+handle: '@WebDevSimplified'
+url: https://www.youtube.com/watch?v=PHXdLe2f9rs
+duration: '27:06'
+type: video
+transcript: The fluid Tailwind library is an amazing Tailwind library that makes responsive design incredibly easy. For example, I have this box and I've changed my margin on the top to be progressively larger the larger my screen is. So, you can see as I shrink my screen, the margin on the top shrinks and as I increase the size of my screen, it increases. This is a rather simple example, but I have to write quite a bit of Tailwind code to do this and it jumps between these breakpoints instead of being a smooth animation. This is where the fluid Tailwind library comes in. All you need to do is use a tilde symbol followed by the property you want to animate. to do margin top. You give it a starting value, which in our case is 12, a slash followed by an ending value, which is 60, and now it's going to smoothly animate between those two values at the smallest screen size and all the way at the largest screen size. And if I wanted, I could take this a step further by actually configuring which screen sizes I want to change. So, I can just put tilde here and I'm going to do small {slash} medium and now if I put a colon here, it's saying only between the small and medium sizes should I do this animation. So, you can see between small and medium, I'm doing that animation.
+timestamps: [[0, 0], [41, 2], [80, 3], [119, 6], [160, 8], [198, 9], [239, 11], [280, 13], [319, 14], [357, 16], [394, 18], [435, 19], [467, 21], [505, 22], [540, 24], [580, 26], [620, 28], [660, 30], [695, 32], [735, 34], [773, 36], [808, 38], [848, 39], [888, 41], [922, 43], [963, 44], [1000, 46], [1039, 48], [1080, 49], [1120, 52], [1161, 53], [1195, 55], [1236, 57]]

@@ -1,0 +1,9 @@
+video_id: 5Cm0Lr-HPDk
+title: Have you used the has selector in CSS? According to Chris Coyier, it's a game-changer.
+channel: freeCodeCamp.org
+handle: '@freecodecamp'
+url: https://www.youtube.com/watch?v=5Cm0Lr-HPDk
+duration: '40:30'
+type: video
+transcript: There's this selector called has in CSS and it's just says, does this element have within it another absolutely arbitrary selector? Like is there a check like you can say body has input checked? Is there a checked input anywhere in the body? Then not only can you style the body, but you can then continue your selector and then say, well, select the footer then and do something with the footer. That like ability to express that in one statement is so powerful that it's like this unbelievable what you can do with it. And we've gotten it so relatively recently that I concerned that a lot of people developers don't even know that we have it. You know, LLMs might not know that we have it or or be able to wield it and use it in in kind of appropriate ways and that's just one thing of a slew of other stuff that we've gotten.
+timestamps: [[0, 0], [40, 2], [78, 5], [112, 8], [148, 10], [186, 13], [220, 16], [260, 18], [297, 20], [334, 22], [370, 24], [407, 25], [448, 28], [483, 31], [521, 33], [555, 35], [595, 38], [634, 39], [646, 41], [684, 43], [722, 45], [760, 47], [799, 50]]

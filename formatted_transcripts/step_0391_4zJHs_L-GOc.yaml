@@ -1,0 +1,9 @@
+video_id: 4zJHs_L-GOc
+title: He did WHAT to the DB?
+channel: ThePrimeagen
+handle: '@ThePrimeagen'
+url: https://www.youtube.com/watch?v=4zJHs_L-GOc
+duration: '35:00'
+type: video
+transcript: Hey teach, did you pull the latest changes? >> Um, the schema diff says that you removed >> all the foreign key constraints from the database. >> Yeah, I refactored those away. >> You refactored the constraints away. >> Don't worry, we use TDD. >> First, no, we >> Secondly, why did you remove the foreign keys? >> Pretty obvious. >> Tariffs. >> Do you even know what tariffs are? It's a tax imposed by the government on goods and services imported from another country. They serve as a trade barrier. >> You're raising prices and could potentially reduce the available quantities for business and consumer. >> This was not how I pictured using instant restore. >> Fine, but don't come crying to me when the IRS comes and knocking. Ship faster with Neon Postgress. Neon comes with branching, schema diff, and instant point in time recovery to help you ship fast and recover faster. Get the free plan at neon.com.
+timestamps: [[0, 0], [35, 1], [44, 2], [51, 5], [89, 8], [133, 11], [143, 11], [177, 13], [217, 16], [245, 18], [262, 20], [306, 23], [312, 24], [331, 25], [343, 26], [386, 28], [427, 30], [462, 32], [502, 34], [537, 36], [570, 37], [608, 39], [645, 41], [662, 42], [704, 44], [732, 47], [770, 50], [809, 52], [848, 53], [886, 56]]

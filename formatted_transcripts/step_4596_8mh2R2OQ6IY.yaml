@@ -1,0 +1,9 @@
+video_id: 8mh2R2OQ6IY
+title: Why you need more than one adversarial code reviewer
+channel: NeetCode
+handle: '@NeetCode'
+url: https://www.youtube.com/watch?v=8mh2R2OQ6IY
+duration: '16:54'
+type: video
+transcript: adversarial code review. So, when something does go wrong, not only are you going to fix that issue, but you're also going to fix the process at a higher level that is actually generating that uh code. And basically, I guess that's what people mean by loop engineering is, in my opinion, not that different from regular engineering. The review was done with fresh context windows. Basically, means that the agent that's reviewing the code is not the one that wrote the code. It's a pretty common pattern that a lot of people use. All the code review tools, obviously, are doing that. Notice how there was one implementer agent and two or more adversarial reviewers per implementer. Now, why would you have two? Because it's non-deterministic. It's not precise. It's kind of like asking two people for feedback. They're going to say different things.
+timestamps: [[0, 0], [34, 2], [72, 6], [112, 7], [147, 9], [188, 13], [225, 15], [257, 17], [297, 19], [337, 21], [372, 24], [413, 27], [454, 28], [489, 30], [530, 32], [568, 33], [609, 36], [643, 39], [682, 42], [719, 44], [752, 46], [790, 48], [828, 49]]

@@ -1,0 +1,9 @@
+video_id: M-VU0fLjIUU
+title: This Is A Game Changer
+channel: ThePrimeagen
+handle: '@ThePrimeagen'
+url: https://www.youtube.com/watch?v=M-VU0fLjIUU
+duration: '31:30'
+type: video
+transcript: I just changed the way I program after doing it for 20 years it's called negative space programming let's take this function right here called more Fu it expects fu. bar to be a number at this point in my program I know that fu. bar is actually a number despite its definition saying hey bar might not be a number therefore I'm going to assert that this Behavior exists I am effectively programming in the invariance in my program to guarantee Behavior and when my program crashes then I know either that I was wrong about my worldview or two I have a bug that demands fixing I cannot tell you how much better this has made my life and the quality of the programs I build
+timestamps: [[0, 0], [39, 2], [73, 4], [111, 6], [151, 9], [188, 11], [229, 14], [266, 16], [307, 19], [344, 21], [375, 23], [406, 25], [444, 29], [481, 32], [517, 34], [556, 36], [594, 39], [632, 40]]

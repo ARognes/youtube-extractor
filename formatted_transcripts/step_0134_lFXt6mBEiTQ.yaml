@@ -1,0 +1,9 @@
+video_id: lFXt6mBEiTQ
+title: Behind the popular AI tools lies a crucial bit of tech called a transformer.
+channel: freeCodeCamp.org
+handle: '@freecodecamp'
+url: https://www.youtube.com/watch?v=lFXt6mBEiTQ
+duration: '40:30'
+type: video
+transcript: Every time you talk to an AI, every question you type into Chat GPT, and every answer you get from Gemini or Claude, you're using an idea from a single research paper written by eight people who worked at Google who were mostly trying to make Google Translate a little bit better. Back then, the best AI language systems read the way you might read through a straw, one word at a time, strictly left to right. But, there are two crippling problems. First, they were forgetful. By the time the model reached the end of a long sentence, the beginning had already gone fuzzy. And second, because each step depended on the one before it, you couldn't do them all at once. What if it could look at an entire sentence at once? The stripped-down Transformer didn't just keep up with the best systems in the world, it beat them. That T, the one you say every time you say Chat GPT, stands for Transformer. Nearly every single major AI system you can name today, GPT-4, Gemini, Claude, is underneath a Transformer.
+timestamps: [[0, 0], [36, 1], [73, 4], [109, 6], [145, 8], [184, 10], [221, 13], [262, 15], [301, 17], [338, 19], [378, 21], [415, 24], [456, 27], [493, 29], [525, 30], [566, 33], [603, 35], [638, 37], [679, 39], [715, 41], [751, 43], [785, 45], [826, 47], [864, 50], [905, 53], [942, 55], [980, 58]]

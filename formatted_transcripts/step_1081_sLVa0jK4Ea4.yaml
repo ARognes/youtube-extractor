@@ -1,0 +1,9 @@
+video_id: sLVa0jK4Ea4
+title: If You Write React Code You Need This Tool
+channel: Web Dev Simplified
+handle: '@WebDevSimplified'
+url: https://www.youtube.com/watch?v=sLVa0jK4Ea4
+duration: '27:06'
+type: video
+transcript: react scan is a brand new library that makes debugging react applications incredibly easy the really nice thing about it is to add it to your project all you need to do is copy and paste a single script tag into the start of your project and you immediately get this box right here that allows you to see the exact frames per second of your page how quickly things are re-rendering it shows you a purple box around every single thing that reenders and the really cool thing is if you want to see why something's rendering all you need to do is Select that element to inspect it and you're going to get this nice drop down up here explaining exactly why it's rendering every single time you can see here our value and onad property are the reason it's re-rendering and we can even view the render history and scrub through it to see exactly what the value is at every single point same thing with on ad we can see exactly what the code for all of this is it's an incredibly powerful feature I really love this project this is pretty much a must include in any project that you're having performance issues inside of react and if you want to learn more about react scan and all the different things it can do I have a full video linked at the bottom of the screen
+timestamps: [[0, 0], [39, 2], [74, 4], [112, 6], [150, 7], [189, 9], [230, 10], [271, 12], [309, 14], [350, 16], [391, 17], [428, 19], [468, 20], [500, 21], [541, 23], [582, 25], [622, 26], [658, 28], [698, 30], [739, 32], [780, 33], [814, 35], [855, 37], [896, 39], [935, 40], [973, 42], [1009, 44], [1044, 45], [1079, 46], [1115, 48], [1151, 49], [1190, 51], [1227, 52]]

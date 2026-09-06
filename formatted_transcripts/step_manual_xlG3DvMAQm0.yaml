@@ -1,0 +1,9 @@
+video_id: xlG3DvMAQm0
+title: Codex Lives In PowerShell Now
+channel: NetworkChuck
+url: https://www.youtube.com/watch?v=xlG3DvMAQm0
+duration: 00:45
+published: '2026-08-28 02:53:43'
+type: short
+transcript: '{"content":"\n[0.08s] Most AI tools can write PowerShell, but\n[2.48s] not all of them live in PowerShell. But\n[4.799s] why is that a big deal? Who cares? Well,\n[6.4s] if you use Windows as your daily driver,\n[8.24s] which you do, you might be a Windows 6\n[10.08s] admin managing active directory and\n[12.08s] Windows domain controllers and Azure.\n[14.24s] Maybe Codex doesn''t just understand that\n[16.4s] environment. He lives in it. He''s a\n[18.48s] local. Like watch this. Let''s go to this\n[20.32s] project and say how many files are in\n[23.84s] this directory. Watch what happens.\n[27.439s] It''s running PowerShell by default. It''s\n[30.08s] going to be using PowerShell commands\n[31.599s] just like you do. Hacker, accountant,\n[33.6s] developer. Codex isn''t just visiting\n[35.36s] Windows anymore. He''s not pretending to\n[37.12s] be Windows in a Linux costume. He''s a\n[39.68s] local. He moved in. And the way that it\n[41.92s] can help us with our jobs is way more\n[43.68s] integrated"}'
+timestamps: []

@@ -1,0 +1,60 @@
+video_id: oCB-sCIKnkU
+title: Why You Always Feel Uneasy (Transcendental Existential Dread)
+channel: HealthyGamerGG
+url: https://www.youtube.com/watch?v=oCB-sCIKnkU
+duration: '12:00'
+word_count: 2648
+first_order_tags:
+- tag: vtag_dissociation_and_derealization
+  bound_second_order: dissociation_and_derealization
+  timestamp: 00:36
+  seconds: 35.5
+  context: dissociation and feelings of
+- tag: vtag_dissociation_and_derealization
+  bound_second_order: dissociation_and_derealization
+  timestamp: 02:32
+  seconds: 151.6
+  context: people who experience derealization have
+- tag: vtag_gifted_kid_burnout
+  bound_second_order: gifted_kid_burnout
+  timestamp: '10:43'
+  seconds: 642.9
+  context: life can be quite effortless and still
+- tag: vtag_task_initiation_and_procrastination
+  bound_second_order: task_initiation_and_procrastination
+  timestamp: '10:56'
+  seconds: 655.9
+  context: about it right like procrastination
+- tag: vtag_gifted_kid_burnout
+  bound_second_order: gifted_kid_burnout
+  timestamp: '11:31'
+  seconds: 691.0
+  context: good. It's like kind of effortless. And
+- tag: vtag_existential_anhedonia_and_numbness
+  bound_second_order: existential_anhedonia_and_numbness
+  timestamp: '11:41'
+  seconds: 701.3
+  context: all this empty time, like my wife is
+- tag: vtag_dissociation_and_derealization
+  bound_second_order: dissociation_and_derealization
+  timestamp: '11:52'
+  seconds: 712.3
+  context: depersonalization that we did over on
+second_order_tags:
+- clinical_psychiatry
+- dissociation_and_derealization
+- existential_anhedonia_and_numbness
+- gifted_kid_burnout
+- neurobiology_and_neurotransmitters
+- task_initiation_and_procrastination
+third_order_tags:
+- T3_EMOTIONAL_METABOLISM
+- T3_NEURODIVERGENCE_EXECUTIVE_FUNCTION
+key_phrases:
+- existential dread
+- existential problems
+- close eyes
+- answer question
+- find answers
+- posterior parietal
+summary_hook: Explores clinical_psychiatry, neurobiology_and_neurotransmitters, dissociation_and_derealization.

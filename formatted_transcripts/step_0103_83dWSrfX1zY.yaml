@@ -1,0 +1,10 @@
+video_id: 83dWSrfX1zY
+title: How I use Coding To Save Time IRL
+channel: Leverage In Action
+handle: '@LeverageInAction'
+url: https://www.youtube.com/watch?v=83dWSrfX1zY&pp=ugUEEgJlbg%3D%3D
+duration: '14:20'
+published: 1 month ago
+type: video
+transcript: So, in this video, I'm going to go over my latest project and cover why I find coding such a valuable skill. In particular, through the way it creates real-life time gains and facilitates scale by automating manual processes. By the end of this video, you'll see the thought process and implementation steps that led me to put together a terminal interface application to input data, have it hooked up to an API call to retrieve stock market options pricing data, and have those API calls automated using
+timestamps: [[0, 0], [40, 2], [79, 4], [109, 6], [143, 7], [176, 9], [215, 11], [226, 13], [267, 14], [308, 17], [347, 19], [384, 22], [420, 24], [458, 26], [464, 27]]

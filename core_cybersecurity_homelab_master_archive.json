@@ -1,0 +1,198 @@
+{
+  "core_id": "core_cybersecurity_homelab",
+  "title": "Cybersecurity, Homelabs & Hardware Hacking Core",
+  "description": "Hands-on pen-testing, Docker Swarm homelabs, automation, n8n, and hardware security exploits.",
+  "channels_included": [
+    "NetworkChuck",
+    "Seytonic"
+  ],
+  "total_videos_archived": 137,
+  "total_spoken_words": 265891,
+  "first_principles": [],
+  "taxonomy_dictionary": {
+    "Networking & Routing Fundamentals": "Master IP subnetting, OSPF, BGP, DNS, and VLAN architectures.",
+    "Linux & Docker Mastery": "Harness command-line power, containerization, self-hosting, and Linux desktop environments.",
+    "Cybersecurity & Ethical Hacking": "Implement VPNs, firewall defenses, home lab security, and penetration testing tools.",
+    "IT Career Roadmap": "Get certified (CCNA, CompTIA, AWS) and build real hands-on homelabs to land high-paying tech jobs.",
+    "Technical & Analytical Excellence": "Deep analysis of core domain concepts.",
+    "Practical Systems Architecture": "Real-world engineering and conceptual frameworks.",
+    "Actionable Key Insights": "Concise summary of key takeaways and mental models."
+  },
+  "catalog_summary": [
+    {
+      "video_id": "O7XOUK4B5pg",
+      "title": "AI's Impact on Network Engineers | LIVE AMA | Summer of CCNA",
+      "channel": "NetworkChuck",
+      "word_count": 21093,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'AI's Impact on Network Engineers | LIVE AMA | Summer of CCNA' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "-abob21omcM",
+      "title": "Summer of CCNA LIVE Launch Party",
+      "channel": "NetworkChuck",
+      "word_count": 19699,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Summer of CCNA LIVE Launch Party' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "7-CouekrkOc",
+      "title": "LIVE AMA | Summer of CCNA | 07/09/2026",
+      "channel": "NetworkChuck",
+      "word_count": 19304,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'LIVE AMA | Summer of CCNA | 07/09/2026' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "GVlq6lATZ2M",
+      "title": "Summer of CCNA - 90 Minute - Session 2",
+      "channel": "NetworkChuck",
+      "word_count": 18479,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Summer of CCNA - 90 Minute - Session 2' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "HUXUnMbeOyo",
+      "title": "OSPF From Zero: Let's Build the Internet (Well...Almost) | Summer of CCNA",
+      "channel": "NetworkChuck",
+      "word_count": 17837,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'OSPF From Zero: Let's Build the Internet (Well...Almost) | Summer of CCNA' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "IQX3MIzIBBA",
+      "title": "Certification Questions | LIVE AMA | Summer of CCNA | 06/18/2026",
+      "channel": "NetworkChuck",
+      "word_count": 17808,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Certification Questions | LIVE AMA | Summer of CCNA | 06/18/2026' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "W-uDWefB-6c",
+      "title": "Certification Questions | LIVE AMA | Summer of CCNA",
+      "channel": "NetworkChuck",
+      "word_count": 17567,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Certification Questions | LIVE AMA | Summer of CCNA' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "budTmdQfXYU",
+      "title": "n8n Now Runs My ENTIRE Homelab",
+      "channel": "NetworkChuck",
+      "word_count": 10009,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'n8n Now Runs My ENTIRE Homelab' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "GuTcle5edjk",
+      "title": "you need to learn MCP RIGHT NOW!! (Model Context Protocol)",
+      "channel": "NetworkChuck",
+      "word_count": 7813,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'you need to learn MCP RIGHT NOW!! (Model Context Protocol)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "T-HZHO_PQPY",
+      "title": "OpenClaw......RIGHT NOW??? (it's not what you think)",
+      "channel": "NetworkChuck",
+      "word_count": 7241,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'OpenClaw......RIGHT NOW??? (it's not what you think)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "MsQACpcuTkU",
+      "title": "You've Been Using AI the Hard Way (Use This Instead)",
+      "channel": "NetworkChuck",
+      "word_count": 6863,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'You've Been Using AI the Hard Way (Use This Instead)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "LhnH0juUaGw",
+      "title": "I got inside FIFA\u2019s Secret World Cup Broadcast Network",
+      "channel": "NetworkChuck",
+      "word_count": 6456,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'I got inside FIFA\u2019s Secret World Cup Broadcast Network' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "9SDkU5VDQEQ",
+      "title": "You need to switch to Linux RIGHT NOW!!",
+      "channel": "NetworkChuck",
+      "word_count": 5637,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'You need to switch to Linux RIGHT NOW!!' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "FYL9e_aqZY0",
+      "title": "This AI Supercomputer can fit on your desk...",
+      "channel": "NetworkChuck",
+      "word_count": 5079,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'This AI Supercomputer can fit on your desk...' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "o-8amaZBi5M",
+      "title": "Hackers infected the wrong girlfriend....",
+      "channel": "NetworkChuck",
+      "word_count": 4866,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Hackers infected the wrong girlfriend....' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "dbMXi9q78Tk",
+      "title": "I almost quit YouTube....",
+      "channel": "NetworkChuck",
+      "word_count": 4804,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'I almost quit YouTube....' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "pwWBcsxEoLk",
+      "title": "You SUCK at Prompting AI (Here's the secret)",
+      "channel": "NetworkChuck",
+      "word_count": 4792,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'You SUCK at Prompting AI (Here's the secret)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "a3RI4DjFBzw",
+      "title": "This New Device is 10x Better Than Your Router",
+      "channel": "NetworkChuck",
+      "word_count": 4326,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'This New Device is 10x Better Than Your Router' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "cGXAmnUabEY",
+      "title": "Switching back to Windows?!?",
+      "channel": "NetworkChuck",
+      "word_count": 3973,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'Switching back to Windows?!?' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "cT22fTzotYc",
+      "title": "FREE Phone Calls with Claude Code",
+      "channel": "NetworkChuck",
+      "word_count": 3970,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'FREE Phone Calls with Claude Code' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "G3jvn7n-68Y",
+      "title": "i didn't want to like this....",
+      "channel": "NetworkChuck",
+      "word_count": 3788,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'i didn't want to like this....' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "qFsj6KL8_nU",
+      "title": "DEFCON is Not What I Expected...",
+      "channel": "NetworkChuck",
+      "word_count": 3389,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'DEFCON is Not What I Expected...' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "axfNxZ1R6C4",
+      "title": "I was wrong about VPNs",
+      "channel": "NetworkChuck",
+      "word_count": 3327,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'I was wrong about VPNs' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "_yfiUQSbdPY",
+      "title": "become an AI HACKER (it's easier than you think)",
+      "channel": "NetworkChuck",
+      "word_count": 3199,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'become an AI HACKER (it's easier than you think)' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    },
+    {
+      "video_id": "9LjgqZ2wP0g",
+      "title": "I Tried running in 3D printed shoes",
+      "channel": "NetworkChuck",
+      "word_count": 3021,
+      "synopsis": "Networking, Linux, cybersecurity, and cloud engineering masterclass on 'I Tried running in 3D printed shoes' by NetworkChuck. Hands-on labs, CCNA foundations, and IT career growth strategy."
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "schema": "action_centric_situation_protocol_matrix_v1",
+  "compiled_at": "2026-09-05T11:30:29.896400",
+  "domain_archive": "core_cognitive_psychology",
+  "total_crises": 6,
+  "crises": [
+    {
+      "crisis_id": "CRISIS-01",
+      "title": "Paralyzing Dread & Procrastination Before Initiating Simple Tasks",
+      "symptom_node": "S01_EXECUTIVE_DYSFUNCTION_TASK_PARALYSIS",
+      "underlying_mechanisms": [
+        "M02_SAMSKARA_IMPRINTING",
+        "M05_DOPAMINE_EXHAUSTION_LOOP"
+      ],
+      "prerequisite_primitive": "P01_SOMATIC_INTEROCEPTION",
+      "clinical_diagnosis": "Executive dysfunction induced by high dopamine desensitization combined with shame-based performance terror. The mind perceives starting the task as an emotional threat.",
+      "triangulated_protocol": [
+        {
+          "step": 1,
+          "phase": "Somatic Localization",
+          "authority": "JulienHimself",
+          "action": "Close your eyes for 60 seconds. Scan for the somatic knot in the throat, chest, or solar plexus. Refuse to engage with the cognitive excuses ('I'll do it later'); just feel the physical contraction."
+        },
+        {
+          "step": 2,
+          "phase": "Amygdala De-Escalation",
+          "authority": "HealthyGamerGG",
+          "action": "Execute the 2-Minute Frictionless Entry: reduce the task requirement to opening the document or standing at the desk for 120 seconds with absolute permission to quit afterwards. The goal is passing the startup friction threshold."
+        },
+        {
+          "step": 3,
+          "phase": "Decouple Worth from Output",
+          "authority": "HealthyGamerGG & JulienHimself",
+          "action": "Mentally recite: 'The outcome of this session has zero bearing on my worth as a human being.' Allow the work to be mediocre."
+        }
+      ],
+      "anti_patterns_to_avoid": [
+        "Using social media or YouTube as a '5-minute break' before starting (triggers immediate dopamine depletion).",
+        "Berating oneself with shame, which activates the amygdala and amplifies task avoidance."
+      ],
+      "gap_warning": "Assumes basic distinction between clinical ADHD and emotional avoidance. If attention fails even with zero anxiety, evaluate tonic dopamine receptor depletion.",
+      "primary_citations": [
+        {
+          "title": "Stop Trying To Fix Your Traumatic Childhood",
+          "channel": "HealthyGamerGG",
+          "video_id": "hxJKaG7clOo",
+          "timestamp": "45:00 - 58:00"
+        },
+        {
+          "title": "The Magic Of Letting Go (A Step-By-Step Guide)",
+          "channel": "JulienHimself",
+          "video_id": "IiwvvV_xB-4",
+          "timestamp": "08:15 - 16:30"
+        }
+      ]
+    },
+    {
+      "crisis_id": "CRISIS-02",
+      "title": "Passive-Aggressive Guilt-Tripping & Gaslighting from Family or Authorities",
+      "symptom_node": "S04_TOXIC_GUILT_IDENTITY_FUSION",
+      "underlying_mechanisms": [
+        "M01_DOUBLE_BIND_TRAP",
+        "M03_COVERT_NARCISSISM_FOG",
+        "M04_GASLIGHTING_REALITY_DENIAL"
+      ],
+      "prerequisite_primitive": "P04_AUTONOMY_AWARENESS",
+      "clinical_diagnosis": "Covert narcissistic emotional blackmail leveraging Fear, Obligation, and Guilt (FOG) within a double-bind structure where any defense is framed as ungrateful hostility.",
+      "triangulated_protocol": [
+        {
+          "step": 1,
+          "phase": "Establish Anti-JADE Rule",
+          "authority": "TheraminTrees",
+          "action": "Do NOT Justify, Argue, Defend, or Explain. The moment you justify your boundary, you hand the aggressor conversational leverage to debate your right to exist independently."
+        },
+        {
+          "step": 2,
+          "phase": "Grey Rock Flatlining",
+          "authority": "TheraminTrees",
+          "action": "Transition to informational starvation. Use neutral, calm, non-reactive phrases: 'I hear your perspective', 'That does not work for me', 'Okay'. Give zero emotional display."
+        },
+        {
+          "step": 3,
+          "phase": "Metabolize Manufactured Guilt",
+          "authority": "JulienHimself & Dr. K",
+          "action": "Recognize the burning guilt sensation in your body as false responsibility. The guilt is not evidence of wrongdoing; it is the conditioned reflex of childhood compliance."
+        }
+      ],
+      "anti_patterns_to_avoid": [
+        "Engaging in circular debates trying to make the abuser acknowledge their behavior.",
+        "Apologizing just to 'keep the peace', which rewards manipulation and reinforces the double-bind."
+      ],
+      "gap_warning": "Assumes physical safety and financial independence. In domestic dependency situations, covert placation must precede boundary enforcement.",
+      "primary_citations": [
+        {
+          "title": "resisting emotional blackmail | boundaries against fog",
+          "channel": "TheraminTrees",
+          "video_id": "PEexQAkhFpM",
+          "timestamp": "04:30 - 22:15"
+        },
+        {
+          "title": "losing (part 1) | relationship autopsy & parental narcissism",
+          "channel": "TheraminTrees",
+          "video_id": "jWLZfeKpIhg",
+          "timestamp": "14:20 - 32:00"
+        }
+      ]
+    },
+    {
+      "crisis_id": "CRISIS-03",
+      "title": "Obsessive Limerence & Cognitive Preoccupation Over Romantic Approval",
+      "symptom_node": "S03_LIMERENCE_FANTASY_FIXATION",
+      "underlying_mechanisms": [
+        "M02_SAMSKARA_IMPRINTING",
+        "M07_CONDITIONAL_WORTH_PROGRAMMING"
+      ],
+      "prerequisite_primitive": "P05_ATTACHMENT_NEEDS",
+      "clinical_diagnosis": "Limerent fixation driven by intermittent reinforcement and the external projection of disowned self-worth onto an idealized romantic target (pedestalization).",
+      "triangulated_protocol": [
+        {
+          "step": 1,
+          "phase": "Strict Prohibition on Premature Confession",
+          "authority": "HealthyGamerGG",
+          "action": "Never dump your feelings onto the person in a dramatic confession. A romantic confession in limerence is not love; it is an unconscious demand for the other person to cure your existential void."
+        },
+        {
+          "step": 2,
+          "phase": "Identify the Projected Quality",
+          "authority": "JulienHimself",
+          "action": "Ask: 'What does this person possess that I believe I lack?' (e.g., vitality, social ease, unshakeable confidence). Recognize that your obsession is with the projected quality, not the actual fallible human."
+        },
+        {
+          "step": 3,
+          "phase": "Somatic Craving Digestion",
+          "authority": "HealthyGamerGG & JulienHimself",
+          "action": "When the urge to text or check their social media strikes, sit in stillness for 10 minutes. Feel the painful longing in the chest as an unresolved childhood hunger. Let it burn without acting."
+        }
+      ],
+      "anti_patterns_to_avoid": [
+        "Constantly re-reading old text messages searching for hidden subtext.",
+        "Seeking 'one final closure conversation' which only resets the addiction cycle."
+      ],
+      "gap_warning": "External clinical foundation relies on Dorothy Tennov's limerence criteria. Distinct from genuine reciprocal romantic intimacy.",
+      "primary_citations": [
+        {
+          "title": "Why You Should NEVER Confess Your Love",
+          "channel": "HealthyGamerGG",
+          "video_id": "xHkcIRZa6lo",
+          "timestamp": "05:00 - 26:30"
+        },
+        {
+          "title": "The Fastest Way To Boost Your Self Esteem",
+          "channel": "JulienHimself",
+          "video_id": "pCZdJiGSk8g",
+          "timestamp": "15:00 - 34:10"
+        }
+      ]
+    },
+    {
+      "crisis_id": "CRISIS-04",
+      "title": "Gifted Kid Burnout & Terror of Intellectual Challenge",
+      "symptom_node": "S02_GIFTED_BURNOUT",
+      "underlying_mechanisms": [
+        "M06_INFANTILIZATION_CONTROL",
+        "M07_CONDITIONAL_WORTH_PROGRAMMING"
+      ],
+      "prerequisite_primitive": "P02_SAKSHI_OBSERVER_STANCE",
+      "clinical_diagnosis": "Ego-identity fusion with effortless intelligence. When confronted with real-world difficulty, the individual avoids effort because struggling threatens their core identity as 'the smart one'.",
+      "triangulated_protocol": [
+        {
+          "step": 1,
+          "phase": "Ego Identity Decoupling",
+          "authority": "HealthyGamerGG",
+          "action": "Dismantle the 'Gifted' label. Recognize that intelligence was an innate genetic endowment, not a moral virtue. Switch identity from 'I am gifted' to 'I am a human building work capacity'."
+        },
+        {
+          "step": 2,
+          "phase": "Tolerance of Frustration (Tapas)",
+          "authority": "HealthyGamerGG",
+          "action": "Reframe the uncomfortable sensation of being confused or struggling with a problem as the exact biological stimulus required for neuroplastic learning, rather than evidence of incompetence."
+        },
+        {
+          "step": 3,
+          "phase": "Surrender the False Persona",
+          "authority": "JulienHimself",
+          "action": "Allow yourself to ask 'stupid' questions publicly. Practice looking foolish or unpolished to desensitize the ego's terror of imperfect performance."
+        }
+      ],
+      "anti_patterns_to_avoid": [
+        "Procrastinating on projects so that if the result is mediocre, you can claim 'I didn't really try'.",
+        "Resting on past academic laurels while falling behind on practical skills."
+      ],
+      "gap_warning": "Assumes baseline educational attainment. Addresses the psychological overhang of high early expectations.",
+      "primary_citations": [
+        {
+          "title": "Stop Overcorrecting Your Attachment Style (Viewer Interview)",
+          "channel": "HealthyGamerGG",
+          "video_id": "Ads8VOa0qKQ",
+          "timestamp": "18:00 - 30:00"
+        },
+        {
+          "title": "Why Being Confident Feels CRINGE AF",
+          "channel": "JulienHimself",
+          "video_id": "kOauN-_W2FQ",
+          "timestamp": "08:30 - 22:15"
+        }
+      ]
+    },
+    {
+      "crisis_id": "CRISIS-05",
+      "title": "Chronic People-Pleasing & Inability to Say 'No' Without Paralyzing Terror",
+      "symptom_node": "S05_PEOPLE_PLEASING_FAWNING",
+      "underlying_mechanisms": [
+        "M01_DOUBLE_BIND_TRAP",
+        "M03_COVERT_NARCISSISM_FOG"
+      ],
+      "prerequisite_primitive": "P04_AUTONOMY_AWARENESS",
+      "clinical_diagnosis": "Fawn trauma response where interpersonal boundary defense was historically punished, creating a compulsive reflex to sacrifice self-sovereignty for provisional social safety.",
+      "triangulated_protocol": [
+        {
+          "step": 1,
+          "phase": "Insert a Time Buffer",
+          "authority": "TheraminTrees",
+          "action": "Never agree to a request in real time. Default to the standard buffer response: 'Let me check my calendar and get back to you.' This severs the automatic fawning reflex."
+        },
+        {
+          "step": 2,
+          "phase": "Declarative Refusal Without Apology",
+          "authority": "TheraminTrees",
+          "action": "State your refusal in clean declarative English: 'I am unable to take that on.' Do not append apologies, fake excuses, or long justifications that invite pushback."
+        },
+        {
+          "step": 3,
+          "phase": "Endure the Disapproval Shockwave",
+          "authority": "JulienHimself",
+          "action": "When the other person displays irritation or coldness, sit with the somatic dread in your solar plexus. Realize that their displeasure will not kill you; you are an adult, not a helpless child."
+        }
+      ],
+      "anti_patterns_to_avoid": [
+        "Inventing elaborate lies about illnesses or scheduling conflicts to justify a simple refusal.",
+        "Compensating for a refusal by offering twice as much help in another area."
+      ],
+      "gap_warning": "Distinguishes between benevolent generosity and fear-driven fawning. Generosity is given freely; fawning is coerced by terror.",
+      "primary_citations": [
+        {
+          "title": "bowing to narcissists | appeasement & institutional enabling",
+          "channel": "TheraminTrees",
+          "video_id": "qjZ3f-IXEXU",
+          "timestamp": "05:15 - 19:30"
+        },
+        {
+          "title": "resisting emotional blackmail | boundaries against fog",
+          "channel": "TheraminTrees",
+          "video_id": "PEexQAkhFpM",
+          "timestamp": "12:00 - 26:00"
+        }
+      ]
+    },
+    {
+      "crisis_id": "CRISIS-06",
+      "title": "Chronic Brain Fog, Apathy, and Numbness from Digital Overstimulation",
+      "symptom_node": "S06_EXISTENTIAL_ANHEDONIA",
+      "underlying_mechanisms": [
+        "M02_SAMSKARA_IMPRINTING",
+        "M05_DOPAMINE_EXHAUSTION_LOOP"
+      ],
+      "prerequisite_primitive": "P03_DOPAMINE_HOMEOSTASIS",
+      "clinical_diagnosis": "Hypo-dopaminergic state resulting from chronic high-stimulation inputs (short-form video, hyper-palatable media, gaming) suppressing natural curiosity and effort drive.",
+      "triangulated_protocol": [
+        {
+          "step": 1,
+          "phase": "24-Hour Digital Sensory Fast",
+          "authority": "HealthyGamerGG",
+          "action": "Eliminate all screens, headphones, music, podcasts, and artificial stimulation for 24 hours. The rule is simple: you may sit, stare at a wall, walk, eat plain food, or write with pen and paper."
+        },
+        {
+          "step": 2,
+          "phase": "Welcome the Boredom Sensation",
+          "authority": "HealthyGamerGG & JulienHimself",
+          "action": "Recognize that acute restlessness and boredom are the literal physical sensations of your dopamine receptors up-regulating. Do not escape the boredom; embrace it as medicine."
+        },
+        {
+          "step": 3,
+          "phase": "Gradual Re-entry with Friction",
+          "authority": "HealthyGamerGG",
+          "action": "Reintroduce digital tools with strict physical barriers (app blockers, phones kept outside the bedroom, greyscale mode enabled)."
+        }
+      ],
+      "anti_patterns_to_avoid": [
+        "Attempting a 'cheat hour' during the dopamine fast.",
+        "Using passive audio (podcasts, background noise) to mask internal stillness."
+      ],
+      "gap_warning": "Assumes neurotypical or ADHD baseline. Not a substitute for clinical psychiatric treatment of major depressive episodes.",
+      "primary_citations": [
+        {
+          "title": "Lindsay Clancy Trial Breakdown by Expert Psychiatrist (Dr.K)",
+          "channel": "HealthyGamerGG",
+          "video_id": "joAreHuo1pQ",
+          "timestamp": "32:00 - 48:30"
+        },
+        {
+          "title": "The Magic Of Letting Go (A Step-By-Step Guide)",
+          "channel": "JulienHimself",
+          "video_id": "IiwvvV_xB-4",
+          "timestamp": "04:00 - 18:00"
+        }
+      ]
+    }
+  ]
+}

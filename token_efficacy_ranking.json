@@ -1,0 +1,3712 @@
+[
+  {
+    "name": "freeCodeCamp.org",
+    "handle": "@freecodecamp",
+    "category": "Software & Tech Engineering",
+    "verbal_score": 95,
+    "utility_score": 98,
+    "unhydrated_count": 40,
+    "total_duration_hours": 25.87500000000003,
+    "sample_titles": [
+      "Reviewing Your Website Designs Live - with Gary Simon",
+      "Reviewing Your Website Designs Live - with Gary Simon",
+      "Reviewing Your Website Designs Live - with Gary Simon"
+    ],
+    "est_words": 221231,
+    "rot_index": 97.2
+  },
+  {
+    "name": "ThePrimeagen",
+    "handle": "@ThePrimeagen",
+    "category": "Software & Tech Engineering",
+    "verbal_score": 95,
+    "utility_score": 98,
+    "unhydrated_count": 17,
+    "total_duration_hours": 10.149999999999999,
+    "sample_titles": [
+      "Layout is harder than you think..",
+      "the worst man in tech",
+      "I Went To DEFCON!"
+    ],
+    "est_words": 86782,
+    "rot_index": 94.2
+  },
+  {
+    "name": "Alex Hormozi",
+    "handle": "",
+    "category": "Mindset, Business & Psychology",
+    "verbal_score": 90,
+    "utility_score": 92,
+    "unhydrated_count": 27,
+    "total_duration_hours": 0.9994444444444444,
+    "sample_titles": [
+      "You're Playing $10 Blackjack as a Millionaire",
+      "\"I Quit My Job But Don't Know What Business to Start\"",
+      "To Argue Against Private Equity Is to Argue Against Capitalism"
+    ],
+    "est_words": 8095,
+    "rot_index": 92.8
+  },
+  {
+    "name": "Hacking and Cyber Security Club at Iowa State",
+    "handle": "@hackingandcybersecurityclub",
+    "category": "Software & Tech Engineering",
+    "verbal_score": 95,
+    "utility_score": 98,
+    "unhydrated_count": 15,
+    "total_duration_hours": 10.086666666666664,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Showing the Dangers of USB (by stealing discord creds with rubber duckies)",
+      "The Inside Scoop at TMCs Internship Process | Iowa State University Cyber History Quiz"
+    ],
+    "est_words": 86240,
+    "rot_index": 92.2
+  },
+  {
+    "name": "Veritasium",
+    "handle": "@veritasium",
+    "category": "Science, Math & Philosophy",
+    "verbal_score": 92,
+    "utility_score": 95,
+    "unhydrated_count": 16,
+    "total_duration_hours": 7.453333333333334,
+    "sample_titles": [
+      "Physics",
+      "Math",
+      "Engineering"
+    ],
+    "est_words": 61713,
+    "rot_index": 90.8
+  },
+  {
+    "name": "Web Dev Simplified",
+    "handle": "@WebDevSimplified",
+    "category": "Software & Tech Engineering",
+    "verbal_score": 95,
+    "utility_score": 98,
+    "unhydrated_count": 11,
+    "total_duration_hours": 5.568333333333335,
+    "sample_titles": [
+      "Want to join this channel?",
+      "3 Must Use TSConfig Features",
+      "New CSS corner-shape Property Is Amazing"
+    ],
+    "est_words": 47609,
+    "rot_index": 88.2
+  },
+  {
+    "name": "CodeParade",
+    "handle": "@CodeParade",
+    "category": "Software & Tech Engineering",
+    "verbal_score": 95,
+    "utility_score": 98,
+    "unhydrated_count": 10,
+    "total_duration_hours": 6.106666666666666,
+    "sample_titles": [
+      "4D Golf is LIVE!",
+      "Making Models in 4 Dimensions - 4D Golf Devlog #6",
+      "Hyperbolica VR Updates and Beyond!"
+    ],
+    "est_words": 52211,
+    "rot_index": 87.2
+  },
+  {
+    "name": "Seytonic",
+    "handle": "@Seytonic",
+    "category": "Software & Tech Engineering",
+    "verbal_score": 95,
+    "utility_score": 98,
+    "unhydrated_count": 10,
+    "total_duration_hours": 6.661666666666667,
+    "sample_titles": [
+      "$600 Million Warship VS $5 Tracker",
+      "The Dirty Trick Feds Use To Read Deleted Messages",
+      "iPhone Hacking Just Got Scary Easy"
+    ],
+    "est_words": 56957,
+    "rot_index": 87.2
+  },
+  {
+    "name": "The Action Lab",
+    "handle": "@TheActionLab",
+    "category": "Science, Math & Philosophy",
+    "verbal_score": 92,
+    "utility_score": 95,
+    "unhydrated_count": 12,
+    "total_duration_hours": 6.140000000000001,
+    "sample_titles": [
+      "The Action Lab Electricity Experiments",
+      "The Action Lab Does Chemistry",
+      "The Action Lab Magnet Experiments"
+    ],
+    "est_words": 50839,
+    "rot_index": 86.8
+  },
+  {
+    "name": "Derek Banas",
+    "handle": "@derekbanas",
+    "category": "Software & Tech Engineering",
+    "verbal_score": 95,
+    "utility_score": 98,
+    "unhydrated_count": 9,
+    "total_duration_hours": 2.2283333333333335,
+    "sample_titles": [
+      "Learn in One Video",
+      "How to Make Video Games",
+      "Learn to Program"
+    ],
+    "est_words": 19052,
+    "rot_index": 86.2
+  },
+  {
+    "name": "Zsolt's Visual Personal Knowledge Management",
+    "handle": "@VisualPKM",
+    "category": "Science, Math & Philosophy",
+    "verbal_score": 92,
+    "utility_score": 95,
+    "unhydrated_count": 9,
+    "total_duration_hours": 5.01,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "33,304 views",
+      "Book on a Page"
+    ],
+    "est_words": 41482,
+    "rot_index": 83.8
+  },
+  {
+    "name": "Sabine Hossenfelder",
+    "handle": "@SabineHossenfelder",
+    "category": "Science, Math & Philosophy",
+    "verbal_score": 92,
+    "utility_score": 95,
+    "unhydrated_count": 9,
+    "total_duration_hours": 2.0083333333333333,
+    "sample_titles": [
+      "Deep Dives",
+      "Science Explainers",
+      "Physics"
+    ],
+    "est_words": 16629,
+    "rot_index": 83.8
+  },
+  {
+    "name": "Academy of Ideas",
+    "handle": "@academyofideas",
+    "category": "Science, Math & Philosophy",
+    "verbal_score": 92,
+    "utility_score": 95,
+    "unhydrated_count": 8,
+    "total_duration_hours": 2.453333333333333,
+    "sample_titles": [
+      "Introduction to Carl Jung",
+      "The Mass Psychosis",
+      "The Psychology of..."
+    ],
+    "est_words": 20313,
+    "rot_index": 82.8
+  },
+  {
+    "name": "JulienHimself",
+    "handle": "@JulienHimself",
+    "category": "Mindset, Business & Psychology",
+    "verbal_score": 90,
+    "utility_score": 92,
+    "unhydrated_count": 10,
+    "total_duration_hours": 6.506666666666666,
+    "sample_titles": [
+      "How To Get Your Confidence Back (Live Demonstrations)",
+      "The Magic Of Letting Go (A Step-By-Step Guide)",
+      "The Ultimate Guide To Shadow Work"
+    ],
+    "est_words": 52704,
+    "rot_index": 82.8
+  },
+  {
+    "name": "Jeff Nippard",
+    "handle": "@JeffNippard",
+    "category": "Mindset, Business & Psychology",
+    "verbal_score": 90,
+    "utility_score": 92,
+    "unhydrated_count": 9,
+    "total_duration_hours": 4.014999999999999,
+    "sample_titles": [
+      "Subscribe To My Podcast",
+      "Full Body Science Applied Workouts",
+      "Myth Bust Monday"
+    ],
+    "est_words": 32521,
+    "rot_index": 81.8
+  },
+  {
+    "name": "Tim Ferriss",
+    "handle": "@timferriss",
+    "category": "Mindset, Business & Psychology",
+    "verbal_score": 90,
+    "utility_score": 92,
+    "unhydrated_count": 9,
+    "total_duration_hours": 3.213333333333334,
+    "sample_titles": [
+      "The Tim Ferriss Show",
+      "fear{less} with Tim Ferriss",
+      "Acroyoga with Tim Ferriss"
+    ],
+    "est_words": 26028,
+    "rot_index": 81.8
+  },
+  {
+    "name": "Joe Hudson | Art of Accomplishment",
+    "handle": "@ArtofAccomplishment",
+    "category": "Mindset, Business & Psychology",
+    "verbal_score": 90,
+    "utility_score": 92,
+    "unhydrated_count": 8,
+    "total_duration_hours": 2.1483333333333334,
+    "sample_titles": [
+      "Coaching Sessions with Joe",
+      "New To AOA? Start Here",
+      "Choose: I Want To Transform My Relationship To \u00e2\u0086\u0093"
+    ],
+    "est_words": 17401,
+    "rot_index": 80.8
+  },
+  {
+    "name": "Reso Coder",
+    "handle": "@ResoCoder",
+    "category": "Software & Tech Engineering",
+    "verbal_score": 95,
+    "utility_score": 98,
+    "unhydrated_count": 3,
+    "total_duration_hours": 0.8233333333333333,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Learn Dart \u00f0\u009f\u008e\u00af and Flutter \u00f0\u009f\u0090\u00a6",
+      "Posts"
+    ],
+    "est_words": 7039,
+    "rot_index": 80.2
+  },
+  {
+    "name": "Juniper Dev",
+    "handle": "@JuniperDev",
+    "category": "Software & Tech Engineering",
+    "verbal_score": 95,
+    "utility_score": 98,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.5466666666666666,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 13224,
+    "rot_index": 80.2
+  },
+  {
+    "name": "Boot dev",
+    "handle": "@bootdotdev",
+    "category": "Software & Tech Engineering",
+    "verbal_score": 95,
+    "utility_score": 98,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.31,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Featured",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 11200,
+    "rot_index": 80.2
+  },
+  {
+    "name": "NeetCode",
+    "handle": "@NeetCode",
+    "category": "Software & Tech Engineering",
+    "verbal_score": 95,
+    "utility_score": 98,
+    "unhydrated_count": 3,
+    "total_duration_hours": 0.9583333333333333,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Second Channel",
+      "Want to join this channel?"
+    ],
+    "est_words": 8193,
+    "rot_index": 80.2
+  },
+  {
+    "name": "ideal institute aligarh",
+    "handle": "@idealinstitutealigarh",
+    "category": "Science, Math & Philosophy",
+    "verbal_score": 92,
+    "utility_score": 95,
+    "unhydrated_count": 5,
+    "total_duration_hours": 3.115,
+    "sample_titles": [
+      "Our Other Channel",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 25792,
+    "rot_index": 79.8
+  },
+  {
+    "name": "The Sheekey Science Show",
+    "handle": "@TheSheekeyScienceShow",
+    "category": "Science, Math & Philosophy",
+    "verbal_score": 92,
+    "utility_score": 95,
+    "unhydrated_count": 3,
+    "total_duration_hours": 0.7416666666666667,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Shorts",
+      "Posts"
+    ],
+    "est_words": 6141,
+    "rot_index": 77.8
+  },
+  {
+    "name": "FRENCH TIME",
+    "handle": "@FRENCHTIME2023",
+    "category": "Mindset, Business & Psychology",
+    "verbal_score": 90,
+    "utility_score": 92,
+    "unhydrated_count": 4,
+    "total_duration_hours": 2.8499999999999996,
+    "sample_titles": [
+      "BASIC FRENCH (Start here)",
+      "Popular Shorts\u00f0\u009f\u0094\u00a5",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 23084,
+    "rot_index": 76.8
+  },
+  {
+    "name": "The PrimeTime",
+    "handle": "@ThePrimeTimeagen",
+    "category": "Mindset, Business & Psychology",
+    "verbal_score": 90,
+    "utility_score": 92,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.5366666666666666,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 4346,
+    "rot_index": 74.8
+  },
+  {
+    "name": "Joel Haver",
+    "handle": "@Joel-Haver",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 14,
+    "total_duration_hours": 7.476666666666665,
+    "sample_titles": [
+      "How to Navigate an Argument With a Friend",
+      "Keyboard shortcuts",
+      "12 Movies in 12 Months"
+    ],
+    "est_words": 43738,
+    "rot_index": 64.0
+  },
+  {
+    "name": "Maker3DPrint",
+    "handle": "@Maker3DPrint",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 14,
+    "total_duration_hours": 3.5466666666666673,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Posts",
+      "Want to join this channel?"
+    ],
+    "est_words": 20748,
+    "rot_index": 64.0
+  },
+  {
+    "name": "Sokpop Collective",
+    "handle": "@sokpopcollective",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 13,
+    "total_duration_hours": 8.705000000000002,
+    "sample_titles": [
+      "Grail - Release Date Announcement Trailer",
+      "Grail - Demo out now!",
+      "Rat Game - announcement trailer"
+    ],
+    "est_words": 50924,
+    "rot_index": 63.0
+  },
+  {
+    "name": "Michael Reeves",
+    "handle": "@MichaelReeves",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 9,
+    "total_duration_hours": 5.949999999999999,
+    "sample_titles": [
+      "I Built a Dog Catapult",
+      "A Bot that Scams People",
+      "I Built a Car out of Scooters"
+    ],
+    "est_words": 34807,
+    "rot_index": 59.0
+  },
+  {
+    "name": "h3h3Productions",
+    "handle": "@h3h3productions",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 9,
+    "total_duration_hours": 4.303333333333333,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Collabs",
+      "Watch our Classics! (h3h3 Reaction Videos)"
+    ],
+    "est_words": 25174,
+    "rot_index": 59.0
+  },
+  {
+    "name": "Luke Smith",
+    "handle": "@LukeSmithxyz",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 9,
+    "total_duration_hours": 2.4033333333333333,
+    "sample_titles": [
+      "Not Related! The Biggest-Braned Podcast",
+      "Uncle Ted Talks",
+      "dwm: suckless's Window Manager"
+    ],
+    "est_words": 14059,
+    "rot_index": 59.0
+  },
+  {
+    "name": "Casey Simpson",
+    "handle": "@caseysimpsonchannel",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 8,
+    "total_duration_hours": 3.5733333333333337,
+    "sample_titles": [
+      "Popular Videos | Casey Simpson",
+      "My favorite videos! | Casey Simpson",
+      "Comedy Videos | Casey Simpson"
+    ],
+    "est_words": 20904,
+    "rot_index": 58.0
+  },
+  {
+    "name": "nobonoko",
+    "handle": "@nobonokomusic",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 8,
+    "total_duration_hours": 2.8583333333333334,
+    "sample_titles": [
+      "Releases",
+      "nobo-like sound",
+      "tv?"
+    ],
+    "est_words": 16721,
+    "rot_index": 58.0
+  },
+  {
+    "name": "Newel of Knowledge",
+    "handle": "@NewelOfKnowledge",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 8,
+    "total_duration_hours": 1.8766666666666667,
+    "sample_titles": [
+      "Break the Cycle",
+      "Flourish",
+      "How to Talk to Anyone"
+    ],
+    "est_words": 10978,
+    "rot_index": 58.0
+  },
+  {
+    "name": "Leila Hormozi",
+    "handle": "@leilahormozi",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 7,
+    "total_duration_hours": 2.4533333333333336,
+    "sample_titles": [
+      "Build with Leila Hormozi",
+      "Improve Your Life",
+      "Channels"
+    ],
+    "est_words": 14352,
+    "rot_index": 57.0
+  },
+  {
+    "name": "Game Maker's Toolkit",
+    "handle": "@GMTK",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 7,
+    "total_duration_hours": 4.655,
+    "sample_titles": [
+      "Word Play is now available on iOS!",
+      "I've waited my whole life for this",
+      "Let's Play Word Play!"
+    ],
+    "est_words": 27231,
+    "rot_index": 57.0
+  },
+  {
+    "name": "exurb1a",
+    "handle": "@Exurb1a",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 7,
+    "total_duration_hours": 3.8033333333333337,
+    "sample_titles": [
+      "8,636,691 views",
+      "Crappy Philosophy",
+      "Favourite Movies"
+    ],
+    "est_words": 22249,
+    "rot_index": 57.0
+  },
+  {
+    "name": "Mark Manson",
+    "handle": "@IAmMarkManson",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 7,
+    "total_duration_hours": 4.06,
+    "sample_titles": [
+      "How to Get Lucky, Solved",
+      "Brutally Honest Relationship Advice",
+      "Solved Podcast Episodes"
+    ],
+    "est_words": 23750,
+    "rot_index": 57.0
+  },
+  {
+    "name": "Daft Punk",
+    "handle": "@daftpunk",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 7,
+    "total_duration_hours": 3.353333333333333,
+    "sample_titles": [
+      "Daft Punk - Random Access Memories (10th Anniversary Edition)",
+      "Daft Punk - Human after all (Official Videos)",
+      "Daft Punk - Discovery (Official Videos)"
+    ],
+    "est_words": 19617,
+    "rot_index": 57.0
+  },
+  {
+    "name": "Jubilee",
+    "handle": "@jubilee",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 7,
+    "total_duration_hours": 2.5183333333333335,
+    "sample_titles": [
+      "Odd One Out | Jubilee",
+      "New Videos | Jubilee",
+      "Our Sister Channel: nectar"
+    ],
+    "est_words": 14732,
+    "rot_index": 57.0
+  },
+  {
+    "name": "convar HUN",
+    "handle": "@convarHUN",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 6,
+    "total_duration_hours": 4.456666666666666,
+    "sample_titles": [
+      "Madonna - Hung Up (instrumental version)  [HQ AUDIO]",
+      "My uploads, the ones I've worked on the most - and therefore the ones I'm most proud of :)",
+      "My uploads - Film/series videos"
+    ],
+    "est_words": 26071,
+    "rot_index": 56.0
+  },
+  {
+    "name": "Podel",
+    "handle": "@Podel",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 6,
+    "total_duration_hours": 1.8366666666666667,
+    "sample_titles": [
+      "My Music",
+      "Podel Livestream Archive",
+      "My other channels"
+    ],
+    "est_words": 10744,
+    "rot_index": 56.0
+  },
+  {
+    "name": "PewDiePie",
+    "handle": "@PewDiePie",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 6,
+    "total_duration_hours": 1.0616666666666668,
+    "sample_titles": [
+      "The Classics",
+      "Pewdiepie Highlights/Shorts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 6210,
+    "rot_index": 56.0
+  },
+  {
+    "name": "Goobie and Doobie",
+    "handle": "@GoobieAndDoobie",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 6,
+    "total_duration_hours": 3.65,
+    "sample_titles": [
+      "How To Not Go Extinct",
+      "Magic And Consciousness",
+      "Goobie Plays Music"
+    ],
+    "est_words": 21352,
+    "rot_index": 56.0
+  },
+  {
+    "name": "Chris Williamson",
+    "handle": "@ChrisWillx",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 6,
+    "total_duration_hours": 3.37,
+    "sample_titles": [
+      "START HERE",
+      "Modern Wisdom Cinema Episodes",
+      "Modern Wisdom Podcast Clips"
+    ],
+    "est_words": 19714,
+    "rot_index": 56.0
+  },
+  {
+    "name": "Steve Mould",
+    "handle": "@SteveMould",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 6,
+    "total_duration_hours": 3.0599999999999996,
+    "sample_titles": [
+      "Playlists",
+      "Everything in chronological order",
+      "Shorts"
+    ],
+    "est_words": 17901,
+    "rot_index": 56.0
+  },
+  {
+    "name": "FluentU French",
+    "handle": "@FluentUFrench",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 6,
+    "total_duration_hours": 4.4799999999999995,
+    "sample_titles": [
+      "Deep Dives in French",
+      "French Audio Practice",
+      "French Grammar Basics"
+    ],
+    "est_words": 26207,
+    "rot_index": 56.0
+  },
+  {
+    "name": "Nic Barker",
+    "handle": "@nicbarkeragain",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 5,
+    "total_duration_hours": 3.85,
+    "sample_titles": [
+      "A New Programming Fundamentals Course",
+      "What Really Caused The Y2K Bug?",
+      "The Logarithmic Brain & The Rarity Paradox"
+    ],
+    "est_words": 22522,
+    "rot_index": 55.0
+  },
+  {
+    "name": "Jonathan Blow highlights",
+    "handle": "@JBH-p5b",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 5,
+    "total_duration_hours": 3.7866666666666666,
+    "sample_titles": [
+      "Jonathan Blow on the plight of the PC developer",
+      "Jonathan Blow on how you can help his game succeed",
+      "Jonathan Blow on what ten years on one game actually costs"
+    ],
+    "est_words": 22152,
+    "rot_index": 55.0
+  },
+  {
+    "name": "SmarterEveryDay",
+    "handle": "@smartereveryday",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 5,
+    "total_duration_hours": 2.7416666666666663,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "20,923,425 views"
+    ],
+    "est_words": 16038,
+    "rot_index": 55.0
+  },
+  {
+    "name": "CaptiveAire",
+    "handle": "@CAPTIVEAIRE",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 5,
+    "total_duration_hours": 1.893333333333333,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Professional Development Hour",
+      "CASService Instructional Series"
+    ],
+    "est_words": 11075,
+    "rot_index": 55.0
+  },
+  {
+    "name": "LaurieWired",
+    "handle": "@lauriewired",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 5,
+    "total_duration_hours": 1.4850000000000003,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Practical ARM Assembly Tutorial Series",
+      "Shorts"
+    ],
+    "est_words": 8687,
+    "rot_index": 55.0
+  },
+  {
+    "name": "hoff._world",
+    "handle": "@hoff._world",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 5,
+    "total_duration_hours": 3.558333333333333,
+    "sample_titles": [
+      "Embedded Systems",
+      "Scootin' the Tubes",
+      "Posts"
+    ],
+    "est_words": 20816,
+    "rot_index": 55.0
+  },
+  {
+    "name": "Branch Education",
+    "handle": "@BranchEducation",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 5,
+    "total_duration_hours": 0.8933333333333333,
+    "sample_titles": [
+      "Other Amazing Channels:",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 5226,
+    "rot_index": 55.0
+  },
+  {
+    "name": "thubprint",
+    "handle": "@thubprint",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 5,
+    "total_duration_hours": 3.3000000000000003,
+    "sample_titles": [
+      "Processing Scrap Metal and Cashing Out - Scrapping Company Videos",
+      "Season 2 - Dumpster Diving for Scrap Metal and Street Scrapping!",
+      "Other Fun Things!"
+    ],
+    "est_words": 19305,
+    "rot_index": 55.0
+  },
+  {
+    "name": "NileBlue",
+    "handle": "@NileBlue",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 5,
+    "total_duration_hours": 3.2750000000000004,
+    "sample_titles": [
+      "NileRed Extra",
+      "Popular Shorts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 19158,
+    "rot_index": 55.0
+  },
+  {
+    "name": "changeofcolours",
+    "handle": "@changeofcolours",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 5,
+    "total_duration_hours": 1.5266666666666664,
+    "sample_titles": [
+      "Sound Journeys",
+      "Keyboard shortcuts",
+      "102,888 views"
+    ],
+    "est_words": 8930,
+    "rot_index": 55.0
+  },
+  {
+    "name": "fosterthepeopleVEVO",
+    "handle": "@fosterthepeopleVEVO",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 5,
+    "total_duration_hours": 1.485,
+    "sample_titles": [
+      "fosterthepeople - Live",
+      "Best of Foster The People",
+      "Featured Channels"
+    ],
+    "est_words": 8687,
+    "rot_index": 55.0
+  },
+  {
+    "name": "Settled",
+    "handle": "@Settledrs",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 5,
+    "total_duration_hours": 2.35,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Posts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 13747,
+    "rot_index": 55.0
+  },
+  {
+    "name": "Bryan Johnson",
+    "handle": "@BryanJohnson",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 4,
+    "total_duration_hours": 3.15,
+    "sample_titles": [
+      "I have some bad news...",
+      "I Did Mushrooms for Science, Pt. 1",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 18427,
+    "rot_index": 54.0
+  },
+  {
+    "name": "Techquickie",
+    "handle": "@techquickie",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 4,
+    "total_duration_hours": 2.4816666666666665,
+    "sample_titles": [
+      "502,663 views",
+      "Avoiding Common PC Building Traps",
+      "As Fast As Possible"
+    ],
+    "est_words": 14517,
+    "rot_index": 54.0
+  },
+  {
+    "name": "mayuko",
+    "handle": "@hellomayuko",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 4,
+    "total_duration_hours": 2.3733333333333335,
+    "sample_titles": [
+      "\u00f0\u009f\u0093\u0088 career \u00f0\u009f\u0093\u0088",
+      "\u00f0\u009f\u0096\u00a5 tech \u00f0\u009f\u0096\u00a5",
+      "\u00f0\u009f\u009b tools \u00f0\u009f\u009b"
+    ],
+    "est_words": 13884,
+    "rot_index": 54.0
+  },
+  {
+    "name": "Fireship",
+    "handle": "@Fireship",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 4,
+    "total_duration_hours": 2.316666666666667,
+    "sample_titles": [
+      "DeepSeek is back... and Silicon Valley is terrified",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 13552,
+    "rot_index": 54.0
+  },
+  {
+    "name": "Doug's Dharma",
+    "handle": "@DougsDharma",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 4,
+    "total_duration_hours": 1.8133333333333332,
+    "sample_titles": [
+      "Playlists",
+      "Self and Non-self in Buddhism",
+      "Recommended Channels"
+    ],
+    "est_words": 10608,
+    "rot_index": 54.0
+  },
+  {
+    "name": "ApprenticeDiary",
+    "handle": "@ApprenticeDiary",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 4,
+    "total_duration_hours": 2.7066666666666666,
+    "sample_titles": [
+      "Software Engineer",
+      "Academia",
+      "Lifestyle"
+    ],
+    "est_words": 15834,
+    "rot_index": 54.0
+  },
+  {
+    "name": "gesus8",
+    "handle": "@gesus8",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 4,
+    "total_duration_hours": 2.45,
+    "sample_titles": [
+      "sunny morning house mixes",
+      "\u00e2 \u0080",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 14332,
+    "rot_index": 54.0
+  },
+  {
+    "name": "Lex Fridman",
+    "handle": "@lexfridman",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 4,
+    "total_duration_hours": 2.2666666666666666,
+    "sample_titles": [
+      "Technical and Philosophical Videos",
+      "Select Lectures",
+      "Featured Channels"
+    ],
+    "est_words": 13260,
+    "rot_index": 54.0
+  },
+  {
+    "name": "Ziwe",
+    "handle": "@ziwe",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 4,
+    "total_duration_hours": 2.256666666666667,
+    "sample_titles": [
+      "Generation Ziwe Songs",
+      "Caroline Calloway IG Live",
+      "LAW ROACH IS AN ICONIC GUEST | ZIWE INTERVIEW"
+    ],
+    "est_words": 13201,
+    "rot_index": 54.0
+  },
+  {
+    "name": "WIRED",
+    "handle": "@WIRED",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 4,
+    "total_duration_hours": 1.7916666666666665,
+    "sample_titles": [
+      "WIRED Investigations",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 10481,
+    "rot_index": 54.0
+  },
+  {
+    "name": "Well Done Tips",
+    "handle": "@welldonetips",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 4,
+    "total_duration_hours": 1.8,
+    "sample_titles": [
+      "Automotive: cars, repairs, mods and upgrades",
+      "My inspiration",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 10530,
+    "rot_index": 54.0
+  },
+  {
+    "name": "Pottery to the People",
+    "handle": "@PotterytothePeople",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 4,
+    "total_duration_hours": 1.0433333333333334,
+    "sample_titles": [
+      "My Pottery Template Channel \u00f0\u009f\u008d\u00b6",
+      "Keyboard shortcuts",
+      "My Pottery Template Channel \ud83c\udf76"
+    ],
+    "est_words": 6103,
+    "rot_index": 54.0
+  },
+  {
+    "name": "Butterfly Spanish",
+    "handle": "@ButterflySpanish",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 4,
+    "total_duration_hours": 2.42,
+    "sample_titles": [
+      "THE SPANISH ALPHABET - letters and their sounds - a, e, i, o, u el burro sabe m\u00c3\u00a1s que t\u00c3\u00ba.",
+      "Spanish Grammar",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 14157,
+    "rot_index": 54.0
+  },
+  {
+    "name": "innerFrench",
+    "handle": "@innerFrench",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 4,
+    "total_duration_hours": 0.7783333333333333,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "InnerFrench Podcast",
+      "Villes fran\u00c3\u00a7aises"
+    ],
+    "est_words": 4553,
+    "rot_index": 54.0
+  },
+  {
+    "name": "Le Monde",
+    "handle": "@lemondefr",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 2.625,
+    "sample_titles": [
+      "Hongrie\u00a0: un accident de car fait au moins 12\u00a0morts et 10\u00a0bless\u00e9s",
+      "Venezuela : le gouvernement lib\u00e8re 131 prisonniers politiques",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 15356,
+    "rot_index": 53.0
+  },
+  {
+    "name": "LiveOverflow",
+    "handle": "@LiveOverflow",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 0.69,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 4036,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Odysseas",
+    "handle": "@odysseas__",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.735,
+    "sample_titles": [
+      "How Polymaths Win in the Information Age.",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 10149,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Let's Get Rusty",
+    "handle": "@letsgetrusty",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.4733333333333334,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Posts"
+    ],
+    "est_words": 8619,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Medical Secrets",
+    "handle": "@MedicalSecrets",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.525,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 8921,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Brackeys",
+    "handle": "@Brackeys",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.4183333333333334,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 8297,
+    "rot_index": 53.0
+  },
+  {
+    "name": "3Blue1Brown",
+    "handle": "@3blue1brown",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.4300000000000002,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 8365,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Jabrils",
+    "handle": "@Jabrils",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.4083333333333332,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 8238,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Fred again . .",
+    "handle": "@Fredagainagain",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 0.645,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 3773,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Nick White",
+    "handle": "@NickWhite",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.4166666666666665,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 8287,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Macroblank",
+    "handle": "@Macroblank",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.0716666666666668,
+    "sample_titles": [
+      "Featured",
+      "Keyboard shortcuts",
+      "Posts"
+    ],
+    "est_words": 6269,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Sebastian Lague",
+    "handle": "@SebastianLague",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 0.89,
+    "sample_titles": [
+      "Playlists",
+      "Keyboard shortcuts",
+      "Posts"
+    ],
+    "est_words": 5206,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Ben Eater",
+    "handle": "@BenEater",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 2.02,
+    "sample_titles": [
+      "Build a 65c02-based computer from scratch",
+      "Building an 8-bit breadboard computer!",
+      "Networking tutorial"
+    ],
+    "est_words": 11817,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Shameless Nerd",
+    "handle": "@shamelessnerd",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.52,
+    "sample_titles": [
+      "My Favorite Videos",
+      "Learnin'",
+      "Want to join this channel?"
+    ],
+    "est_words": 8892,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Cleo Abram",
+    "handle": "@CleoAbram",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 0.9283333333333332,
+    "sample_titles": [
+      "HUGE* If True",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 5430,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Dreamteck",
+    "handle": "@dreamteckstudio",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.2816666666666667,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 7497,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Luke's Goldies",
+    "handle": "@lukesgoldies",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.0883333333333334,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 6366,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Rahul Pandey",
+    "handle": "@RahulPandeyrkp",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.05,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 6142,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Blackthornprod",
+    "handle": "@Blackthornprod",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.0366666666666666,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 6064,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Jason Orlosky",
+    "handle": "@jeoresearch",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 0.9850000000000001,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 5762,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Jamstack TV",
+    "handle": "@JamstackConf",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 0.9466666666666665,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 5537,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Gaurav Sen",
+    "handle": "@gkcs",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 0.88,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 5148,
+    "rot_index": 53.0
+  },
+  {
+    "name": "CHVRCHES",
+    "handle": "@CHVRCHES",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 0.855,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 5001,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Tottomori",
+    "handle": "@tottomori",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.9216666666666664,
+    "sample_titles": [
+      "Memory of Paper Hands on Dictaphone",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 11241,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Linus Tech Tips",
+    "handle": "@LinusTechTips",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.185,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 6932,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Mina Le",
+    "handle": "@gremlita",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 0.6766666666666667,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Posts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 3958,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Beard Meets Calculus",
+    "handle": "@BeardMeetsCalculus",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 0.56,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "11,733 views"
+    ],
+    "est_words": 3276,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Cody'sLab",
+    "handle": "@theCodyReeder",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.8766666666666667,
+    "sample_titles": [
+      "Shorts",
+      "Posts",
+      "Want to join this channel?"
+    ],
+    "est_words": 10978,
+    "rot_index": 53.0
+  },
+  {
+    "name": "French With Panache",
+    "handle": "@FrenchWithPanache",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.58,
+    "sample_titles": [
+      "43,426 views",
+      "169",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 9243,
+    "rot_index": 53.0
+  },
+  {
+    "name": "MaderVideosProductions.",
+    "handle": "@madervideosproductions.2525",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.5283333333333333,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 8940,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Five By Nine",
+    "handle": "@fivebynine",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.6216666666666666,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Want to subscribe to this channel?",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 9486,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Geck",
+    "handle": "@lyleforever",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.6033333333333333,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 9379,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Level1Techs",
+    "handle": "@Level1Techs",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.4933333333333332,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 8736,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Hardware Haven",
+    "handle": "@HardwareHaven",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.5816666666666666,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 9252,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Ryan Robinson",
+    "handle": "@robinson_ryan",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.5016666666666667,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 8784,
+    "rot_index": 53.0
+  },
+  {
+    "name": "diinki",
+    "handle": "@diinkikot",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.5033333333333332,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 8794,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Dr Jared Jones",
+    "handle": "@drjaredjones",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.3966666666666667,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 8170,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Magdalena Bay",
+    "handle": "@MagdalenaBay",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.4083333333333332,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 8238,
+    "rot_index": 53.0
+  },
+  {
+    "name": "penguinz0",
+    "handle": "@penguinz0",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.36,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 7956,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Watch Geek",
+    "handle": "@WatchGeek",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.4383333333333332,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Posts",
+      "Want to join this channel?"
+    ],
+    "est_words": 8414,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Plants in Jars",
+    "handle": "@plantsinjars",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.3699999999999999,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 8014,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Tech Ingredients",
+    "handle": "@TechIngredients",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.3366666666666667,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 7819,
+    "rot_index": 53.0
+  },
+  {
+    "name": "ParkNotes",
+    "handle": "@ParkerNotes",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.1333333333333333,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 6630,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Alex O'Connor",
+    "handle": "@CosmicSkeptic",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.1166666666666667,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 6532,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Sisyphus 55",
+    "handle": "@Sisyphus55",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.1933333333333334,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 6981,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Low Level",
+    "handle": "@LowLevelTV",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.1766666666666667,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Watch These Too!",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 6883,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Podel IRL",
+    "handle": "@podel-irl",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.1766666666666667,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 6883,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Zippo Fanatic 77 Outdoors",
+    "handle": "@Zippofanatic77outdoors",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.065,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 6230,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Nicky Reardon",
+    "handle": "@nicky.reardon",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.1733333333333333,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Posts",
+      "Want to join this channel?"
+    ],
+    "est_words": 6864,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Joey Does Tech",
+    "handle": "@JoeyDoesTech",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.1099999999999999,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 6493,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Heidi Priebe",
+    "handle": "@heidipriebe1",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.1283333333333334,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Want to subscribe to this channel?"
+    ],
+    "est_words": 6600,
+    "rot_index": 53.0
+  },
+  {
+    "name": "How to ADHD",
+    "handle": "@HowtoADHD",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.0716666666666668,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 6269,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Poor miners",
+    "handle": "@PoorMiners321",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.0416666666666667,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Shorts",
+      "Posts"
+    ],
+    "est_words": 6093,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Big Think",
+    "handle": "@bigthink",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 0.9550000000000001,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 5586,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Build Core",
+    "handle": "@BuildCore",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 0.86,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Posts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 5031,
+    "rot_index": 53.0
+  },
+  {
+    "name": "KEXP",
+    "handle": "@kexp",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 0.9183333333333332,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 5372,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Morley Kert",
+    "handle": "@MorleyKert",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 0.8666666666666667,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 5070,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Asian Dad Energy",
+    "handle": "@AsianDadEnergy",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 0.8449999999999999,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 4943,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Patrick Teahan",
+    "handle": "@patrickteahanofficial",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 0.8033333333333333,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 4699,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Taylor Swift",
+    "handle": "@TaylorSwift",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 0.7766666666666666,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 4543,
+    "rot_index": 53.0
+  },
+  {
+    "name": "Data Slayer",
+    "handle": "@DataSlayerMedia",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 3,
+    "total_duration_hours": 0.7416666666666667,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 4338,
+    "rot_index": 53.0
+  },
+  {
+    "name": "/noclip",
+    "handle": "@NoclipDocs",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.6033333333333335,
+    "sample_titles": [
+      "The Canon of Balls, The Dream Of A Cockspur, Cult of Pin - noclip_2cast 294",
+      "Want to join this channel?"
+    ],
+    "est_words": 9379,
+    "rot_index": 52.0
+  },
+  {
+    "name": "i2c_jason",
+    "handle": "@i2c_jason",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.2366666666666668,
+    "sample_titles": [
+      "Promptly3D.ai - Parametric Component Parts from Prompts!",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 7234,
+    "rot_index": 52.0
+  },
+  {
+    "name": "mitxela",
+    "handle": "@mitxela",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.1816666666666666,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 6912,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Fredrik Christenson",
+    "handle": "@FredrikChristenson",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.2,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Want to subscribe to this channel?"
+    ],
+    "est_words": 7020,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Accepting the Universe",
+    "handle": "@acceptingtheuniverse",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.2,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 7020,
+    "rot_index": 52.0
+  },
+  {
+    "name": "WheezyWaiter",
+    "handle": "@wheezywaiter",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.1333333333333333,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 6630,
+    "rot_index": 52.0
+  },
+  {
+    "name": "LIKA",
+    "handle": "@likainmusic",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.1233333333333335,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Posts"
+    ],
+    "est_words": 6571,
+    "rot_index": 52.0
+  },
+  {
+    "name": "The Pragmatic Engineer",
+    "handle": "@pragmaticengineer",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.13,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 6610,
+    "rot_index": 52.0
+  },
+  {
+    "name": "JetBrains Academy",
+    "handle": "@JetBrainsAcademy",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.975,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 5703,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Current Concept",
+    "handle": "@currentconcept",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.0983333333333332,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 6425,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Kalaido",
+    "handle": "@kalaidomusic",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.9166666666666667,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Featured"
+    ],
+    "est_words": 5362,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Extra History",
+    "handle": "@extrahistory",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.12,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 6552,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Ben Awad",
+    "handle": "@bawad",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.0333333333333332,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 6044,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Nneka Julia",
+    "handle": "@nnekaj",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.5266666666666666,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Want to subscribe to this channel?"
+    ],
+    "est_words": 8931,
+    "rot_index": 52.0
+  },
+  {
+    "name": "typecraft",
+    "handle": "@typecraft_dev",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.5783333333333334,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 3383,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Light Resonance",
+    "handle": "@LightResonance",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.5833333333333334,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 3412,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Louis Pilfold",
+    "handle": "@lpil",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.5133333333333333,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 3003,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Ryan Peterman",
+    "handle": "@RyanLPeterman",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.4933333333333332,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 8736,
+    "rot_index": 52.0
+  },
+  {
+    "name": "The Interview",
+    "handle": "@theinterviewpodcast",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.99,
+    "sample_titles": [
+      "The Interview | A Podcast From The New York Times",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 5791,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Hussein",
+    "handle": "@hnasr3",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.5866666666666667,
+    "sample_titles": [
+      "Main Channel",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 3432,
+    "rot_index": 52.0
+  },
+  {
+    "name": "En Qu\u00eate de Mots",
+    "handle": "@enquetedemots",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.92,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Want to subscribe to this channel?"
+    ],
+    "est_words": 5382,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Jamie's Brick Jams",
+    "handle": "@JamiesBrickJams",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.9083333333333333,
+    "sample_titles": [
+      "Want to join this channel?",
+      "251"
+    ],
+    "est_words": 5313,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Some More News",
+    "handle": "@SMN",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.45,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 8482,
+    "rot_index": 52.0
+  },
+  {
+    "name": "upir",
+    "handle": "@upir_upir",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.74,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Posts"
+    ],
+    "est_words": 4329,
+    "rot_index": 52.0
+  },
+  {
+    "name": "TheraminTrees",
+    "handle": "@TheraminTrees",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.6833333333333333,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "86,269 views"
+    ],
+    "est_words": 3997,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Mychael T Renn",
+    "handle": "@Renndontcare",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.4,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 8190,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Ahoy",
+    "handle": "@XboxAhoy",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.6266666666666667,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Posts"
+    ],
+    "est_words": 3666,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Talk in French",
+    "handle": "@talkinfrench",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.4,
+    "sample_titles": [
+      "Posts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 8190,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Primal Space",
+    "handle": "@primalspace",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.4033333333333333,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 2359,
+    "rot_index": 52.0
+  },
+  {
+    "name": "EmGi",
+    "handle": "@EmGi_",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.4166666666666667,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 2437,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Easy French",
+    "handle": "@EasyFrench",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.3933333333333333,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 8151,
+    "rot_index": 52.0
+  },
+  {
+    "name": "ForrestKnight",
+    "handle": "@fknight",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.3766666666666667,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 2203,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Anton Petrov",
+    "handle": "@whatdamath",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.2466666666666668,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 7293,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Nehal channeling",
+    "handle": "@Nehalchanneling",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.3033333333333335,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 7624,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Eric Weinstein",
+    "handle": "@EricWeinsteinPhD",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.24,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 7254,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Jeff Geerling",
+    "handle": "@JeffGeerling",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.1233333333333335,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 6571,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Josh Johnson",
+    "handle": "@JoshJohnsonComedy",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.1716666666666666,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 6854,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Brooke Cormier",
+    "handle": "@b.cormier",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.1266666666666665,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 6591,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Soft White Underbelly",
+    "handle": "@SoftWhiteUnderbelly",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.1466666666666667,
+    "sample_titles": [
+      "5,245,011 views",
+      "SWU en Espanol"
+    ],
+    "est_words": 6708,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Philosophy Tube",
+    "handle": "@PhilosophyTube",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.0366666666666666,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 6064,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Corinna Languages",
+    "handle": "@CorinnaLanguages",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.085,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 6347,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Yellow Cherry Jam",
+    "handle": "@yellowcherry_jam",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.085,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 6347,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Saja Fend\u00e9l",
+    "handle": "@sajafendel",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.13,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 6610,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Red Hot Chili Peppers Argentina",
+    "handle": "@RedHotChiliPeppersArgentina",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.4833333333333333,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Canales destacados"
+    ],
+    "est_words": 2827,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Adam Savage\u2019s Tested",
+    "handle": "@tested",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.9966666666666666,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 5830,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Baba Ram Dass",
+    "handle": "@BabaRamDassChannel",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.9716666666666667,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 5684,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Technology Connections",
+    "handle": "@TechnologyConnections",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.03,
+    "sample_titles": [
+      "Posts",
+      "Want to subscribe to this channel?"
+    ],
+    "est_words": 6025,
+    "rot_index": 52.0
+  },
+  {
+    "name": "bigboxSWE",
+    "handle": "@bigboxSWE",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.02,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Want to subscribe to this channel?"
+    ],
+    "est_words": 5967,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Lofi Girl",
+    "handle": "@LofiGirl",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.92,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 5382,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Nothing",
+    "handle": "@NothingTechnology",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.9283333333333332,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 5430,
+    "rot_index": 52.0
+  },
+  {
+    "name": "tony",
+    "handle": "@tony-btw",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.92,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 5382,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Midwest Magic Cleaning",
+    "handle": "@MidwestMagicCleaning",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.8183333333333334,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 4787,
+    "rot_index": 52.0
+  },
+  {
+    "name": "AratiDrawingDiarys",
+    "handle": "@AratiDrawingDiarys",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.8466666666666667,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 4953,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Excessive Overkill",
+    "handle": "@ExcessiveOverkill",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.8666666666666667,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 5070,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Wise Quotes",
+    "handle": "@Wisest-Quotes",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.7716666666666667,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 4514,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Scrapping Scotland",
+    "handle": "@ScrappingScotland",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.755,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Posts"
+    ],
+    "est_words": 4416,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Greg's Tech",
+    "handle": "@gregstech",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.7050000000000001,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "11"
+    ],
+    "est_words": 4124,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Natalie Gee",
+    "handle": "@natalie_gee",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.7,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 4095,
+    "rot_index": 52.0
+  },
+  {
+    "name": "B_Serious",
+    "handle": "@B_Serious_YT",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.62,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 3627,
+    "rot_index": 52.0
+  },
+  {
+    "name": "WyattsSaab",
+    "handle": "@WyattsSaab",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.5816666666666667,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 3402,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Simple Lucas",
+    "handle": "@simplelucas",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.5733333333333334,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Want to join this channel?"
+    ],
+    "est_words": 3354,
+    "rot_index": 52.0
+  },
+  {
+    "name": "COULOU",
+    "handle": "@coulou__",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.5216666666666667,
+    "sample_titles": [
+      "Want to join this channel?",
+      "Posts"
+    ],
+    "est_words": 3051,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Thinking different.",
+    "handle": "@ThinkingDifferent-YT",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.5216666666666667,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 3051,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Carol Dantas",
+    "handle": "@miss_dantas",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.5266666666666667,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 3081,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Angela Collier",
+    "handle": "@acollierastro",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.5,
+    "sample_titles": [
+      "Posts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 2925,
+    "rot_index": 52.0
+  },
+  {
+    "name": "dwaler",
+    "handle": "@dwalermusic",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 2,
+    "total_duration_hours": 0.4666666666666667,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "448"
+    ],
+    "est_words": 2730,
+    "rot_index": 52.0
+  },
+  {
+    "name": "Professor Lee",
+    "handle": "@professorlee4011",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.6733333333333333,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 3939,
+    "rot_index": 51.0
+  },
+  {
+    "name": "N74 \ud83d\udee0\ufe0f",
+    "handle": "@N74Bricolage",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.6483333333333333,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 3792,
+    "rot_index": 51.0
+  },
+  {
+    "name": "The Coding Train",
+    "handle": "@TheCodingTrain",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.36666666666666664,
+    "sample_titles": [
+      "Want to join this channel?"
+    ],
+    "est_words": 2145,
+    "rot_index": 51.0
+  },
+  {
+    "name": "FJSCopper",
+    "handle": "@FJSCopper",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.8033333333333333,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 4699,
+    "rot_index": 51.0
+  },
+  {
+    "name": "ThePrimeagenHighlights",
+    "handle": "@ThePrimeagenHighlights",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.615,
+    "sample_titles": [
+      "More Primeagen"
+    ],
+    "est_words": 3597,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Success By Emotions",
+    "handle": "@BobRaybould",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.5666666666666667,
+    "sample_titles": [
+      "Posts"
+    ],
+    "est_words": 3315,
+    "rot_index": 51.0
+  },
+  {
+    "name": "UMA Studios",
+    "handle": "@umaentertain",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.41333333333333333,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 2418,
+    "rot_index": 51.0
+  },
+  {
+    "name": "EscPoint",
+    "handle": "@EscPointDev",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.25166666666666665,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 1472,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Tsoding",
+    "handle": "@Tsoding",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.75,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 4387,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Tin Man Scrapper",
+    "handle": "@TinManScrapper",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.7316666666666667,
+    "sample_titles": [
+      "7,307 views"
+    ],
+    "est_words": 4280,
+    "rot_index": 51.0
+  },
+  {
+    "name": "ProjectMaria",
+    "handle": "@pr0jectmaria",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.7233333333333333,
+    "sample_titles": [
+      "Teaching Myself Electronics (Part Two)"
+    ],
+    "est_words": 4231,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Mo Bitar",
+    "handle": "@atmoio",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.7216666666666666,
+    "sample_titles": [
+      "Want to join this channel?"
+    ],
+    "est_words": 4221,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Nightcrawler Studios",
+    "handle": "@NightcrawlerGames",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.7166666666666667,
+    "sample_titles": [
+      "C++ Game Engine Dev: How does one fix armature scaling?"
+    ],
+    "est_words": 4192,
+    "rot_index": 51.0
+  },
+  {
+    "name": "leddoo",
+    "handle": "@leddoo",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.39666666666666667,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 2320,
+    "rot_index": 51.0
+  },
+  {
+    "name": "StuckAtPrototype",
+    "handle": "@stuckatprototype",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.7066666666666667,
+    "sample_titles": [
+      "Posts"
+    ],
+    "est_words": 4134,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Missing Semester",
+    "handle": "@MissingSemester",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.35,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 2047,
+    "rot_index": 51.0
+  },
+  {
+    "name": "camiidae",
+    "handle": "@camiidae",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.7,
+    "sample_titles": [
+      "Want to join this channel?"
+    ],
+    "est_words": 4095,
+    "rot_index": 51.0
+  },
+  {
+    "name": "SB Skill",
+    "handle": "@SBSkill",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.22833333333333333,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 1335,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Queen",
+    "handle": "@Queen3369",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.6466666666666666,
+    "sample_titles": [
+      "882,075 views"
+    ],
+    "est_words": 3783,
+    "rot_index": 51.0
+  },
+  {
+    "name": "SMD VIBE",
+    "handle": "@smdvibe",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.6316666666666666,
+    "sample_titles": [
+      "Posts"
+    ],
+    "est_words": 3695,
+    "rot_index": 51.0
+  },
+  {
+    "name": "What\u2019s The Next Level",
+    "handle": "@WutNexLev",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.63,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 3685,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Easy French Talk",
+    "handle": "@EasyFrenchTalk",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.5633333333333332,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 3295,
+    "rot_index": 51.0
+  },
+  {
+    "name": "CsMadeEz",
+    "handle": "@CsMadeEz",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.6,
+    "sample_titles": [
+      "Want to join this channel?"
+    ],
+    "est_words": 3510,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Gracefully Smart",
+    "handle": "@GracefullySmart",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.5833333333333334,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 3412,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Todd Arnold",
+    "handle": "@RealSpaceJunk",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.5733333333333334,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 3354,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Leverage In Action",
+    "handle": "@LeverageInAction",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.5700000000000001,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 3334,
+    "rot_index": 51.0
+  },
+  {
+    "name": "French with Felix",
+    "handle": "@frenchwithfelix",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.30666666666666664,
+    "sample_titles": [
+      "Want to join this channel?"
+    ],
+    "est_words": 1794,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Divine Kelcie",
+    "handle": "@divinekelcie",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.56,
+    "sample_titles": [
+      "781"
+    ],
+    "est_words": 3276,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Quincy Sandbank",
+    "handle": "@Qsandbank",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.56,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 3276,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Molly Rocket",
+    "handle": "@MollyRocket",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.5416666666666666,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 3168,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Perfect Life Seven GN",
+    "handle": "@PerfectLifesevenGN",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.495,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 2895,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Brodie Robertson",
+    "handle": "@BrodieRobertson",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.435,
+    "sample_titles": [
+      "Want to join this channel?"
+    ],
+    "est_words": 2544,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Bonjour Brilliant",
+    "handle": "@BonjourBrilliant",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.3983333333333333,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 2330,
+    "rot_index": 51.0
+  },
+  {
+    "name": "I Am Rey (Mental Health)",
+    "handle": "@Monkeyy_Buddha",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.3416666666666667,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 1998,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Clip Rotter",
+    "handle": "@ClipRotter",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.3233333333333333,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 1891,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Valorant Repack",
+    "handle": "@ValorantRepack",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.31,
+    "sample_titles": [
+      "Shorts"
+    ],
+    "est_words": 1813,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Eero Alvar",
+    "handle": "@EeroAlvar",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.2983333333333333,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 1745,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Siobhan Brier Aguilar",
+    "handle": "@SiobhanBrierAguilar",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.2916666666666667,
+    "sample_titles": [
+      "Keyboard shortcuts"
+    ],
+    "est_words": 1706,
+    "rot_index": 51.0
+  },
+  {
+    "name": "Psychicjane",
+    "handle": "@Psychicjane111",
+    "category": "General / Vlogs",
+    "verbal_score": 65,
+    "utility_score": 60,
+    "unhydrated_count": 1,
+    "total_duration_hours": 0.22166666666666668,
+    "sample_titles": [
+      "Want to join this channel?"
+    ],
+    "est_words": 1296,
+    "rot_index": 51.0
+  },
+  {
+    "name": "NPR Music",
+    "handle": "@nprmusic",
+    "category": "Music / Audio Clips",
+    "verbal_score": 15,
+    "utility_score": 20,
+    "unhydrated_count": 3,
+    "total_duration_hours": 1.04,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 1404,
+    "rot_index": 17.0
+  },
+  {
+    "name": "Pierre's Generative Music",
+    "handle": "@pierresgenerativemusic",
+    "category": "Music / Audio Clips",
+    "verbal_score": 15,
+    "utility_score": 20,
+    "unhydrated_count": 2,
+    "total_duration_hours": 1.4316666666666666,
+    "sample_titles": [
+      "Keyboard shortcuts",
+      "Keyboard shortcuts"
+    ],
+    "est_words": 1932,
+    "rot_index": 16.0
+  }
+]

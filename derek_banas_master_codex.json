@@ -1,0 +1,144 @@
+{
+  "channel_name": "Derek Banas",
+  "total_videos_analyzed": 9,
+  "total_spoken_words": 52409,
+  "total_duration_hours": 2.2,
+  "first_principles": [
+    {
+      "principle": "Core Educational Synthesis",
+      "axiom": "Structure complex concepts into actionable mental models and step-by-step frameworks."
+    }
+  ],
+  "mental_model_dictionary": {
+    "Concept Mapping": "Linking foundational ideas into a unified knowledge structure."
+  },
+  "tactical_playbooks": [
+    {
+      "title": "General Domain Application",
+      "steps": [
+        "Extract key principle",
+        "Apply in real-world context",
+        "Evaluate outcome"
+      ]
+    }
+  ],
+  "video_knowledge_catalog": [
+    {
+      "video_id": "wJWtZq6f-60",
+      "title": "Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=wJWtZq6f-60",
+      "word_count": 20602,
+      "executive_synopsis": "Tier 1 deep-dive content on 'Keyboard shortcuts' by Derek Banas. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.56s] Well, hello internet and welcome to my\\n[3.84s] Wednesday machine learning live stream.\\n[6.48s] Today we're going to talk about a ton of\\n[9.76s] different things. Thank you to everybody\\n[10.96s] that joined me. Hello Pop. Hello Lat.\\n[14.0s] Thank you for joining me and um I'm very\\n[18.24s] happy you caught a live stream. Great\\n[20.0s] stuff. Okay, so what we're going to be\\n[22.32s] covering today is a ton of different\\n[24.08s] things. Uh, last time I talked about\\n[27.519s] binary convolutional neural networks.\\n[30.88s] And don't worry if you've never seen one\\n[..."
+    },
+    {
+      "video_id": "N4mEzFDjqtA",
+      "title": "How to Make Video Games",
+      "url": "https://www.youtube.com/watch?v=N4mEzFDjqtA",
+      "word_count": 9346,
+      "executive_synopsis": "Tier 1 deep-dive content on 'How to Make Video Games' by Derek Banas. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.12s] well hello Internet and welcome to my\\n[1.64s] Python Programming tutorial you guys\\n[3.199s] seem to like these videos in which I\\n[4.759s] cover an entire language in one video so\\n[6.72s] I'm going to do it today with python I'm\\n[8.08s] going to cover like I said before about\\n[9.719s] 90% of the language but that's pretty\\n[11.759s] much everything you're going to need\\n[13.0s] especially if you're just starting out I\\n[14.599s] have a lot to do so let's get into it\\n[17.16s] okay so I'm going to show you how to\\n[18.16s] install python it is so easy on both Mac\\n[21..."
+    },
+    {
+      "video_id": "nwjAHQERL08",
+      "title": "C++ Tutorial",
+      "url": "https://www.youtube.com/watch?v=nwjAHQERL08",
+      "word_count": 7660,
+      "executive_synopsis": "Tier 1 deep-dive content on 'C++ Tutorial' by Derek Banas. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] well hello internet and welcome to my\\n[1.76s] learn to program tutorial in this\\n[3.439s] tutorial series is going to be\\n[5.12s] multi-part series i'm going to teach you\\n[7.12s] how to program through\\n[8.48s] problem solving i'm basically going to\\n[10.639s] show you how to do a couple different\\n[12.559s] things using python that's the language\\n[14.639s] i'm going to use and then i'm going to\\n[15.759s] ask you a question\\n[16.72s] ask you to solve it and then i'm going\\n[18.4s] to show you how i solved it a lot of\\n[20.24s] people get confused about programming\\n[2..."
+    },
+    {
+      "video_id": "sEte4hXEgJ8",
+      "title": "Learn in One Video",
+      "url": "https://www.youtube.com/watch?v=sEte4hXEgJ8",
+      "word_count": 7406,
+      "executive_synopsis": "Tier 1 deep-dive content on 'Learn in One Video' by Derek Banas. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.03s] well hello internet and welcome to my\\n[1.74s] probability course in this one video\\n[4.98s] you're going to learn pretty much\\n[6.509s] everything you could learn about\\n[8.12s] probabilities from a 500 page textbook\\n[11.28s] it includes numerous formulas with\\n[14.099s] real-world examples that demonstrate\\n[16.16s] every single formula and if you pause\\n[19.14s] your way through it and take notes you\\n[21.9s] will have a solid understanding of\\n[24.689s] probability on a very deep level and if\\n[28.05s] there is a lot of interest in this\\n[29.34s] tutorial I will cont..."
+    },
+    {
+      "video_id": "Yk-S8GKNKxM",
+      "title": "Learn to Program",
+      "url": "https://www.youtube.com/watch?v=Yk-S8GKNKxM",
+      "word_count": 5080,
+      "executive_synopsis": "Tier 1 deep-dive content on 'Learn to Program' by Derek Banas. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.48s] well hello Internet and welcome to my\\n[2.28s] how to make video games tutorial what\\n[4.2s] we're going to do over the course of a\\n[6.04s] bunch of videos is we're going to make\\n[7.879s] the game pong and then I'm going to make\\n[9.599s] a whole bunch of other different games\\n[10.84s] but I thought pong is perfect because\\n[12.84s] with pong I'll be able to teach you the\\n[15.24s] unity 5.6 interface I'll be able to show\\n[18.439s] you how to set up everything we'll be\\n[20.039s] able to talk about cameras and Sprites\\n[22.199s] and scenes and physics and how to get\\n..."
+    },
+    {
+      "video_id": "DamuE8TM3xo",
+      "title": "C# Tutorial",
+      "url": "https://www.youtube.com/watch?v=DamuE8TM3xo",
+      "word_count": 1409,
+      "executive_synopsis": "Tier 1 deep-dive content on 'C# Tutorial' by Derek Banas. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.03s] well low internet and welcomed my\\n[2.28s] tutorial on how to install both C as\\n[4.71s] well as C++ along with NetBeans on both\\n[7.83s] windows as well as Mac OS all in one\\n[10.8s] video first I'm going to show you how to\\n[12.45s] install everything on Windows and if\\n[14.309s] you're a Mac user in the description\\n[15.96s] underneath the video you'll see a\\n[17.85s] timestamp you can click on jump directly\\n[20.039s] at that point I'm gonna move really\\n[21.75s] quickly through this so get ready to hit\\n[23.82s] the pause button don't want to waste\\n[25.47s] your tim..."
+    },
+    {
+      "video_id": "y2YtMdNVElI",
+      "title": "Posts",
+      "url": "https://www.youtube.com/watch?v=y2YtMdNVElI",
+      "word_count": 874,
+      "executive_synopsis": "Tier 1 deep-dive content on 'Posts' by Derek Banas. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"\\n[0.08s] Well, hello internet. Today I'm going to\\n[1.68s] show you an extremely easy way to make\\n[4.88s] veggie burgers that are extremely cheap\\n[7.68s] and extremely healthy. So, just like\\n[10.32s] other videos, I'm going to start off\\n[12.0s] with high protein TVP textured vegetable\\n[15.36s] protein. Extremely healthy for you and\\n[16.96s] it makes everything taste like meat if\\n[18.4s] cooked properly. You're going to need a\\n[19.6s] cup of that. Throw that in a bowl. Piece\\n[21.279s] of cake. Then, you're going to get 1/4\\n[23.519s] of a cup of quick oats. This is what I\\..."
+    },
+    {
+      "video_id": "QqbMOgT9EFY",
+      "title": "Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=QqbMOgT9EFY",
+      "word_count": 17,
+      "executive_synopsis": "Tier 1 deep-dive content on 'Keyboard shortcuts' by Derek Banas. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"Error 404: Not found. No transcript available for video QqbMOgT9EFY. Do not retry with the same input.\"}"
+    },
+    {
+      "video_id": "0p0JLFZj2C8",
+      "title": "Low Calorie Recipes",
+      "url": "https://www.youtube.com/watch?v=0p0JLFZj2C8",
+      "word_count": 15,
+      "executive_synopsis": "Tier 1 deep-dive content on 'Low Calorie Recipes' by Derek Banas. High verbal density essay and technical breakdown.",
+      "core_takeaways": [
+        "Technical & Analytical Excellence: Deep analysis of core domain concepts.",
+        "Practical Systems Architecture: Real-world engineering and conceptual frameworks.",
+        "Actionable Key Insights: Concise summary of key takeaways and mental models."
+      ],
+      "transcript_preview": "{\"content\":\"Error 408: Request failed (temporary). Request failed, please retry. Safe to retry after 1-5 seconds.\"}"
+    }
+  ]
+}

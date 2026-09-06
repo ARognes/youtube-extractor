@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Cognitive Psychology Knowledge Core: Epistemic DAG & Crisis Matrix</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+  <style>
+    :root {
+      --bg: #090d16;
+      --card-bg: rgba(18, 26, 43, 0.75);
+      --card-border: rgba(255, 255, 255, 0.08);
+      --text: #f1f5f9;
+      --text-muted: #94a3b8;
+      --accent-0: #10b981;
+      --accent-1: #f59e0b;
+      --accent-2: #f43f5e;
+      --accent-3: #6366f1;
+      --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      line-height: 1.5;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+      overflow: hidden;
+    }
+    header {
+      background: rgba(15, 23, 42, 0.9);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--card-border);
+      padding: 12px 24px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      z-index: 10;
+    }
+    .header-title h1 {
+      font-size: 1.15rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .header-title p {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+    .nav-tabs {
+      display: flex;
+      gap: 8px;
+    }
+    .nav-btn {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid var(--card-border);
+      color: var(--text-muted);
+      padding: 6px 14px;
+      border-radius: 6px;
+      font-size: 0.82rem;
+      cursor: pointer;
+      font-weight: 500;
+      transition: all 0.2s;
+    }
+    .nav-btn:hover, .nav-btn.active {
+      background: #2563eb;
+      color: #fff;
+      border-color: #3b82f6;
+    }
+    .main-container {
+      display: flex;
+      flex: 1;
+      overflow: hidden;
+      position: relative;
+    }
+    .view-panel {
+      display: none;
+      width: 100%;
+      height: 100%;
+    }
+    .view-panel.active {
+      display: flex;
+    }
+    /* DAG Canvas */
+    .dag-canvas-container {
+      flex: 1;
+      overflow: auto;
+      padding: 24px;
+      display: flex;
+      justify-content: center;
+      background: radial-gradient(circle at 50% 50%, rgba(30, 41, 59, 0.5) 0%, rgba(9, 13, 22, 1) 100%);
+    }
+    .mermaid {
+      width: 100%;
+      max-width: 1300px;
+    }
+    /* Inspector Sidebar */
+    .inspector-sidebar {
+      width: 440px;
+      background: var(--card-bg);
+      backdrop-filter: blur(16px);
+      border-left: 1px solid var(--card-border);
+      display: flex;
+      flex-direction: column;
+      overflow-y: auto;
+      padding: 24px;
+      transition: width 0.3s;
+    }
+    .badge {
+      display: inline-block;
+      padding: 3px 8px;
+      border-radius: 4px;
+      font-size: 0.72rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+    }
+    .badge-0 { background: rgba(16, 185, 129, 0.2); color: var(--accent-0); border: 1px solid var(--accent-0); }
+    .badge-1 { background: rgba(245, 158, 11, 0.2); color: var(--accent-1); border: 1px solid var(--accent-1); }
+    .badge-2 { background: rgba(244, 63, 94, 0.2); color: var(--accent-2); border: 1px solid var(--accent-2); }
+    .badge-3 { background: rgba(99, 102, 241, 0.2); color: var(--accent-3); border: 1px solid var(--accent-3); }
+    .section-title {
+      font-size: 0.78rem;
+      font-weight: 700;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin: 16px 0 6px 0;
+    }
+    .callout-box {
+      background: rgba(30, 41, 59, 0.6);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-left: 3px solid #38bdf8;
+      padding: 12px;
+      border-radius: 6px;
+      font-size: 0.82rem;
+      margin: 12px 0;
+    }
+    .callout-box p {
+      margin-bottom: 6px;
+    }
+    .callout-box p:last-child { margin-bottom: 0; }
+    .citation-card {
+      background: rgba(15, 23, 42, 0.8);
+      border: 1px solid var(--card-border);
+      padding: 10px 12px;
+      border-radius: 6px;
+      margin-bottom: 8px;
+      font-size: 0.8rem;
+    }
+    .citation-card a {
+      color: #38bdf8;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .citation-card a:hover { text-decoration: underline; }
+    /* Matrix View */
+    .matrix-container {
+      flex: 1;
+      overflow-y: auto;
+      padding: 32px;
+      max-width: 1200px;
+      margin: 0 auto;
+      width: 100%;
+    }
+    .crisis-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 8px;
+      padding: 24px;
+      margin-bottom: 24px;
+    }
+    .crisis-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 12px;
+    }
+    .crisis-header h3 {
+      font-size: 1.15rem;
+      color: #fff;
+    }
+    .protocol-step {
+      background: rgba(15, 23, 42, 0.6);
+      border: 1px solid var(--card-border);
+      border-radius: 6px;
+      padding: 12px;
+      margin-top: 8px;
+      font-size: 0.85rem;
+    }
+    .protocol-step-title {
+      font-weight: 600;
+      color: #38bdf8;
+      margin-bottom: 4px;
+    }
+    .anti-pattern {
+      color: #fda4af;
+      font-size: 0.82rem;
+      margin-top: 4px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="header-title">
+      <h1>🧠 Cognitive Psychology Knowledge Architecture</h1>
+      <p>142 Masterclasses | Epistemic Directed Acyclic Graph & Situation-to-Protocol Matrix</p>
+    </div>
+    <div class="nav-tabs">
+      <button class="nav-btn active" onclick="switchView('dag')">🌳 Epistemic DAG</button>
+      <button class="nav-btn" onclick="switchView('matrix')">🎯 Situation-to-Protocol Matrix</button>
+      <button class="nav-btn" onclick="switchView('catalog')">📚 Master Video Catalog</button>
+    </div>
+  </header>
+
+  <div class="main-container">
+
+    <!-- VIEW 1: DAG EXPLORER -->
+    <div id="view-dag" class="view-panel active">
+      <div class="dag-canvas-container">
+        <div class="mermaid">
+graph TD
+  %% Style Classes
+  classDef level0 fill:#064e3b,stroke:#10b981,stroke-width:2px,color:#ecfdf5;
+  classDef level1 fill:#78350f,stroke:#f59e0b,stroke-width:2px,color:#fffbeb;
+  classDef level2 fill:#881337,stroke:#f43f5e,stroke-width:2px,color:#fff1f2;
+  classDef level3 fill:#312e81,stroke:#6366f1,stroke-width:2px,color:#eef2ff;
+  P01_SOMATIC_INTEROCEPTION["<b>[P01]</b><br/>Somatic Interoception & Sensation Awareness"]:::level0
+  P02_SAKSHI_OBSERVER_STANCE["<b>[P02]</b><br/>Sakshi (The Neutral Witness Consciousness)"]:::level0
+  P03_DOPAMINE_HOMEOSTASIS["<b>[P03]</b><br/>Dopamine Receptor Homeostasis & Baselines"]:::level0
+  P04_AUTONOMY_AWARENESS["<b>[P04]</b><br/>Cognitive Autonomy & Boundaries of Selfhood"]:::level0
+  P05_ATTACHMENT_NEEDS["<b>[P05]</b><br/>Primal Attachment Needs & Attunement"]:::level0
+  M01_DOUBLE_BIND_TRAP["<b>[M01]</b><br/>The Double-Bind Communicative Trap"]:::level1
+  M02_SAMSKARA_IMPRINTING["<b>[M02]</b><br/>Samskara Formation & Avoidance Loops"]:::level1
+  M03_COVERT_NARCISSISM_FOG["<b>[M03]</b><br/>Covert Narcissism & FOG Manipulation"]:::level1
+  M04_GASLIGHTING_REALITY_DENIAL["<b>[M04]</b><br/>Gaslighting & Systematic Reality Denial"]:::level1
+  M05_DOPAMINE_EXHAUSTION_LOOP["<b>[M05]</b><br/>Dopaminergic Depletion & Overstimulation Loop"]:::level1
+  M06_INFANTILIZATION_CONTROL["<b>[M06]</b><br/>Infantilisation & Manufactured Incompetence"]:::level1
+  M07_CONDITIONAL_WORTH_PROGRAMMING["<b>[M07]</b><br/>Conditional Worth & Externalized Ego (Ahamkara)"]:::level1
+  S01_EXECUTIVE_DYSFUNCTION_TASK_PARALYSIS["<b>[S01]</b><br/>Executive Dysfunction & Task Paralysis"]:::level2
+  S02_GIFTED_BURNOUT["<b>[S02]</b><br/>Gifted Kid Burnout & Effort Intolerance"]:::level2
+  S03_LIMERENCE_FANTASY_FIXATION["<b>[S03]</b><br/>Limerence & Pedestal Projection Fixation"]:::level2
+  S04_TOXIC_GUILT_IDENTITY_FUSION["<b>[S04]</b><br/>Toxic Guilt & False Responsibility Fusion"]:::level2
+  S05_PEOPLE_PLEASING_FAWNING["<b>[S05]</b><br/>Compulsive Fawning & Chronic Self-Abandonment"]:::level2
+  S06_EXISTENTIAL_ANHEDONIA["<b>[S06]</b><br/>Existential Anhedonia & Emotional Numbness"]:::level2
+  S07_IMPOSTER_SYNDROME_VULNERABILITY["<b>[S07]</b><br/>Imposter Phenomenon & Vulnerability Terror"]:::level2
+  T01_GREY_ROCK_INFORMATIONAL_STARVATION["<b>[T01]</b><br/>The Grey Rock Method & Informational Starvation"]:::level3
+  T02_SOMATIC_EMOTIONAL_DIGESTION["<b>[T02]</b><br/>Somatic Emotional Digestion Protocol"]:::level3
+  T03_FRICTIONLESS_TWO_MINUTE_INITIATION["<b>[T03]</b><br/>Frictionless Two-Minute Initiation Protocol"]:::level3
+  T04_BOUNDARY_ENFORCEMENT_FRAMEWORK["<b>[T04]</b><br/>Non-Defensive Boundary Enforcement (Anti-JADE)"]:::level3
+  T05_DOPAMINE_FASTING_RESET["<b>[T05]</b><br/>Dopaminergic Recalibration Fast"]:::level3
+  T06_ATTACHMENT_DECOUPLING_INQUIRY["<b>[T06]</b><br/>Attachment Decoupling & Pedestal Deconstruction"]:::level3
+  T07_SHADOW_INTEGRATION_SURRENDER["<b>[T07]</b><br/>Shadow Integration & Surrender of the Persona"]:::level3
+
+  %% Directed Edges
+  P01_SOMATIC_INTEROCEPTION -.->|remedy| T02_SOMATIC_EMOTIONAL_DIGESTION
+  P02_SAKSHI_OBSERVER_STANCE -.->|remedy| T02_SOMATIC_EMOTIONAL_DIGESTION
+  P02_SAKSHI_OBSERVER_STANCE -.->|remedy| T07_SHADOW_INTEGRATION_SURRENDER
+  P03_DOPAMINE_HOMEOSTASIS -.->|remedy| T05_DOPAMINE_FASTING_RESET
+  P03_DOPAMINE_HOMEOSTASIS -.->|remedy| T03_FRICTIONLESS_TWO_MINUTE_INITIATION
+  P04_AUTONOMY_AWARENESS -.->|remedy| T01_GREY_ROCK_INFORMATIONAL_STARVATION
+  P04_AUTONOMY_AWARENESS -.->|remedy| T04_BOUNDARY_ENFORCEMENT_FRAMEWORK
+  P05_ATTACHMENT_NEEDS -.->|remedy| T06_ATTACHMENT_DECOUPLING_INQUIRY
+  P05_ATTACHMENT_NEEDS -.->|remedy| T07_SHADOW_INTEGRATION_SURRENDER
+  P04_AUTONOMY_AWARENESS --> M01_DOUBLE_BIND_TRAP
+  M01_DOUBLE_BIND_TRAP -.->|remedy| T01_GREY_ROCK_INFORMATIONAL_STARVATION
+  M01_DOUBLE_BIND_TRAP -.->|remedy| T04_BOUNDARY_ENFORCEMENT_FRAMEWORK
+  P01_SOMATIC_INTEROCEPTION --> M02_SAMSKARA_IMPRINTING
+  P02_SAKSHI_OBSERVER_STANCE --> M02_SAMSKARA_IMPRINTING
+  P05_ATTACHMENT_NEEDS --> M02_SAMSKARA_IMPRINTING
+  M02_SAMSKARA_IMPRINTING -.->|remedy| T02_SOMATIC_EMOTIONAL_DIGESTION
+  M02_SAMSKARA_IMPRINTING -.->|remedy| T07_SHADOW_INTEGRATION_SURRENDER
+  P04_AUTONOMY_AWARENESS --> M03_COVERT_NARCISSISM_FOG
+  P05_ATTACHMENT_NEEDS --> M03_COVERT_NARCISSISM_FOG
+  M03_COVERT_NARCISSISM_FOG -.->|remedy| T01_GREY_ROCK_INFORMATIONAL_STARVATION
+  M03_COVERT_NARCISSISM_FOG -.->|remedy| T04_BOUNDARY_ENFORCEMENT_FRAMEWORK
+  P04_AUTONOMY_AWARENESS --> M04_GASLIGHTING_REALITY_DENIAL
+  M04_GASLIGHTING_REALITY_DENIAL -.->|remedy| T01_GREY_ROCK_INFORMATIONAL_STARVATION
+  M04_GASLIGHTING_REALITY_DENIAL -.->|remedy| T04_BOUNDARY_ENFORCEMENT_FRAMEWORK
+  P01_SOMATIC_INTEROCEPTION --> M05_DOPAMINE_EXHAUSTION_LOOP
+  P03_DOPAMINE_HOMEOSTASIS --> M05_DOPAMINE_EXHAUSTION_LOOP
+  M05_DOPAMINE_EXHAUSTION_LOOP -.->|remedy| T03_FRICTIONLESS_TWO_MINUTE_INITIATION
+  M05_DOPAMINE_EXHAUSTION_LOOP -.->|remedy| T05_DOPAMINE_FASTING_RESET
+  P04_AUTONOMY_AWARENESS --> M06_INFANTILIZATION_CONTROL
+  P05_ATTACHMENT_NEEDS --> M06_INFANTILIZATION_CONTROL
+  M06_INFANTILIZATION_CONTROL -.->|remedy| T04_BOUNDARY_ENFORCEMENT_FRAMEWORK
+  P02_SAKSHI_OBSERVER_STANCE --> M07_CONDITIONAL_WORTH_PROGRAMMING
+  P05_ATTACHMENT_NEEDS --> M07_CONDITIONAL_WORTH_PROGRAMMING
+  M07_CONDITIONAL_WORTH_PROGRAMMING -.->|remedy| T06_ATTACHMENT_DECOUPLING_INQUIRY
+  M07_CONDITIONAL_WORTH_PROGRAMMING -.->|remedy| T07_SHADOW_INTEGRATION_SURRENDER
+  M02_SAMSKARA_IMPRINTING --> S01_EXECUTIVE_DYSFUNCTION_TASK_PARALYSIS
+  M05_DOPAMINE_EXHAUSTION_LOOP --> S01_EXECUTIVE_DYSFUNCTION_TASK_PARALYSIS
+  S01_EXECUTIVE_DYSFUNCTION_TASK_PARALYSIS -.->|remedy| T02_SOMATIC_EMOTIONAL_DIGESTION
+  S01_EXECUTIVE_DYSFUNCTION_TASK_PARALYSIS -.->|remedy| T03_FRICTIONLESS_TWO_MINUTE_INITIATION
+  S01_EXECUTIVE_DYSFUNCTION_TASK_PARALYSIS -.->|remedy| T05_DOPAMINE_FASTING_RESET
+  M06_INFANTILIZATION_CONTROL --> S02_GIFTED_BURNOUT
+  M07_CONDITIONAL_WORTH_PROGRAMMING --> S02_GIFTED_BURNOUT
+  S02_GIFTED_BURNOUT -.->|remedy| T03_FRICTIONLESS_TWO_MINUTE_INITIATION
+  S02_GIFTED_BURNOUT -.->|remedy| T07_SHADOW_INTEGRATION_SURRENDER
+  M02_SAMSKARA_IMPRINTING --> S03_LIMERENCE_FANTASY_FIXATION
+  M07_CONDITIONAL_WORTH_PROGRAMMING --> S03_LIMERENCE_FANTASY_FIXATION
+  S03_LIMERENCE_FANTASY_FIXATION -.->|remedy| T02_SOMATIC_EMOTIONAL_DIGESTION
+  S03_LIMERENCE_FANTASY_FIXATION -.->|remedy| T06_ATTACHMENT_DECOUPLING_INQUIRY
+  M01_DOUBLE_BIND_TRAP --> S04_TOXIC_GUILT_IDENTITY_FUSION
+  M03_COVERT_NARCISSISM_FOG --> S04_TOXIC_GUILT_IDENTITY_FUSION
+  M04_GASLIGHTING_REALITY_DENIAL --> S04_TOXIC_GUILT_IDENTITY_FUSION
+  S04_TOXIC_GUILT_IDENTITY_FUSION -.->|remedy| T01_GREY_ROCK_INFORMATIONAL_STARVATION
+  S04_TOXIC_GUILT_IDENTITY_FUSION -.->|remedy| T04_BOUNDARY_ENFORCEMENT_FRAMEWORK
+  M01_DOUBLE_BIND_TRAP --> S05_PEOPLE_PLEASING_FAWNING
+  M03_COVERT_NARCISSISM_FOG --> S05_PEOPLE_PLEASING_FAWNING
+  M07_CONDITIONAL_WORTH_PROGRAMMING --> S05_PEOPLE_PLEASING_FAWNING
+  S05_PEOPLE_PLEASING_FAWNING -.->|remedy| T01_GREY_ROCK_INFORMATIONAL_STARVATION
+  S05_PEOPLE_PLEASING_FAWNING -.->|remedy| T04_BOUNDARY_ENFORCEMENT_FRAMEWORK
+  S05_PEOPLE_PLEASING_FAWNING -.->|remedy| T07_SHADOW_INTEGRATION_SURRENDER
+  M02_SAMSKARA_IMPRINTING --> S06_EXISTENTIAL_ANHEDONIA
+  M05_DOPAMINE_EXHAUSTION_LOOP --> S06_EXISTENTIAL_ANHEDONIA
+  S06_EXISTENTIAL_ANHEDONIA -.->|remedy| T02_SOMATIC_EMOTIONAL_DIGESTION
+  S06_EXISTENTIAL_ANHEDONIA -.->|remedy| T05_DOPAMINE_FASTING_RESET
+  M04_GASLIGHTING_REALITY_DENIAL --> S07_IMPOSTER_SYNDROME_VULNERABILITY
+  M06_INFANTILIZATION_CONTROL --> S07_IMPOSTER_SYNDROME_VULNERABILITY
+  S07_IMPOSTER_SYNDROME_VULNERABILITY -.->|remedy| T04_BOUNDARY_ENFORCEMENT_FRAMEWORK
+  S07_IMPOSTER_SYNDROME_VULNERABILITY -.->|remedy| T07_SHADOW_INTEGRATION_SURRENDER
+  M01_DOUBLE_BIND_TRAP --> T01_GREY_ROCK_INFORMATIONAL_STARVATION
+  M03_COVERT_NARCISSISM_FOG --> T01_GREY_ROCK_INFORMATIONAL_STARVATION
+  P01_SOMATIC_INTEROCEPTION --> T02_SOMATIC_EMOTIONAL_DIGESTION
+  P02_SAKSHI_OBSERVER_STANCE --> T02_SOMATIC_EMOTIONAL_DIGESTION
+  M02_SAMSKARA_IMPRINTING --> T02_SOMATIC_EMOTIONAL_DIGESTION
+  P03_DOPAMINE_HOMEOSTASIS --> T03_FRICTIONLESS_TWO_MINUTE_INITIATION
+  S01_EXECUTIVE_DYSFUNCTION_TASK_PARALYSIS --> T03_FRICTIONLESS_TWO_MINUTE_INITIATION
+  P04_AUTONOMY_AWARENESS --> T04_BOUNDARY_ENFORCEMENT_FRAMEWORK
+  M01_DOUBLE_BIND_TRAP --> T04_BOUNDARY_ENFORCEMENT_FRAMEWORK
+  M03_COVERT_NARCISSISM_FOG --> T04_BOUNDARY_ENFORCEMENT_FRAMEWORK
+  P03_DOPAMINE_HOMEOSTASIS --> T05_DOPAMINE_FASTING_RESET
+  M05_DOPAMINE_EXHAUSTION_LOOP --> T05_DOPAMINE_FASTING_RESET
+  M07_CONDITIONAL_WORTH_PROGRAMMING --> T06_ATTACHMENT_DECOUPLING_INQUIRY
+  S03_LIMERENCE_FANTASY_FIXATION --> T06_ATTACHMENT_DECOUPLING_INQUIRY
+  P02_SAKSHI_OBSERVER_STANCE --> T07_SHADOW_INTEGRATION_SURRENDER
+  M07_CONDITIONAL_WORTH_PROGRAMMING --> T07_SHADOW_INTEGRATION_SURRENDER
+  S02_GIFTED_BURNOUT --> T07_SHADOW_INTEGRATION_SURRENDER
+        </div>
+      </div>
+      <div class="inspector-sidebar" id="inspector-sidebar">
+        <div id="inspector-placeholder" style="margin-top: 40px; text-align: center; color: var(--text-muted);">
+          <p style="font-size: 2rem; margin-bottom: 12px;">👆</p>
+          <p>Click on any concept node in the DAG to inspect its prerequisites, clinical mechanisms, dialectic gap annotations, and timestamped masterclasses.</p>
+        </div>
+        <div id="inspector-content" style="display: none;">
+          <div id="node-badge-container"></div>
+          <h2 id="node-title" style="font-size: 1.25rem; font-weight: 700; margin: 8px 0;"></h2>
+          <p id="node-authority" style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 12px;"></p>
+          
+          <div class="section-title">Epistemic Definition</div>
+          <p id="node-definition" style="font-size: 0.85rem; color: #cbd5e1;"></p>
+
+          <div class="section-title">Dialectic Gap & Context Header</div>
+          <div class="callout-box">
+            <p><strong>⚠️ External Theoretical Roots:</strong> <span id="node-epistemology"></span></p>
+            <p><strong>⚠️ Serial Prerequisites:</strong> <span id="node-serial"></span></p>
+            <p><strong>⚠️ Restored Diagrammatic Context:</strong> <span id="node-multimodal"></span></p>
+          </div>
+
+          <div class="section-title">Relationships & Trajectories</div>
+          <p style="font-size: 0.8rem; margin-bottom: 4px;"><strong>Prerequisite Roots:</strong> <span id="node-prereqs"></span></p>
+          <p style="font-size: 0.8rem; margin-bottom: 4px;"><strong>Leads to Symptoms:</strong> <span id="node-symptoms"></span></p>
+          <p style="font-size: 0.8rem; margin-bottom: 12px;"><strong>Prescribed Protocols:</strong> <span id="node-protocols"></span></p>
+
+          <div class="section-title">Primary Masterclass Citations</div>
+          <div id="node-citations"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- VIEW 2: CRISIS MATRIX -->
+    <div id="view-matrix" class="view-panel">
+      <div class="matrix-container" id="matrix-container">
+        <!-- Rendered via JS -->
+      </div>
+    </div>
+
+    <!-- VIEW 3: CATALOG VIEW -->
+    <div id="view-catalog" class="view-panel">
+      <div class="matrix-container">
+        <h2 style="margin-bottom: 16px;">Core Video Knowledge Catalog (142 Masterclasses)</h2>
+        <p style="color: var(--text-muted); margin-bottom: 24px;">Complete multi-creator inventory powering the Cognitive Psychology Knowledge Core.</p>
+        <div id="catalog-list"></div>
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+    const DAG_NODES = [{"id": "P01_SOMATIC_INTEROCEPTION", "name": "Somatic Interoception & Sensation Awareness", "level": 0, "category": "Primitives & Somatic Foundations", "epistemic_authority": ["JulienHimself", "HealthyGamerGG"], "definition": "The physiological perception of internal bodily sensations (chest tightening, gut contraction, heart rate acceleration) prior to the activation of cognitive conceptual narratives.", "prerequisites": [], "manifests_as": ["M02_SAMSKARA_IMPRINTING", "M05_DOPAMINE_EXHAUSTION_LOOP"], "resolved_by": ["T02_SOMATIC_EMOTIONAL_DIGESTION"], "gap_annotations": {"assumed_epistemology": "Antonio Damasio's Somatic Marker Hypothesis and Polyvagal neuroception; assumes the user can distinguish between pure somatic feeling and intellectualized thought.", "serial_dependencies": "Builds upon introductory mindfulness foundations where body-scanning is treated as an active perceptual bridge.", "multimodal_cues": "Source videos use physical chest-pointing and breath pacing demonstrations lost in pure audio text."}, "curated_citations": [{"title": "The Magic Of Letting Go (A Step-By-Step Guide)", "video_id": "IiwvvV_xB-4", "channel": "JulienHimself", "timestamp": "04:15 - 12:30"}, {"title": "Stop Trying To Fix Your Traumatic Childhood", "video_id": "hxJKaG7clOo", "channel": "HealthyGamerGG", "timestamp": "18:40 - 24:10"}]}, {"id": "P02_SAKSHI_OBSERVER_STANCE", "name": "Sakshi (The Neutral Witness Consciousness)", "level": 0, "category": "Primitives & Somatic Foundations", "epistemic_authority": ["HealthyGamerGG"], "definition": "The meditative recognition that consciousness itself is the non-reactive observer (Sakshi) of thoughts, impulses, and emotions, rather than the thoughts or identity structures (Ahamkara) themselves.", "prerequisites": [], "manifests_as": ["M02_SAMSKARA_IMPRINTING", "M07_CONDITIONAL_WORTH_PROGRAMMING"], "resolved_by": ["T02_SOMATIC_EMOTIONAL_DIGESTION", "T07_SHADOW_INTEGRATION_SURRENDER"], "gap_annotations": {"assumed_epistemology": "Classical Advaita Vedanta & Samkhya philosophy (Distinction between Purusha/Sakshi as pure observer and Prakriti/Chitta as mental machinery).", "serial_dependencies": "Dr. K assumes understanding of Sanskrit psychological architecture without formal classroom preamble.", "multimodal_cues": "Dr. K draws whiteboard dual-column diagrams contrasting the 'knower' from the 'object known'."}, "curated_citations": [{"title": "Stop Overcorrecting Your Attachment Style (Viewer Interview)", "video_id": "Ads8VOa0qKQ", "channel": "HealthyGamerGG", "timestamp": "14:20 - 22:50"}, {"title": "Stop Trying To Fix Your Traumatic Childhood", "video_id": "hxJKaG7clOo", "channel": "HealthyGamerGG", "timestamp": "32:00 - 41:15"}]}, {"id": "P03_DOPAMINE_HOMEOSTASIS", "name": "Dopamine Receptor Homeostasis & Baselines", "level": 0, "category": "Primitives & Somatic Foundations", "epistemic_authority": ["HealthyGamerGG"], "definition": "The neurobiological tonic baseline of dopamine and tonic-to-phasic signaling ratios that govern reward anticipation, effort thresholding, and motivation elasticity.", "prerequisites": [], "manifests_as": ["M05_DOPAMINE_EXHAUSTION_LOOP"], "resolved_by": ["T05_DOPAMINE_FASTING_RESET", "T03_FRICTIONLESS_TWO_MINUTE_INITIATION"], "gap_annotations": {"assumed_epistemology": "Anna Lembke's Dopamine Nation reward-pain balance and Huberman-style tonic/phasic firing dynamics.", "serial_dependencies": "Assumes familiarisation with previous Dr. K lectures on why video games and short-form algorithms hijack the nucleus accumbens.", "multimodal_cues": "Graphs showing steep dopaminergic troughs below baseline following artificial stimulation spikes."}, "curated_citations": [{"title": "Lindsay Clancy Trial Breakdown by Expert Psychiatrist (Dr.K)", "video_id": "joAreHuo1pQ", "channel": "HealthyGamerGG", "timestamp": "15:00 - 28:40"}]}, {"id": "P04_AUTONOMY_AWARENESS", "name": "Cognitive Autonomy & Boundaries of Selfhood", "level": 0, "category": "Primitives & Somatic Foundations", "epistemic_authority": ["TheraminTrees"], "definition": "The foundational recognition of an individual's innate right to independent internal experience, subjective evaluation, and refusal of unconsented emotional governance.", "prerequisites": [], "manifests_as": ["M01_DOUBLE_BIND_TRAP", "M03_COVERT_NARCISSISM_FOG", "M04_GASLIGHTING_REALITY_DENIAL"], "resolved_by": ["T01_GREY_ROCK_INFORMATIONAL_STARVATION", "T04_BOUNDARY_ENFORCEMENT_FRAMEWORK"], "gap_annotations": {"assumed_epistemology": "Enlightenment humanist philosophy, Rogerian unconditional positive regard, and Bowen Family Systems individuation.", "serial_dependencies": "TheraminTrees treats this autonomy axiom as the ethical baseline against which all dogmatic and familial manipulation is measured.", "multimodal_cues": "Minimalist geometric animations illustrating personal space boundaries vs encroachment."}, "curated_citations": [{"title": "nobody's follower | reclaiming self-sovereignty & leaving groups", "video_id": "oX3qM4VqbJo", "channel": "TheraminTrees", "timestamp": "02:10 - 11:30"}, {"title": "resisting emotional blackmail | boundaries against fog", "video_id": "PEexQAkhFpM", "channel": "TheraminTrees", "timestamp": "03:45 - 09:20"}]}, {"id": "P05_ATTACHMENT_NEEDS", "name": "Primal Attachment Needs & Attunement", "level": 0, "category": "Primitives & Somatic Foundations", "epistemic_authority": ["HealthyGamerGG", "TheraminTrees"], "definition": "The mammalian neurodevelopmental biological requirement for mirroring, unconditional acceptance, and predictable safety from primary caregivers.", "prerequisites": [], "manifests_as": ["M02_SAMSKARA_IMPRINTING", "M06_INFANTILIZATION_CONTROL", "M07_CONDITIONAL_WORTH_PROGRAMMING"], "resolved_by": ["T06_ATTACHMENT_DECOUPLING_INQUIRY", "T07_SHADOW_INTEGRATION_SURRENDER"], "gap_annotations": {"assumed_epistemology": "John Bowlby's Attachment Theory (Anxious, Avoidant, Disorganized) and Donald Winnicott's 'Good Enough Parent' and 'Mirroring' concepts.", "serial_dependencies": "Assumes understanding of how developmental arrest occurs when parental attunement is withheld.", "multimodal_cues": "Verbal roleplaying of mother-child interactions illustrating lack of mirroring."}, "curated_citations": [{"title": "Stop Overcorrecting Your Attachment Style (Viewer Interview)", "video_id": "Ads8VOa0qKQ", "channel": "HealthyGamerGG", "timestamp": "05:10 - 16:30"}, {"title": "compelled love / weaponised love | love as emotional debt", "video_id": "u91ctugBCsg", "channel": "TheraminTrees", "timestamp": "01:30 - 08:45"}]}, {"id": "M01_DOUBLE_BIND_TRAP", "name": "The Double-Bind Communicative Trap", "level": 1, "category": "Mechanisms of Psychological Injury", "epistemic_authority": ["TheraminTrees"], "definition": "An engineered communicative deadlock where a victim receives two contradictory demands, where compliance with one causes guaranteed failure of the other, accompanied by an implicit tertiary prohibition against questioning the situation or leaving.", "prerequisites": ["P04_AUTONOMY_AWARENESS"], "manifests_as": ["S04_TOXIC_GUILT_IDENTITY_FUSION", "S05_PEOPLE_PLEASING_FAWNING"], "resolved_by": ["T01_GREY_ROCK_INFORMATIONAL_STARVATION", "T04_BOUNDARY_ENFORCEMENT_FRAMEWORK"], "gap_annotations": {"assumed_epistemology": "Gregory Bateson's Cybernetic Double-Bind Theory (1956) formulated in schizophrenia etiology research.", "serial_dependencies": "References earlier TheraminTrees essays on dogmatic indoctrination where the bind is: 'Love God freely or burn for eternity'.", "multimodal_cues": "Flowcharts showing conflicting vector arrows terminating at an inescapable trap box."}, "curated_citations": [{"title": "double-binds | communicative traps & guaranteed failure", "video_id": "sUazbGC_XI4", "channel": "TheraminTrees", "timestamp": "03:15 - 18:20"}, {"title": "losing (part 1) | relationship autopsy & parental narcissism", "video_id": "jWLZfeKpIhg", "channel": "TheraminTrees", "timestamp": "12:40 - 21:05"}]}, {"id": "M02_SAMSKARA_IMPRINTING", "name": "Samskara Formation & Avoidance Loops", "level": 1, "category": "Mechanisms of Psychological Injury", "epistemic_authority": ["HealthyGamerGG"], "definition": "An undigested emotional scar (Samskara) encoded in the subconscious mind during childhood distress that continuously distorts adult perception, compelling unconscious behavioral avoidance loops.", "prerequisites": ["P01_SOMATIC_INTEROCEPTION", "P02_SAKSHI_OBSERVER_STANCE", "P05_ATTACHMENT_NEEDS"], "manifests_as": ["S01_EXECUTIVE_DYSFUNCTION_TASK_PARALYSIS", "S03_LIMERENCE_FANTASY_FIXATION", "S06_EXISTENTIAL_ANHEDONIA"], "resolved_by": ["T02_SOMATIC_EMOTIONAL_DIGESTION", "T07_SHADOW_INTEGRATION_SURRENDER"], "gap_annotations": {"assumed_epistemology": "Patanjali's Yoga Sutras (Kleshas, Samskaras, and Vrittis) fused with modern neuroscientific trauma memory consolidation.", "serial_dependencies": "Relies on Dr. K's foundational psychiatric thesis: 'Emotions are physiological balls of energy that must be metabolized'.", "multimodal_cues": "Metaphorical drawing of a 'beach ball held underwater' that violently shoots upward upon distraction release."}, "curated_citations": [{"title": "Stop Trying To Fix Your Traumatic Childhood", "video_id": "hxJKaG7clOo", "channel": "HealthyGamerGG", "timestamp": "10:30 - 35:00"}, {"title": "Thoughts Your Therapist Has, But Doesn't Say", "video_id": "7afNvogg9kQ", "channel": "HealthyGamerGG", "timestamp": "14:10 - 27:30"}]}, {"id": "M03_COVERT_NARCISSISM_FOG", "name": "Covert Narcissism & FOG Manipulation", "level": 1, "category": "Mechanisms of Psychological Injury", "epistemic_authority": ["TheraminTrees"], "definition": "Emotional extortion operating via Fear, Obligation, and Guilt (FOG), where the aggressor adopts a fragile victim persona to extort unconditional compliance while framing any defense as cruel attack.", "prerequisites": ["P04_AUTONOMY_AWARENESS", "P05_ATTACHMENT_NEEDS"], "manifests_as": ["S04_TOXIC_GUILT_IDENTITY_FUSION", "S05_PEOPLE_PLEASING_FAWNING"], "resolved_by": ["T01_GREY_ROCK_INFORMATIONAL_STARVATION", "T04_BOUNDARY_ENFORCEMENT_FRAMEWORK"], "gap_annotations": {"assumed_epistemology": "Susan Forward's Emotional Blackmail framework and Heinz Kohut's Narcissistic Vulnerability.", "serial_dependencies": "Continuation of TheraminTrees' clinical relationship autopsy series.", "multimodal_cues": "Dialogue transcript simulations highlighting subtle micro-invalidations."}, "curated_citations": [{"title": "resisting emotional blackmail | boundaries against fog", "video_id": "PEexQAkhFpM", "channel": "TheraminTrees", "timestamp": "01:20 - 15:40"}, {"title": "losing (part 1) | relationship autopsy & parental narcissism", "video_id": "jWLZfeKpIhg", "channel": "TheraminTrees", "timestamp": "08:10 - 24:30"}]}, {"id": "M04_GASLIGHTING_REALITY_DENIAL", "name": "Gaslighting & Systematic Reality Denial", "level": 1, "category": "Mechanisms of Psychological Injury", "epistemic_authority": ["TheraminTrees"], "definition": "The persistent, deliberate contradiction of a person's verified memories, perceptions, and emotions, systematically eroding their confidence in their own cognitive sanity and epistemic autonomy.", "prerequisites": ["P04_AUTONOMY_AWARENESS"], "manifests_as": ["S04_TOXIC_GUILT_IDENTITY_FUSION", "S07_IMPOSTER_SYNDROME_VULNERABILITY"], "resolved_by": ["T01_GREY_ROCK_INFORMATIONAL_STARVATION", "T04_BOUNDARY_ENFORCEMENT_FRAMEWORK"], "gap_annotations": {"assumed_epistemology": "Epistemic injustice (Miranda Fricker) and psychological abuse dynamics.", "serial_dependencies": "Builds upon 'Exposing Abuse' Part 1 and Part 2.", "multimodal_cues": "Juxtaposed dialogue bubbles contrasting what happened vs what was reported."}, "curated_citations": [{"title": "exposing abuse (part 1) | breaking the silence", "video_id": "TsvJMlg_SaM", "channel": "TheraminTrees", "timestamp": "04:30 - 16:50"}, {"title": "concealing abuse | family denial & systemic protection", "video_id": "xFt_aeQw2GA", "channel": "TheraminTrees", "timestamp": "06:10 - 19:40"}]}, {"id": "M05_DOPAMINE_EXHAUSTION_LOOP", "name": "Dopaminergic Depletion & Overstimulation Loop", "level": 1, "category": "Mechanisms of Psychological Injury", "epistemic_authority": ["HealthyGamerGG"], "definition": "The down-regulation of D2 dopamine receptors caused by constant supra-physiological digital stimulation, plunging baseline mood into anhedonia and making ordinary effort feel insurmountable.", "prerequisites": ["P01_SOMATIC_INTEROCEPTION", "P03_DOPAMINE_HOMEOSTASIS"], "manifests_as": ["S01_EXECUTIVE_DYSFUNCTION_TASK_PARALYSIS", "S06_EXISTENTIAL_ANHEDONIA"], "resolved_by": ["T03_FRICTIONLESS_TWO_MINUTE_INITIATION", "T05_DOPAMINE_FASTING_RESET"], "gap_annotations": {"assumed_epistemology": "Neurobiological addiction pathways and prefrontal-striatal circuit fatigue.", "serial_dependencies": "Assumes viewing of Dr. K's digital detox and ADHD foundational seminars.", "multimodal_cues": "Graph overlay of video game reward loops vs delayed real-world achievements."}, "curated_citations": [{"title": "Lindsay Clancy Trial Breakdown by Expert Psychiatrist (Dr.K)", "video_id": "joAreHuo1pQ", "channel": "HealthyGamerGG", "timestamp": "20:10 - 34:00"}]}, {"id": "M06_INFANTILIZATION_CONTROL", "name": "Infantilisation & Manufactured Incompetence", "level": 1, "category": "Mechanisms of Psychological Injury", "epistemic_authority": ["TheraminTrees"], "definition": "The systemic treatment of developing or grown individuals as incapable, incompetent children, intentionally crippling their self-trust and problem-solving agency to enforce lifelong dependency.", "prerequisites": ["P04_AUTONOMY_AWARENESS", "P05_ATTACHMENT_NEEDS"], "manifests_as": ["S02_GIFTED_BURNOUT", "S07_IMPOSTER_SYNDROME_VULNERABILITY"], "resolved_by": ["T04_BOUNDARY_ENFORCEMENT_FRAMEWORK"], "gap_annotations": {"assumed_epistemology": "Structural Family Therapy (Salvador Minuchin) on enmeshment and boundary dissolution.", "serial_dependencies": "Follows the TheraminTrees masterclass explicitly titled 'Infantilisation'.", "multimodal_cues": "Character silhouettes showing parental towering over grown adults."}, "curated_citations": [{"title": "infantilisation | forced dependency & preventing adulthood", "video_id": "c39F04inLJ0", "channel": "TheraminTrees", "timestamp": "02:00 - 17:30"}]}, {"id": "M07_CONDITIONAL_WORTH_PROGRAMMING", "name": "Conditional Worth & Externalized Ego (Ahamkara)", "level": 1, "category": "Mechanisms of Psychological Injury", "epistemic_authority": ["HealthyGamerGG", "JulienHimself"], "definition": "The psychological encoding that one is inherently unworthy of love or existence unless actively proving value through academic achievement, moral perfection, or pleasing others.", "prerequisites": ["P02_SAKSHI_OBSERVER_STANCE", "P05_ATTACHMENT_NEEDS"], "manifests_as": ["S02_GIFTED_BURNOUT", "S03_LIMERENCE_FANTASY_FIXATION", "S05_PEOPLE_PLEASING_FAWNING"], "resolved_by": ["T06_ATTACHMENT_DECOUPLING_INQUIRY", "T07_SHADOW_INTEGRATION_SURRENDER"], "gap_annotations": {"assumed_epistemology": "Carl Rogers' Conditions of Worth and Eastern Ahamkara ego-identity constructs.", "serial_dependencies": "Deeply connected across Julien's self-esteem teardowns and Dr. K's gifted kid series.", "multimodal_cues": "Dr. K illustrating the equation: Self-Worth = Achievement / Expectations."}, "curated_citations": [{"title": "The Fastest Way To Boost Your Self Esteem", "video_id": "pCZdJiGSk8g", "channel": "JulienHimself", "timestamp": "03:40 - 18:20"}, {"title": "Why Being Confident Feels CRINGE AF", "video_id": "kOauN-_W2FQ", "channel": "JulienHimself", "timestamp": "05:15 - 14:30"}]}, {"id": "S01_EXECUTIVE_DYSFUNCTION_TASK_PARALYSIS", "name": "Executive Dysfunction & Task Paralysis", "level": 2, "category": "Manifested Symptomatology & Crises", "epistemic_authority": ["HealthyGamerGG"], "definition": "The acute inability to initiate, transition into, or sustain focus on necessary tasks, caused by a convergence of dopamine depletion, unconscious emotional dread (Samskara), and perfectionistic anxiety.", "prerequisites": ["M02_SAMSKARA_IMPRINTING", "M05_DOPAMINE_EXHAUSTION_LOOP"], "manifests_as": [], "resolved_by": ["T02_SOMATIC_EMOTIONAL_DIGESTION", "T03_FRICTIONLESS_TWO_MINUTE_INITIATION", "T05_DOPAMINE_FASTING_RESET"], "gap_annotations": {"assumed_epistemology": "Barkley's model of ADHD as an executive dysfunction of self-regulation across time.", "serial_dependencies": "Assumes distinction between neurological ADHD vs trauma-induced attention deficits.", "multimodal_cues": "Dr. K whiteboard breakdown: Friction vs Dopamine Gradient."}, "curated_citations": [{"title": "Stop Trying To Fix Your Traumatic Childhood", "video_id": "hxJKaG7clOo", "channel": "HealthyGamerGG", "timestamp": "42:10 - 56:20"}]}, {"id": "S02_GIFTED_BURNOUT", "name": "Gifted Kid Burnout & Effort Intolerance", "level": 2, "category": "Manifested Symptomatology & Crises", "epistemic_authority": ["HealthyGamerGG"], "definition": "The catastrophic psychological collapse of high-potential individuals whose early ease prevented the development of study habits and tolerance for frustration, resulting in paralyzing terror when challenged.", "prerequisites": ["M06_INFANTILIZATION_CONTROL", "M07_CONDITIONAL_WORTH_PROGRAMMING"], "manifests_as": [], "resolved_by": ["T03_FRICTIONLESS_TWO_MINUTE_INITIATION", "T07_SHADOW_INTEGRATION_SURRENDER"], "gap_annotations": {"assumed_epistemology": "Carol Dweck's Fixed vs Growth Mindset and Dr. K's clinical study of gifted gamers.", "serial_dependencies": "Directly references the archetypal Dr. K 'Gifted Kid' lecture sequence.", "multimodal_cues": "Quadrant breakdown comparing high ability + zero challenge to sudden failure in university."}, "curated_citations": [{"title": "Stop Overcorrecting Your Attachment Style (Viewer Interview)", "video_id": "Ads8VOa0qKQ", "channel": "HealthyGamerGG", "timestamp": "21:00 - 32:40"}]}, {"id": "S03_LIMERENCE_FANTASY_FIXATION", "name": "Limerence & Pedestal Projection Fixation", "level": 2, "category": "Manifested Symptomatology & Crises", "epistemic_authority": ["HealthyGamerGG", "JulienHimself"], "definition": "An involuntary, intensely cognitive and romantic fixation on another person, fueled by intermittent reinforcement and the desperate projection of disowned emotional needs onto an idealized fantasy figure.", "prerequisites": ["M02_SAMSKARA_IMPRINTING", "M07_CONDITIONAL_WORTH_PROGRAMMING"], "manifests_as": [], "resolved_by": ["T02_SOMATIC_EMOTIONAL_DIGESTION", "T06_ATTACHMENT_DECOUPLING_INQUIRY"], "gap_annotations": {"assumed_epistemology": "Dorothy Tennov's clinical definition of Limerence (1979) and Jungian Anima/Animus projection.", "serial_dependencies": "Builds on Dr. K's 'Confessing Your Love' breakdown and Julien's neediness deconstructions.", "multimodal_cues": "Live coaching roleplay demonstrating the conversational turn from authentic connection into needy pleading."}, "curated_citations": [{"title": "Why You Should NEVER Confess Your Love", "video_id": "xHkcIRZa6lo", "channel": "HealthyGamerGG", "timestamp": "04:15 - 28:00"}, {"title": "The Fastest Way To Boost Your Self Esteem", "video_id": "pCZdJiGSk8g", "channel": "JulienHimself", "timestamp": "22:10 - 35:40"}]}, {"id": "S04_TOXIC_GUILT_IDENTITY_FUSION", "name": "Toxic Guilt & False Responsibility Fusion", "level": 2, "category": "Manifested Symptomatology & Crises", "epistemic_authority": ["TheraminTrees"], "definition": "The chronic, debilitating internal conviction that one is morally responsible for the emotional discomfort, rage, or disappointment of other people, making self-preservation feel like a criminal act.", "prerequisites": ["M01_DOUBLE_BIND_TRAP", "M03_COVERT_NARCISSISM_FOG", "M04_GASLIGHTING_REALITY_DENIAL"], "manifests_as": [], "resolved_by": ["T01_GREY_ROCK_INFORMATIONAL_STARVATION", "T04_BOUNDARY_ENFORCEMENT_FRAMEWORK"], "gap_annotations": {"assumed_epistemology": "John Bradshaw's Healing the Shame That Binds You and Alice Miller's Drama of the Gifted Child.", "serial_dependencies": "Deeply linked to TheraminTrees' 'Shame and Guilt' and 'Living with Abusers'.", "multimodal_cues": "Visual contrast between natural guilt (regret over intentional harm) vs manufactured guilt."}, "curated_citations": [{"title": "shame & guilt | weaponized conscience & reclaiming autonomy", "video_id": "XSShv4lhgKQ", "channel": "TheraminTrees", "timestamp": "03:10 - 21:30"}, {"title": "resisting emotional blackmail | boundaries against fog", "video_id": "PEexQAkhFpM", "channel": "TheraminTrees", "timestamp": "10:15 - 20:40"}]}, {"id": "S05_PEOPLE_PLEASING_FAWNING", "name": "Compulsive Fawning & Chronic Self-Abandonment", "level": 2, "category": "Manifested Symptomatology & Crises", "epistemic_authority": ["TheraminTrees", "JulienHimself"], "definition": "The automatic surrender of personal boundaries, preferences, and honesty in any prospective conflict, utilizing pre-emptive appeasement (fawn response) as an emergency safety shield.", "prerequisites": ["M01_DOUBLE_BIND_TRAP", "M03_COVERT_NARCISSISM_FOG", "M07_CONDITIONAL_WORTH_PROGRAMMING"], "manifests_as": [], "resolved_by": ["T01_GREY_ROCK_INFORMATIONAL_STARVATION", "T04_BOUNDARY_ENFORCEMENT_FRAMEWORK", "T07_SHADOW_INTEGRATION_SURRENDER"], "gap_annotations": {"assumed_epistemology": "Pete Walker's Complex PTSD 4F trauma typologies (Fight, Flight, Freeze, Fawn).", "serial_dependencies": "Synthesizes TheraminTrees' 'Bowing to Narcissists' with Julien's cringe/pattern inquiry.", "multimodal_cues": "Detailed behavioral checklist of fawning behaviors vs healthy collaboration."}, "curated_citations": [{"title": "bowing to narcissists | appeasement & institutional enabling", "video_id": "qjZ3f-IXEXU", "channel": "TheraminTrees", "timestamp": "02:40 - 16:15"}, {"title": "Why Being Confident Feels CRINGE AF", "video_id": "kOauN-_W2FQ", "channel": "JulienHimself", "timestamp": "12:00 - 24:30"}]}, {"id": "S06_EXISTENTIAL_ANHEDONIA", "name": "Existential Anhedonia & Emotional Numbness", "level": 2, "category": "Manifested Symptomatology & Crises", "epistemic_authority": ["HealthyGamerGG", "JulienHimself"], "definition": "The widespread dampening of emotional responsiveness where life feels gray, flat, and pointless, typically resulting from years of chronic emotional suppression and severe dopamine receptor fatigue.", "prerequisites": ["M02_SAMSKARA_IMPRINTING", "M05_DOPAMINE_EXHAUSTION_LOOP"], "manifests_as": [], "resolved_by": ["T02_SOMATIC_EMOTIONAL_DIGESTION", "T05_DOPAMINE_FASTING_RESET"], "gap_annotations": {"assumed_epistemology": "Neurobiological depression models and psychodynamic emotional blunting as defense mechanism.", "serial_dependencies": "Builds on Dr. K's clinical guidance on derealization, dissociation, and Julien's surrender.", "multimodal_cues": "Somatic localization exercise: distinguishing emotional neutrality from repressed depression."}, "curated_citations": [{"title": "The Magic Of Letting Go (A Step-By-Step Guide)", "video_id": "IiwvvV_xB-4", "channel": "JulienHimself", "timestamp": "02:30 - 15:45"}, {"title": "A Common Feature of DID & Derealization", "video_id": "-u7cN4IK67Q", "channel": "HealthyGamerGG", "timestamp": "00:00 - 08:30"}]}, {"id": "S07_IMPOSTER_SYNDROME_VULNERABILITY", "name": "Imposter Phenomenon & Vulnerability Terror", "level": 2, "category": "Manifested Symptomatology & Crises", "epistemic_authority": ["HealthyGamerGG", "TheraminTrees"], "definition": "The persistent, agonizing fear of being unmasked as a fraudulent incompetent, regardless of objective accomplishments, originating in early infantilization and conditional praise.", "prerequisites": ["M04_GASLIGHTING_REALITY_DENIAL", "M06_INFANTILIZATION_CONTROL"], "manifests_as": [], "resolved_by": ["T04_BOUNDARY_ENFORCEMENT_FRAMEWORK", "T07_SHADOW_INTEGRATION_SURRENDER"], "gap_annotations": {"assumed_epistemology": "Clance & Imes (1978) Imposter Phenomenon clinical research.", "serial_dependencies": "Correlates directly with Dr. K's case studies on high-achieving software engineers.", "multimodal_cues": "Interactive diagnostic questions Dr. K asks live viewers regarding internal vs external attribution."}, "curated_citations": [{"title": "Thoughts Your Therapist Has, But Doesn't Say", "video_id": "7afNvogg9kQ", "channel": "HealthyGamerGG", "timestamp": "08:15 - 21:00"}, {"title": "imaginary flaws | projected defects & invalidation", "video_id": "YqnCwp9Ia68", "channel": "TheraminTrees", "timestamp": "01:45 - 14:20"}]}, {"id": "T01_GREY_ROCK_INFORMATIONAL_STARVATION", "name": "The Grey Rock Method & Informational Starvation", "level": 3, "category": "Tactical Interventions & Protocols", "epistemic_authority": ["TheraminTrees"], "definition": "A boundary defense strategy of intentional emotional unreactivity, monosyllabic communication, and zero disclosure of personal vulnerabilities to deny manipulators fuel and control hooks.", "prerequisites": ["M01_DOUBLE_BIND_TRAP", "M03_COVERT_NARCISSISM_FOG"], "manifests_as": [], "resolved_by": [], "gap_annotations": {"assumed_epistemology": "Behavioral extinction burst dynamics and communication de-escalation protocols.", "serial_dependencies": "Culmination of TheraminTrees' relationship autopsy advice.", "multimodal_cues": "Live scripted dialogues modeling how to respond neutrally without triggering hostility."}, "curated_citations": [{"title": "losing (part 1) | relationship autopsy & parental narcissism", "video_id": "jWLZfeKpIhg", "channel": "TheraminTrees", "timestamp": "28:15 - 38:50"}, {"title": "resisting emotional blackmail | boundaries against fog", "video_id": "PEexQAkhFpM", "channel": "TheraminTrees", "timestamp": "14:20 - 24:10"}]}, {"id": "T02_SOMATIC_EMOTIONAL_DIGESTION", "name": "Somatic Emotional Digestion Protocol", "level": 3, "category": "Tactical Interventions & Protocols", "epistemic_authority": ["HealthyGamerGG", "JulienHimself"], "definition": "A 4-stage active surrender procedure: (1) localize physical body sensation, (2) detach the intellectual narrative, (3) sit with visceral discomfort without digital evasion, and (4) allow metabolic completion.", "prerequisites": ["P01_SOMATIC_INTEROCEPTION", "P02_SAKSHI_OBSERVER_STANCE", "M02_SAMSKARA_IMPRINTING"], "manifests_as": [], "resolved_by": [], "gap_annotations": {"assumed_epistemology": "David R. Hawkins' Letting Go surrender technique combined with Ayurvedic Agni (digestive fire) applied to the emotional mind.", "serial_dependencies": "Synthesizes Julien's complete step-by-step letting-go guide with Dr. K's clinical Samskara resolution.", "multimodal_cues": "Guided closed-eye breathing cues and tempo modulation."}, "curated_citations": [{"title": "The Magic Of Letting Go (A Step-By-Step Guide)", "video_id": "IiwvvV_xB-4", "channel": "JulienHimself", "timestamp": "05:00 - 24:45"}, {"title": "Stop Trying To Fix Your Traumatic Childhood", "video_id": "hxJKaG7clOo", "channel": "HealthyGamerGG", "timestamp": "38:20 - 52:10"}]}, {"id": "T03_FRICTIONLESS_TWO_MINUTE_INITIATION", "name": "Frictionless Two-Minute Initiation Protocol", "level": 3, "category": "Tactical Interventions & Protocols", "epistemic_authority": ["HealthyGamerGG"], "definition": "An executive dysfunction override protocol: reduce task starting friction below the amygdala's threat threshold by committing strictly to 120 seconds of engagement with zero outcome expectations.", "prerequisites": ["P03_DOPAMINE_HOMEOSTASIS", "S01_EXECUTIVE_DYSFUNCTION_TASK_PARALYSIS"], "manifests_as": [], "resolved_by": [], "gap_annotations": {"assumed_epistemology": "Cognitive Behavioral exposure therapy and James Clear's habit friction reduction principles.", "serial_dependencies": "Assumes prior recognition that procrastination is an emotion regulation failure, not a time-management failure.", "multimodal_cues": "Physical demonstrations of opening a notebook without picking up a pen."}, "curated_citations": [{"title": "Stop Trying To Fix Your Traumatic Childhood", "video_id": "hxJKaG7clOo", "channel": "HealthyGamerGG", "timestamp": "58:00 - 1:04:15"}]}, {"id": "T04_BOUNDARY_ENFORCEMENT_FRAMEWORK", "name": "Non-Defensive Boundary Enforcement (Anti-JADE)", "level": 3, "category": "Tactical Interventions & Protocols", "epistemic_authority": ["TheraminTrees"], "definition": "Establishing clear, non-negotiable interpersonal boundaries while strictly refusing to Justify, Argue, Defend, or Explain (Anti-JADE), preserving sovereign authority over one's decisions.", "prerequisites": ["P04_AUTONOMY_AWARENESS", "M01_DOUBLE_BIND_TRAP", "M03_COVERT_NARCISSISM_FOG"], "manifests_as": [], "resolved_by": [], "gap_annotations": {"assumed_epistemology": "Assertiveness training literature (Manuel J. Smith's When I Say No, I Feel Guilty) and systemic family boundaries.", "serial_dependencies": "Direct continuation of 'Resisting Emotional Blackmail'.", "multimodal_cues": "Comparison table contrasting defensive explanations with authoritative statements."}, "curated_citations": [{"title": "resisting emotional blackmail | boundaries against fog", "video_id": "PEexQAkhFpM", "channel": "TheraminTrees", "timestamp": "18:00 - 28:50"}, {"title": "giving up on fixing people | accepting unchangeable dynamics", "video_id": "mdDAHekq9yc", "channel": "TheraminTrees", "timestamp": "04:15 - 19:30"}]}, {"id": "T05_DOPAMINE_FASTING_RESET", "name": "Dopaminergic Recalibration Fast", "level": 3, "category": "Tactical Interventions & Protocols", "epistemic_authority": ["HealthyGamerGG"], "definition": "A 24-to-72 hour deliberate sensory deprivation and stimulus reduction protocol to up-regulate D2 receptors and reset the brain's hedonic zero-point.", "prerequisites": ["P03_DOPAMINE_HOMEOSTASIS", "M05_DOPAMINE_EXHAUSTION_LOOP"], "manifests_as": [], "resolved_by": [], "gap_annotations": {"assumed_epistemology": "Addiction medicine neuroadaptation and classical ascetic fasting traditions.", "serial_dependencies": "Assumes patient understanding that boredom is the healing mechanism, not a symptom of failure.", "multimodal_cues": "Timetable charts detailing permitted activities (walking, sitting, writing) vs banned stimuli."}, "curated_citations": [{"title": "Lindsay Clancy Trial Breakdown by Expert Psychiatrist (Dr.K)", "video_id": "joAreHuo1pQ", "channel": "HealthyGamerGG", "timestamp": "40:10 - 52:00"}]}, {"id": "T06_ATTACHMENT_DECOUPLING_INQUIRY", "name": "Attachment Decoupling & Pedestal Deconstruction", "level": 3, "category": "Tactical Interventions & Protocols", "epistemic_authority": ["HealthyGamerGG", "JulienHimself"], "definition": "A cognitive and somatic dismantling of romantic obsession: identifying what unmet emotional need the limerent object represents, withdrawing the projection, and validating the wounded child internally.", "prerequisites": ["M07_CONDITIONAL_WORTH_PROGRAMMING", "S03_LIMERENCE_FANTASY_FIXATION"], "manifests_as": [], "resolved_by": [], "gap_annotations": {"assumed_epistemology": "Internal Family Systems (IFS) unburdening and contemplative self-inquiry.", "serial_dependencies": "Directly resolves the pathology unpacked in 'Why You Should NEVER Confess Your Love'.", "multimodal_cues": "Two-chair visualization exercise separating the person from the projected aura."}, "curated_citations": [{"title": "Why You Should NEVER Confess Your Love", "video_id": "xHkcIRZa6lo", "channel": "HealthyGamerGG", "timestamp": "18:30 - 32:45"}, {"title": "The Fastest Way To Boost Your Self Esteem", "video_id": "pCZdJiGSk8g", "channel": "JulienHimself", "timestamp": "28:00 - 41:15"}]}, {"id": "T07_SHADOW_INTEGRATION_SURRENDER", "name": "Shadow Integration & Surrender of the Persona", "level": 3, "category": "Tactical Interventions & Protocols", "epistemic_authority": ["JulienHimself", "HealthyGamerGG"], "definition": "Consciously embracing and metabolizing the disowned 'shameful' or 'cringe' parts of the self, dismantling the defensive false persona, and resting in authentic groundedness.", "prerequisites": ["P02_SAKSHI_OBSERVER_STANCE", "M07_CONDITIONAL_WORTH_PROGRAMMING", "S02_GIFTED_BURNOUT"], "manifests_as": [], "resolved_by": [], "gap_annotations": {"assumed_epistemology": "Carl Jung's Shadow Integration and Eastern deconstruction of Maya (the illusion of the separate ego).", "serial_dependencies": "Follows Julien's 'Why Being Confident Feels CRINGE AF' and Dr. K's identity deconstruction.", "multimodal_cues": "Somatic release exercises where bodily tension is intentionally exaggerated and surrendered."}, "curated_citations": [{"title": "Why Being Confident Feels CRINGE AF", "video_id": "kOauN-_W2FQ", "channel": "JulienHimself", "timestamp": "18:20 - 33:00"}, {"title": "The Magic Of Letting Go (A Step-By-Step Guide)", "video_id": "IiwvvV_xB-4", "channel": "JulienHimself", "timestamp": "14:10 - 29:30"}]}];
+    const CRISES = [{"crisis_id": "CRISIS-01", "title": "Paralyzing Dread & Procrastination Before Initiating Simple Tasks", "symptom_node": "S01_EXECUTIVE_DYSFUNCTION_TASK_PARALYSIS", "underlying_mechanisms": ["M02_SAMSKARA_IMPRINTING", "M05_DOPAMINE_EXHAUSTION_LOOP"], "prerequisite_primitive": "P01_SOMATIC_INTEROCEPTION", "clinical_diagnosis": "Executive dysfunction induced by high dopamine desensitization combined with shame-based performance terror. The mind perceives starting the task as an emotional threat.", "triangulated_protocol": [{"step": 1, "phase": "Somatic Localization", "authority": "JulienHimself", "action": "Close your eyes for 60 seconds. Scan for the somatic knot in the throat, chest, or solar plexus. Refuse to engage with the cognitive excuses ('I'll do it later'); just feel the physical contraction."}, {"step": 2, "phase": "Amygdala De-Escalation", "authority": "HealthyGamerGG", "action": "Execute the 2-Minute Frictionless Entry: reduce the task requirement to opening the document or standing at the desk for 120 seconds with absolute permission to quit afterwards. The goal is passing the startup friction threshold."}, {"step": 3, "phase": "Decouple Worth from Output", "authority": "HealthyGamerGG & JulienHimself", "action": "Mentally recite: 'The outcome of this session has zero bearing on my worth as a human being.' Allow the work to be mediocre."}], "anti_patterns_to_avoid": ["Using social media or YouTube as a '5-minute break' before starting (triggers immediate dopamine depletion).", "Berating oneself with shame, which activates the amygdala and amplifies task avoidance."], "gap_warning": "Assumes basic distinction between clinical ADHD and emotional avoidance. If attention fails even with zero anxiety, evaluate tonic dopamine receptor depletion.", "primary_citations": [{"title": "Stop Trying To Fix Your Traumatic Childhood", "channel": "HealthyGamerGG", "video_id": "hxJKaG7clOo", "timestamp": "45:00 - 58:00"}, {"title": "The Magic Of Letting Go (A Step-By-Step Guide)", "channel": "JulienHimself", "video_id": "IiwvvV_xB-4", "timestamp": "08:15 - 16:30"}]}, {"crisis_id": "CRISIS-02", "title": "Passive-Aggressive Guilt-Tripping & Gaslighting from Family or Authorities", "symptom_node": "S04_TOXIC_GUILT_IDENTITY_FUSION", "underlying_mechanisms": ["M01_DOUBLE_BIND_TRAP", "M03_COVERT_NARCISSISM_FOG", "M04_GASLIGHTING_REALITY_DENIAL"], "prerequisite_primitive": "P04_AUTONOMY_AWARENESS", "clinical_diagnosis": "Covert narcissistic emotional blackmail leveraging Fear, Obligation, and Guilt (FOG) within a double-bind structure where any defense is framed as ungrateful hostility.", "triangulated_protocol": [{"step": 1, "phase": "Establish Anti-JADE Rule", "authority": "TheraminTrees", "action": "Do NOT Justify, Argue, Defend, or Explain. The moment you justify your boundary, you hand the aggressor conversational leverage to debate your right to exist independently."}, {"step": 2, "phase": "Grey Rock Flatlining", "authority": "TheraminTrees", "action": "Transition to informational starvation. Use neutral, calm, non-reactive phrases: 'I hear your perspective', 'That does not work for me', 'Okay'. Give zero emotional display."}, {"step": 3, "phase": "Metabolize Manufactured Guilt", "authority": "JulienHimself & Dr. K", "action": "Recognize the burning guilt sensation in your body as false responsibility. The guilt is not evidence of wrongdoing; it is the conditioned reflex of childhood compliance."}], "anti_patterns_to_avoid": ["Engaging in circular debates trying to make the abuser acknowledge their behavior.", "Apologizing just to 'keep the peace', which rewards manipulation and reinforces the double-bind."], "gap_warning": "Assumes physical safety and financial independence. In domestic dependency situations, covert placation must precede boundary enforcement.", "primary_citations": [{"title": "resisting emotional blackmail | boundaries against fog", "channel": "TheraminTrees", "video_id": "PEexQAkhFpM", "timestamp": "04:30 - 22:15"}, {"title": "losing (part 1) | relationship autopsy & parental narcissism", "channel": "TheraminTrees", "video_id": "jWLZfeKpIhg", "timestamp": "14:20 - 32:00"}]}, {"crisis_id": "CRISIS-03", "title": "Obsessive Limerence & Cognitive Preoccupation Over Romantic Approval", "symptom_node": "S03_LIMERENCE_FANTASY_FIXATION", "underlying_mechanisms": ["M02_SAMSKARA_IMPRINTING", "M07_CONDITIONAL_WORTH_PROGRAMMING"], "prerequisite_primitive": "P05_ATTACHMENT_NEEDS", "clinical_diagnosis": "Limerent fixation driven by intermittent reinforcement and the external projection of disowned self-worth onto an idealized romantic target (pedestalization).", "triangulated_protocol": [{"step": 1, "phase": "Strict Prohibition on Premature Confession", "authority": "HealthyGamerGG", "action": "Never dump your feelings onto the person in a dramatic confession. A romantic confession in limerence is not love; it is an unconscious demand for the other person to cure your existential void."}, {"step": 2, "phase": "Identify the Projected Quality", "authority": "JulienHimself", "action": "Ask: 'What does this person possess that I believe I lack?' (e.g., vitality, social ease, unshakeable confidence). Recognize that your obsession is with the projected quality, not the actual fallible human."}, {"step": 3, "phase": "Somatic Craving Digestion", "authority": "HealthyGamerGG & JulienHimself", "action": "When the urge to text or check their social media strikes, sit in stillness for 10 minutes. Feel the painful longing in the chest as an unresolved childhood hunger. Let it burn without acting."}], "anti_patterns_to_avoid": ["Constantly re-reading old text messages searching for hidden subtext.", "Seeking 'one final closure conversation' which only resets the addiction cycle."], "gap_warning": "External clinical foundation relies on Dorothy Tennov's limerence criteria. Distinct from genuine reciprocal romantic intimacy.", "primary_citations": [{"title": "Why You Should NEVER Confess Your Love", "channel": "HealthyGamerGG", "video_id": "xHkcIRZa6lo", "timestamp": "05:00 - 26:30"}, {"title": "The Fastest Way To Boost Your Self Esteem", "channel": "JulienHimself", "video_id": "pCZdJiGSk8g", "timestamp": "15:00 - 34:10"}]}, {"crisis_id": "CRISIS-04", "title": "Gifted Kid Burnout & Terror of Intellectual Challenge", "symptom_node": "S02_GIFTED_BURNOUT", "underlying_mechanisms": ["M06_INFANTILIZATION_CONTROL", "M07_CONDITIONAL_WORTH_PROGRAMMING"], "prerequisite_primitive": "P02_SAKSHI_OBSERVER_STANCE", "clinical_diagnosis": "Ego-identity fusion with effortless intelligence. When confronted with real-world difficulty, the individual avoids effort because struggling threatens their core identity as 'the smart one'.", "triangulated_protocol": [{"step": 1, "phase": "Ego Identity Decoupling", "authority": "HealthyGamerGG", "action": "Dismantle the 'Gifted' label. Recognize that intelligence was an innate genetic endowment, not a moral virtue. Switch identity from 'I am gifted' to 'I am a human building work capacity'."}, {"step": 2, "phase": "Tolerance of Frustration (Tapas)", "authority": "HealthyGamerGG", "action": "Reframe the uncomfortable sensation of being confused or struggling with a problem as the exact biological stimulus required for neuroplastic learning, rather than evidence of incompetence."}, {"step": 3, "phase": "Surrender the False Persona", "authority": "JulienHimself", "action": "Allow yourself to ask 'stupid' questions publicly. Practice looking foolish or unpolished to desensitize the ego's terror of imperfect performance."}], "anti_patterns_to_avoid": ["Procrastinating on projects so that if the result is mediocre, you can claim 'I didn't really try'.", "Resting on past academic laurels while falling behind on practical skills."], "gap_warning": "Assumes baseline educational attainment. Addresses the psychological overhang of high early expectations.", "primary_citations": [{"title": "Stop Overcorrecting Your Attachment Style (Viewer Interview)", "channel": "HealthyGamerGG", "video_id": "Ads8VOa0qKQ", "timestamp": "18:00 - 30:00"}, {"title": "Why Being Confident Feels CRINGE AF", "channel": "JulienHimself", "video_id": "kOauN-_W2FQ", "timestamp": "08:30 - 22:15"}]}, {"crisis_id": "CRISIS-05", "title": "Chronic People-Pleasing & Inability to Say 'No' Without Paralyzing Terror", "symptom_node": "S05_PEOPLE_PLEASING_FAWNING", "underlying_mechanisms": ["M01_DOUBLE_BIND_TRAP", "M03_COVERT_NARCISSISM_FOG"], "prerequisite_primitive": "P04_AUTONOMY_AWARENESS", "clinical_diagnosis": "Fawn trauma response where interpersonal boundary defense was historically punished, creating a compulsive reflex to sacrifice self-sovereignty for provisional social safety.", "triangulated_protocol": [{"step": 1, "phase": "Insert a Time Buffer", "authority": "TheraminTrees", "action": "Never agree to a request in real time. Default to the standard buffer response: 'Let me check my calendar and get back to you.' This severs the automatic fawning reflex."}, {"step": 2, "phase": "Declarative Refusal Without Apology", "authority": "TheraminTrees", "action": "State your refusal in clean declarative English: 'I am unable to take that on.' Do not append apologies, fake excuses, or long justifications that invite pushback."}, {"step": 3, "phase": "Endure the Disapproval Shockwave", "authority": "JulienHimself", "action": "When the other person displays irritation or coldness, sit with the somatic dread in your solar plexus. Realize that their displeasure will not kill you; you are an adult, not a helpless child."}], "anti_patterns_to_avoid": ["Inventing elaborate lies about illnesses or scheduling conflicts to justify a simple refusal.", "Compensating for a refusal by offering twice as much help in another area."], "gap_warning": "Distinguishes between benevolent generosity and fear-driven fawning. Generosity is given freely; fawning is coerced by terror.", "primary_citations": [{"title": "bowing to narcissists | appeasement & institutional enabling", "channel": "TheraminTrees", "video_id": "qjZ3f-IXEXU", "timestamp": "05:15 - 19:30"}, {"title": "resisting emotional blackmail | boundaries against fog", "channel": "TheraminTrees", "video_id": "PEexQAkhFpM", "timestamp": "12:00 - 26:00"}]}, {"crisis_id": "CRISIS-06", "title": "Chronic Brain Fog, Apathy, and Numbness from Digital Overstimulation", "symptom_node": "S06_EXISTENTIAL_ANHEDONIA", "underlying_mechanisms": ["M02_SAMSKARA_IMPRINTING", "M05_DOPAMINE_EXHAUSTION_LOOP"], "prerequisite_primitive": "P03_DOPAMINE_HOMEOSTASIS", "clinical_diagnosis": "Hypo-dopaminergic state resulting from chronic high-stimulation inputs (short-form video, hyper-palatable media, gaming) suppressing natural curiosity and effort drive.", "triangulated_protocol": [{"step": 1, "phase": "24-Hour Digital Sensory Fast", "authority": "HealthyGamerGG", "action": "Eliminate all screens, headphones, music, podcasts, and artificial stimulation for 24 hours. The rule is simple: you may sit, stare at a wall, walk, eat plain food, or write with pen and paper."}, {"step": 2, "phase": "Welcome the Boredom Sensation", "authority": "HealthyGamerGG & JulienHimself", "action": "Recognize that acute restlessness and boredom are the literal physical sensations of your dopamine receptors up-regulating. Do not escape the boredom; embrace it as medicine."}, {"step": 3, "phase": "Gradual Re-entry with Friction", "authority": "HealthyGamerGG", "action": "Reintroduce digital tools with strict physical barriers (app blockers, phones kept outside the bedroom, greyscale mode enabled)."}], "anti_patterns_to_avoid": ["Attempting a 'cheat hour' during the dopamine fast.", "Using passive audio (podcasts, background noise) to mask internal stillness."], "gap_warning": "Assumes neurotypical or ADHD baseline. Not a substitute for clinical psychiatric treatment of major depressive episodes.", "primary_citations": [{"title": "Lindsay Clancy Trial Breakdown by Expert Psychiatrist (Dr.K)", "channel": "HealthyGamerGG", "video_id": "joAreHuo1pQ", "timestamp": "32:00 - 48:30"}, {"title": "The Magic Of Letting Go (A Step-By-Step Guide)", "channel": "JulienHimself", "video_id": "IiwvvV_xB-4", "timestamp": "04:00 - 18:00"}]}];
+
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: 'dark',
+      securityLevel: 'loose',
+      flowchart: {
+        useMaxWidth: false,
+        htmlLabels: true,
+        curve: 'basis'
+      }
+    });
+
+    function switchView(viewName) {
+      document.querySelectorAll('.view-panel').forEach(el => el.classList.remove('active'));
+      document.querySelectorAll('.nav-btn').forEach(el => el.classList.remove('active'));
+
+      document.getElementById('view-' + viewName).classList.add('active');
+      event.target.classList.add('active');
+
+      if (viewName === 'matrix') renderMatrix();
+      if (viewName === 'catalog') renderCatalog();
+    }
+
+    function inspectNode(nodeId) {
+      const n = DAG_NODES.find(item => item.id === nodeId);
+      if (!n) return;
+
+      document.getElementById('inspector-placeholder').style.display = 'none';
+      document.getElementById('inspector-content').style.display = 'block';
+
+      const badgeContainer = document.getElementById('node-badge-container');
+      badgeContainer.innerHTML = `<span class="badge badge-${n.level}">Level ${n.level}: ${n.category}</span>`;
+
+      document.getElementById('node-title').textContent = n.name;
+      document.getElementById('node-authority').textContent = "Contributing Authority: " + n.epistemic_authority.join(', ');
+      document.getElementById('node-definition').textContent = n.definition;
+
+      const gaps = n.gap_annotations || {};
+      document.getElementById('node-epistemology').textContent = gaps.assumed_epistemology || "None specified";
+      document.getElementById('node-serial').textContent = gaps.serial_dependencies || "Self-contained";
+      document.getElementById('node-multimodal').textContent = gaps.multimodal_cues || "Audio verbatim";
+
+      document.getElementById('node-prereqs').textContent = n.prerequisites.length ? n.prerequisites.join(', ') : "None (Root Primitive)";
+      document.getElementById('node-symptoms').textContent = n.manifests_as.length ? n.manifests_as.join(', ') : "Direct Resolution Node";
+      document.getElementById('node-protocols').textContent = n.resolved_by.length ? n.resolved_by.join(', ') : "Protocol Level Node";
+
+      const citDiv = document.getElementById('node-citations');
+      citDiv.innerHTML = '';
+      (n.curated_citations || []).forEach(c => {
+        const card = document.createElement('div');
+        card.className = 'citation-card';
+        card.innerHTML = `
+          <div><a href="https://www.youtube.com/watch?v=${c.video_id}" target="_blank">${c.title}</a></div>
+          <div style="color: var(--text-muted); margin-top: 4px;">Channel: <strong>${c.channel}</strong> | Timestamps: <code>${c.timestamp}</code></div>
+        `;
+        citDiv.appendChild(card);
+      });
+    }
+
+    function renderMatrix() {
+      const container = document.getElementById('matrix-container');
+      if (container.children.length > 0) return;
+
+      CRISES.forEach(c => {
+        const card = document.createElement('div');
+        card.className = 'crisis-card';
+        card.innerHTML = `
+          <div class="crisis-header">
+            <div>
+              <span class="badge badge-2">${c.crisis_id}</span>
+              <h3 style="margin-top: 6px;">${c.title}</h3>
+            </div>
+            <span style="font-size: 0.75rem; color: var(--text-muted);">Primitive: <code>${c.prerequisite_primitive}</code></span>
+          </div>
+          <p style="font-size: 0.85rem; color: #cbd5e1; margin-bottom: 12px;"><strong>Diagnosis:</strong> ${c.clinical_diagnosis}</p>
+          <div class="callout-box" style="border-left-color: #f43f5e; margin-bottom: 16px;">
+            <p><strong>⚠️ Applicability Boundary:</strong> ${c.gap_warning}</p>
+          </div>
+          <div style="font-size: 0.8rem; font-weight: 700; text-transform: uppercase; color: var(--text-muted); margin-bottom: 6px;">Triangulated Multi-Creator Protocol</div>
+          ${c.triangulated_protocol.map(s => `
+            <div class="protocol-step">
+              <div class="protocol-step-title">Step ${s.step}: ${s.phase} <span style="font-size: 0.75rem; color: var(--text-muted);">(${s.authority})</span></div>
+              <p>${s.action}</p>
+            </div>
+          `).join('')}
+          <div style="margin-top: 16px;">
+            <div style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; color: #fda4af;">Anti-Patterns to Avoid</div>
+            ${c.anti_patterns_to_avoid.map(ap => `<p class="anti-pattern">❌ ${ap}</p>`).join('')}
+          </div>
+        `;
+        container.appendChild(card);
+      });
+    }
+
+    function renderCatalog() {
+      const list = document.getElementById('catalog-list');
+      if (list.children.length > 0) return;
+      list.innerHTML = '<p style="color: var(--text-muted);">See Master Markdown Compendium for complete tabular masterclass registry across all 142 videos.</p>';
+    }
+
+    // Hook mermaid click handlers once rendered
+    window.addEventListener('DOMContentLoaded', () => {
+      setTimeout(() => {
+        document.querySelectorAll('.node').forEach(nodeEl => {
+          nodeEl.style.cursor = 'pointer';
+          nodeEl.addEventListener('click', () => {
+            const id = nodeEl.id.split('-')[1] || nodeEl.id;
+            inspectNode(id);
+          });
+        });
+      }, 1200);
+    });
+  </script>
+</body>
+</html>

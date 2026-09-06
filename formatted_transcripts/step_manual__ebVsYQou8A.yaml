@@ -1,0 +1,10 @@
+video_id: _ebVsYQou8A
+title: Programming Curves
+channel: ThePrimeagen
+handle: '@ThePrimeagen'
+url: https://www.youtube.com/watch?v=_ebVsYQou8A
+duration: 15 min
+published: '2026-08-28 03:04:26'
+type: video
+transcript: '{"content":"\n[0.12s] every language has a learning curve like\n[2.08s] when you use go the learning curve is\n[4.24s] very very simple it''s like you have to\n[6.04s] get used to some of the things and then\n[7.359s] you do this and then you discover some\n[8.679s] of Go''s warts and then boom you''re done\n[11.44s] right it''s pretty straightforward uh\n[13.559s] obviously like JavaScript and typescript\n[15.639s] they''re also kind of a confusing\n[17.439s] language so they do something that''s\n[18.76s] like this for a little bit and then you\n[19.96s] really get it and then there''s some\n[21.4s] other hard stuff and it does this for a\n[23.199s] while but mostly it''s a pretty easy\n[24.92s] language but rust on the other hand is\n[27.08s] where things go completely wrong so with\n[29.64s] rust the learning curve looks something\n[31.92s] like this you use it and you do\n[33.16s] single-threaded Rust and you learn about\n[35.04s] the borrow Checker and you''re like ah\n[36.719s] this is easy it''s not that bad and then\n[38.84s] you try async and you realize that you\n[41.76s] can''t do it and then you spend the next\n[43.44s] two years of your life trying to\n[45.68s] understand rust only to find out that\n[48.199s] you actually truly should have just\n[49.92s] learned hll"}'
+timestamps: []

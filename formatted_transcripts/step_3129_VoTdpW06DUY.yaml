@@ -1,0 +1,9 @@
+video_id: VoTdpW06DUY
+title: Martin Kleppmann also hated the CAP theorem
+channel: The Pragmatic Engineer
+handle: '@pragmaticengineer'
+url: https://www.youtube.com/watch?v=VoTdpW06DUY
+duration: '27:42'
+type: video
+transcript: One thing we were just talking about before we started is the CAP theorem and how you also had a similarly weird relationship with it. >> It's a pretty simple theorem described awkwardly sometimes. You have three choices and you can pick two of three. There is consistency. That's data consistency. So in like a distributed system where you have data that's partitioned in different regions. It can go out of sync. And then there's availability where both servers available to read or maybe one went down. [music] And then the third one is partition tolerance. Maybe the system becomes disconnected. How is it going to behave? The two out of three framing is used a lot. It's not super accurate. And the entire theorem is very incomplete. And so CAP theorem felt hand-wavy to me. I didn't really like that. But later on I felt so validated when I saw a blog post from Martin Kleppmann talking about how much he didn't like CAP theorem. And it was actually a little bit controversial. There were plenty of smart people in the comments that said that maybe he's technically right but maybe he's being a little bit nitpicky. I just felt very validated that somebody like him agreed with me.
+timestamps: [[0, 0], [37, 1], [78, 4], [113, 6], [135, 7], [177, 9], [213, 11], [252, 13], [286, 14], [324, 16], [358, 17], [399, 19], [432, 20], [464, 22], [500, 24], [540, 26], [578, 29], [619, 30], [659, 32], [700, 35], [739, 37], [780, 39], [820, 41], [858, 44], [899, 47], [940, 49], [969, 50], [1005, 51], [1044, 53], [1082, 55], [1122, 57], [1163, 58]]

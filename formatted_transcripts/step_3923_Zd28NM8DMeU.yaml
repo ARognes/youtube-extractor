@@ -1,0 +1,9 @@
+video_id: Zd28NM8DMeU
+title: Stop logging raw text
+channel: Boot dev
+handle: '@bootdotdev'
+url: https://www.youtube.com/watch?v=Zd28NM8DMeU
+duration: '21:24'
+type: video
+transcript: Structured logging is nothing new, but you might not know that looking at the ad-hoc logging seen in most codebases. For years, Go developers have been using third-party structured logging libraries like Logrus, Zerolog, and Zap. Fortunately, since 2023, we can now use the log/slog package included in the standard library. But, why bother? Structured logging makes your logs easier to search, easier to aggregate, and easier to read and reason about. Once you've experienced good structured logging, you'll never want to go back to the old ad-hoc way of unstructured, disorganized logs. Structured logs in Go give you severities or levels such as error, info, debug, or even super duper critical if you want for easy searching and filtering. But, the biggest defining factor of structured logs is their key-value pairs as opposed to arbitrary text. Instead of the line "file foo.text not found", we can have key-value pairs to describe what happened in an easily parsable and storable way. Yes, you can still include human-readable error messages for convenience. >> [music]
+timestamps: [[0, 0], [39, 2], [78, 3], [117, 5], [158, 8], [199, 10], [230, 12], [270, 15], [307, 17], [342, 19], [377, 21], [416, 23], [453, 25], [493, 27], [534, 28], [570, 30], [611, 33], [649, 35], [689, 38], [729, 40], [770, 42], [805, 43], [845, 45], [886, 48], [926, 50], [965, 52], [1005, 54], [1040, 55], [1066, 58]]

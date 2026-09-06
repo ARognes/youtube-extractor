@@ -1,0 +1,9 @@
+video_id: EVqtBoU3pSw
+title: Why zellij not tmux
+channel: typecraft
+handle: '@typecraft_dev'
+url: https://www.youtube.com/watch?v=EVqtBoU3pSw
+duration: '14:48'
+type: video
+transcript: So we're talking about Zellij and someone asks, is Zellij the Tmux alternative or why not just use Tmux? And there's a couple of reasons for that. Let me unpack it. Zellij is similar to Tmux. It's almost the same thing. It's a terminal multiplexer and it does the same things Tmux does. However, Zellij has one cool feature that Tmux doesn't or at least it doesn't out of the box. If I go to my command line and I just type Zellij and hit enter, I'm greeted with what looks like a lot of noise. However, this is all extremely helpful. You see at the bottom I have this pane, this little bar that tells me what hotkeys I can push. So if I hit control P, it puts me into a sort of different mode. So this puts me into pane mode. So now it tells me the other things I can push. If I hit N rather for new, that creates a new pane for me. Now if I hit control P again, I'm in pane mode. So if I do the HJKL keys, I go left and right or up and down if there's a pane above or below. And then I hit control P or enter to exit pane mode. And this is the major differentiator between Zellij and Tmux.
+timestamps: [[0, 0], [34, 1], [67, 3], [105, 6], [141, 7], [175, 9], [213, 11], [252, 13], [287, 14], [324, 17], [365, 19], [403, 21], [439, 22], [479, 24], [516, 27], [557, 29], [596, 31], [636, 33], [676, 36], [716, 38], [756, 40], [797, 42], [838, 44], [876, 46], [913, 49], [954, 51], [992, 52], [1030, 55], [1067, 57]]

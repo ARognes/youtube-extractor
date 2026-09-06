@@ -1,0 +1,9 @@
+video_id: mmxtoUnuNho
+title: 'G- and G+ — Vim commands you NEED TO KNOW #8'
+channel: typecraft
+handle: '@typecraft_dev'
+url: https://www.youtube.com/watch?v=mmxtoUnuNho
+duration: '13:12'
+type: video
+transcript: so let's say you're a neovim and you're making changes to a file let's say you insert something on this line like user. saave and then you realize you don't want it there so you undo and then go down here and type user. saave again now you realize you actually want it in the previous position so you type undo and undo but you're already at the oldest change there's no more saves what happened well neovim stores your changes in trees and when you undo something you go back up a node and Branch off into another node of the tree U the U command will only Traverse the main part of the tree in order to go back through all of the nodes in the whole entire tree you want to use G minus so if instead of U I use G minus G minus it goes back and traverses the whole entire node tree of all of my saves in Vim so if you ever lost something that you thought you wanted try G minus it'll undo it's like undo on steroids I hope this tip helps and hey thanks nerds
+timestamps: [[0, 0], [40, 1], [79, 3], [120, 6], [157, 8], [195, 11], [236, 13], [276, 15], [315, 17], [353, 20], [387, 22], [428, 24], [469, 27], [507, 29], [548, 32], [588, 34], [628, 36], [667, 38], [708, 41], [745, 44], [785, 47], [823, 49], [859, 50], [899, 52], [938, 54]]
