@@ -1,0 +1,35 @@
+video_id: BU1THQZtFuc
+title: Dr. K Diagnoses Lord of the Rings Characters (Pt. 2)
+channel: HealthyGamerGG
+url: https://www.youtube.com/watch?v=BU1THQZtFuc
+duration: 02:02
+word_count: 478
+first_order_tags:
+- tag: vtag_boundary_assertion_without_defense
+  bound_second_order: boundary_assertion_without_defense
+  timestamp: 00:02
+  seconds: 2.1
+  context: '>> I would say no. It doesn''t appear to'
+- tag: vtag_ahamkara_ego_identity
+  bound_second_order: ahamkara_ego_identity
+  timestamp: 00:43
+  seconds: 43.5
+  context: narcissistic ego, which there's going to
+second_order_tags:
+- ahamkara_ego_identity
+- boundary_assertion_without_defense
+- clinical_lecture
+- developmental_and_childhood_trauma
+- relational_and_attachment_psychology
+third_order_tags:
+- T3_AUTONOMY_SOVEREIGNTY
+- T3_SHAME_GUILT_EGO_PRESERVATION
+key_phrases:
+- narcissistic father
+- elven society
+- okay does
+- does gandalf
+- gandalf smoke
+- smoke much
+summary_hook: Explores relational_and_attachment_psychology, developmental_and_childhood_trauma,
+  ahamkara_ego_identity.

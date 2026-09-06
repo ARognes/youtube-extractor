@@ -1,0 +1,32 @@
+video_id: -u7cN4IK67Q
+title: A Common Feature of DID & Derealization
+channel: HealthyGamerGG
+url: https://www.youtube.com/watch?v=-u7cN4IK67Q
+duration: 01:17
+word_count: 248
+first_order_tags:
+- tag: vtag_ahamkara_ego_identity
+  bound_second_order: ahamkara_ego_identity
+  timestamp: 00:01
+  seconds: 1.5
+  context: is that both dissociative identity
+- tag: vtag_dissociation_and_derealization
+  bound_second_order: dissociation_and_derealization
+  timestamp: 00:01
+  seconds: 1.5
+  context: is that both dissociative identity
+second_order_tags:
+- ahamkara_ego_identity
+- clinical_psychiatry
+- dissociation_and_derealization
+third_order_tags:
+- T3_EMOTIONAL_METABOLISM
+- T3_SHAME_GUILT_EGO_PRESERVATION
+key_phrases:
+- dissociative identity
+- depersonalization derealization
+- identity disorder
+- derealization disorder
+- multiple personalities
+- personalities dissociative
+summary_hook: Explores clinical_psychiatry, ahamkara_ego_identity, dissociation_and_derealization.

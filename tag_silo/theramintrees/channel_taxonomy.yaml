@@ -1,0 +1,127 @@
+channel: theramintrees
+order: 2
+scope: channel_bound
+total_videos_analyzed: 29
+total_spoken_words: 118789
+compiled_at: '2026-09-05T20:09:53.258879'
+second_order_tags:
+  systemic_family_therapy:
+    tag: systemic_family_therapy
+    channel: theramintrees
+    video_occurrences: 20
+    prevalence_pct: 69.0
+  buffer_response_delay:
+    tag: buffer_response_delay
+    channel: theramintrees
+    video_occurrences: 13
+    prevalence_pct: 44.8
+  covert_psychological_manipulation:
+    tag: covert_psychological_manipulation
+    channel: theramintrees
+    video_occurrences: 13
+    prevalence_pct: 44.8
+  toxic_guilt_and_false_responsibility:
+    tag: toxic_guilt_and_false_responsibility
+    channel: theramintrees
+    video_occurrences: 12
+    prevalence_pct: 41.4
+  cognitive_autonomy_and_individuation:
+    tag: cognitive_autonomy_and_individuation
+    channel: theramintrees
+    video_occurrences: 10
+    prevalence_pct: 34.5
+  parental_invalidation_and_erasure:
+    tag: parental_invalidation_and_erasure
+    channel: theramintrees
+    video_occurrences: 10
+    prevalence_pct: 34.5
+  relational_ethics_and_boundaries:
+    tag: relational_ethics_and_boundaries
+    channel: theramintrees
+    video_occurrences: 9
+    prevalence_pct: 31.0
+  dogmatic_indoctrination_and_cults:
+    tag: dogmatic_indoctrination_and_cults
+    channel: theramintrees
+    video_occurrences: 8
+    prevalence_pct: 27.6
+  family_estrangement_and_grief:
+    tag: family_estrangement_and_grief
+    channel: theramintrees
+    video_occurrences: 8
+    prevalence_pct: 27.6
+  loss_of_sovereignty_and_agency:
+    tag: loss_of_sovereignty_and_agency
+    channel: theramintrees
+    video_occurrences: 7
+    prevalence_pct: 24.1
+  relationship_autopsy:
+    tag: relationship_autopsy
+    channel: theramintrees
+    video_occurrences: 6
+    prevalence_pct: 20.7
+  covert_narcissism_and_victimhood:
+    tag: covert_narcissism_and_victimhood
+    channel: theramintrees
+    video_occurrences: 6
+    prevalence_pct: 20.7
+  fog_fear_obligation_guilt:
+    tag: fog_fear_obligation_guilt
+    channel: theramintrees
+    video_occurrences: 5
+    prevalence_pct: 17.2
+  tribalism_and_in_group_isolation:
+    tag: tribalism_and_in_group_isolation
+    channel: theramintrees
+    video_occurrences: 3
+    prevalence_pct: 10.3
+  scripted_video_essay:
+    tag: scripted_video_essay
+    channel: theramintrees
+    video_occurrences: 3
+    prevalence_pct: 10.3
+  false_equivalence_fallacy:
+    tag: false_equivalence_fallacy
+    channel: theramintrees
+    video_occurrences: 3
+    prevalence_pct: 10.3
+  cognitive_rumination_mental_loops:
+    tag: cognitive_rumination_mental_loops
+    channel: theramintrees
+    video_occurrences: 3
+    prevalence_pct: 10.3
+  infantilisation_forced_dependency:
+    tag: infantilisation_forced_dependency
+    channel: theramintrees
+    video_occurrences: 3
+    prevalence_pct: 10.3
+  compulsive_people_pleasing_appeasement:
+    tag: compulsive_people_pleasing_appeasement
+    channel: theramintrees
+    video_occurrences: 3
+    prevalence_pct: 10.3
+  gaslighting_reality_denial:
+    tag: gaslighting_reality_denial
+    channel: theramintrees
+    video_occurrences: 3
+    prevalence_pct: 10.3
+  double_bind_communicative_trap:
+    tag: double_bind_communicative_trap
+    channel: theramintrees
+    video_occurrences: 3
+    prevalence_pct: 10.3
+  channel_editorial_memo:
+    tag: channel_editorial_memo
+    channel: theramintrees
+    video_occurrences: 2
+    prevalence_pct: 6.9
+  weaponised_and_compelled_love:
+    tag: weaponised_and_compelled_love
+    channel: theramintrees
+    video_occurrences: 2
+    prevalence_pct: 6.9
+  giving_up_on_fixing_people:
+    tag: giving_up_on_fixing_people
+    channel: theramintrees
+    video_occurrences: 1
+    prevalence_pct: 3.4

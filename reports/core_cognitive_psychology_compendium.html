@@ -1,0 +1,1207 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>MACE Archival Compendium: Cognitive Psychology</title>
+        <style>
+    @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@700&family=Inter:wght@300;400;500;600;700&family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&display=swap');
+
+    @page {
+        size: letter;
+        margin: 20mm 18mm 22mm 18mm;
+        @bottom-right {
+            content: "Page " counter(page);
+            font-family: 'Inter', sans-serif;
+            font-size: 8.5pt;
+            color: #64748b;
+        }
+        @top-right {
+            content: "MACE Archival Compendium: Cognitive Psychology";
+            font-family: 'Inter', sans-serif;
+            font-size: 8pt;
+            color: #94a3b8;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+    }
+
+    body {
+        font-family: 'Merriweather', serif;
+        font-size: 10pt;
+        line-height: 1.65;
+        color: #1e293b;
+        background: #ffffff;
+        margin: 0;
+        padding: 0;
+    }
+
+    .cover-page {
+        page-break-after: always;
+        height: 90vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        border-bottom: 2px solid #0f172a;
+        padding: 40px 20px;
+    }
+
+    .cover-badge {
+        display: inline-block;
+        background: #0f172a;
+        color: #38bdf8;
+        font-family: 'Inter', sans-serif;
+        font-size: 9pt;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
+        padding: 6px 14px;
+        border-radius: 4px;
+        margin-bottom: 24px;
+    }
+
+    .cover-title {
+        font-family: 'Cinzel', serif;
+        font-size: 32pt;
+        line-height: 1.15;
+        color: #0f172a;
+        margin: 0 0 16px 0;
+    }
+
+    .cover-subtitle {
+        font-family: 'Inter', sans-serif;
+        font-size: 14pt;
+        font-weight: 400;
+        color: #475569;
+        margin: 0 0 36px 0;
+        line-height: 1.4;
+    }
+
+    .cover-meta-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 16px;
+        font-family: 'Inter', sans-serif;
+        border-top: 1px solid #cbd5e1;
+        padding-top: 24px;
+        margin-top: auto;
+    }
+
+    .meta-box {
+        font-size: 9pt;
+    }
+    .meta-label {
+        color: #64748b;
+        font-size: 8pt;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        font-weight: 600;
+    }
+    .meta-val {
+        font-weight: 700;
+        color: #0f172a;
+        margin-top: 2px;
+    }
+
+    .page-break {
+        page-break-after: always;
+    }
+
+    h1, h2, h3, h4 {
+        font-family: 'Inter', sans-serif;
+        color: #0f172a;
+    }
+
+    h1 {
+        font-size: 20pt;
+        border-bottom: 2px solid #0f172a;
+        padding-bottom: 8px;
+        margin-top: 32px;
+        margin-bottom: 16px;
+        page-break-after: avoid;
+    }
+
+    h2 {
+        font-size: 14pt;
+        color: #0369a1;
+        margin-top: 24px;
+        margin-bottom: 12px;
+        page-break-after: avoid;
+    }
+
+    h3 {
+        font-size: 11pt;
+        color: #0f172a;
+        margin-top: 18px;
+        margin-bottom: 8px;
+        page-break-after: avoid;
+    }
+
+    p {
+        margin: 0 0 12px 0;
+    }
+
+    blockquote {
+        border-left: 3px solid #0284c7;
+        margin: 16px 0;
+        padding: 8px 16px;
+        background: #f0f9ff;
+        font-style: italic;
+        color: #0369a1;
+        font-size: 9.5pt;
+        page-break-inside: avoid;
+    }
+
+    .callout-box {
+        background: #f8fafc;
+        border: 1px solid #e2e8f0;
+        border-radius: 6px;
+        padding: 14px 18px;
+        margin: 16px 0;
+        page-break-inside: avoid;
+    }
+
+    .dictionary-term {
+        margin-bottom: 10px;
+        font-size: 9.5pt;
+    }
+    .dictionary-term strong {
+        color: #0f172a;
+        font-family: 'Inter', sans-serif;
+    }
+
+    .author-badge {
+        display: inline-block;
+        background: #e0f2fe;
+        color: #0369a1;
+        font-family: 'Inter', sans-serif;
+        font-size: 7.5pt;
+        font-weight: 700;
+        padding: 1px 6px;
+        border-radius: 3px;
+        margin-left: 6px;
+    }
+
+    .catalog-item {
+        border-bottom: 1px solid #e2e8f0;
+        padding: 12px 0;
+        page-break-inside: avoid;
+    }
+    .catalog-title {
+        font-family: 'Inter', sans-serif;
+        font-size: 10pt;
+        font-weight: 700;
+        color: #0f172a;
+        margin-bottom: 4px;
+    }
+    .catalog-meta {
+        font-family: 'Inter', sans-serif;
+        font-size: 8pt;
+        color: #64748b;
+        margin-bottom: 6px;
+    }
+    .catalog-synopsis {
+        font-size: 9pt;
+        color: #334155;
+        margin: 0;
+        font-style: italic;
+    }
+    </style>
+    </head>
+    <body>
+        <!-- COVER PAGE -->
+        <div class="cover-page">
+            <div class="cover-badge">MACE Archival Core Edition</div>
+            <h1 class="cover-title">Cognitive Psychology &amp; Emotional Processing</h1>
+            <p class="cover-subtitle">Deconstructing Covert Manipulation, Unresolved Emotional Trauma, and Cognitive Autonomy</p>
+            
+            <div class="cover-meta-grid">
+                <div class="meta-box">
+                    <div class="meta-label">Domain Identifier</div>
+                    <div class="meta-val">core_cognitive_psychology</div>
+                </div>
+                <div class="meta-box">
+                    <div class="meta-label">Archived Masterclasses</div>
+                    <div class="meta-val">142 Videos Analyzed</div>
+                </div>
+                <div class="meta-box">
+                    <div class="meta-label">Total Spoken Volume</div>
+                    <div class="meta-val">291,309 Words</div>
+                </div>
+                <div class="meta-box">
+                    <div class="meta-label">Contributing Authorities</div>
+                    <div class="meta-val">TheraminTrees, Dr. K, JulienHimself, Joe Hudson</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- PART I -->
+        <h1>PART I: Executive Distillation &amp; First Principles</h1>
+        <p>This section outlines the foundational axioms and non-negotiable laws governing interpersonal manipulation, subconscious trauma storage, and executive recovery.</p>
+
+        <h2>1. Foundational Axioms</h2>
+    <h3>Contributing Authority: HealthyGamerGG</h3><ul><li><strong>Samskaras & Emotional Memory:</strong> Unprocessed past emotional experiences create unconscious behavioral patterns (Samskaras) that dictate current anxiety and burnout.</li><li><strong>Dopamine Detox & Motivation:</strong> Motivation is not a willpower issue; it is a neurological baseline setting dictated by high-stimulation digital inputs.</li><li><strong>Mindful Observation (Sakshi):</strong> Healing begins by becoming the neutral observer of thoughts rather than identifying with or reacting to them.</li></ul><h3>Contributing Authority: JulienHimself</h3><ul><li><strong>Core Educational Synthesis:</strong> Structure complex concepts into actionable mental models and step-by-step frameworks.</li></ul><h3>Contributing Authority: TheraminTrees</h3><ul><li><strong>Covert Manipulation & Double-Binds:</strong> Manipulators construct contradictory demands (double-binds) where any response is framed as a failure, forcing compliance.</li><li><strong>Dogmatic Indoctrination Deconstruction:</strong> Authoritarian structures rely on unexamined shame, black-and-white framing, and isolation from external validation.</li><li><strong>Cognitive Autonomy & Boundary Defense:</strong> Autonomy requires establishing non-negotiable personal boundaries and rejecting emotional blackmail.</li></ul><h2>2. Mental Model &amp; Terminology Dictionary</h2>
+        <div class="dictionary-term">
+            <strong>Ahamkara</strong> <span class="author-badge">HealthyGamerGG</span>: The ego-identity mechanism that defends self-image at the expense of growth.
+        </div>
+        
+        <div class="dictionary-term">
+            <strong>Concept Mapping</strong> <span class="author-badge">JulienHimself</span>: Linking foundational ideas into a unified knowledge structure.
+        </div>
+        
+        <div class="dictionary-term">
+            <strong>Covert Narcissism</strong> <span class="author-badge">TheraminTrees</span>: Passive-aggressive, victim-framed manipulation designed to extract compliance while evading accountability.
+        </div>
+        
+        <div class="dictionary-term">
+            <strong>Double-Bind</strong> <span class="author-badge">TheraminTrees</span>: A psychological scenario where a person receives two conflicting demands, making compliance impossible.
+        </div>
+        
+        <div class="dictionary-term">
+            <strong>Emotional Blackmail</strong> <span class="author-badge">TheraminTrees</span>: Using fear, obligation, and guilt (FOG) to manipulate behavior.
+        </div>
+        
+        <div class="dictionary-term">
+            <strong>Executive Dysfunction</strong> <span class="author-badge">HealthyGamerGG</span>: Difficulty initiating, planning, or completing tasks due to dopamine dysregulation.
+        </div>
+        
+        <div class="dictionary-term">
+            <strong>Infantilization</strong> <span class="author-badge">TheraminTrees</span>: Treating autonomous adults as helpless children to maintain power and control.
+        </div>
+        
+        <div class="dictionary-term">
+            <strong>Limerence</strong> <span class="author-badge">HealthyGamerGG</span>: An involuntary state of obsessive romantic focus and cognitive preoccupation.
+        </div>
+        
+        <div class="dictionary-term">
+            <strong>Samskara</strong> <span class="author-badge">HealthyGamerGG</span>: An emotional scar or memory trace that distorts present perception and impulse.
+        </div>
+        
+        <h2>3. Tactical Action Playbooks</h2>
+    
+            <div class="callout-box">
+                <h4 style="margin:0 0 8px 0; color:#0369a1;">📋 Dr. K's Emotional Processing Protocol <span class="author-badge">HealthyGamerGG</span></h4>
+                <ol style="margin:0; padding-left:20px; font-size:9.5pt;">
+            <li style='margin-bottom:4px;'>Notice the physiological emotion in the body without labeling it good or bad.</li><li style='margin-bottom:4px;'>Trace the trigger back to the underlying fear or unmet need.</li><li style='margin-bottom:4px;'>Sit with the uncomfortable sensation (digest the Samskara) without seeking immediate digital distraction.</li><li style='margin-bottom:4px;'>Reframe the cognitive belief with adult perspective and agency.</li></ol></div>
+            <div class="callout-box">
+                <h4 style="margin:0 0 8px 0; color:#0369a1;">📋 ADHD & Gifted Burnout Recovery <span class="author-badge">HealthyGamerGG</span></h4>
+                <ol style="margin:0; padding-left:20px; font-size:9.5pt;">
+            <li style='margin-bottom:4px;'>Lower baseline stimulation by reducing instant-dopamine inputs.</li><li style='margin-bottom:4px;'>Break tasks down to friction-free micro-steps (e.g. 2-minute rule).</li><li style='margin-bottom:4px;'>Separate self-worth from achievement output.</li><li style='margin-bottom:4px;'>Practice daily non-directed meditation (e.g. Trataka or Nadi Shodhana).</li></ol></div>
+            <div class="callout-box">
+                <h4 style="margin:0 0 8px 0; color:#0369a1;">📋 General Domain Application <span class="author-badge">JulienHimself</span></h4>
+                <ol style="margin:0; padding-left:20px; font-size:9.5pt;">
+            <li style='margin-bottom:4px;'>Extract key principle</li><li style='margin-bottom:4px;'>Apply in real-world context</li><li style='margin-bottom:4px;'>Evaluate outcome</li></ol></div>
+            <div class="callout-box">
+                <h4 style="margin:0 0 8px 0; color:#0369a1;">📋 Deconstructing Covert Manipulation Protocol <span class="author-badge">TheraminTrees</span></h4>
+                <ol style="margin:0; padding-left:20px; font-size:9.5pt;">
+            <li style='margin-bottom:4px;'>Identify contradictory expectations or implicit emotional threats.</li><li style='margin-bottom:4px;'>Refuse to engage in defensive explanations (Grey Rock method).</li><li style='margin-bottom:4px;'>State boundaries clearly without asking for permission or validation.</li><li style='margin-bottom:4px;'>Disengage from guilt-inducing dialogue loops.</li></ol></div>
+        <div class="page-break"></div>
+        <!-- PART II -->
+        <h1>PART II: Thematic Deep-Dive Synthesis Chapters</h1>
+        
+        <h2>Chapter 1: The Architecture of Covert Manipulation &amp; Double-Binds</h2>
+        <p><em>Synthesized from TheraminTrees &amp; Dr. Alok Kanojia</em></p>
+        <p>Covert manipulation functions not through overt aggression, but through the structural fabrication of <strong>double-bind scenarios</strong>—interpersonal frameworks where any conceivable choice by the victim is weaponized against them. Indoctrination and narcissistic control rely on isolating the individual from external reality testing, using manufactured guilt (FOG: Fear, Obligation, Guilt) to enforce compliance.</p>
+        <blockquote>
+            "Manipulators construct contradictory demands where any response is framed as a failure, forcing compliance while evading accountability." — <strong>TheraminTrees</strong>
+        </blockquote>
+        <p>When an authoritarian structure or narcissistic individual constructs a double-bind, reasoning and logical dialogue become counterproductive. The victim cannot 'solve' a contradictory demand. The only therapeutic resolution is disengaging from the frame entirely through emotional neutrality and firm boundary enforcement.</p>
+
+        <h2>Chapter 2: Samskaras, Emotional Memory &amp; The Digestion of Trauma</h2>
+        <p><em>Synthesized from Dr. Alok Kanojia (HealthyGamerGG) &amp; JulienHimself</em></p>
+        <p>Modern digital hyper-stimulation allows individuals to endlessly suppress painful emotional memories (<strong>Samskaras</strong>). When an emotional experience is avoided through gaming, social media, or compulsive work, it remains physiologically trapped in the subconscious. Healing does not require traumatic regression or endless analysis; it requires becoming the neutral observer (<strong>Sakshi</strong>) and allowing the uncomfortable somatic sensation to complete its biological cycle.</p>
+        <blockquote>
+            "Unprocessed past emotional experiences create unconscious behavioral patterns that dictate current anxiety and burnout. Sit with the sensation without immediate distraction." — <strong>Dr. K</strong>
+        </blockquote>
+
+        <h2>Chapter 3: Cognitive Autonomy, Boundary Defense &amp; Dopamine Baseline Reset</h2>
+        <p><em>Synthesized from TheraminTrees, HealthyGamerGG &amp; JulienHimself</em></p>
+        <p>Cognitive autonomy is the deliberate capacity to decouple personal identity from external approval and high-dopamine triggers. Setting boundaries is not an aggressive act, but an informational statement of limits. When dealing with covert manipulation or severe digital addiction, the <strong>Grey Rock technique</strong> and baseline dopamine detoxing allow executive function to recover its sovereign capacity.</p>
+
+        <div class="page-break"></div>
+        <!-- PART III -->
+        <h1>PART III: Contributing Creator Dossier Profiles</h1>
+    
+        <div class="callout-box">
+            <h3 style="margin:0 0 6px 0;">🏛️ Authority Dossier: HealthyGamerGG</h3>
+            <div style="font-family:'Inter', sans-serif; font-size:8.5pt; color:#64748b; margin-bottom:8px;">
+                Total Masterclasses: 100 | Analyzed Words: 129,760 words
+            </div>
+            <p style="font-size:9.5pt; margin:0;">Specializes in clinical psychiatric breakdown, deconstructing covert manipulation, boundary setting, and cognitive autonomy.</p>
+        </div>
+        
+        <div class="callout-box">
+            <h3 style="margin:0 0 6px 0;">🏛️ Authority Dossier: JulienHimself</h3>
+            <div style="font-family:'Inter', sans-serif; font-size:8.5pt; color:#64748b; margin-bottom:8px;">
+                Total Masterclasses: 13 | Analyzed Words: 55,542 words
+            </div>
+            <p style="font-size:9.5pt; margin:0;">Specializes in clinical psychiatric breakdown, deconstructing covert manipulation, boundary setting, and cognitive autonomy.</p>
+        </div>
+        
+        <div class="callout-box">
+            <h3 style="margin:0 0 6px 0;">🏛️ Authority Dossier: TheraminTrees</h3>
+            <div style="font-family:'Inter', sans-serif; font-size:8.5pt; color:#64748b; margin-bottom:8px;">
+                Total Masterclasses: 29 | Analyzed Words: 106,007 words
+            </div>
+            <p style="font-size:9.5pt; margin:0;">Specializes in clinical psychiatric breakdown, deconstructing covert manipulation, boundary setting, and cognitive autonomy.</p>
+        </div>
+        
+        <div class="page-break"></div>
+        <!-- PART IV -->
+        <h1>PART IV: Annotated Video Catalog &amp; Citation Index</h1>
+        <p>Complete archival registry of all 142 masterclasses indexed in this compendium:</p>
+    
+        <div class="catalog-item">
+            <div class="catalog-title">1. <a href="https://www.youtube.com/watch?v=hxJKaG7clOo" style="color:#0369a1; text-decoration:none;">Stop Trying To Fix Your Traumatic Childhood</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 26,203 words &bull; Duration: 2:58:42</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Stop Trying To Fix Your Traumatic Childhood' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">2. <a href="https://www.youtube.com/watch?v=joAreHuo1pQ" style="color:#0369a1; text-decoration:none;">Lindsay Clancy Trial Breakdown by Expert Psychiatrist (Dr.K )</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 23,980 words &bull; Duration: 2:40:52</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Lindsay Clancy Trial Breakdown by Expert Psychiatrist (Dr.K )' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">3. <a href="https://www.youtube.com/watch?v=pCZdJiGSk8g" style="color:#0369a1; text-decoration:none;">The Fastest Way To Boost Your Self Esteem</a></div>
+            <div class="catalog-meta">Creator: JulienHimself &bull; 21,228 words &bull; Duration: 15 min</div>
+            <p class="catalog-synopsis">"Tier 1 deep-dive content on 'The Fastest Way To Boost Your Self Esteem' by JulienHimself. High verbal density essay and technical breakdown."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">4. <a href="https://www.youtube.com/watch?v=jWLZfeKpIhg" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (jWLZfeKpIhg)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 7,853 words &bull; Duration: 56 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">5. <a href="https://www.youtube.com/watch?v=IiwvvV_xB-4" style="color:#0369a1; text-decoration:none;">The Magic Of Letting Go (A Step-By-Step Guide)</a></div>
+            <div class="catalog-meta">Creator: JulienHimself &bull; 7,737 words &bull; Duration: 15 min</div>
+            <p class="catalog-synopsis">"Tier 1 deep-dive content on 'The Magic Of Letting Go (A Step-By-Step Guide)' by JulienHimself. High verbal density essay and technical breakdown."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">6. <a href="https://www.youtube.com/watch?v=Ads8VOa0qKQ" style="color:#0369a1; text-decoration:none;">Stop Overcorrecting Your Attachment Style (Viewer Interview)</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 7,575 words &bull; Duration: 35:15</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Stop Overcorrecting Your Attachment Style (Viewer Interview)' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">7. <a href="https://www.youtube.com/watch?v=7afNvogg9kQ" style="color:#0369a1; text-decoration:none;">Thoughts Your Therapist Has, But Doesn't Tell You</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 7,536 words &bull; Duration: 37:35</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Thoughts Your Therapist Has, But Doesn't Tell You' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">8. <a href="https://www.youtube.com/watch?v=xHkcIRZa6lo" style="color:#0369a1; text-decoration:none;">Why You Should NEVER Confess Your Love</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 7,150 words &bull; Duration: 35:37</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Why You Should NEVER Confess Your Love' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">9. <a href="https://www.youtube.com/watch?v=xFt_aeQw2GA" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (xFt_aeQw2GA)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 6,498 words &bull; Duration: 46 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">10. <a href="https://www.youtube.com/watch?v=kOauN-_W2FQ" style="color:#0369a1; text-decoration:none;">Why Being Confident Feels CRINGE AF</a></div>
+            <div class="catalog-meta">Creator: JulienHimself &bull; 6,119 words &bull; Duration: 42:00</div>
+            <p class="catalog-synopsis">"Why Being Confident Feels CRINGE AF"</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">11. <a href="https://www.youtube.com/watch?v=6F58ZJt_qYU" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (6F58ZJt_qYU)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 5,878 words &bull; Duration: 42 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">12. <a href="https://www.youtube.com/watch?v=7MykFJ7TByM" style="color:#0369a1; text-decoration:none;">Analyzing The Lindsay Clancy Case</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 5,545 words &bull; Duration: 29:29</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Analyzing The Lindsay Clancy Case' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">13. <a href="https://www.youtube.com/watch?v=c39F04inLJ0" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (c39F04inLJ0)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 5,420 words &bull; Duration: 39 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">14. <a href="https://www.youtube.com/watch?v=oX3qM4VqbJo" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (oX3qM4VqbJo)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 5,284 words &bull; Duration: 38 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">15. <a href="https://www.youtube.com/watch?v=sXcTIkuzQ3I" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (sXcTIkuzQ3I)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 4,895 words &bull; Duration: 35 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">16. <a href="https://www.youtube.com/watch?v=w27nenP7fsQ" style="color:#0369a1; text-decoration:none;">The Best RELATIONSHIP Advice No One Ever Told You</a></div>
+            <div class="catalog-meta">Creator: JulienHimself &bull; 4,883 words &bull; Duration: 15 min</div>
+            <p class="catalog-synopsis">"Tier 1 deep-dive content on 'The Best RELATIONSHIP Advice No One Ever Told You' by JulienHimself. High verbal density essay and technical breakdown."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">17. <a href="https://www.youtube.com/watch?v=u91ctugBCsg" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (u91ctugBCsg)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 4,873 words &bull; Duration: 35 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">18. <a href="https://www.youtube.com/watch?v=s9yrMPIJHC8" style="color:#0369a1; text-decoration:none;">How To Get Your Confidence Back (Live Demonstrations)</a></div>
+            <div class="catalog-meta">Creator: JulienHimself &bull; 4,853 words &bull; Duration: 15 min</div>
+            <p class="catalog-synopsis">"Tier 1 deep-dive content on 'How To Get Your Confidence Back (Live Demonstrations)' by JulienHimself. High verbal density essay and technical breakdown."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">19. <a href="https://www.youtube.com/watch?v=2MwTDoT8q_A" style="color:#0369a1; text-decoration:none;">Why 40% Of Young Men Need Erectile Retraining</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 4,840 words &bull; Duration: 23:39</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Why 40% Of Young Men Need Erectile Retraining' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">20. <a href="https://www.youtube.com/watch?v=l7BaFufR23E" style="color:#0369a1; text-decoration:none;">The Lie of "Positive Thinking"</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 4,739 words &bull; Duration: 23:18</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'The Lie of "Positive Thinking"' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">21. <a href="https://www.youtube.com/watch?v=zcRUj8H3rc4" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (zcRUj8H3rc4)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 4,716 words &bull; Duration: 34 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">22. <a href="https://www.youtube.com/watch?v=TsvJMlg_SaM" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (TsvJMlg_SaM)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 4,626 words &bull; Duration: 33 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">23. <a href="https://www.youtube.com/watch?v=kMeehIpxH5k" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (kMeehIpxH5k)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 4,539 words &bull; Duration: 32 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">24. <a href="https://www.youtube.com/watch?v=vnSiJOOdo30" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (vnSiJOOdo30)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 4,416 words &bull; Duration: 32 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">25. <a href="https://www.youtube.com/watch?v=qjZ3f-IXEXU" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (qjZ3f-IXEXU)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 4,338 words &bull; Duration: 31 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">26. <a href="https://www.youtube.com/watch?v=PEexQAkhFpM" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (PEexQAkhFpM)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 4,333 words &bull; Duration: 31 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">27. <a href="https://www.youtube.com/watch?v=K4YZoNxSZNU" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (K4YZoNxSZNU)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 4,325 words &bull; Duration: 31 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">28. <a href="https://www.youtube.com/watch?v=xWz2oqOqPHw" style="color:#0369a1; text-decoration:none;">We Need To Talk About Ozempic</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 4,270 words &bull; Duration: 23:53</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'We Need To Talk About Ozempic' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">29. <a href="https://www.youtube.com/watch?v=pAa8RQKCUm0" style="color:#0369a1; text-decoration:none;">How To Thrive In A Crisis (A Practical Guide)</a></div>
+            <div class="catalog-meta">Creator: JulienHimself &bull; 3,866 words &bull; Duration: 15 min</div>
+            <p class="catalog-synopsis">"Tier 1 deep-dive content on 'How To Thrive In A Crisis (A Practical Guide)' by JulienHimself. High verbal density essay and technical breakdown."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">30. <a href="https://www.youtube.com/watch?v=mdDAHekq9yc" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (mdDAHekq9yc)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 3,861 words &bull; Duration: 28 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">31. <a href="https://www.youtube.com/watch?v=OsAaxOFOUl4" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (OsAaxOFOUl4)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 3,744 words &bull; Duration: 27 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">32. <a href="https://www.youtube.com/watch?v=H877DXOAlXI" style="color:#0369a1; text-decoration:none;">How To ACTUALLY Break An Addiction</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 3,738 words &bull; Duration: 18:26</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'How To ACTUALLY Break An Addiction' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">33. <a href="https://www.youtube.com/watch?v=HSg7cDuWtzQ" style="color:#0369a1; text-decoration:none;">Shorts</a></div>
+            <div class="catalog-meta">Creator: JulienHimself &bull; 3,690 words &bull; Duration: 15 min</div>
+            <p class="catalog-synopsis">"Tier 1 deep-dive content on 'Shorts' by JulienHimself. High verbal density essay and technical breakdown."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">34. <a href="https://www.youtube.com/watch?v=o1G4JFuLlO8" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (o1G4JFuLlO8)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 3,458 words &bull; Duration: 25 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">35. <a href="https://www.youtube.com/watch?v=YIQocoxv5tg" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (YIQocoxv5tg)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 3,349 words &bull; Duration: 24 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">36. <a href="https://www.youtube.com/watch?v=sUazbGC_XI4" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (sUazbGC_XI4)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 3,317 words &bull; Duration: 24 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">37. <a href="https://www.youtube.com/watch?v=L-gJ_Fo72-k" style="color:#0369a1; text-decoration:none;">Why You Need Constant Reassurance</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 3,303 words &bull; Duration: 18:23</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Why You Need Constant Reassurance' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">38. <a href="https://www.youtube.com/watch?v=KBkkN12nVqs" style="color:#0369a1; text-decoration:none;">The Worst Red Flags I’ve Seen As A Therapist</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 3,261 words &bull; Duration: 16:15</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'The Worst Red Flags I’ve Seen As A Therapist' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">39. <a href="https://www.youtube.com/watch?v=Cx4GvzjRMx8" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (Cx4GvzjRMx8)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 3,115 words &bull; Duration: 22 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">40. <a href="https://www.youtube.com/watch?v=e-2WZsP6LA0" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (e-2WZsP6LA0)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 2,882 words &bull; Duration: 21 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">41. <a href="https://www.youtube.com/watch?v=_N6qPEA_dGc" style="color:#0369a1; text-decoration:none;">Why Gifted People Burn Out The Fastest</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 2,878 words &bull; Duration: 15:49</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Why Gifted People Burn Out The Fastest' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">42. <a href="https://www.youtube.com/watch?v=o6-Htscvf4k" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (o6-Htscvf4k)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 2,786 words &bull; Duration: 20 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">43. <a href="https://www.youtube.com/watch?v=XSShv4lhgKQ" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (XSShv4lhgKQ)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 2,527 words &bull; Duration: 18 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">44. <a href="https://www.youtube.com/watch?v=NkLM8HTYY1g" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (NkLM8HTYY1g)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 2,518 words &bull; Duration: 18 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">45. <a href="https://www.youtube.com/watch?v=oCB-sCIKnkU" style="color:#0369a1; text-decoration:none;">Why You Always Feel Uneasy (Transcendental Existential Dread)</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 2,309 words &bull; Duration: 12:00</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Why You Always Feel Uneasy (Transcendental Existential Dread)' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">46. <a href="https://www.youtube.com/watch?v=YqnCwp9Ia68" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (YqnCwp9Ia68)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 2,284 words &bull; Duration: 16 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">47. <a href="https://www.youtube.com/watch?v=MU1Rp184IT4" style="color:#0369a1; text-decoration:none;">The Ultimate Guide To Shadow Work</a></div>
+            <div class="catalog-meta">Creator: JulienHimself &bull; 2,222 words &bull; Duration: 15 min</div>
+            <p class="catalog-synopsis">"Tier 1 deep-dive content on 'The Ultimate Guide To Shadow Work' by JulienHimself. High verbal density essay and technical breakdown."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">48. <a href="https://www.youtube.com/watch?v=VDL60Ef4qLI" style="color:#0369a1; text-decoration:none;">Dr. K Diagnoses Lord of the Rings Characters (Pt. 1)</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 563 words &bull; Duration: 2:48</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Dr. K Diagnoses Lord of the Rings Characters (Pt. 1)' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">49. <a href="https://www.youtube.com/watch?v=BU1THQZtFuc" style="color:#0369a1; text-decoration:none;">Dr. K Diagnoses Lord of the Rings Characters (Pt. 2)</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 414 words &bull; Duration: 2:02</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Dr. K Diagnoses Lord of the Rings Characters (Pt. 2)' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">50. <a href="https://www.youtube.com/watch?v=hFNM7HrmZ0Q" style="color:#0369a1; text-decoration:none;">The Secret to Long Term Success</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 411 words &bull; Duration: 1:53</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'The Secret to Long Term Success' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">51. <a href="https://www.youtube.com/watch?v=Ty_6S-SElb8" style="color:#0369a1; text-decoration:none;">This is The Only Cure to Addiction</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 382 words &bull; Duration: 1:44</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'This is The Only Cure to Addiction' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">52. <a href="https://www.youtube.com/watch?v=vWF7qQQX0IE" style="color:#0369a1; text-decoration:none;">A Common Problem in Dating Apps</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 367 words &bull; Duration: 1:33</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'A Common Problem in Dating Apps' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">53. <a href="https://www.youtube.com/watch?v=EIrH2aM9r8s" style="color:#0369a1; text-decoration:none;">Your Phone is Killing Your Love Life</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 364 words &bull; Duration: 1:32</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Your Phone is Killing Your Love Life' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">54. <a href="https://www.youtube.com/watch?v=DoXpQ8haM8s" style="color:#0369a1; text-decoration:none;">The Struggle of Maintaining Relationships @JasonTheWeen</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 359 words &bull; Duration: 1:31</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'The Struggle of Maintaining Relationships @JasonTheWeen' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">55. <a href="https://www.youtube.com/watch?v=6Aq_VsUOk3Y" style="color:#0369a1; text-decoration:none;">Why Confessing Sabotages Your Relationship</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 357 words &bull; Duration: 1:39</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Why Confessing Sabotages Your Relationship' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">56. <a href="https://www.youtube.com/watch?v=avtRRZ_OqO8" style="color:#0369a1; text-decoration:none;">Is it Better to Date a Friend?</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 353 words &bull; Duration: 1:36</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Is it Better to Date a Friend?' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">57. <a href="https://www.youtube.com/watch?v=VAPIfT8kSPs" style="color:#0369a1; text-decoration:none;">Why Were Afraid of Being Seen</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 352 words &bull; Duration: 1:31</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Why Were Afraid of Being Seen' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">58. <a href="https://www.youtube.com/watch?v=Vc0echv-LJ8" style="color:#0369a1; text-decoration:none;">What Building Confidence Really Looks Like</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 350 words &bull; Duration: 1:33</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'What Building Confidence Really Looks Like' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">59. <a href="https://www.youtube.com/watch?v=D8s73jmS3go" style="color:#0369a1; text-decoration:none;">How People Learn to Stop Opening Up to Their Parents @JasonTheWeen</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 349 words &bull; Duration: 1:31</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'How People Learn to Stop Opening Up to Their Parents @JasonTheWeen' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">60. <a href="https://www.youtube.com/watch?v=DKGqWvOjB7w" style="color:#0369a1; text-decoration:none;">The Reason You Keep Dating the Wrong People</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 348 words &bull; Duration: 1:23</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'The Reason You Keep Dating the Wrong People' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">61. <a href="https://www.youtube.com/watch?v=lFP7mcduAts" style="color:#0369a1; text-decoration:none;">5 Things You Get Wrong About Flirting</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 345 words &bull; Duration: 1:36</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on '5 Things You Get Wrong About Flirting' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">62. <a href="https://www.youtube.com/watch?v=_jsl5oXB6fs" style="color:#0369a1; text-decoration:none;">When Does Cheating Actually Begin?</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 344 words &bull; Duration: 1:30</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'When Does Cheating Actually Begin?' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">63. <a href="https://www.youtube.com/watch?v=fHyDoY6L25k" style="color:#0369a1; text-decoration:none;">Why Most Relationships Don't Last</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 341 words &bull; Duration: 1:38</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Why Most Relationships Don't Last' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">64. <a href="https://www.youtube.com/watch?v=Ng8X-ln5Ijo" style="color:#0369a1; text-decoration:none;">How to Overcome Laziness</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 340 words &bull; Duration: 1:33</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'How to Overcome Laziness' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">65. <a href="https://www.youtube.com/watch?v=wHyFC7F3ekA" style="color:#0369a1; text-decoration:none;">What People Get Wrong with Therapy</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 340 words &bull; Duration: 1:37</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'What People Get Wrong with Therapy' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">66. <a href="https://www.youtube.com/watch?v=bKZkFkKwpr0" style="color:#0369a1; text-decoration:none;">Why People Develop Multiple Personalities</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 339 words &bull; Duration: 1:49</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Why People Develop Multiple Personalities' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">67. <a href="https://www.youtube.com/watch?v=ee0Ox-buy1M" style="color:#0369a1; text-decoration:none;">How Ozempic Affects Addictions</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 335 words &bull; Duration: 1:37</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'How Ozempic Affects Addictions' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">68. <a href="https://www.youtube.com/watch?v=3wOQ8LaP5CI" style="color:#0369a1; text-decoration:none;">Why Confessing Can Ruin Everything</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 329 words &bull; Duration: 1:31</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Why Confessing Can Ruin Everything' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">69. <a href="https://www.youtube.com/watch?v=BcNb6yhOrww" style="color:#0369a1; text-decoration:none;">The Real Path To Healing Yourself</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 329 words &bull; Duration: 1:33</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'The Real Path To Healing Yourself' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">70. <a href="https://www.youtube.com/watch?v=NxtKtltHeFA" style="color:#0369a1; text-decoration:none;">What Women Want to See on Dating Apps</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 328 words &bull; Duration: 1:37</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'What Women Want to See on Dating Apps' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">71. <a href="https://www.youtube.com/watch?v=mMLyYU-vv20" style="color:#0369a1; text-decoration:none;">How to Reassure Without Burning Out</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 325 words &bull; Duration: 1:24</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'How to Reassure Without Burning Out' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">72. <a href="https://www.youtube.com/watch?v=kA0jyBJcrAs" style="color:#0369a1; text-decoration:none;">The Dangerous Mindset That Keeps You Stuck</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 323 words &bull; Duration: 1:19</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'The Dangerous Mindset That Keeps You Stuck' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">73. <a href="https://www.youtube.com/watch?v=RC0tacY2iKQ" style="color:#0369a1; text-decoration:none;">What Men Need to Learn in Relationships</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 323 words &bull; Duration: 1:32</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'What Men Need to Learn in Relationships' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">74. <a href="https://www.youtube.com/watch?v=pXshjy6WwWI" style="color:#0369a1; text-decoration:none;">Top 3 Advice About Controlling Yourself</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 322 words &bull; Duration: 1:15</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Top 3 Advice About Controlling Yourself' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">75. <a href="https://www.youtube.com/watch?v=iqDijkHGgKk" style="color:#0369a1; text-decoration:none;">How You Control What Goes Into Your Mind</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 322 words &bull; Duration: 1:32</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'How You Control What Goes Into Your Mind' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">76. <a href="https://www.youtube.com/watch?v=oUUrSiqywVc" style="color:#0369a1; text-decoration:none;">The Opioid Problem</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 322 words &bull; Duration: 1:35</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'The Opioid Problem' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">77. <a href="https://www.youtube.com/watch?v=Tt1rKpEKCzU" style="color:#0369a1; text-decoration:none;">How Men Cope with Rejection @JasonTheWeen</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 319 words &bull; Duration: 1:15</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'How Men Cope with Rejection @JasonTheWeen' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">78. <a href="https://www.youtube.com/watch?v=fbFATNu3K7Q" style="color:#0369a1; text-decoration:none;">The Trap of Proving Others Wrong</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 317 words &bull; Duration: 1:34</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'The Trap of Proving Others Wrong' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">79. <a href="https://www.youtube.com/watch?v=-JX-KbkI0MM" style="color:#0369a1; text-decoration:none;">150,744 views</a></div>
+            <div class="catalog-meta">Creator: JulienHimself &bull; 317 words &bull; Duration: 15 min</div>
+            <p class="catalog-synopsis">"Tier 1 deep-dive content on '150,744 views' by JulienHimself. High verbal density essay and technical breakdown."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">80. <a href="https://www.youtube.com/watch?v=q_kRP-SDPGQ" style="color:#0369a1; text-decoration:none;">Can a Therapist Tell You're the Villain?</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 317 words &bull; Duration: 1:41</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Can a Therapist Tell You're the Villain?' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">81. <a href="https://www.youtube.com/watch?v=vCNoVamkbbQ" style="color:#0369a1; text-decoration:none;">Top 5 Advice About Flirting</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 316 words &bull; Duration: 1:24</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Top 5 Advice About Flirting' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">82. <a href="https://www.youtube.com/watch?v=t9OCVTnq-MM" style="color:#0369a1; text-decoration:none;">The Skill That Separates Billionaires From Everyone Else</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 315 words &bull; Duration: 1:32</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'The Skill That Separates Billionaires From Everyone Else' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">83. <a href="https://www.youtube.com/watch?v=hH6R20mzYDQ" style="color:#0369a1; text-decoration:none;">Can You Ever Truly Escape Addiction?</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 314 words &bull; Duration: 1:31</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Can You Ever Truly Escape Addiction?' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">84. <a href="https://www.youtube.com/watch?v=IaIuvMRdYcc" style="color:#0369a1; text-decoration:none;">Why Ozempic Can Help or Harm You</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 308 words &bull; Duration: 1:37</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Why Ozempic Can Help or Harm You' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">85. <a href="https://www.youtube.com/watch?v=8VHxLBVityk" style="color:#0369a1; text-decoration:none;">What Successful People Learn Early</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 306 words &bull; Duration: 1:31</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'What Successful People Learn Early' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">86. <a href="https://www.youtube.com/watch?v=B_JENlNS1t8" style="color:#0369a1; text-decoration:none;">Needing Constant Reassurance</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 298 words &bull; Duration: 1:26</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Needing Constant Reassurance' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">87. <a href="https://www.youtube.com/watch?v=Cm_K_R3_JRY" style="color:#0369a1; text-decoration:none;">Dr. K & @JasonTheWeen Do a Roleplay</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 297 words &bull; Duration: 1:17</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Dr. K & @JasonTheWeen Do a Roleplay' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">88. <a href="https://www.youtube.com/watch?v=yocx57jH1jM" style="color:#0369a1; text-decoration:none;">Are Womens Dating Standards Unrealistic?</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 287 words &bull; Duration: 1:21</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Are Womens Dating Standards Unrealistic?' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">89. <a href="https://www.youtube.com/watch?v=F2ggnC-xsAI" style="color:#0369a1; text-decoration:none;">The Hidden Risk of GLP 1 Weight Loss</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 283 words &bull; Duration: 1:24</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'The Hidden Risk of GLP 1 Weight Loss' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">90. <a href="https://www.youtube.com/watch?v=ID1cX3ICMYo" style="color:#0369a1; text-decoration:none;">Why You Shouldn't Fear the Friendzone</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 282 words &bull; Duration: 1:16</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Why You Shouldn't Fear the Friendzone' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">91. <a href="https://www.youtube.com/watch?v=Kl-UQPeRvRs" style="color:#0369a1; text-decoration:none;">Can Men and Women Be Just Friends</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 281 words &bull; Duration: 1:15</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Can Men and Women Be Just Friends' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">92. <a href="https://www.youtube.com/watch?v=7Fj5dGyKm7s" style="color:#0369a1; text-decoration:none;">How to Approach Chaotic Work with ADHD</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 280 words &bull; Duration: 1:25</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'How to Approach Chaotic Work with ADHD' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">93. <a href="https://www.youtube.com/watch?v=edM8CqDxqDw" style="color:#0369a1; text-decoration:none;">3 Important Communication Tips for Relationships</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 280 words &bull; Duration: 1:09</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on '3 Important Communication Tips for Relationships' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">94. <a href="https://www.youtube.com/watch?v=F6cWQucPMLs" style="color:#0369a1; text-decoration:none;">Avoid This When You're in The Friendzone</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 279 words &bull; Duration: 1:31</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Avoid This When You're in The Friendzone' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">95. <a href="https://www.youtube.com/watch?v=AmgJ77lp_Bg" style="color:#0369a1; text-decoration:none;">What Successful People Do Differently</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 278 words &bull; Duration: 1:19</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'What Successful People Do Differently' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">96. <a href="https://www.youtube.com/watch?v=PTuDDW1gHlk" style="color:#0369a1; text-decoration:none;">Why You Should Stop Telling People Your Goals @JasonTheWeen</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 275 words &bull; Duration: 1:11</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Why You Should Stop Telling People Your Goals @JasonTheWeen' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">97. <a href="https://www.youtube.com/watch?v=oDQo2LFe7ew" style="color:#0369a1; text-decoration:none;">3 Ways Men Fumble in Dating</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 273 words &bull; Duration: 1:12</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on '3 Ways Men Fumble in Dating' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">98. <a href="https://www.youtube.com/watch?v=Rq_9asA_kn0" style="color:#0369a1; text-decoration:none;">How People in a Friend Group Become Lovers</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 272 words &bull; Duration: 1:08</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'How People in a Friend Group Become Lovers' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">99. <a href="https://www.youtube.com/watch?v=npDA9kV88fs" style="color:#0369a1; text-decoration:none;">Why Situationships Almost Never Last</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 271 words &bull; Duration: 1:09</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Why Situationships Almost Never Last' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">100. <a href="https://www.youtube.com/watch?v=rYB9W8wlsMI" style="color:#0369a1; text-decoration:none;">Top 3 Ways Women Want You to Flirt with Them</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 270 words &bull; Duration: 1:20</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Top 3 Ways Women Want You to Flirt with Them' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">101. <a href="https://www.youtube.com/watch?v=fDzWqR-dU90" style="color:#0369a1; text-decoration:none;">How People Become Hopeless in Life</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 264 words &bull; Duration: 1:19</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'How People Become Hopeless in Life' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">102. <a href="https://www.youtube.com/watch?v=tszAuL3v2NY" style="color:#0369a1; text-decoration:none;">The Truth About How Love Begins</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 263 words &bull; Duration: 1:06</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'The Truth About How Love Begins' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">103. <a href="https://www.youtube.com/watch?v=SBBnT-XtHGc" style="color:#0369a1; text-decoration:none;">Why Smart People Get Stuck</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 261 words &bull; Duration: 1:08</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Why Smart People Get Stuck' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">104. <a href="https://www.youtube.com/watch?v=bRqUmhAcckc" style="color:#0369a1; text-decoration:none;">What Projection Actually Looks Like</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 257 words &bull; Duration: 1:22</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'What Projection Actually Looks Like' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">105. <a href="https://www.youtube.com/watch?v=3JR2QGBL3IU" style="color:#0369a1; text-decoration:none;">The Treatment for Negative Emotion</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 248 words &bull; Duration: 1:18</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'The Treatment for Negative Emotion' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">106. <a href="https://www.youtube.com/watch?v=A3BuvfIJYMM" style="color:#0369a1; text-decoration:none;">How Our Identity is Shaped</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 243 words &bull; Duration: 1:13</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'How Our Identity is Shaped' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">107. <a href="https://www.youtube.com/watch?v=X30BDtXF1Tg" style="color:#0369a1; text-decoration:none;">Why the Friendzone is Actually the Key</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 241 words &bull; Duration: 1:11</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Why the Friendzone is Actually the Key' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">108. <a href="https://www.youtube.com/watch?v=kpY0TERXymU" style="color:#0369a1; text-decoration:none;">How Do We Find a Good Environment</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 238 words &bull; Duration: 1:09</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'How Do We Find a Good Environment' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">109. <a href="https://www.youtube.com/watch?v=0C2qldDF8HY" style="color:#0369a1; text-decoration:none;">Why ADHD Can Hide a Mood Disorder</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 230 words &bull; Duration: 1:15</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Why ADHD Can Hide a Mood Disorder' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">110. <a href="https://www.youtube.com/watch?v=je23p7YiS7U" style="color:#0369a1; text-decoration:none;">The Actual Purpose of Small Talk</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 228 words &bull; Duration: 1:05</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'The Actual Purpose of Small Talk' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">111. <a href="https://www.youtube.com/watch?v=udhkUX4THpY" style="color:#0369a1; text-decoration:none;">Posts</a></div>
+            <div class="catalog-meta">Creator: JulienHimself &bull; 228 words &bull; Duration: 15 min</div>
+            <p class="catalog-synopsis">"Tier 1 deep-dive content on 'Posts' by JulienHimself. High verbal density essay and technical breakdown."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">112. <a href="https://www.youtube.com/watch?v=_QnpfGb4fqI" style="color:#0369a1; text-decoration:none;">Why Trauma Is The Ultimate Chameleon</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 228 words &bull; Duration: 1:21</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Why Trauma Is The Ultimate Chameleon' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">113. <a href="https://www.youtube.com/watch?v=3dmlGcHg294" style="color:#0369a1; text-decoration:none;">Where Progress in Therapy Happens</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 228 words &bull; Duration: 0:55</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Where Progress in Therapy Happens' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">114. <a href="https://www.youtube.com/watch?v=-u7cN4IK67Q" style="color:#0369a1; text-decoration:none;">A Common Feature of DID & Derealization</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 214 words &bull; Duration: 1:17</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'A Common Feature of DID & Derealization' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">115. <a href="https://www.youtube.com/watch?v=f1iykhLqY1A" style="color:#0369a1; text-decoration:none;">What Happens When Parents Are Abusive</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 205 words &bull; Duration: 1:07</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'What Happens When Parents Are Abusive' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">116. <a href="https://www.youtube.com/watch?v=rvlmDZxlqhg" style="color:#0369a1; text-decoration:none;">Does Wanting Something Bad Make You Bad @JasonTheWeen</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 205 words &bull; Duration: 0:49</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Does Wanting Something Bad Make You Bad @JasonTheWeen' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">117. <a href="https://www.youtube.com/watch?v=HATCgWTF-oA" style="color:#0369a1; text-decoration:none;">The Biggest Problem in Relationships</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 205 words &bull; Duration: 0:57</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'The Biggest Problem in Relationships' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">118. <a href="https://www.youtube.com/watch?v=OJAJZebXdb8" style="color:#0369a1; text-decoration:none;">Stop Trying To Improve Yourself & Instead Do SHADOW WORK</a></div>
+            <div class="catalog-meta">Creator: JulienHimself &bull; 204 words &bull; Duration: 39.4</div>
+            <p class="catalog-synopsis">"Stop Trying To Improve Yourself & Instead Do SHADOW WORK"</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">119. <a href="https://www.youtube.com/watch?v=3X880TLeor8" style="color:#0369a1; text-decoration:none;">3 Ways Women Flirt with Men</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 194 words &bull; Duration: 0:55</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on '3 Ways Women Flirt with Men' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">120. <a href="https://www.youtube.com/watch?v=0g_muVjm8OE" style="color:#0369a1; text-decoration:none;">Meditation for People Who Don't Meditate</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 186 words &bull; Duration: 1:00</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Meditation for People Who Don't Meditate' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">121. <a href="https://www.youtube.com/watch?v=kCk-4MRUSY4" style="color:#0369a1; text-decoration:none;">Dr K's Secret Meditation Technique for Overthinking</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 186 words &bull; Duration: 0:53</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Dr K's Secret Meditation Technique for Overthinking' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">122. <a href="https://www.youtube.com/watch?v=tY4FaVRsDM0" style="color:#0369a1; text-decoration:none;">He Made Millions… And It Fixed NOTHING</a></div>
+            <div class="catalog-meta">Creator: JulienHimself &bull; 180 words &bull; Duration: 43.0</div>
+            <p class="catalog-synopsis">"He Made Millions… And It Fixed NOTHING"</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">123. <a href="https://www.youtube.com/watch?v=h7oUthN0BUw" style="color:#0369a1; text-decoration:none;">Dr. K Asks Jason About Sigmund Freud @JasonTheWeen</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 176 words &bull; Duration: 0:48</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Dr. K Asks Jason About Sigmund Freud @JasonTheWeen' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">124. <a href="https://www.youtube.com/watch?v=2qbj2UQWZjc" style="color:#0369a1; text-decoration:none;">The Hidden Cost of Having High IQ</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 164 words &bull; Duration: 0:58</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'The Hidden Cost of Having High IQ' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">125. <a href="https://www.youtube.com/watch?v=BEpG_6KkDUA" style="color:#0369a1; text-decoration:none;">How People Who Need Constant Reassurance Get Better</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 146 words &bull; Duration: 0:49</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'How People Who Need Constant Reassurance Get Better' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">126. <a href="https://www.youtube.com/watch?v=y4uIy73IH6o" style="color:#0369a1; text-decoration:none;">What Depersonalization & Derealization Feels Like</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 143 words &bull; Duration: 0:45</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'What Depersonalization & Derealization Feels Like' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">127. <a href="https://www.youtube.com/watch?v=dJGJPBJ3wQA" style="color:#0369a1; text-decoration:none;">Dr. K Handles a Situation Like a Pro</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 140 words &bull; Duration: 0:37</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Dr. K Handles a Situation Like a Pro' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">128. <a href="https://www.youtube.com/watch?v=4D5tZoF8cC4" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (4D5tZoF8cC4)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 127 words &bull; Duration: 1 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">129. <a href="https://www.youtube.com/watch?v=6h8Eaz6oNCg" style="color:#0369a1; text-decoration:none;">The Problem with ADHD TikToks</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 115 words &bull; Duration: 0:38</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'The Problem with ADHD TikToks' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">130. <a href="https://www.youtube.com/watch?v=zCvWTJHgfKE" style="color:#0369a1; text-decoration:none;">How to Stop Finishing Too Fast</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 111 words &bull; Duration: 0:35</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'How to Stop Finishing Too Fast' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">131. <a href="https://www.youtube.com/watch?v=oM0KpfNPcGw" style="color:#0369a1; text-decoration:none;">Books That Will Change How You See the World</a></div>
+            <div class="catalog-meta">Creator: JulienHimself &bull; 15 words &bull; Duration: 15 min</div>
+            <p class="catalog-synopsis">"Tier 1 deep-dive content on 'Books That Will Change How You See the World' by JulienHimself. High verbal density essay and technical breakdown."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">132. <a href="https://www.youtube.com/watch?v=Iji6q4AM2r8" style="color:#0369a1; text-decoration:none;">The Real Reason Addiction is So Hard to Quit</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 15 words &bull; Duration: 1:36</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'The Real Reason Addiction is So Hard to Quit' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">133. <a href="https://www.youtube.com/watch?v=sodkGvZzLDE" style="color:#0369a1; text-decoration:none;">Dr. K's Dark Magic in Relationships</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 15 words &bull; Duration: 0:51</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Dr. K's Dark Magic in Relationships' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">134. <a href="https://www.youtube.com/watch?v=dV4jXpMyU5U" style="color:#0369a1; text-decoration:none;">From Friendzone to Becoming Lovers</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 15 words &bull; Duration: 0:56</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'From Friendzone to Becoming Lovers' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">135. <a href="https://www.youtube.com/watch?v=YHyfu-LYnIk" style="color:#0369a1; text-decoration:none;">Why Some People Can Just Be Friends</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 15 words &bull; Duration: 0:46</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'Why Some People Can Just Be Friends' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">136. <a href="https://www.youtube.com/watch?v=50kYVMyrsJc" style="color:#0369a1; text-decoration:none;">How Experiencing Trauma is Different for Neurodivergent People</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 15 words &bull; Duration: 1:22</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'How Experiencing Trauma is Different for Neurodivergent People' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">137. <a href="https://www.youtube.com/watch?v=MnrBi5jf8I0" style="color:#0369a1; text-decoration:none;">The Culture of Hobosexuals</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 15 words &bull; Duration: 1:32</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'The Culture of Hobosexuals' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">138. <a href="https://www.youtube.com/watch?v=Vuo4lmOGdtE" style="color:#0369a1; text-decoration:none;">The Key to Healthy Eating</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 15 words &bull; Duration: 0:44</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'The Key to Healthy Eating' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">139. <a href="https://www.youtube.com/watch?v=S_I8G1BWdLM" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (S_I8G1BWdLM)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 15 words &bull; Duration: 0 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">140. <a href="https://www.youtube.com/watch?v=U8Bt7xsOQ_I" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (U8Bt7xsOQ_I)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 15 words &bull; Duration: 0 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">141. <a href="https://www.youtube.com/watch?v=G1fhYZdn1pE" style="color:#0369a1; text-decoration:none;">TheraminTrees Video Essay (G1fhYZdn1pE)</a></div>
+            <div class="catalog-meta">Creator: TheraminTrees &bull; 15 words &bull; Duration: 0 min</div>
+            <p class="catalog-synopsis">"TheraminTrees psychological deconstruction. Deep analysis of manipulation, emotional abuse, dogmatism, and boundaries."</p>
+        </div>
+        
+        <div class="catalog-item">
+            <div class="catalog-title">142. <a href="https://www.youtube.com/watch?v=h8tBPhNkjN0" style="color:#0369a1; text-decoration:none;">The Rise of Hardcore P*rn Explained</a></div>
+            <div class="catalog-meta">Creator: HealthyGamerGG &bull; 15 words &bull; Duration: 1:32</div>
+            <p class="catalog-synopsis">"Mental health, neurodivergence, ADHD, and relational psychology breakdown on 'The Rise of Hardcore P*rn Explained' by Dr. Alok Kanojia (Dr. K / HealthyGamerGG). Blends Harvard psychiatry with Eastern mindfulness and cognitive science."</p>
+        </div>
+        
+    </body>
+    </html>
+    

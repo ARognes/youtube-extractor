@@ -1,0 +1,1436 @@
+Python:
+  category: programming_languages
+  total_mentions: 1588
+  top_channels:
+    freeCodeCamp.org: 1278
+    Derek Banas: 81
+    NetworkChuck: 37
+    The Coding Train: 31
+    Hacking and Cyber Security Club at Iowa State: 26
+  sample_cues:
+  - video_id: RpLnQnurpLY
+    title: Learn Data Structures and Algorithms Visually – Crash Course
+    channel: freeCodeCamp.org
+    timestamp_sec: 196
+    context: '...ranslating it into code in any programming language, be it C++, Java, Python or JavaScript, is simply a matter
+      of time. Once these concepts become...'
+    jump_url: https://www.youtube.com/watch?v=RpLnQnurpLY&t=196s
+  - video_id: R5fPn6W8m6k
+    title: Code a Reinforcement Learning Library in C from Scratch (Full Course)
+    channel: freeCodeCamp.org
+    timestamp_sec: 427
+    context: '... terminal C run. So this is very confusing you know when we are using Python and C at the same time. Q32
+      will come from nice. Uh then we have like...'
+    jump_url: https://www.youtube.com/watch?v=R5fPn6W8m6k&t=427s
+  - video_id: _aUO6n-m4pM
+    title: I Coached a Security Engineer Through His Failed Meta Interview (Live)
+    channel: A Life Engineered
+    timestamp_sec: 1068
+    context: '...er." And basically, I don''t know if it was like some shell script, >> Python script. Basically, >> somebody
+      like hacked together a Python script a...'
+    jump_url: https://www.youtube.com/watch?v=_aUO6n-m4pM&t=1068s
+JavaScript:
+  category: programming_languages
+  total_mentions: 1025
+  top_channels:
+    freeCodeCamp.org: 293
+    Web Dev Simplified: 214
+    The Coding Train: 207
+    ThePrimeagen: 112
+    Louis Pilfold: 44
+  sample_cues:
+  - video_id: RpLnQnurpLY
+    title: Learn Data Structures and Algorithms Visually – Crash Course
+    channel: freeCodeCamp.org
+    timestamp_sec: 196
+    context: '... it into code in any programming language, be it C++, Java, Python or JavaScript, is simply a matter of time.
+      Once these concepts become clear, a fant...'
+    jump_url: https://www.youtube.com/watch?v=RpLnQnurpLY&t=196s
+  - video_id: GEkoGCFpY8c
+    title: Protecting Your Energy
+    channel: The PrimeTime
+    timestamp_sec: 48
+    context: '...didn''t have to go look up the difference between slice and splice and JavaScript. I didn''t have to go look
+      up documentations for how to write things i...'
+    jump_url: https://www.youtube.com/watch?v=GEkoGCFpY8c&pp=ugUHEgVlbi1VUw%3D%3D&t=48s
+  - video_id: wDWKUvTKCaw
+    title: Low-Level Graphics in C – Pixel Manipulation and Frame Buffers
+    channel: freeCodeCamp.org
+    timestamp_sec: 189
+    context: '... rectangle, draw something, most students end up learning things like JavaScript and using p5 js or processing
+      or learning something in the realm of b...'
+    jump_url: https://www.youtube.com/watch?v=wDWKUvTKCaw&t=189s
+React:
+  category: frameworks_libraries
+  total_mentions: 1018
+  top_channels:
+    freeCodeCamp.org: 463
+    Web Dev Simplified: 239
+    ThePrimeagen: 77
+    Fredrik Christenson: 68
+    Healthy Developer: 25
+  sample_cues:
+  - video_id: Gf0pR4_bv-o
+    title: Ex-Amazon VP on What Actually Gets You Promoted | Ethan Evans
+    channel: A Life Engineered
+    timestamp_sec: 104
+    context: '...he right way? The first thing I would say is most software developers react negatively to the word politics.
+      And I get that. And I would like to ...'
+    jump_url: https://www.youtube.com/watch?v=Gf0pR4_bv-o&t=104s
+  - video_id: GEkoGCFpY8c
+    title: Protecting Your Energy
+    channel: The PrimeTime
+    timestamp_sec: 223
+    context: '... about it. Yeah, we''re going to do an old-fashioned good oldfashioned react here, people. So, I also really
+      wanted to know like what separates en...'
+    jump_url: https://www.youtube.com/watch?v=GEkoGCFpY8c&pp=ugUHEgVlbi1VUw%3D%3D&t=223s
+  - video_id: _aUO6n-m4pM
+    title: I Coached a Security Engineer Through His Failed Meta Interview (Live)
+    channel: A Life Engineered
+    timestamp_sec: 2374
+    context: '.... What we need to do is we need to be like, okay, how are we going to react to these things? M okay. >> The
+      behavior is much more important than ...'
+    jump_url: https://www.youtube.com/watch?v=_aUO6n-m4pM&t=2374s
+The Buddha:
+  category: thinkers_authors
+  total_mentions: 883
+  top_channels:
+    Doug's Dharma: 879
+    Accepting the Universe: 2
+    Joel Haver: 1
+    Perfect Life Seven GN: 1
+  sample_cues:
+  - video_id: MQYmuoKdsGY
+    title: 'The Art of Letting Go: Early Buddhist Teachings for Everyday Life'
+    channel: Doug's Dharma
+    timestamp_sec: 52
+    context: '... Go which is what we''ll talk about in today''s video in one early suta the Buddha was asked what exactly
+      is the purpose of living the spiritual life un...'
+    jump_url: https://www.youtube.com/watch?v=MQYmuoKdsGY&pp=ugUHEgVlbi1VU9IHCQkTDAGHKiGM7w%3D%3D&t=52s
+  - video_id: rDbEbPNZQiE
+    title: The Knowledge That Can't Be Overpowered — Socrates & the Buddha
+    channel: Doug's Dharma
+    timestamp_sec: 463
+    context: '...t wisdom without being truly wise. Notice how close this runs to what the Buddha said about genuine knowing,
+      that it can''t be overpowered. Therefore, ...'
+    jump_url: https://www.youtube.com/watch?v=rDbEbPNZQiE&t=463s
+  - video_id: eIKppRjnPcg
+    title: To love without fear
+    channel: Accepting the Universe
+    timestamp_sec: 653
+    context: '...es to us and so many human beings have demonstrated this to us, also. The Buddha, Socrates, Jesus, whoever
+      you want to name, all these kinds of people...'
+    jump_url: https://www.youtube.com/watch?v=eIKppRjnPcg&t=653s
+TypeScript:
+  category: programming_languages
+  total_mentions: 728
+  top_channels:
+    Web Dev Simplified: 319
+    freeCodeCamp.org: 295
+    ThePrimeagen: 76
+    Fredrik Christenson: 26
+    The Pragmatic Engineer: 4
+  sample_cues:
+  - video_id: bYgphDEWwvs
+    title: TypeScript in Express – TypeScript Tutorial
+    channel: freeCodeCamp.org
+    timestamp_sec: 0
+    context: TypeScript makes Express servers safer, more scalable, and easier to maintain. I...
+    jump_url: https://www.youtube.com/watch?v=bYgphDEWwvs&t=0s
+  - video_id: yVga-_gMfIM
+    title: AI-Assisted Development Tutorial – Multi-Agent Coding & Deployment with TRAE IDE
+    channel: freeCodeCamp.org
+    timestamp_sec: 567
+    context: '...n, as well as the architecture. So, front end, we''re doing React with TypeScript. We''re using Tailwind,
+      React Context API. And then for the back end, ...'
+    jump_url: https://www.youtube.com/watch?v=yVga-_gMfIM&t=567s
+  - video_id: reDRM0tqhNs
+    title: Claude Certified Architect - Foundations – Prepare for and pass the exam!
+    channel: freeCodeCamp.org
+    timestamp_sec: 16229
+    context: '...I found out that there are some fields that are only available in the TypeScript SDK and some that are not
+      available in the Python SDK. So I literally...'
+    jump_url: https://www.youtube.com/watch?v=reDRM0tqhNs&t=16229s
+Linux:
+  category: tools_infrastructure
+  total_mentions: 723
+  top_channels:
+    NetworkChuck: 147
+    Hacking and Cyber Security Club at Iowa State: 119
+    Lex Fridman: 88
+    typecraft: 73
+    Techquickie: 64
+  sample_cues:
+  - video_id: iqRcGCah0Kw
+    title: System Design for AI Agents – Building a Multi-Agent PR Reviewer
+    channel: freeCodeCamp.org
+    timestamp_sec: 10227
+    context: '...lick on CLI and MCP install any one of it if you''re Windows if you''re Linux figure out by yourself and
+      click on up here and install the script. N...'
+    jump_url: https://www.youtube.com/watch?v=iqRcGCah0Kw&t=10227s
+  - video_id: DC2p3kFjcK0
+    title: There's a new Linux distro in town for developers...
+    channel: Fireship
+    timestamp_sec: 4
+    context: '...ll said and done, we might finally be able to call it the year of the Linux desktop. Because if you''re a
+      developer, especially a smart, lazy deve...'
+    jump_url: https://www.youtube.com/watch?v=DC2p3kFjcK0&t=4s
+  - video_id: eDqVqVyCo6k
+    title: Python for Engineers & Robotics – Master NumPy, Pandas, and ChatGPT Automation
+    channel: freeCodeCamp.org
+    timestamp_sec: 97
+    context: '... and it is available on all the major operating system platforms like Linux, Windows and Mac. To facilitate
+      new features and to maintain that rea...'
+    jump_url: https://www.youtube.com/watch?v=eDqVqVyCo6k&t=97s
+GitHub:
+  category: tools_infrastructure
+  total_mentions: 712
+  top_channels:
+    freeCodeCamp.org: 333
+    Web Dev Simplified: 95
+    The Coding Train: 52
+    The Cherno: 44
+    NetworkChuck: 30
+  sample_cues:
+  - video_id: g3X8JauSWTM
+    title: Stop Building AI Slop – Build High-End Web Apps with AI
+    channel: freeCodeCamp.org
+    timestamp_sec: 572
+    context: '...can actually uh check out the description. So you can see this is the GitHub, this is the repository. If
+      I were click on this, this is the entire ...'
+    jump_url: https://www.youtube.com/watch?v=g3X8JauSWTM&t=572s
+  - video_id: iqRcGCah0Kw
+    title: System Design for AI Agents – Building a Multi-Agent PR Reviewer
+    channel: freeCodeCamp.org
+    timestamp_sec: 229
+    context: '...ll can fail. For example let''s say you''re working on the component of GitHub which is GitHub retries the
+      same delivery all the time. Maybe the sec...'
+    jump_url: https://www.youtube.com/watch?v=iqRcGCah0Kw&t=229s
+  - video_id: aTshQwxKk4Q
+    title: Why People Are INVISIBLE To Leaders And How To Fix It | Ethan Evans
+    channel: A Life Engineered
+    timestamp_sec: 559
+    context: '...like vibes, direct integrations with modern and ubiquitous tools like GitHub, and built-in project updates
+      that keep everyone in sync. That way, y...'
+    jump_url: https://www.youtube.com/watch?v=aTshQwxKk4Q&pp=ugUEEgJlbg%3D%3D&t=559s
+Rust:
+  category: programming_languages
+  total_mentions: 519
+  top_channels:
+    ThePrimeagen: 196
+    Let's Get Rusty: 116
+    The Cherno: 52
+    Lex Fridman: 20
+    freeCodeCamp.org: 19
+  sample_cues:
+  - video_id: GqEeOrDk5DI
+    title: How to Actually Learn C (2027 Edition)
+    channel: tony
+    timestamp_sec: 28
+    context: '...ever had a memory leak, wasn''t broken, but it had to be rewritten and rust. Now it is the year 20XX. It''s
+      time to start a movement. Rewrite it b...'
+    jump_url: https://www.youtube.com/watch?v=GqEeOrDk5DI&pp=ugUEEgJlbg%3D%3D&t=28s
+  - video_id: Zy7EXDONlTY
+    title: Agentic AI – Complete Course for Beginners
+    channel: freeCodeCamp.org
+    timestamp_sec: 7851
+    context: '... and handling external data with it uh with its core logic written in Rust for high performance. So this
+      is the definition of pientic. Um basica...'
+    jump_url: https://www.youtube.com/watch?v=Zy7EXDONlTY&t=7851s
+  - video_id: reDRM0tqhNs
+    title: Claude Certified Architect - Foundations – Prepare for and pass the exam!
+    channel: freeCodeCamp.org
+    timestamp_sec: 26759
+    context: '...for a second. Um, I''m going to say I want you to port the app over to Rust. Uh, I want you to port the back
+      end over to Rust. and the front end ...'
+    jump_url: https://www.youtube.com/watch?v=reDRM0tqhNs&t=26759s
+Docker:
+  category: tools_infrastructure
+  total_mentions: 501
+  top_channels:
+    freeCodeCamp.org: 183
+    NetworkChuck: 178
+    Techquickie: 41
+    Web Dev Simplified: 39
+    Fredrik Christenson: 30
+  sample_cues:
+  - video_id: DC2p3kFjcK0
+    title: There's a new Linux distro in town for developers...
+    channel: Fireship
+    timestamp_sec: 147
+    context: '...oviding everything you need out of the box. We of course have Git and Docker, Obsidian for Markdown, Piñata
+      for image editing, and I''m even using ...'
+    jump_url: https://www.youtube.com/watch?v=DC2p3kFjcK0&t=147s
+  - video_id: v3Pn71WQmOI
+    title: I Coached an AWS Engineer From Mid-Level to Senior (Live)
+    channel: A Life Engineered
+    timestamp_sec: 682
+    context: '...t model do I want to use in production? The internal one was here''s a Docker container that scientists have
+      some checkpoint on. They want to uploa...'
+    jump_url: https://www.youtube.com/watch?v=v3Pn71WQmOI&t=682s
+  - video_id: hAsz5GAbBQE
+    title: Kubernetes Operator Best Practices – Kubebuilder Deep Dive
+    channel: freeCodeCamp.org
+    timestamp_sec: 2513
+    context: '...ng wind, or wind as some people would call that, which is vcluster in Docker, and that is going to be the
+      base of every um operator that I build, ...'
+    jump_url: https://www.youtube.com/watch?v=hAsz5GAbBQE&t=2513s
+AWS:
+  category: tools_infrastructure
+  total_mentions: 265
+  top_channels:
+    freeCodeCamp.org: 147
+    The Pragmatic Engineer: 38
+    A Life Engineered: 34
+    Hacking and Cyber Security Club at Iowa State: 21
+    mayuko: 11
+  sample_cues:
+  - video_id: i8xSpSwm-90
+    title: 5 Things World Class Software Engineers Do That You Don’t
+    channel: A Life Engineered
+    timestamp_sec: 283
+    context: '...but he was a founding engineer on EC2, the cornerstone of what became AWS. He told me a story about the earliest
+      days of S3. The engineers had ...'
+    jump_url: https://www.youtube.com/watch?v=i8xSpSwm-90&t=283s
+  - video_id: _aUO6n-m4pM
+    title: I Coached a Security Engineer Through His Failed Meta Interview (Live)
+    channel: A Life Engineered
+    timestamp_sec: 52
+    context: '...ty, secure code review, and I have a decent amount of experience with AWS. I''m mostly here because I''m
+      a fan of Steve''s channel and I like a lo...'
+    jump_url: https://www.youtube.com/watch?v=_aUO6n-m4pM&t=52s
+  - video_id: v3Pn71WQmOI
+    title: I Coached an AWS Engineer From Mid-Level to Senior (Live)
+    channel: A Life Engineered
+    timestamp_sec: 7
+    context: '...th 6 years under his belt working on critical products like Alexa and AWS Bedrock. But, like a lot of smart
+      mid-level engineers, he''s strugglin...'
+    jump_url: https://www.youtube.com/watch?v=v3Pn71WQmOI&t=7s
+VS Code:
+  category: tools_infrastructure
+  total_mentions: 242
+  top_channels:
+    freeCodeCamp.org: 138
+    The Coding Train: 29
+    ThePrimeagen: 21
+    The Cherno: 19
+    Web Dev Simplified: 18
+  sample_cues:
+  - video_id: g3X8JauSWTM
+    title: Stop Building AI Slop – Build High-End Web Apps with AI
+    channel: freeCodeCamp.org
+    timestamp_sec: 188
+    context: '...n that case to get started here you can see I''m going head over to my VS code. I have created my project
+      called the investor tracker app which curr...'
+    jump_url: https://www.youtube.com/watch?v=g3X8JauSWTM&t=188s
+  - video_id: DC2p3kFjcK0
+    title: There's a new Linux distro in town for developers...
+    channel: Fireship
+    timestamp_sec: 174
+    context: '...e big question is where will you write that code? Well, obviously not VS Code. A keyboard focused DRO like
+      this could only use Neoim. But like Arch...'
+    jump_url: https://www.youtube.com/watch?v=DC2p3kFjcK0&t=174s
+  - video_id: eDqVqVyCo6k
+    title: Python for Engineers & Robotics – Master NumPy, Pandas, and ChatGPT Automation
+    channel: freeCodeCamp.org
+    timestamp_sec: 664
+    context: '...ur Windows, first go to the Google Chrome. Here you need to go to the Visual Studio Code website. For that,
+      type Visual Studio Code download. In the first lin...'
+    jump_url: https://www.youtube.com/watch?v=eDqVqVyCo6k&t=664s
+Vim:
+  category: tools_infrastructure
+  total_mentions: 221
+  top_channels:
+    ThePrimeagen: 180
+    typecraft: 13
+    Luke Smith: 9
+    Louis Pilfold: 7
+    Angela Collier: 4
+  sample_cues:
+  - video_id: GEkoGCFpY8c
+    title: Protecting Your Energy
+    channel: The PrimeTime
+    timestamp_sec: 66
+    context: '...live and my fingers were the translation layer. I was I am a wizarded vim. Okay, I''m a wizard, Harry. But
+      it''s impossible to ignore the benefit...'
+    jump_url: https://www.youtube.com/watch?v=GEkoGCFpY8c&pp=ugUHEgVlbi1VUw%3D%3D&t=66s
+  - video_id: DC2p3kFjcK0
+    title: There's a new Linux distro in town for developers...
+    channel: Fireship
+    timestamp_sec: 184
+    context: '...orious for its configuration nightmares. But here it''s using the Lazy Vim config, a preconfigured version
+      that gives you all the power of a mod...'
+    jump_url: https://www.youtube.com/watch?v=DC2p3kFjcK0&t=184s
+  - video_id: 1gy4sfsWGko
+    title: C++ Game Dev - 3D Modeling and Substance Painter
+    channel: Nightcrawler Studios
+    timestamp_sec: 5884
+    context: '... this is finally the push I can have to realize my dream and become a vim developer. You mean Vim is the
+      last bastion of initification? This is...'
+    jump_url: https://www.youtube.com/watch?v=1gy4sfsWGko&t=5884s
+Git:
+  category: tools_infrastructure
+  total_mentions: 165
+  top_channels:
+    freeCodeCamp.org: 35
+    The Cherno: 34
+    ThePrimeagen: 24
+    The Pragmatic Engineer: 18
+    Web Dev Simplified: 17
+  sample_cues:
+  - video_id: g3X8JauSWTM
+    title: Stop Building AI Slop – Build High-End Web Apps with AI
+    channel: freeCodeCamp.org
+    timestamp_sec: 1514
+    context: '..., so that''s exactly what we''re trying to do is basically try to using git work here to basically creating
+      different folder or different branche...'
+    jump_url: https://www.youtube.com/watch?v=g3X8JauSWTM&t=1514s
+  - video_id: DC2p3kFjcK0
+    title: There's a new Linux distro in town for developers...
+    channel: Fireship
+    timestamp_sec: 145
+    context: '...er by providing everything you need out of the box. We of course have Git and Docker, Obsidian for Markdown,
+      Piñata for image editing, and I''m ...'
+    jump_url: https://www.youtube.com/watch?v=DC2p3kFjcK0&t=145s
+  - video_id: GqEeOrDk5DI
+    title: How to Actually Learn C (2027 Edition)
+    channel: tony
+    timestamp_sec: 819
+    context: '...ut we''re not going to do that because we have a libby function called git opt for that. So, let''s go ahead
+      and run man on git op. As we see her...'
+    jump_url: https://www.youtube.com/watch?v=GqEeOrDk5DI&pp=ugUEEgJlbg%3D%3D&t=819s
+VPN:
+  category: networking_cybersecurity
+  total_mentions: 137
+  top_channels:
+    NetworkChuck: 79
+    Seytonic: 20
+    Michael Reeves: 17
+    Hacking and Cyber Security Club at Iowa State: 8
+    The Cherno: 5
+  sample_cues:
+  - video_id: HBluLfX2F_k
+    title: You've (Likely) Been Playing The Game Of Life Wrong
+    channel: Veritasium
+    timestamp_sec: 737
+    context: '...d malware with threat protection, even when you''re not connected to a VPN. Within just 15 minutes of registering
+      a new email, we saw that five ...'
+    jump_url: https://www.youtube.com/watch?v=HBluLfX2F_k&t=737s
+  - video_id: KgTW0xfyr9A
+    title: Reactathon Conference Live Stream - Day One
+    channel: freeCodeCamp.org
+    timestamp_sec: 2538
+    context: '... for your branch in particular that anyone can load internally on the vpn um to test things out so you wanted
+      something similar like this for m...'
+    jump_url: https://www.youtube.com/watch?v=KgTW0xfyr9A&t=2538s
+  - video_id: W5fK8BmgBow
+    title: What Is Docker - and why it’s EVERYWHERE
+    channel: Techquickie
+    timestamp_sec: 112
+    context: '...ers. Maybe you want to run a media server or a web server or a remote VPN application. You can quickly just
+      do a Docker run command of those ex...'
+    jump_url: https://www.youtube.com/watch?v=W5fK8BmgBow&t=112s
+SQL:
+  category: programming_languages
+  total_mentions: 124
+  top_channels:
+    freeCodeCamp.org: 76
+    Louis Pilfold: 19
+    A Life Engineered: 6
+    Hacking and Cyber Security Club at Iowa State: 3
+    bigboxSWE: 2
+  sample_cues:
+  - video_id: _aUO6n-m4pM
+    title: I Coached a Security Engineer Through His Failed Meta Interview (Live)
+    channel: A Life Engineered
+    timestamp_sec: 194
+    context: '...and I uncovered a lot of really cool stuff like um, derialization and SQL injection vulnerabilities uh, which
+      were ranked where high severity. ...'
+    jump_url: https://www.youtube.com/watch?v=_aUO6n-m4pM&t=194s
+  - video_id: iqRcGCah0Kw
+    title: System Design for AI Agents – Building a Multi-Agent PR Reviewer
+    channel: freeCodeCamp.org
+    timestamp_sec: 3668
+    context: '...e so suppose the agent posts a finding this endpoint is vulnerable to SQL injection conference is 60%. a
+      developer disputes it. Now what if the...'
+    jump_url: https://www.youtube.com/watch?v=iqRcGCah0Kw&t=3668s
+  - video_id: eDqVqVyCo6k
+    title: Python for Engineers & Robotics – Master NumPy, Pandas, and ChatGPT Automation
+    channel: freeCodeCamp.org
+    timestamp_sec: 19107
+    context: '...ortant advantage is you can read or write data from CSV, Excel, JSON, SQL and other formats also. In short,
+      if you are working with data, panda...'
+    jump_url: https://www.youtube.com/watch?v=eDqVqVyCo6k&t=19107s
+VLAN:
+  category: networking_cybersecurity
+  total_mentions: 116
+  top_channels:
+    NetworkChuck: 116
+  sample_cues:
+  - video_id: GVlq6lATZ2M
+    title: Summer of CCNA - 90 Minute - Session 2
+    channel: NetworkChuck
+    timestamp_sec: 3137
+    context: '...ab that you can study almost everything that''s in the CCNA exam inner VLAN routing. I mean, you don''t you
+      don''t Okay, Chuck, I know you''re like,...'
+    jump_url: https://www.youtube.com/watch?v=GVlq6lATZ2M&t=3137s
+  - video_id: -abob21omcM
+    title: Summer of CCNA LIVE Launch Party
+    channel: NetworkChuck
+    timestamp_sec: 300
+    context: '...d I''m like, \"Um, well,\n[4571.679s] actually, we do have an external VLAN on\n[4573.12s] the Switch.\"
+      He''s like, \"Oh, I''m sorry,\n[4574.32s] ...'
+    jump_url: https://www.youtube.com/watch?v=-abob21omcM&t=300s
+  - video_id: 7-CouekrkOc
+    title: LIVE AMA | Summer of CCNA | 07/09/2026
+    channel: NetworkChuck
+    timestamp_sec: 135
+    context: '...07.12s] of the labs where there was something\n[1209.039s] funky with VLAN one. Someone chatted in.\n[1211.36s]
+      They''re like, \"Oh, try creating...'
+    jump_url: https://www.youtube.com/watch?v=7-CouekrkOc&t=135s
+Bash:
+  category: programming_languages
+  total_mentions: 111
+  top_channels:
+    freeCodeCamp.org: 67
+    NetworkChuck: 13
+    Lex Fridman: 9
+    ThePrimeagen: 4
+    A Life Engineered: 3
+  sample_cues:
+  - video_id: QbFgSk70Or0
+    title: I Coached an AWS Engineer Senior to Staff (Live)
+    channel: A Life Engineered
+    timestamp_sec: 1810
+    context: '...so worked with like the stakeholders during like they they had a back bash to go through our all the things
+      that left on our side to work throug...'
+    jump_url: https://www.youtube.com/watch?v=QbFgSk70Or0&t=1810s
+  - video_id: Zy7EXDONlTY
+    title: Agentic AI – Complete Course for Beginners
+    channel: freeCodeCamp.org
+    timestamp_sec: 68243
+    context: '...nside that open up your terminal. Okay. You can also open up your git bash. It''s completely fine. Now here
+      simply write get clone and paste your...'
+    jump_url: https://www.youtube.com/watch?v=Zy7EXDONlTY&t=68243s
+  - video_id: reDRM0tqhNs
+    title: Claude Certified Architect - Foundations – Prepare for and pass the exam!
+    channel: freeCodeCamp.org
+    timestamp_sec: 1726
+    context: '...ld.b. Okay. And so we are giving it the option to read, edit, and use bash in order to accomplish its tasks.
+      And then it will print out uh the r...'
+    jump_url: https://www.youtube.com/watch?v=reDRM0tqhNs&t=1726s
+Raspberry Pi:
+  category: networking_cybersecurity
+  total_mentions: 91
+  top_channels:
+    NetworkChuck: 48
+    Seytonic: 11
+    Hacking and Cyber Security Club at Iowa State: 7
+    Michael Reeves: 6
+    hoff._world: 5
+  sample_cues:
+  - video_id: AZDSpS5v57w
+    title: AI Agents For Beginners – OpenClaw Case Study
+    channel: freeCodeCamp.org
+    timestamp_sec: 7179
+    context: '...meworks pull in large dependency trees. For a CLI tool that runs on a Raspberry Pi, that overhead is real.
+      So when should you use a framework versus bui...'
+    jump_url: https://www.youtube.com/watch?v=AZDSpS5v57w&t=7179s
+  - video_id: 6ICGZ8RwNYQ
+    title: 'From B Student to MIT: My Way to Engineering - Welcome to my Home Lab'
+    channel: ApprenticeDiary
+    timestamp_sec: 428
+    context: '...is big enough for me to print a whole helmet in one go. And here is a Raspberry Pi, which is another microcontroller.
+      And it got Wi-Fi and stuff. So, he...'
+    jump_url: https://www.youtube.com/watch?v=6ICGZ8RwNYQ&pp=ugUHEgVlbi1VUw%3D%3D&t=428s
+  - video_id: csIEMIoN0oQ
+    title: 'How to Build a Career in Tech: Jordan Jackson Connects the Dots'
+    channel: freeCodeCamp.org
+    timestamp_sec: 2076
+    context: '...like that happen, I''m just like, "Wow, I got this free" It was like a Raspberry Pi, but they were selling
+      them for like 400 cuz they had Bitcoin mining ...'
+    jump_url: https://www.youtube.com/watch?v=csIEMIoN0oQ&t=2076s
+Ubuntu:
+  category: tools_infrastructure
+  total_mentions: 88
+  top_channels:
+    NetworkChuck: 26
+    freeCodeCamp.org: 22
+    Hacking and Cyber Security Club at Iowa State: 20
+    Techquickie: 6
+    Lex Fridman: 6
+  sample_cues:
+  - video_id: Zy7EXDONlTY
+    title: Agentic AI – Complete Course for Beginners
+    channel: freeCodeCamp.org
+    timestamp_sec: 68670
+    context: '...en we''ll try to create the EC2 uh machine. Okay, we''ll be taking open Ubuntu instance. After that, we''ll
+      try to open the EC2 instance and we''ll tr...'
+    jump_url: https://www.youtube.com/watch?v=Zy7EXDONlTY&t=68670s
+  - video_id: reDRM0tqhNs
+    title: Claude Certified Architect - Foundations – Prepare for and pass the exam!
+    channel: freeCodeCamp.org
+    timestamp_sec: 30167
+    context: '...I never installed bubble wrap. I guess it just came installed on this Ubuntu um uh virtual machine. Uh but
+      you can see it really depends on what i...'
+    jump_url: https://www.youtube.com/watch?v=reDRM0tqhNs&t=30167s
+  - video_id: b-P5ZQ1NxxE
+    title: Meta Muse Code & Muse Spark Course – Build AI Agents, APIs, and Full-Stack Apps
+    channel: freeCodeCamp.org
+    timestamp_sec: 10061
+    context: '...ap. Um as that''s usually what we just need. So bubble wrap uh install Ubuntu. Different systems use different
+      layers. So it''s going to tell you wh...'
+    jump_url: https://www.youtube.com/watch?v=b-P5ZQ1NxxE&t=10061s
+DNS:
+  category: networking_cybersecurity
+  total_mentions: 87
+  top_channels:
+    NetworkChuck: 48
+    freeCodeCamp.org: 15
+    Linus Tech Tips: 7
+    A Life Engineered: 6
+    The Pragmatic Engineer: 3
+  sample_cues:
+  - video_id: Zy7EXDONlTY
+    title: Agentic AI – Complete Course for Beginners
+    channel: freeCodeCamp.org
+    timestamp_sec: 70892
+    context: '...ill go to my instance and there you will see one option called public DNS. Okay. Just try to copy this URL
+      and paste over the new tab. And if I...'
+    jump_url: https://www.youtube.com/watch?v=Zy7EXDONlTY&t=70892s
+  - video_id: suZ2Gt6i8do
+    title: Casey Muratori Doesn’t Care About AI (Here’s Why)
+    channel: A Life Engineered
+    timestamp_sec: 3002
+    context: '...it. They had an outage that was due to the fact that there was like a DNS like they this was a very very
+      big outage, I guess. Many many hours. ...'
+    jump_url: https://www.youtube.com/watch?v=suZ2Gt6i8do&t=3002s
+  - video_id: oDOw5tB3Udw
+    title: Python for Beginners with Hands-On Projects
+    channel: freeCodeCamp.org
+    timestamp_sec: 30243
+    context: '... learn about the get host by name function. Get host by name performs DNS resolution. It takes a domain name
+      and returns its corresponding IPv4...'
+    jump_url: https://www.youtube.com/watch?v=oDOw5tB3Udw&t=30243s
+Friedrich Nietzsche:
+  category: thinkers_authors
+  total_mentions: 79
+  top_channels:
+    Academy of Ideas: 78
+    Philosophy Tube: 1
+  sample_cues:
+  - video_id: A3nfS_1am4Y
+    title: 'Having Kids Vs Child Free: What''s the Right Choice?'
+    channel: Philosophy Tube
+    timestamp_sec: 2676
+    context: '...erson and Indigenous American Land Use, and the bonus video I made on Nietzsche where I talk about one of
+      my favorite video games. And if you want to...'
+    jump_url: https://www.youtube.com/watch?v=A3nfS_1am4Y&t=2676s
+  - video_id: UNIx3GcYh1g
+    title: 3.9K
+    channel: Academy of Ideas
+    timestamp_sec: 526
+    context: '...26.17s] Anne Lembke, Dopamine Nation\nOr as the philosopher Friedrich Nietzsche\n[528.93s] observed in an
+      aphorism titled “The Goal\nof Science”:\n[5...'
+    jump_url: https://www.youtube.com/watch?v=UNIx3GcYh1g&t=526s
+  - video_id: gfyCzLbcAvk
+    title: Introduction to Carl Jung
+    channel: Academy of Ideas
+    timestamp_sec: 0
+    context: '...e the end of his most prolific and final period of writing, Frederick Nietzsche wrote in ''Ecce Homo''\n[9.34s]
+      \"That a psychologist without equal spe...'
+    jump_url: https://www.youtube.com/watch?v=gfyCzLbcAvk&t=0s
+Kubernetes:
+  category: tools_infrastructure
+  total_mentions: 76
+  top_channels:
+    freeCodeCamp.org: 51
+    NetworkChuck: 8
+    Fredrik Christenson: 7
+    Louis Pilfold: 6
+    The Pragmatic Engineer: 2
+  sample_cues:
+  - video_id: i8xSpSwm-90
+    title: 5 Things World Class Software Engineers Do That You Don’t
+    channel: A Life Engineered
+    timestamp_sec: 156
+    context: '...nish it with something concrete. It shouldn''t be something like learn Kubernetes. That''s a topic, not a
+      capability. What will you be able to do? Deplo...'
+    jump_url: https://www.youtube.com/watch?v=i8xSpSwm-90&t=156s
+  - video_id: hAsz5GAbBQE
+    title: Kubernetes Operator Best Practices – Kubebuilder Deep Dive
+    channel: freeCodeCamp.org
+    timestamp_sec: 2
+    context: Learn the best practices for writing Kubernetes operators using CubeBuilder. This includes strategies for managing
+      mu...
+    jump_url: https://www.youtube.com/watch?v=hAsz5GAbBQE&t=2s
+  - video_id: b-P5ZQ1NxxE
+    title: Meta Muse Code & Muse Spark Course – Build AI Agents, APIs, and Full-Stack Apps
+    channel: freeCodeCamp.org
+    timestamp_sec: 1586
+    context: '...ks pretty clear. feed doc submit post topics top 10 and how do we cut Kubernetes cost down by whatever without
+      losing sleep so it''s fun but you know I...'
+    jump_url: https://www.youtube.com/watch?v=b-P5ZQ1NxxE&t=1586s
+Node.js:
+  category: frameworks_libraries
+  total_mentions: 67
+  top_channels:
+    The Coding Train: 20
+    freeCodeCamp.org: 19
+    Fredrik Christenson: 7
+    ThePrimeagen: 6
+    Web Dev Simplified: 6
+  sample_cues:
+  - video_id: bYgphDEWwvs
+    title: TypeScript in Express – TypeScript Tutorial
+    channel: freeCodeCamp.org
+    timestamp_sec: 33
+    context: '...oing to take Express, one of the more popular back-end frameworks for Node.js, and combine it with TypeScript.
+      So, we get the speed of building API...'
+    jump_url: https://www.youtube.com/watch?v=bYgphDEWwvs&t=33s
+  - video_id: yVga-_gMfIM
+    title: AI-Assisted Development Tutorial – Multi-Agent Coding & Deployment with TRAE IDE
+    channel: freeCodeCamp.org
+    timestamp_sec: 573
+    context: '...g Tailwind, React Context API. And then for the back end, we''re using Node.js with Express, PostgreSQL.
+      This is looking really good. I can, of cour...'
+    jump_url: https://www.youtube.com/watch?v=yVga-_gMfIM&t=573s
+  - video_id: b-P5ZQ1NxxE
+    title: Meta Muse Code & Muse Spark Course – Build AI Agents, APIs, and Full-Stack Apps
+    channel: freeCodeCamp.org
+    timestamp_sec: 4307
+    context: '...anthropic SDK allowing you to point. Okay, sure. But is only with the NodeJS one and not the Python one.
+      It says the Python one here. Basure repla...'
+    jump_url: https://www.youtube.com/watch?v=b-P5ZQ1NxxE&t=4307s
+Tailwind CSS:
+  category: frameworks_libraries
+  total_mentions: 64
+  top_channels:
+    Web Dev Simplified: 33
+    freeCodeCamp.org: 25
+    ThePrimeagen: 5
+    A Life Engineered: 1
+  sample_cues:
+  - video_id: yVga-_gMfIM
+    title: AI-Assisted Development Tutorial – Multi-Agent Coding & Deployment with TRAE IDE
+    channel: freeCodeCamp.org
+    timestamp_sec: 569
+    context: '...ecture. So, front end, we''re doing React with TypeScript. We''re using Tailwind, React Context API. And
+      then for the back end, we''re using Node.js wi...'
+    jump_url: https://www.youtube.com/watch?v=yVga-_gMfIM&t=569s
+  - video_id: L4-sJcTr0YU
+    title: The New Career Map for Software Engineers
+    channel: A Life Engineered
+    timestamp_sec: 1244
+    context: '...u''re design looking at yet another sort of bit of interface slop with tailwind and whatever else, it is
+      driving you a little crazy, but that''s just ...'
+    jump_url: https://www.youtube.com/watch?v=L4-sJcTr0YU&t=1244s
+  - video_id: 4GtVeULrNks
+    title: React Native Full Stack Course – Clerk, Postgres, NativeWind
+    channel: freeCodeCamp.org
+    timestamp_sec: 177
+    context: '... to set up. When it comes to styling we will use native wind which is tailwind but for react native we are
+      going to handle global state management w...'
+    jump_url: https://www.youtube.com/watch?v=4GtVeULrNks&t=177s
+SQLite:
+  category: databases_storage
+  total_mentions: 58
+  top_channels:
+    freeCodeCamp.org: 51
+    Louis Pilfold: 5
+    ThePrimeagen: 2
+  sample_cues:
+  - video_id: Zy7EXDONlTY
+    title: Agentic AI – Complete Course for Beginners
+    channel: freeCodeCamp.org
+    timestamp_sec: 53232
+    context: '...h documentation there you will be getting some kinds of database like SQLite database they are suggesting.
+      So skillite database when you can use w...'
+    jump_url: https://www.youtube.com/watch?v=Zy7EXDONlTY&t=53232s
+  - video_id: reDRM0tqhNs
+    title: Claude Certified Architect - Foundations – Prepare for and pass the exam!
+    channel: freeCodeCamp.org
+    timestamp_sec: 41657
+    context: '.... Uh it should load a custom MCP server uh with that can read a local SQLite uh 3D database in this folder
+      called to-dos. Um, and it should have t...'
+    jump_url: https://www.youtube.com/watch?v=reDRM0tqhNs&t=41657s
+  - video_id: b-P5ZQ1NxxE
+    title: Meta Muse Code & Muse Spark Course – Build AI Agents, APIs, and Full-Stack Apps
+    channel: freeCodeCamp.org
+    timestamp_sec: 7444
+    context: '...acks, right? Uh database lives on on the same server. I don''t know if SQLite would be a bad choice. because
+      it''s not super performant, but I mean ...'
+    jump_url: https://www.youtube.com/watch?v=b-P5ZQ1NxxE&t=7444s
+Firewall:
+  category: networking_cybersecurity
+  total_mentions: 50
+  top_channels:
+    NetworkChuck: 36
+    hoff._world: 3
+    A Life Engineered: 2
+    freeCodeCamp.org: 2
+    Hacking and Cyber Security Club at Iowa State: 2
+  sample_cues:
+  - video_id: oNxRxSE_eog
+    title: I Coached a Ex-Microsoft Manager for His Netflix Interview
+    channel: A Life Engineered
+    timestamp_sec: 1766
+    context: '...onsible for the security approvals. So, when somebody you know, put a firewall in place, it has to be approved.
+      The process was was bifurcated. It w...'
+    jump_url: https://www.youtube.com/watch?v=oNxRxSE_eog&t=1766s
+  - video_id: H0KAi8AWsnM
+    title: Coding interviews have become insane
+    channel: bigboxSWE
+    timestamp_sec: 248
+    context: '... If I''m reaching out to any of my viewers from China across the Great Firewall, Shong Di gay wo fa you shin
+      ba. Now, what I find surprising is neith...'
+    jump_url: https://www.youtube.com/watch?v=H0KAi8AWsnM&pp=ugUEEgJlbg%3D%3D&t=248s
+  - video_id: oDOw5tB3Udw
+    title: Python for Beginners with Hands-On Projects
+    channel: freeCodeCamp.org
+    timestamp_sec: 29870
+    context: '...f the port number that we have specified here is either filtered by a firewall or closed then also the connect
+      function will not be able to establis...'
+    jump_url: https://www.youtube.com/watch?v=oDOw5tB3Udw&t=29870s
+PyTorch:
+  category: frameworks_libraries
+  total_mentions: 48
+  top_channels:
+    freeCodeCamp.org: 44
+    Derek Banas: 3
+    The Coding Train: 1
+  sample_cues:
+  - video_id: R5fPn6W8m6k
+    title: Code a Reinforcement Learning Library in C from Scratch (Full Course)
+    channel: freeCodeCamp.org
+    timestamp_sec: 7380
+    context: '...nd the input is a not which is the previous uh output it exactly like PyTorch we do in uh in Python but like
+      we we are basically doing more scratch...'
+    jump_url: https://www.youtube.com/watch?v=R5fPn6W8m6k&t=7380s
+  - video_id: QpR4QEv5Urk
+    title: 'Image Generation using GANs | Deep Learning with PyTorch: Zero to GANs | Part 6 of 6'
+    channel: freeCodeCamp.org
+    timestamp_sec: 294
+    context: '...l the Nvidia Cuda drivers and then you need to install the version of pytorch compatible with gpus and then
+      you will be able to use a GPU on Linux ...'
+    jump_url: https://www.youtube.com/watch?v=QpR4QEv5Urk&t=294s
+  - video_id: JN7-ZBFYSCU
+    title: 'Data Augmentation, Regularization, and ResNets | Deep Learning with PyTorch: Zero to GANs | 5 of 6'
+    channel: freeCodeCamp.org
+    timestamp_sec: 29
+    context: Welcome to deep learning with PyTorch zero to GANs. This is a live online certification course being offere...
+    jump_url: https://www.youtube.com/watch?v=JN7-ZBFYSCU&t=29s
+Zig:
+  category: programming_languages
+  total_mentions: 45
+  top_channels:
+    ThePrimeagen: 22
+    The PrimeTime: 11
+    The Pragmatic Engineer: 3
+    Game Maker's Toolkit: 3
+    The Cherno: 3
+  sample_cues:
+  - video_id: WjckELpzLOU
+    title: Mitchell Hashimoto’s new way of writing code
+    channel: The Pragmatic Engineer
+    timestamp_sec: 4139
+    context: '...So, I picked all these like different technologies and I said, "Okay, Zig." Cuz it looked cool to me. I just
+      wanted to try it. >> Canton, for t...'
+    jump_url: https://www.youtube.com/watch?v=WjckELpzLOU&t=4139s
+  - video_id: l7xXW0EbK4g
+    title: 'The World Design of Hollow Knight: Silksong'
+    channel: Game Maker's Toolkit
+    timestamp_sec: 376
+    context: '... It looks like the world''s most  simple metro map - without the usual zig-zagging and backtracking  you''d
+      see in other Metroidvanias. Of course...'
+    jump_url: https://www.youtube.com/watch?v=l7xXW0EbK4g&t=376s
+  - video_id: E8cM12jRH7k
+    title: How To Learn A New Programming Language
+    channel: ThePrimeagen
+    timestamp_sec: 242
+    context: '...eally like a good project and so for my recent kind of Endeavors into Zig I''ve chosen to build out an interpreter
+      this interpreter right here f...'
+    jump_url: https://www.youtube.com/watch?v=E8cM12jRH7k&t=242s
+Carl Jung:
+  category: thinkers_authors
+  total_mentions: 41
+  top_channels:
+    Academy of Ideas: 39
+    Queen: 1
+    Lex Fridman: 1
+  sample_cues:
+  - video_id: Ib1izyUjlZ8
+    title: The Courage To Be Misunderstood - Carl Jung
+    channel: Queen
+    timestamp_sec: 36
+    context: '...er, calmer, more agreeable, someone would finally see them correctly. Carl Jung understood something harder
+      about this. People do not see you. They s...'
+    jump_url: https://www.youtube.com/watch?v=Ib1izyUjlZ8&t=36s
+  - video_id: NYFGCESmikA
+    title: 'DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501'
+    channel: Lex Fridman
+    timestamp_sec: 11907
+    context: '...ed preferences are not always pretty. I mean, we have this shadow, as Jung talks about, right? All these
+      dark aspects of ourselves, and they are...'
+    jump_url: https://www.youtube.com/watch?v=NYFGCESmikA&t=11907s
+  - video_id: MQgC2nI6Wu4
+    title: The Psychology of Self-Transformation
+    channel: Academy of Ideas
+    timestamp_sec: 48
+    context: '...filling existence We cannot change anything unless we accept it wrote Carl Jung the first step therefore
+      is to acknowledge that a change in our way o...'
+    jump_url: https://www.youtube.com/watch?v=MQgC2nI6Wu4&t=48s
+Next.js:
+  category: frameworks_libraries
+  total_mentions: 40
+  top_channels:
+    freeCodeCamp.org: 22
+    Web Dev Simplified: 18
+  sample_cues:
+  - video_id: iqRcGCah0Kw
+    title: System Design for AI Agents – Building a Multi-Agent PR Reviewer
+    channel: freeCodeCamp.org
+    timestamp_sec: 7685
+    context: '...ne aggregator which aggregates hl and post back to github we having a nextjs dashboard we are having time
+      scale tiger data is spine for our storin...'
+    jump_url: https://www.youtube.com/watch?v=iqRcGCah0Kw&t=7685s
+  - video_id: Zy7EXDONlTY
+    title: Agentic AI – Complete Course for Beginners
+    channel: freeCodeCamp.org
+    timestamp_sec: 77150
+    context: '...e uh application better to use any front- end framework for that like nextjs is there okay in market next
+      JS is there next JS is there react is th...'
+    jump_url: https://www.youtube.com/watch?v=Zy7EXDONlTY&t=77150s
+  - video_id: hIh2O9OL69o
+    title: Build an AI Agent in Telegram with Vercel, Cursor, Composio
+    channel: freeCodeCamp.org
+    timestamp_sec: 2
+    context: Learn how to build an AI agent with Cursor and Next.js. You'll basically build your own version of Openclaw.
+      This course cov...
+    jump_url: https://www.youtube.com/watch?v=hIh2O9OL69o&t=2s
+Neovim:
+  category: tools_infrastructure
+  total_mentions: 39
+  top_channels:
+    ThePrimeagen: 22
+    Lex Fridman: 5
+    Louis Pilfold: 4
+    Zei: 2
+    NetworkChuck: 2
+  sample_cues:
+  - video_id: DC2p3kFjcK0
+    title: There's a new Linux distro in town for developers...
+    channel: Fireship
+    timestamp_sec: 178
+    context: '...A keyboard focused DRO like this could only use Neoim. But like Arch, Neovim is notorious for its configuration
+      nightmares. But here it''s using th...'
+    jump_url: https://www.youtube.com/watch?v=DC2p3kFjcK0&t=178s
+  - video_id: hKO3Lt-hrvY
+    title: I Finally Got an Old Thinkpad.. I Get It Now.
+    channel: Zei
+    timestamp_sec: 654
+    context: '... ahead and But I''m going to like adjust the hyperland.lua real quick. nvim downloads ddd/hyperland.lua.
+      So over here, as you can see, uh mode is...'
+    jump_url: https://www.youtube.com/watch?v=hKO3Lt-hrvY&pp=ugUEEgJlbtIHCQkTDAGHKiGM7w%3D%3D&t=654s
+  - video_id: 3f9tbqSIm-E
+    title: 1000 Players - One Game of Doom
+    channel: ThePrimeagen
+    timestamp_sec: 55
+    context: '...r was the first game that I ever did and yes it is being displayed in neovim and yes twitch is not that great
+      at mind sweeper therefore I''m going ...'
+    jump_url: https://www.youtube.com/watch?v=3f9tbqSIm-E&t=55s
+TensorFlow:
+  category: frameworks_libraries
+  total_mentions: 39
+  top_channels:
+    Derek Banas: 20
+    The Coding Train: 13
+    freeCodeCamp.org: 5
+    Michael Reeves: 1
+  sample_cues:
+  - video_id: Zy7EXDONlTY
+    title: Agentic AI – Complete Course for Beginners
+    channel: freeCodeCamp.org
+    timestamp_sec: 5187
+    context: '...ate with the help of simple python or I can''t with the help of simple tensorflow right or langen this is
+      not possible so I have to use some end to-end...'
+    jump_url: https://www.youtube.com/watch?v=Zy7EXDONlTY&t=5187s
+  - video_id: KgTW0xfyr9A
+    title: Reactathon Conference Live Stream - Day One
+    channel: freeCodeCamp.org
+    timestamp_sec: 15796
+    context: '...ser though you can do a surprisingly large amount with something like tensorflow.js which is an implementation
+      of the tensorflow framework in javascri...'
+    jump_url: https://www.youtube.com/watch?v=KgTW0xfyr9A&t=15796s
+  - video_id: tqsy9Wtr1qE
+    title: Teaching a Robot Dog to Pee Beer
+    channel: Michael Reeves
+    timestamp_sec: 419
+    context: '...cameras is it it''s rat [ __ ] it''s like a vhs tape from the 1990s the tensorflow model i''ve been using
+      to detect the cup does not play well with the c...'
+    jump_url: https://www.youtube.com/watch?v=tqsy9Wtr1qE&t=419s
+Alex Hormozi:
+  category: thinkers_authors
+  total_mentions: 31
+  top_channels:
+    Alex Hormozi: 31
+  sample_cues:
+  - video_id: 0Dt3175NeFs
+    title: A Bird Doesn't Land on a Branch Because It Trusts the Branch
+    channel: Alex Hormozi
+    timestamp_sec: 0
+    context: '...itled ''A Bird Doesn''t Land on a Branch Because It Trusts the Branch'', Alex Hormozi provides detailed insights
+      and technical walkthroughs regarding softw...'
+    jump_url: https://www.youtube.com/watch?v=0Dt3175NeFs&t=0s
+  - video_id: 138y93ywE_g
+    title: 3 signs you're going to be a successful entrepreneur.
+    channel: Alex Hormozi
+    timestamp_sec: 0
+    context: '...video titled ''3 signs you''re going to be a successful entrepreneur.'', Alex Hormozi provides detailed insights
+      and technical walkthroughs regarding softw...'
+    jump_url: https://www.youtube.com/watch?v=138y93ywE_g&t=0s
+  - video_id: 3w__xK7Hzkk
+    title: '"I Quit My Job But Don''t Know What Business to Start"'
+    channel: Alex Hormozi
+    timestamp_sec: 0
+    context: '...video titled ''"I Quit My Job But Don''t Know What Business to Start"'', Alex Hormozi provides detailed insights
+      and technical walkthroughs regarding softw...'
+    jump_url: https://www.youtube.com/watch?v=3w__xK7Hzkk&t=0s
+Cloudflare:
+  category: tools_infrastructure
+  total_mentions: 26
+  top_channels:
+    NetworkChuck: 13
+    freeCodeCamp.org: 6
+    NeetCode: 3
+    A Life Engineered: 2
+    ThePrimeagen: 2
+  sample_cues:
+  - video_id: g3X8JauSWTM
+    title: Stop Building AI Slop – Build High-End Web Apps with AI
+    channel: freeCodeCamp.org
+    timestamp_sec: 26
+    context: '...ple style scroll animations and deploying your full front-end live to Cloudflare. In this 1hour course, I''m
+      going to teach you everything you know on ...'
+    jump_url: https://www.youtube.com/watch?v=g3X8JauSWTM&t=26s
+  - video_id: q3ca41YIZjc
+    title: The 2% of Engineers Winning the AI Era (Ex-Meta L8)
+    channel: A Life Engineered
+    timestamp_sec: 4208
+    context: '... Mhm. if they are going to embrace AI and they are AI native. I think Cloudflare, they just uh they''re hiring
+      like 1,111 interns or something like tha...'
+    jump_url: https://www.youtube.com/watch?v=q3ca41YIZjc&t=4208s
+  - video_id: suZ2Gt6i8do
+    title: Casey Muratori Doesn’t Care About AI (Here’s Why)
+    channel: A Life Engineered
+    timestamp_sec: 3501
+    context: '...of saying things. And I agree with him. So now I think companies like Cloudflare, they decided that they
+      were going to hire 1,111 interns for their ne...'
+    jump_url: https://www.youtube.com/watch?v=suZ2Gt6i8do&t=3501s
+Go:
+  category: programming_languages
+  total_mentions: 25
+  top_channels:
+    freeCodeCamp.org: 8
+    Boot dev: 8
+    ThePrimeagen: 6
+    Techquickie: 1
+    CsMadeEz: 1
+  sample_cues:
+  - video_id: hAsz5GAbBQE
+    title: Kubernetes Operator Best Practices – Kubebuilder Deep Dive
+    channel: freeCodeCamp.org
+    timestamp_sec: 1983
+    context: '...ally this would go to AWS, make API calls using the SDK um written in Golang for AWS, and will authenticate
+      to Amazon. It will give the informatio...'
+    jump_url: https://www.youtube.com/watch?v=hAsz5GAbBQE&t=1983s
+  - video_id: reDRM0tqhNs
+    title: Claude Certified Architect - Foundations – Prepare for and pass the exam!
+    channel: freeCodeCamp.org
+    timestamp_sec: 26784
+    context: '...is a JavaScript front end with myithil and then this one here is um a Golang app, right? And so actually
+      I might just save it before I do anything...'
+    jump_url: https://www.youtube.com/watch?v=reDRM0tqhNs&t=26784s
+  - video_id: b-P5ZQ1NxxE
+    title: Meta Muse Code & Muse Spark Course – Build AI Agents, APIs, and Full-Stack Apps
+    channel: freeCodeCamp.org
+    timestamp_sec: 7223
+    context: '...the most cost effective solution. I think it''s going to probably be a golang application. So skeleton backend.
+      I like doing this when I''m making p...'
+    jump_url: https://www.youtube.com/watch?v=b-P5ZQ1NxxE&t=7223s
+PostgreSQL:
+  category: databases_storage
+  total_mentions: 25
+  top_channels:
+    Web Dev Simplified: 13
+    freeCodeCamp.org: 5
+    The Pragmatic Engineer: 5
+    Ben Awad: 1
+    NeetCode: 1
+  sample_cues:
+  - video_id: yVga-_gMfIM
+    title: AI-Assisted Development Tutorial – Multi-Agent Coding & Deployment with TRAE IDE
+    channel: freeCodeCamp.org
+    timestamp_sec: 573
+    context: '...ext API. And then for the back end, we''re using Node.js with Express, PostgreSQL. This is looking really
+      good. I can, of course, use this time to refi...'
+    jump_url: https://www.youtube.com/watch?v=yVga-_gMfIM&t=573s
+  - video_id: WjckELpzLOU
+    title: Mitchell Hashimoto’s new way of writing code
+    channel: The Pragmatic Engineer
+    timestamp_sec: 1141
+    context: '...very service discovery by connecting an off-the-shelf DNS server with Postgres and we did all these like
+      hacky things, but they felt good. Uh and ag...'
+    jump_url: https://www.youtube.com/watch?v=WjckELpzLOU&t=1141s
+  - video_id: hIh2O9OL69o
+    title: Build an AI Agent in Telegram with Vercel, Cursor, Composio
+    channel: freeCodeCamp.org
+    timestamp_sec: 640
+    context: '... a lot faster. So the first one here is Neon and this is a serverless Postgres. So it''s hosted by Neon.
+      We''ll click add, select the region, and this...'
+    jump_url: https://www.youtube.com/watch?v=hIh2O9OL69o&t=640s
+Arch Linux:
+  category: tools_infrastructure
+  total_mentions: 22
+  top_channels:
+    typecraft: 5
+    NetworkChuck: 5
+    Zei: 3
+    ThePrimeagen: 3
+    Fireship: 2
+  sample_cues:
+  - video_id: DC2p3kFjcK0
+    title: There's a new Linux distro in town for developers...
+    channel: Fireship
+    timestamp_sec: 116
+    context: '...e super key plus space to bring up the app launcher. Unlike a regular Arch Linux system, you''ll notice that
+      this OS is packed with pre-installed softw...'
+    jump_url: https://www.youtube.com/watch?v=DC2p3kFjcK0&t=116s
+  - video_id: hKO3Lt-hrvY
+    title: I Finally Got an Old Thinkpad.. I Get It Now.
+    channel: Zei
+    timestamp_sec: 250
+    context: '...etty good for Linux. We''re going to be installing a Linux distro, not Arch Linux, Artix Linux. Well, this
+      is kind of Arch. This is Arch but system D f...'
+    jump_url: https://www.youtube.com/watch?v=hKO3Lt-hrvY&pp=ugUEEgJlbtIHCQkTDAGHKiGM7w%3D%3D&t=250s
+  - video_id: ZH3iKbEiks0
+    title: I was wrong btw
+    channel: ThePrimeagen
+    timestamp_sec: 1
+    context: '...u''ve known me for a little bit, you probably have seen me make fun of Arch Linux, you know, maybe like once
+      or twice on Twitter. I still have no idea ...'
+    jump_url: https://www.youtube.com/watch?v=ZH3iKbEiks0&t=1s
+MongoDB:
+  category: databases_storage
+  total_mentions: 13
+  top_channels:
+    Fredrik Christenson: 6
+    freeCodeCamp.org: 4
+    Michael Reeves: 1
+    Web Dev Simplified: 1
+    The Pragmatic Engineer: 1
+  sample_cues:
+  - video_id: Zy7EXDONlTY
+    title: Agentic AI – Complete Course for Beginners
+    channel: freeCodeCamp.org
+    timestamp_sec: 53403
+    context: '...your langraph okay this is possible so uh That''s how you can also use MongoDB. Uh you can also connect with
+      MongoDB. You can also connect with radi...'
+    jump_url: https://www.youtube.com/watch?v=Zy7EXDONlTY&t=53403s
+  - video_id: KgTW0xfyr9A
+    title: Reactathon Conference Live Stream - Day One
+    channel: freeCodeCamp.org
+    timestamp_sec: 3780
+    context: '...boost and cloud up acquired by wordpress in 2013 he created the first mongodb orm for node.js uh and mongoose.js
+      before that he was a core develope...'
+    jump_url: https://www.youtube.com/watch?v=KgTW0xfyr9A&t=3780s
+  - video_id: hBP-NzOadL0
+    title: I Let a Twitter Bot Decorate My Room
+    channel: Michael Reeves
+    timestamp_sec: 461
+    context: '... okay it''s the data source that parses it sends it to the [ __ ] Dave MongoDB database are not connected
+      but they can fly but they can interact the...'
+    jump_url: https://www.youtube.com/watch?v=hBP-NzOadL0&t=461s
+Deep Work:
+  category: business_productivity
+  total_mentions: 12
+  top_channels:
+    Pierre's Generative Music: 5
+    Cipher Remnants: 2
+    Doug's Dharma: 2
+    A Life Engineered: 1
+    NetworkChuck: 1
+  sample_cues:
+  - video_id: c3pzcV9yi24
+    title: How I Have Time For Everything (From A Principal At Amazon)
+    channel: A Life Engineered
+    timestamp_sec: 173
+    context: '...y didn''t rather than being bored so being bored during these times of deep work is normal you want to be
+      bored but you have to stay in the room becau...'
+    jump_url: https://www.youtube.com/watch?v=c3pzcV9yi24&t=173s
+  - video_id: NZ_PEaXWDRA
+    title: Cold Front — Dark Cyberpunk Lofi with Rain Sounds for Deep Focus (3 Hours)
+    channel: Cipher Remnants
+    timestamp_sec: 0
+    context: '...creen, and nothing else until morning.  Dark cyberpunk lofi beats for deep work, late night coding, designing,
+      and focus. Press play, open your edito...'
+    jump_url: https://www.youtube.com/watch?v=NZ_PEaXWDRA&t=0s
+  - video_id: Bev6TXDfnvA
+    title: 3 Hours of Generative Ambient for Deep Focus · Modular Synth & Tape (No AI)
+    channel: Pierre's Generative Music
+    timestamp_sec: 0
+    context: Three hours of calm, generative ambient for deep work, studying, and focus. Eight full soundscapes, each one
+      played live on...
+    jump_url: https://www.youtube.com/watch?v=Bev6TXDfnvA&t=0s
+Redis:
+  category: databases_storage
+  total_mentions: 11
+  top_channels:
+    freeCodeCamp.org: 4
+    The Pragmatic Engineer: 3
+    Louis Pilfold: 2
+    Ben Awad: 1
+    Fredrik Christenson: 1
+  sample_cues:
+  - video_id: iqRcGCah0Kw
+    title: System Design for AI Agents – Building a Multi-Agent PR Reviewer
+    channel: freeCodeCamp.org
+    timestamp_sec: 5784
+    context: '... order hey sure give me the order and store it into the job basically redis database and then it has a worker
+      in the back end which you call this...'
+    jump_url: https://www.youtube.com/watch?v=iqRcGCah0Kw&t=5784s
+  - video_id: WjckELpzLOU
+    title: Mitchell Hashimoto’s new way of writing code
+    channel: The Pragmatic Engineer
+    timestamp_sec: 1474
+    context: '...pay your salary for you to work on some idea. And the best example is Redis at VMware. And yeah, and we kind
+      of laid out this plan that we wanted...'
+    jump_url: https://www.youtube.com/watch?v=WjckELpzLOU&t=1474s
+  - video_id: hIh2O9OL69o
+    title: Build an AI Agent in Telegram with Vercel, Cursor, Composio
+    channel: freeCodeCamp.org
+    timestamp_sec: 687
+    context: '... super easy and we''ll just go through the rest. We''ll add Upstash for Redis, use the same default region,
+      toggle the free tier, accept all these ...'
+    jump_url: https://www.youtube.com/watch?v=hIh2O9OL69o&t=687s
+BGP:
+  category: networking_cybersecurity
+  total_mentions: 8
+  top_channels:
+    NetworkChuck: 6
+    freeCodeCamp.org: 1
+    hoff._world: 1
+  sample_cues:
+  - video_id: Zy7EXDONlTY
+    title: Agentic AI – Complete Course for Beginners
+    channel: freeCodeCamp.org
+    timestamp_sec: 80163
+    context: '...w if I execute Now see my uh application is running. Okay. See our uh BGP is running and this is completely
+      live right now. You can share this ...'
+    jump_url: https://www.youtube.com/watch?v=Zy7EXDONlTY&t=80163s
+  - video_id: A6PGAuNT5L0
+    title: The MOST VALUABLE Embedded Systems Courses
+    channel: hoff._world
+    timestamp_sec: 759
+    context: '...ow about how the internet is structured. You don''t have to know about BGP. You don''t have to know about
+      routing too much. You don''t have to rea...'
+    jump_url: https://www.youtube.com/watch?v=A6PGAuNT5L0&t=759s
+  - video_id: GVlq6lATZ2M
+    title: Summer of CCNA - 90 Minute - Session 2
+    channel: NetworkChuck
+    timestamp_sec: 5284
+    context: '...retty solid on the I''d say traditional topics like routing protocols, BGP, OPF, EIGRP, all that stuff. But,
+      you know, the current CCI has SDWAN...'
+    jump_url: https://www.youtube.com/watch?v=GVlq6lATZ2M&t=5284s
+Vue.js:
+  category: frameworks_libraries
+  total_mentions: 8
+  top_channels:
+    NetworkChuck: 4
+    freeCodeCamp.org: 2
+    Web Dev Simplified: 1
+    Fredrik Christenson: 1
+  sample_cues:
+  - video_id: KgTW0xfyr9A
+    title: Reactathon Conference Live Stream - Day One
+    channel: freeCodeCamp.org
+    timestamp_sec: 1793
+    context: '...te generators emerge tools like 11c or scully for angular or next for vue hugo as a really fast scope-based
+      generator and chapter grid sum next...'
+    jump_url: https://www.youtube.com/watch?v=KgTW0xfyr9A&t=1793s
+  - video_id: r-GpCakJjxc
+    title: Reviewing Your Website Designs Live - with Gary Simon
+    channel: freeCodeCamp.org
+    timestamp_sec: 1430
+    context: '...y his expertises are which is a front-end web developer specialist at vue.js and a freelancer so this is
+      pretty solid um i just think it needs to ...'
+    jump_url: https://www.youtube.com/watch?v=r-GpCakJjxc&t=1430s
+  - video_id: PRBlLjHIV74
+    title: This is the New NPM
+    channel: Web Dev Simplified
+    timestamp_sec: 335
+    context: '... to compare and I can actually compare this library with for example, Vue, and now I can see how these two
+      different libraries compare to each ...'
+    jump_url: https://www.youtube.com/watch?v=PRBlLjHIV74&t=335s
+Wireshark:
+  category: networking_cybersecurity
+  total_mentions: 6
+  top_channels:
+    NetworkChuck: 6
+  sample_cues:
+  - video_id: 9fA2wAWvhJM
+    title: HTTPS Doesn't Hide This From Your ISP!!
+    channel: NetworkChuck
+    timestamp_sec: 19
+    context: '...> [music]\n[17.2s] >> It''s a good thought, but look at this\n[18.52s] Wireshark capture. With secure DNS,
+      I\n[20.6s] suddenly cannot see DNS traffic....'
+    jump_url: https://www.youtube.com/watch?v=9fA2wAWvhJM&t=19s
+  - video_id: axfNxZ1R6C4
+    title: I was wrong about VPNs
+    channel: NetworkChuck
+    timestamp_sec: 251
+    context: '...o visit a few\n[248.959s] websites. I''m going to launch uh\n[250.64s] Wireshark and Kali Linux.\n[253.439s]
+      This is what hackers use to sniff stuff.\...'
+    jump_url: https://www.youtube.com/watch?v=axfNxZ1R6C4&t=251s
+  - video_id: qFsj6KL8_nU
+    title: DEFCON is Not What I Expected...
+    channel: NetworkChuck
+    timestamp_sec: 187
+    context: '...uilding ethernet cables,\n[187.0s] they''re learning how\nto hack with Wireshark.\n[189.0s] Chris Greer sat
+      down with me and\ntaught me a few things. ...'
+    jump_url: https://www.youtube.com/watch?v=qFsj6KL8_nU&t=187s
+Andrew Huberman:
+  category: thinkers_authors
+  total_mentions: 4
+  top_channels:
+    Healthy Developer: 2
+    A Life Engineered: 1
+    Chris Williamson: 1
+  sample_cues:
+  - video_id: _aUO6n-m4pM
+    title: I Coached a Security Engineer Through His Failed Meta Interview (Live)
+    channel: A Life Engineered
+    timestamp_sec: 1369
+    context: '...s and like one supplement that really did help was elenine uh like by Andrew Huberman. And then I also started
+      practicing meditating and all those things a...'
+    jump_url: https://www.youtube.com/watch?v=_aUO6n-m4pM&t=1369s
+  - video_id: xvsvFd09Z3M
+    title: The Controversial Theory Of Why Postpartum Depression Exists
+    channel: Chris Williamson
+    timestamp_sec: 593
+    context: '...I don''t shut up about it, and also why it''s used by everyone from Dr. Andrew Huberman to Olympic athletes
+      and FBI sniper teams, and the good sniper teams, ...'
+    jump_url: https://www.youtube.com/watch?v=xvsvFd09Z3M&t=593s
+  - video_id: 5baWML_4hRw
+    title: How I Hacked My Sleep as a Programmer
+    channel: Healthy Developer
+    timestamp_sec: 540
+    context: '...u can go\n[2043.72s] watch some you know or listen to some\n[2045.2s] huberman podcast you know he''s if
+      you\n[2047.12s] want all the Neuroscience be...'
+    jump_url: https://www.youtube.com/watch?v=5baWML_4hRw&t=540s
+Svelte:
+  category: frameworks_libraries
+  total_mentions: 3
+  top_channels:
+    Web Dev Simplified: 2
+    ThePrimeagen: 1
+  sample_cues:
+  - video_id: sYuFT-MJBFs
+    title: Comparing Rust (Yew) vs TypeScript (React) NodeJS | SSR times
+    channel: ThePrimeagen
+    timestamp_sec: 475
+    context: '...gs like that if you would like to see a breakdown of say react versus svelte  versus solid js you need to
+      leave a comment you gotta like the video...'
+    jump_url: https://www.youtube.com/watch?v=sYuFT-MJBFs&t=475s
+  - video_id: nQrUeK0n1qw
+    title: Every Project Needs This NEW Tanstack Library
+    channel: Web Dev Simplified
+    timestamp_sec: 126
+    context: '...f the library. You can obviously install like the core version or the Svelte version or Solid version, whatever
+      you want, but we''re working with R...'
+    jump_url: https://www.youtube.com/watch?v=nQrUeK0n1qw&t=126s
+  - video_id: BY63sGoGXq0
+    title: Help Me Code Review My First Website
+    channel: Web Dev Simplified
+    timestamp_sec: 5052
+    context: '...''s compiled which is also cool so right now I''m leaning towards one a svelte overview but that''s just
+      me personally let''s see when can I say that ...'
+    jump_url: https://www.youtube.com/watch?v=BY63sGoGXq0&t=5052s
+Atomic Habits:
+  category: business_productivity
+  total_mentions: 1
+  top_channels:
+    A Life Engineered: 1
+  sample_cues:
+  - video_id: _aUO6n-m4pM
+    title: I Coached a Security Engineer Through His Failed Meta Interview (Live)
+    channel: A Life Engineered
+    timestamp_sec: 1342
+    context: '...stly through reading self-help uh like and reading I think especially Atomic Habits was probably the most
+      selfhelpful book. So yeah, overall I think it i...'
+    jump_url: https://www.youtube.com/watch?v=_aUO6n-m4pM&t=1342s
+Subdomain:
+  category: networking_cybersecurity
+  total_mentions: 1
+  top_channels:
+    ThePrimeagen: 1
+  sample_cues:
+  - video_id: gutR_LNoZw0
+    title: Rust Foundation IS DOING WHAT????
+    channel: ThePrimeagen
+    timestamp_sec: 354
+    context: '...udes the word rust no really the the word rust as part of a domain or subdomain that''s in free man then
+      a bunch more legalese about you know through ...'
+    jump_url: https://www.youtube.com/watch?v=gutR_LNoZw0&t=354s
+Marcus Aurelius:
+  category: thinkers_authors
+  total_mentions: 1
+  top_channels:
+    Accepting the Universe: 1
+  sample_cues:
+  - video_id: 8SxTo2lBa8A
+    title: Looksmaxxing - the only video I will make
+    channel: Accepting the Universe
+    timestamp_sec: 3
+    context: Our ancient philosopher friends, such as Marcus Aurelius, Socrates, Jesus, the Buddha, have always warned us
+      not to place too ...
+    jump_url: https://www.youtube.com/watch?v=8SxTo2lBa8A&t=3s
+WireGuard:
+  category: networking_cybersecurity
+  total_mentions: 1
+  top_channels:
+    Lex Fridman: 1
+  sample_cues:
+  - video_id: NYFGCESmikA
+    title: 'DHH: Future of Programming, AI, Agentic Engineering, Vibe Coding & Linux | Lex Fridman Podcast #501'
+    channel: Lex Fridman
+    timestamp_sec: 5826
+    context: '...en the other revolution of the last year for me, is discovering these WireGuard networks. Uh, Tailscale is
+      essentially turning all the computers you ...'
+    jump_url: https://www.youtube.com/watch?v=NYFGCESmikA&t=5826s
+Seneca:
+  category: thinkers_authors
+  total_mentions: 1
+  top_channels:
+    Odysseas: 1
+  sample_cues:
+  - video_id: hUf9dJE8W9c
+    title: How Polymaths Win in the Information Age.
+    channel: Odysseas
+    timestamp_sec: 370
+    context: '...to rediscover these Latin classics, maybe from the likes of Cicero or Seneca. It was these works which Renaissance
+      humanism sprouted from, and it ...'
+    jump_url: https://www.youtube.com/watch?v=hUf9dJE8W9c&t=370s
+Alan Watts:
+  category: thinkers_authors
+  total_mentions: 1
+  top_channels:
+    TheraminTrees: 1
+  sample_cues:
+  - video_id: jWLZfeKpIhg
+    title: TheraminTrees Video Essay (jWLZfeKpIhg)
+    channel: TheraminTrees
+    timestamp_sec: 3098
+    context: '...hat things would \nbe okay if he kept her sweet.\n[3097.696s] Echoing Alan Watts, he reflected\n[3100.28s]
+      that we can’t always make people see their ...'
+    jump_url: https://www.youtube.com/watch?v=jWLZfeKpIhg&t=3098s

@@ -1,0 +1,71 @@
+video_id: xWz2oqOqPHw
+title: We Need To Talk About Ozempic
+channel: HealthyGamerGG
+url: https://www.youtube.com/watch?v=xWz2oqOqPHw
+duration: '23:53'
+word_count: 4895
+first_order_tags:
+- tag: vtag_dopamine_baseline_and_receptors
+  bound_second_order: dopamine_baseline_and_receptors
+  timestamp: 03:26
+  seconds: 205.6
+  context: which is where our dopaminergic reward
+- tag: vtag_dopamine_baseline_and_receptors
+  bound_second_order: dopamine_baseline_and_receptors
+  timestamp: 06:00
+  seconds: 359.8
+  context: about how they affect the dopaminergic
+- tag: vtag_dopamine_baseline_and_receptors
+  bound_second_order: dopamine_baseline_and_receptors
+  timestamp: 06:47
+  seconds: 406.6
+  context: dopaminergic signal that your brain can
+- tag: vtag_dopamine_baseline_and_receptors
+  bound_second_order: dopamine_baseline_and_receptors
+  timestamp: 07:22
+  seconds: 442.2
+  context: something that has a low dopaminergic
+- tag: vtag_existential_anhedonia_and_numbness
+  bound_second_order: existential_anhedonia_and_numbness
+  timestamp: '10:56'
+  seconds: 656.3
+  context: causes some anhedonia. So, anhedonia is
+- tag: vtag_existential_anhedonia_and_numbness
+  bound_second_order: existential_anhedonia_and_numbness
+  timestamp: '11:07'
+  seconds: 667.4
+  context: anhedonia because it is capping our
+- tag: vtag_dopamine_baseline_and_receptors
+  bound_second_order: dopamine_baseline_and_receptors
+  timestamp: '11:10'
+  seconds: 670.0
+  context: dopaminergic response, right? So, we're
+- tag: vtag_dopamine_baseline_and_receptors
+  bound_second_order: dopamine_baseline_and_receptors
+  timestamp: '16:40'
+  seconds: 1000.2
+  context: blunt the dopaminergic pleasurable
+- tag: vtag_dopamine_baseline_and_receptors
+  bound_second_order: dopamine_baseline_and_receptors
+  timestamp: '17:16'
+  seconds: 1035.8
+  context: not addictive, are not dopaminergic.
+second_order_tags:
+- addiction_and_behavioral_medicine
+- clinical_lecture
+- clinical_psychiatry
+- dopamine_baseline_and_receptors
+- existential_anhedonia_and_numbness
+- live_client_interview
+- neurobiology_and_neurotransmitters
+- relational_and_attachment_psychology
+third_order_tags:
+- T3_NEURODIVERGENCE_EXECUTIVE_FUNCTION
+key_phrases:
+- binge eating
+- eating disorders
+- eating disorder
+- risk depression
+- weight loss
+- mental health
+summary_hook: Explores clinical_psychiatry, neurobiology_and_neurotransmitters, relational_and_attachment_psychology.

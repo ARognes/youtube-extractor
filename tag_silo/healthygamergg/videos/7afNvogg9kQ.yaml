@@ -1,0 +1,44 @@
+video_id: 7afNvogg9kQ
+title: Thoughts Your Therapist Has, But Doesn't Tell You
+channel: HealthyGamerGG
+url: https://www.youtube.com/watch?v=7afNvogg9kQ
+duration: '37:35'
+word_count: 8595
+first_order_tags:
+- tag: vtag_chronic_loneliness_and_isolation
+  bound_second_order: chronic_loneliness_and_isolation
+  timestamp: '12:06'
+  seconds: 725.8
+  context: isolation, which is going to be another
+- tag: vtag_somatic_emotional_digestion
+  bound_second_order: somatic_emotional_digestion
+  timestamp: '18:05'
+  seconds: 1084.6
+  context: '>> Do [clears throat] I give up at that'
+- tag: vtag_chronic_loneliness_and_isolation
+  bound_second_order: chronic_loneliness_and_isolation
+  timestamp: '25:55'
+  seconds: 1554.7
+  context: him is that he's isolated. He gets
+- tag: vtag_existential_anhedonia_and_numbness
+  bound_second_order: existential_anhedonia_and_numbness
+  timestamp: '31:28'
+  seconds: 1887.5
+  context: running on empty. In these last few
+second_order_tags:
+- chronic_loneliness_and_isolation
+- clinical_lecture
+- clinical_psychiatry
+- existential_anhedonia_and_numbness
+- neurobiology_and_neurotransmitters
+- somatic_emotional_digestion
+third_order_tags:
+- T3_EMOTIONAL_METABOLISM
+key_phrases:
+- come back
+- will help
+- talking feelings
+- eight years
+- comes back
+- something will
+summary_hook: Explores clinical_psychiatry, neurobiology_and_neurotransmitters, existential_anhedonia_and_numbness.

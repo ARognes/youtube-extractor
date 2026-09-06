@@ -1,0 +1,45 @@
+video_id: K4YZoNxSZNU
+title: living with abusers | survival tactics in hostile environments
+channel: TheraminTrees
+url: https://www.youtube.com/watch?v=K4YZoNxSZNU
+duration: 31 min
+word_count: 4711
+first_order_tags:
+- tag: vtag_toxic_guilt_and_false_responsibility
+  bound_second_order: toxic_guilt_and_false_responsibility
+  timestamp: 06:09
+  seconds: 368.7
+  context: — вина, гняв, страх, срам, презрение;
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '12:28'
+  seconds: 748.3
+  context: може да отнеме известно време, докато собствените им лоши навици изчезнат.
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '22:40'
+  seconds: 1360.4
+  context: По време на моята терапевтична работа и разговори с обекти на насилие тази
+    мисъл бе повтаряна много пъти.
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '24:49'
+  seconds: 1489.0
+  context: Аналогията, която често използвам, е, че жертвите пият от отровния кладенец
+    на насилника през цялото време.
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '29:06'
+  seconds: 1745.6
+  context: Имаш нужда от много време, за да се измъкнеш от нея.
+second_order_tags:
+- buffer_response_delay
+- covert_psychological_manipulation
+- systemic_family_therapy
+- toxic_guilt_and_false_responsibility
+third_order_tags:
+- T3_POWER_ASYMMETRY_MANIPULATION
+- T3_SHAME_GUILT_EGO_PRESERVATION
+key_phrases: []
+summary_hook: Explores systemic_family_therapy, covert_psychological_manipulation,
+  toxic_guilt_and_false_responsibility.

@@ -1,0 +1,66 @@
+video_id: e-2WZsP6LA0
+title: false equivalence | neutralizing abuse through both-sides fallacy
+channel: TheraminTrees
+url: https://www.youtube.com/watch?v=e-2WZsP6LA0
+duration: 21 min
+word_count: 3173
+first_order_tags:
+- tag: vtag_false_equivalence_fallacy
+  bound_second_order: false_equivalence_fallacy
+  timestamp: 00:04
+  seconds: 4.2
+  context: |-
+    Фалшива еквивалентност
+    qualiasoup & theramintrees
+- tag: vtag_toxic_guilt_and_false_responsibility
+  bound_second_order: toxic_guilt_and_false_responsibility
+  timestamp: 01:02
+  seconds: 62.2
+  context: — последователно те свеждат до минимум собствената си вина и замърсяват
+    моралния облик на невинните страни.
+- tag: vtag_false_equivalence_fallacy
+  bound_second_order: false_equivalence_fallacy
+  timestamp: 02:19
+  seconds: 139.2
+  context: като претендира фалшива еквивалентност в поведението и на двете страни.
+- tag: vtag_false_equivalence_fallacy
+  bound_second_order: false_equivalence_fallacy
+  timestamp: 07:30
+  seconds: 449.5
+  context: Да наречеш атеизма религия е фалшива еквивалентност
+- tag: vtag_family_estrangement_and_grief
+  bound_second_order: family_estrangement_and_grief
+  timestamp: '10:29'
+  seconds: 628.6
+  context: В този документ Болкиах се опита да обоснове своето решение да въведете
+    убиването с камъни до смърт, като наказание за прелюбодеяние и анале...
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '13:12'
+  seconds: 792.4
+  context: като в същото време, той прилага закони, които грубо пренебрегват и нарушават
+    правата на хората.
+- tag: vtag_family_estrangement_and_grief
+  bound_second_order: family_estrangement_and_grief
+  timestamp: '14:34'
+  seconds: 874.2
+  context: '"...присъди на Хадда— убиване с камъни до смърт, и ампутация'
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '17:30'
+  seconds: 1050.0
+  context: Бруней от известно време върви по пътя на екстремизма.
+second_order_tags:
+- buffer_response_delay
+- false_equivalence_fallacy
+- family_estrangement_and_grief
+- toxic_guilt_and_false_responsibility
+third_order_tags:
+- T3_ATTACHMENT_RELATIONAL_BONDING
+- T3_SHAME_GUILT_EGO_PRESERVATION
+key_phrases:
+- qualiasoup theramintrees
+- theramintrees 2019
+- 2019 2013
+summary_hook: Explores false_equivalence_fallacy, toxic_guilt_and_false_responsibility,
+  family_estrangement_and_grief.

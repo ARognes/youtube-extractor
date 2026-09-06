@@ -1,0 +1,74 @@
+video_id: c39F04inLJ0
+title: infantilisation | forced dependency & preventing adulthood
+channel: TheraminTrees
+url: https://www.youtube.com/watch?v=c39F04inLJ0
+duration: 39 min
+word_count: 6040
+first_order_tags:
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: 00:44
+  seconds: 44.4
+  context: За кратък период от време, нашето любопитство към света
+- tag: vtag_toxic_guilt_and_false_responsibility
+  bound_second_order: toxic_guilt_and_false_responsibility
+  timestamp: 08:05
+  seconds: 485.3
+  context: където уединението и независимостта се асоциира с вина и тревожност.
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '18:32'
+  seconds: 1111.6
+  context: Организирането на места за спане по време на семейни посещения е бойно
+    поле за много хора.
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '24:33'
+  seconds: 1473.0
+  context: е време да помислите за създаването на сериозни лично разстояние
+- tag: vtag_fog_fear_obligation_guilt
+  bound_second_order: fog_fear_obligation_guilt
+  timestamp: '31:02'
+  seconds: 1862.2
+  context: е практиката да се налага безкрайно чувство за дълг.
+- tag: vtag_fog_fear_obligation_guilt
+  bound_second_order: fog_fear_obligation_guilt
+  timestamp: '32:48'
+  seconds: 1967.8
+  context: Опитвайки се да вкарваш чувство за постоянен дълг
+- tag: vtag_fog_fear_obligation_guilt
+  bound_second_order: fog_fear_obligation_guilt
+  timestamp: '33:02'
+  seconds: 1981.9
+  context: с вина, отговорности или дълг.
+- tag: vtag_toxic_guilt_and_false_responsibility
+  bound_second_order: toxic_guilt_and_false_responsibility
+  timestamp: '33:02'
+  seconds: 1981.9
+  context: с вина, отговорности или дълг.
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '36:02'
+  seconds: 2161.5
+  context: Ако чувстваме нещо от тези неща, това е знак че е време за проверка на
+    реалността.
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '37:08'
+  seconds: 2228.5
+  context: Известно време отделени може да помогне за предпазването от инфантилизиращи
+    навици
+second_order_tags:
+- buffer_response_delay
+- fog_fear_obligation_guilt
+- infantilisation_forced_dependency
+- systemic_family_therapy
+- toxic_guilt_and_false_responsibility
+third_order_tags:
+- T3_POWER_ASYMMETRY_MANIPULATION
+- T3_SHAME_GUILT_EGO_PRESERVATION
+key_phrases:
+- theramintrees 2007
+- 2007 camille
+- camille saint-sa
+summary_hook: Explores systemic_family_therapy, fog_fear_obligation_guilt, infantilisation_forced_dependency.

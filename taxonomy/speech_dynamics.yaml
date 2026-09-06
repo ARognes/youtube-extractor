@@ -1,0 +1,577 @@
+summary:
+  total_videos_analyzed: 1062
+  total_channels_profiled: 61
+  global_avg_wpm: 140.8
+rankings:
+  fastest_speaking_channels:
+    Reso Coder: 317.9
+    Cliff Ennico: 250.7
+    Philip DeFranco: 238.0
+    JetBrains Academy: 214.7
+    Alex Hormozi: 209.3
+    freeCodeCamp.org: 189.5
+    NetworkChuck: 188.6
+    Healthy Developer: 188.5
+    Hacking and Cyber Security Club at Iowa State: 177.1
+    HealthyGamerGG: 176.6
+  most_deliberate_channels:
+    Accepting the Universe: 57.3
+    Michael Reeves: 55.2
+    ThePrimeagen: 54.5
+    Current Concept: 52.6
+    Fireship: 52.3
+    Seytonic: 40.7
+    LIKA: 37.7
+    CodeParade: 37.2
+    Sokpop Collective: 32.7
+    Techquickie: 31.9
+  longest_lectures_by_words:
+  - video_id: hxJKaG7clOo
+    title: Stop Trying To Fix Your Traumatic Childhood
+    channel: HealthyGamerGG
+    word_count: 26203
+    duration: 02:58:42
+    wpm: 146.6
+  - video_id: WjckELpzLOU
+    title: Mitchell Hashimoto’s new way of writing code
+    channel: The Pragmatic Engineer
+    word_count: 25444
+    duration: 01:58:24
+    wpm: 214.9
+  - video_id: joAreHuo1pQ
+    title: Lindsay Clancy Trial Breakdown by Expert Psychiatrist (Dr.K )
+    channel: HealthyGamerGG
+    word_count: 23980
+    duration: 02:40:52
+    wpm: 149.1
+  - video_id: O7XOUK4B5pg
+    title: AI's Impact on Network Engineers | LIVE AMA | Summer of CCNA
+    channel: NetworkChuck
+    word_count: 21093
+    duration: 01:47:32
+    wpm: 196.2
+  - video_id: -abob21omcM
+    title: Summer of CCNA LIVE Launch Party
+    channel: NetworkChuck
+    word_count: 19699
+    duration: 01:38:33
+    wpm: 199.9
+  - video_id: 7-CouekrkOc
+    title: LIVE AMA | Summer of CCNA | 07/09/2026
+    channel: NetworkChuck
+    word_count: 19304
+    duration: 01:54:50
+    wpm: 168.1
+  - video_id: noE1MQPMvAc
+    title: How To Think Like The Top 1% | Sales Masterclass
+    channel: Alex Hormozi
+    word_count: 18932
+    duration: 01:26:13
+    wpm: 219.6
+  - video_id: 7l6bXLAKyEI
+    title: Claude Code Full Course – Autonomous Goals, MCP, and VS Code Setup
+    channel: freeCodeCamp.org
+    word_count: 18732
+    duration: '54:00'
+    wpm: 346.9
+  - video_id: GVlq6lATZ2M
+    title: Summer of CCNA - 90 Minute - Session 2
+    channel: NetworkChuck
+    word_count: 18479
+    duration: 01:37:19
+    wpm: 189.9
+  - video_id: HUXUnMbeOyo
+    title: 'OSPF From Zero: Let''s Build the Internet (Well...Almost) | Summer of CCNA'
+    channel: NetworkChuck
+    word_count: 17837
+    duration: 01:46:22
+    wpm: 167.7
+creator_profiles:
+  freeCodeCamp.org:
+    video_count: 32
+    total_hours_spoken: 26.18
+    total_words: 297624
+    avg_wpm: 189.5
+    pacing_tier: Rapid / High-Energy
+    avg_pauses_per_video: 52.2
+    max_pause_sec: 43
+  A Life Engineered:
+    video_count: 20
+    total_hours_spoken: 7.46
+    total_words: 61356
+    avg_wpm: 137.1
+    pacing_tier: Conversational / Balanced
+    avg_pauses_per_video: 2.0
+    max_pause_sec: 10
+  The PrimeTime:
+    video_count: 4
+    total_hours_spoken: 1.32
+    total_words: 11844
+    avg_wpm: 149.6
+    pacing_tier: Conversational / Balanced
+    avg_pauses_per_video: 2.2
+    max_pause_sec: 19
+  Fireship:
+    video_count: 6
+    total_hours_spoken: 2.91
+    total_words: 9151
+    avg_wpm: 52.3
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 7.5
+    max_pause_sec: 21
+  Nightcrawler Studios:
+    video_count: 2
+    total_hours_spoken: 2.44
+    total_words: 14195
+    avg_wpm: 96.9
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 227.0
+    max_pause_sec: 115
+  JetBrains Academy:
+    video_count: 2
+    total_hours_spoken: 0.66
+    total_words: 8442
+    avg_wpm: 214.7
+    pacing_tier: Rapid / High-Energy
+    avg_pauses_per_video: 78.0
+    max_pause_sec: 19
+  /noclip:
+    video_count: 51
+    total_hours_spoken: 36.58
+    total_words: 299857
+    avg_wpm: 136.6
+    pacing_tier: Conversational / Balanced
+    avg_pauses_per_video: 86.8
+    max_pause_sec: 289
+  Angela Collier:
+    video_count: 2
+    total_hours_spoken: 1.12
+    total_words: 11777
+    avg_wpm: 174.5
+    pacing_tier: Conversational / Balanced
+    avg_pauses_per_video: 17.0
+    max_pause_sec: 34
+  Cody'sLab:
+    video_count: 2
+    total_hours_spoken: 1.3
+    total_words: 7043
+    avg_wpm: 90.6
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 58.5
+    max_pause_sec: 45
+  Doug's Dharma:
+    video_count: 89
+    total_hours_spoken: 22.45
+    total_words: 182417
+    avg_wpm: 135.4
+    pacing_tier: Conversational / Balanced
+    avg_pauses_per_video: 0.4
+    max_pause_sec: 240
+  Adam Savage’s Tested:
+    video_count: 2
+    total_hours_spoken: 0.86
+    total_words: 4710
+    avg_wpm: 91.7
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 24.5
+    max_pause_sec: 208
+  JulienHimself:
+    video_count: 3
+    total_hours_spoken: 2.07
+    total_words: 17081
+    avg_wpm: 137.3
+    pacing_tier: Conversational / Balanced
+    avg_pauses_per_video: 77.3
+    max_pause_sec: 35
+  EscPoint:
+    video_count: 2
+    total_hours_spoken: 0.57
+    total_words: 5829
+    avg_wpm: 170.2
+    pacing_tier: Conversational / Balanced
+    avg_pauses_per_video: 0.5
+    max_pause_sec: 5
+  Juniper Dev:
+    video_count: 5
+    total_hours_spoken: 2.39
+    total_words: 14038
+    avg_wpm: 97.8
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 2.0
+    max_pause_sec: 12
+  LIKA:
+    video_count: 3
+    total_hours_spoken: 2.94
+    total_words: 6639
+    avg_wpm: 37.7
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 427.0
+    max_pause_sec: 51
+  Zei:
+    video_count: 2
+    total_hours_spoken: 0.95
+    total_words: 6023
+    avg_wpm: 106.2
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 1.0
+    max_pause_sec: 5
+  Cliff Ennico:
+    video_count: 2
+    total_hours_spoken: 1.62
+    total_words: 24419
+    avg_wpm: 250.7
+    pacing_tier: Rapid / High-Energy
+    avg_pauses_per_video: 3.5
+    max_pause_sec: 29
+  LaurieWired:
+    video_count: 8
+    total_hours_spoken: 2.09
+    total_words: 21877
+    avg_wpm: 174.6
+    pacing_tier: Conversational / Balanced
+    avg_pauses_per_video: 30.0
+    max_pause_sec: 24
+  Anton Petrov:
+    video_count: 2
+    total_hours_spoken: 1.01
+    total_words: 5072
+    avg_wpm: 83.8
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 1.0
+    max_pause_sec: 105
+  hoff._world:
+    video_count: 6
+    total_hours_spoken: 4.01
+    total_words: 28837
+    avg_wpm: 120.0
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 2.0
+    max_pause_sec: 6
+  Corinna Languages:
+    video_count: 2
+    total_hours_spoken: 0.8
+    total_words: 3772
+    avg_wpm: 78.8
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 5.0
+    max_pause_sec: 36
+  Game Maker's Toolkit:
+    video_count: 20
+    total_hours_spoken: 13.62
+    total_words: 64497
+    avg_wpm: 78.9
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 118.7
+    max_pause_sec: 16
+  ThePrimeagen:
+    video_count: 44
+    total_hours_spoken: 28.58
+    total_words: 93550
+    avg_wpm: 54.5
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 16.0
+    max_pause_sec: 28
+  Techquickie:
+    video_count: 22
+    total_hours_spoken: 15.04
+    total_words: 28815
+    avg_wpm: 31.9
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 0.2
+    max_pause_sec: 5
+  Alex Hormozi:
+    video_count: 67
+    total_hours_spoken: 8.78
+    total_words: 110275
+    avg_wpm: 209.3
+    pacing_tier: Rapid / High-Energy
+    avg_pauses_per_video: 0.0
+    max_pause_sec: 5
+  CodeParade:
+    video_count: 18
+    total_hours_spoken: 11.55
+    total_words: 25789
+    avg_wpm: 37.2
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 9.3
+    max_pause_sec: 105
+  Hacking and Cyber Security Club at Iowa State:
+    video_count: 16
+    total_hours_spoken: 10.88
+    total_words: 115611
+    avg_wpm: 177.1
+    pacing_tier: Rapid / High-Energy
+    avg_pauses_per_video: 32.4
+    max_pause_sec: 789
+  The Cherno:
+    video_count: 29
+    total_hours_spoken: 22.56
+    total_words: 159048
+    avg_wpm: 117.5
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 32.6
+    max_pause_sec: 128
+  Web Dev Simplified:
+    video_count: 32
+    total_hours_spoken: 18.15
+    total_words: 130351
+    avg_wpm: 119.7
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 1.0
+    max_pause_sec: 7
+  Sokpop Collective:
+    video_count: 2
+    total_hours_spoken: 1.36
+    total_words: 2665
+    avg_wpm: 32.7
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 17.0
+    max_pause_sec: 33
+  Nic Barker:
+    video_count: 17
+    total_hours_spoken: 13.09
+    total_words: 93716
+    avg_wpm: 119.3
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 52.4
+    max_pause_sec: 20
+  Michael Reeves:
+    video_count: 21
+    total_hours_spoken: 14.09
+    total_words: 46646
+    avg_wpm: 55.2
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 14.5
+    max_pause_sec: 33
+  Seytonic:
+    video_count: 23
+    total_hours_spoken: 15.23
+    total_words: 37173
+    avg_wpm: 40.7
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 59.6
+    max_pause_sec: 13
+  Bryan Johnson:
+    video_count: 17
+    total_hours_spoken: 13.9
+    total_words: 65310
+    avg_wpm: 78.3
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 9.4
+    max_pause_sec: 20
+  Fredrik Christenson:
+    video_count: 20
+    total_hours_spoken: 12.96
+    total_words: 44762
+    avg_wpm: 57.6
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 3.4
+    max_pause_sec: 8
+  Accepting the Universe:
+    video_count: 18
+    total_hours_spoken: 11.76
+    total_words: 40435
+    avg_wpm: 57.3
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 17.4
+    max_pause_sec: 9
+  The Coding Train:
+    video_count: 28
+    total_hours_spoken: 13.3
+    total_words: 125924
+    avg_wpm: 157.8
+    pacing_tier: Conversational / Balanced
+    avg_pauses_per_video: 69.2
+    max_pause_sec: 22
+  exurb1a:
+    video_count: 13
+    total_hours_spoken: 8.26
+    total_words: 42871
+    avg_wpm: 86.6
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 3.9
+    max_pause_sec: 18
+  mayuko:
+    video_count: 19
+    total_hours_spoken: 12.21
+    total_words: 73248
+    avg_wpm: 100.0
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 8.2
+    max_pause_sec: 100
+  Current Concept:
+    video_count: 4
+    total_hours_spoken: 2.41
+    total_words: 7598
+    avg_wpm: 52.6
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 9.2
+    max_pause_sec: 15
+  Healthy Developer:
+    video_count: 72
+    total_hours_spoken: 30.73
+    total_words: 347542
+    avg_wpm: 188.5
+    pacing_tier: Rapid / High-Energy
+    avg_pauses_per_video: 0.4
+    max_pause_sec: 540
+  Reso Coder:
+    video_count: 2
+    total_hours_spoken: 0.53
+    total_words: 10141
+    avg_wpm: 317.9
+    pacing_tier: Rapid / High-Energy
+    avg_pauses_per_video: 43.0
+    max_pause_sec: 11
+  LiveOverflow:
+    video_count: 2
+    total_hours_spoken: 0.49
+    total_words: 5006
+    avg_wpm: 171.4
+    pacing_tier: Conversational / Balanced
+    avg_pauses_per_video: 95.0
+    max_pause_sec: 11
+  mitxela:
+    video_count: 2
+    total_hours_spoken: 1.23
+    total_words: 5966
+    avg_wpm: 80.6
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 22.0
+    max_pause_sec: 20
+  Extra History:
+    video_count: 4
+    total_hours_spoken: 2.44
+    total_words: 12013
+    avg_wpm: 82.1
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 2.0
+    max_pause_sec: 6
+  Joel Haver:
+    video_count: 5
+    total_hours_spoken: 2.95
+    total_words: 19779
+    avg_wpm: 111.8
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 39.2
+    max_pause_sec: 52
+  Zsolt's Visual Personal Knowledge Management:
+    video_count: 6
+    total_hours_spoken: 3.45
+    total_words: 20153
+    avg_wpm: 97.5
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 53.0
+    max_pause_sec: 11
+  TheHappieCat:
+    video_count: 3
+    total_hours_spoken: 1.76
+    total_words: 9099
+    avg_wpm: 86.2
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 46.7
+    max_pause_sec: 9
+  Goobie and Doobie:
+    video_count: 2
+    total_hours_spoken: 1.27
+    total_words: 5338
+    avg_wpm: 70.0
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 58.0
+    max_pause_sec: 19
+  WheezyWaiter:
+    video_count: 4
+    total_hours_spoken: 2.43
+    total_words: 18969
+    avg_wpm: 130.2
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 24.5
+    max_pause_sec: 15
+  NetworkChuck:
+    video_count: 89
+    total_hours_spoken: 25.07
+    total_words: 283642
+    avg_wpm: 188.6
+    pacing_tier: Rapid / High-Energy
+    avg_pauses_per_video: 2.7
+    max_pause_sec: 14
+  Ben Awad:
+    video_count: 5
+    total_hours_spoken: 2.9
+    total_words: 10052
+    avg_wpm: 57.7
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 45.8
+    max_pause_sec: 32
+  Let's Get Rusty:
+    video_count: 3
+    total_hours_spoken: 1.47
+    total_words: 9928
+    avg_wpm: 112.3
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 11.3
+    max_pause_sec: 9
+  CaptiveAire:
+    video_count: 2
+    total_hours_spoken: 0.74
+    total_words: 7809
+    avg_wpm: 175.1
+    pacing_tier: Rapid / High-Energy
+    avg_pauses_per_video: 6.5
+    max_pause_sec: 14
+  NeetCode:
+    video_count: 4
+    total_hours_spoken: 1.35
+    total_words: 11062
+    avg_wpm: 136.2
+    pacing_tier: Conversational / Balanced
+    avg_pauses_per_video: 2.0
+    max_pause_sec: 5
+  typecraft:
+    video_count: 3
+    total_hours_spoken: 0.91
+    total_words: 8385
+    avg_wpm: 153.9
+    pacing_tier: Conversational / Balanced
+    avg_pauses_per_video: 1.7
+    max_pause_sec: 11
+  Light Resonance:
+    video_count: 4
+    total_hours_spoken: 1.17
+    total_words: 5896
+    avg_wpm: 84.2
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 1.0
+    max_pause_sec: 6
+  Nick White:
+    video_count: 2
+    total_hours_spoken: 1.0
+    total_words: 5556
+    avg_wpm: 92.6
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 1.0
+    max_pause_sec: 5
+  Tim Ferriss:
+    video_count: 2
+    total_hours_spoken: 0.71
+    total_words: 2625
+    avg_wpm: 61.9
+    pacing_tier: Deliberate / Contemplative
+    avg_pauses_per_video: 2.5
+    max_pause_sec: 23
+  Philip DeFranco:
+    video_count: 8
+    total_hours_spoken: 3.65
+    total_words: 52181
+    avg_wpm: 238.0
+    pacing_tier: Rapid / High-Energy
+    avg_pauses_per_video: 17.2
+    max_pause_sec: 14
+  HealthyGamerGG:
+    video_count: 92
+    total_hours_spoken: 12.23
+    total_words: 129640
+    avg_wpm: 176.6
+    pacing_tier: Rapid / High-Energy
+    avg_pauses_per_video: 0.0
+    max_pause_sec: 108

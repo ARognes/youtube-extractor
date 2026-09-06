@@ -1,0 +1,1689 @@
+{
+  "compiled_at": "2026-09-05T20:09:53.264867",
+  "summary": {
+    "third_order_count": 6,
+    "channels_indexed": 2,
+    "total_nodes": 89,
+    "total_links": 115
+  },
+  "third_order_ontology": {
+    "T3_AUTONOMY_SOVEREIGNTY": {
+      "name": "Autonomy & Cognitive Sovereignty",
+      "category": "Foundational Epistemology",
+      "description": "The fundamental capacity of an individual for self-governance, independent thought, and resistance to external psychological coercion.",
+      "second_order_mapping": [
+        "cognitive_autonomy_and_individuation",
+        "relational_ethics_and_boundaries",
+        "boundary_assertion_without_defense"
+      ]
+    },
+    "T3_EMOTIONAL_METABOLISM": {
+      "name": "Emotional Digestion & Somatic Metabolism",
+      "category": "Somatic & Contemplative Science",
+      "description": "The physiological processing of undigested affective distress (Samskaras) without cognitive rationalization or behavioral avoidance.",
+      "second_order_mapping": [
+        "samskara_emotional_memory",
+        "somatic_emotional_digestion",
+        "dissociation_and_derealization",
+        "alexithymia_emotional_disconnect"
+      ]
+    },
+    "T3_POWER_ASYMMETRY_MANIPULATION": {
+      "name": "Power Asymmetry & Covert Exploitation",
+      "category": "Interpersonal & Systemic Dynamics",
+      "description": "Communicative and relational structures where authority or emotional leverage is abused to enforce dependency, compliance, or reality distortion.",
+      "second_order_mapping": [
+        "covert_psychological_manipulation",
+        "double_bind_communicative_trap",
+        "covert_narcissism_and_victimhood",
+        "infantilisation_forced_dependency",
+        "gaslighting_reality_denial",
+        "fog_fear_obligation_guilt"
+      ]
+    },
+    "T3_NEURODIVERGENCE_EXECUTIVE_FUNCTION": {
+      "name": "Neurodivergence & Dopaminergic Regulation",
+      "category": "Neurobiology & Executive Function",
+      "description": "Brain circuitry mechanics governing dopamine baselines, attention elasticity, task initiation friction, and burnout recovery.",
+      "second_order_mapping": [
+        "neurodivergence_and_adhd",
+        "dopamine_baseline_and_receptors",
+        "task_initiation_and_procrastination",
+        "two_minute_frictionless_entry",
+        "gifted_kid_burnout"
+      ]
+    },
+    "T3_ATTACHMENT_RELATIONAL_BONDING": {
+      "name": "Attachment Systems & Relational Projection",
+      "category": "Developmental & Relational Psychology",
+      "description": "Early mammalian attachment security, relational attunement, romantic pedestal projection, and the trauma of emotional abandonment.",
+      "second_order_mapping": [
+        "attachment_styles_anxious_avoidant",
+        "limerence_and_pedestals",
+        "unrequited_love_and_friendzone",
+        "weaponised_and_compelled_love",
+        "family_estrangement_and_grief"
+      ]
+    },
+    "T3_SHAME_GUILT_EGO_PRESERVATION": {
+      "name": "Ego Defense & Weaponized Conscience",
+      "category": "Identity & Moral Psychology",
+      "description": "The deconstruction of false guilt, social compliance reflexes, ego identity (Ahamkara), and the recovery of authentic self-worth.",
+      "second_order_mapping": [
+        "ahamkara_ego_identity",
+        "toxic_guilt_and_false_responsibility",
+        "compulsive_people_pleasing_appeasement",
+        "decoupling_worth_from_achievement",
+        "imposter_syndrome"
+      ]
+    }
+  },
+  "nodes": [
+    {
+      "id": "T3_AUTONOMY_SOVEREIGNTY",
+      "label": "Autonomy & Cognitive Sovereignty",
+      "order": 3,
+      "category": "Foundational Epistemology",
+      "description": "The fundamental capacity of an individual for self-governance, independent thought, and resistance to external psychological coercion.",
+      "radius": 24,
+      "color": "#a855f7"
+    },
+    {
+      "id": "T3_EMOTIONAL_METABOLISM",
+      "label": "Emotional Digestion & Somatic Metabolism",
+      "order": 3,
+      "category": "Somatic & Contemplative Science",
+      "description": "The physiological processing of undigested affective distress (Samskaras) without cognitive rationalization or behavioral avoidance.",
+      "radius": 24,
+      "color": "#a855f7"
+    },
+    {
+      "id": "T3_POWER_ASYMMETRY_MANIPULATION",
+      "label": "Power Asymmetry & Covert Exploitation",
+      "order": 3,
+      "category": "Interpersonal & Systemic Dynamics",
+      "description": "Communicative and relational structures where authority or emotional leverage is abused to enforce dependency, compliance, or reality distortion.",
+      "radius": 24,
+      "color": "#a855f7"
+    },
+    {
+      "id": "T3_NEURODIVERGENCE_EXECUTIVE_FUNCTION",
+      "label": "Neurodivergence & Dopaminergic Regulation",
+      "order": 3,
+      "category": "Neurobiology & Executive Function",
+      "description": "Brain circuitry mechanics governing dopamine baselines, attention elasticity, task initiation friction, and burnout recovery.",
+      "radius": 24,
+      "color": "#a855f7"
+    },
+    {
+      "id": "T3_ATTACHMENT_RELATIONAL_BONDING",
+      "label": "Attachment Systems & Relational Projection",
+      "order": 3,
+      "category": "Developmental & Relational Psychology",
+      "description": "Early mammalian attachment security, relational attunement, romantic pedestal projection, and the trauma of emotional abandonment.",
+      "radius": 24,
+      "color": "#a855f7"
+    },
+    {
+      "id": "T3_SHAME_GUILT_EGO_PRESERVATION",
+      "label": "Ego Defense & Weaponized Conscience",
+      "order": 3,
+      "category": "Identity & Moral Psychology",
+      "description": "The deconstruction of false guilt, social compliance reflexes, ego identity (Ahamkara), and the recovery of authentic self-worth.",
+      "radius": 24,
+      "color": "#a855f7"
+    },
+    {
+      "id": "healthygamergg:relational_and_attachment_psychology",
+      "label": "Relational And Attachment Psychology",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 51,
+      "prevalence": 51.0,
+      "radius": 20,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:clinical_psychiatry",
+      "label": "Clinical Psychiatry",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 41,
+      "prevalence": 41.0,
+      "radius": 20,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:clinical_lecture",
+      "label": "Clinical Lecture",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 32,
+      "prevalence": 32.0,
+      "radius": 16,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:neurobiology_and_neurotransmitters",
+      "label": "Neurobiology And Neurotransmitters",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 20,
+      "prevalence": 20.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:addiction_and_behavioral_medicine",
+      "label": "Addiction And Behavioral Medicine",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 16,
+      "prevalence": 16.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:developmental_and_childhood_trauma",
+      "label": "Developmental And Childhood Trauma",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 14,
+      "prevalence": 14.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:live_client_interview",
+      "label": "Live Client Interview",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 14,
+      "prevalence": 14.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:unrequited_love_and_friendzone",
+      "label": "Unrequited Love And Friendzone",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 11,
+      "prevalence": 11.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:neurodivergence_and_adhd",
+      "label": "Neurodivergence And Adhd",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 10,
+      "prevalence": 10.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:existential_anhedonia_and_numbness",
+      "label": "Existential Anhedonia And Numbness",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 10,
+      "prevalence": 10.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:parental_conflict_and_guilt",
+      "label": "Parental Conflict And Guilt",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 10,
+      "prevalence": 10.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:ahamkara_ego_identity",
+      "label": "Ahamkara Ego Identity",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 9,
+      "prevalence": 9.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:dissociation_and_derealization",
+      "label": "Dissociation And Derealization",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 9,
+      "prevalence": 9.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:eastern_contemplative_psychology",
+      "label": "Eastern Contemplative Psychology",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 9,
+      "prevalence": 9.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:somatic_emotional_digestion",
+      "label": "Somatic Emotional Digestion",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 8,
+      "prevalence": 8.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:case_study_trial_breakdown",
+      "label": "Case Study Trial Breakdown",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 6,
+      "prevalence": 6.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:chronic_loneliness_and_isolation",
+      "label": "Chronic Loneliness And Isolation",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 6,
+      "prevalence": 6.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:q_and_a_unpacking",
+      "label": "Q And A Unpacking",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 6,
+      "prevalence": 6.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:task_initiation_and_procrastination",
+      "label": "Task Initiation And Procrastination",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 5,
+      "prevalence": 5.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:boundary_assertion_without_defense",
+      "label": "Boundary Assertion Without Defense",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 4,
+      "prevalence": 4.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:attachment_styles_anxious_avoidant",
+      "label": "Attachment Styles Anxious Avoidant",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 3,
+      "prevalence": 3.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:dopamine_baseline_and_receptors",
+      "label": "Dopamine Baseline And Receptors",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 3,
+      "prevalence": 3.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:imposter_syndrome",
+      "label": "Imposter Syndrome",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 2,
+      "prevalence": 2.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:defensive_intellectualization",
+      "label": "Defensive Intellectualization",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 1,
+      "prevalence": 1.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:limerence_and_pedestals",
+      "label": "Limerence And Pedestals",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 1,
+      "prevalence": 1.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:sakshi_witness_consciousness",
+      "label": "Sakshi Witness Consciousness",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 1,
+      "prevalence": 1.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:samskara_emotional_memory",
+      "label": "Samskara Emotional Memory",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 1,
+      "prevalence": 1.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:alexithymia_emotional_disconnect",
+      "label": "Alexithymia Emotional Disconnect",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 1,
+      "prevalence": 1.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "healthygamergg:gifted_kid_burnout",
+      "label": "Gifted Kid Burnout",
+      "order": 2,
+      "channel": "healthygamergg",
+      "occurrences": 1,
+      "prevalence": 1.0,
+      "radius": 10,
+      "color": "#10b981"
+    },
+    {
+      "id": "vid:hxJKaG7clOo",
+      "label": "Stop Trying To Fix Your Trau...",
+      "full_title": "Stop Trying To Fix Your Traumatic Childhood",
+      "order": 1,
+      "channel": "healthygamergg",
+      "duration": "02:58:42",
+      "url": "https://www.youtube.com/watch?v=hxJKaG7clOo",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:joAreHuo1pQ",
+      "label": "Lindsay Clancy Trial Breakdo...",
+      "full_title": "Lindsay Clancy Trial Breakdown by Expert Psychiatrist (Dr.K )",
+      "order": 1,
+      "channel": "healthygamergg",
+      "duration": "02:40:52",
+      "url": "https://www.youtube.com/watch?v=joAreHuo1pQ",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:Ads8VOa0qKQ",
+      "label": "Stop Overcorrecting Your Att...",
+      "full_title": "Stop Overcorrecting Your Attachment Style (Viewer Interview)",
+      "order": 1,
+      "channel": "healthygamergg",
+      "duration": "35:15",
+      "url": "https://www.youtube.com/watch?v=Ads8VOa0qKQ",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:7afNvogg9kQ",
+      "label": "Thoughts Your Therapist Has,...",
+      "full_title": "Thoughts Your Therapist Has, But Doesn't Tell You",
+      "order": 1,
+      "channel": "healthygamergg",
+      "duration": "37:35",
+      "url": "https://www.youtube.com/watch?v=7afNvogg9kQ",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:xHkcIRZa6lo",
+      "label": "Why You Should NEVER Confess...",
+      "full_title": "Why You Should NEVER Confess Your Love",
+      "order": 1,
+      "channel": "healthygamergg",
+      "duration": "35:37",
+      "url": "https://www.youtube.com/watch?v=xHkcIRZa6lo",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:7MykFJ7TByM",
+      "label": "Analyzing The Lindsay Clancy...",
+      "full_title": "Analyzing The Lindsay Clancy Case",
+      "order": 1,
+      "channel": "healthygamergg",
+      "duration": "29:29",
+      "url": "https://www.youtube.com/watch?v=7MykFJ7TByM",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:2MwTDoT8q_A",
+      "label": "Why 40% Of Young Men Need Er...",
+      "full_title": "Why 40% Of Young Men Need Erectile Retraining",
+      "order": 1,
+      "channel": "healthygamergg",
+      "duration": "23:39",
+      "url": "https://www.youtube.com/watch?v=2MwTDoT8q_A",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:l7BaFufR23E",
+      "label": "The Lie of \"Positive Thinkin...",
+      "full_title": "The Lie of \"Positive Thinking\"",
+      "order": 1,
+      "channel": "healthygamergg",
+      "duration": "23:18",
+      "url": "https://www.youtube.com/watch?v=l7BaFufR23E",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:xWz2oqOqPHw",
+      "label": "We Need To Talk About Ozempi...",
+      "full_title": "We Need To Talk About Ozempic",
+      "order": 1,
+      "channel": "healthygamergg",
+      "duration": "23:53",
+      "url": "https://www.youtube.com/watch?v=xWz2oqOqPHw",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:H877DXOAlXI",
+      "label": "How To ACTUALLY Break An Add...",
+      "full_title": "How To ACTUALLY Break An Addiction",
+      "order": 1,
+      "channel": "healthygamergg",
+      "duration": "18:26",
+      "url": "https://www.youtube.com/watch?v=H877DXOAlXI",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:L-gJ_Fo72-k",
+      "label": "Why You Need Constant Reassu...",
+      "full_title": "Why You Need Constant Reassurance",
+      "order": 1,
+      "channel": "healthygamergg",
+      "duration": "18:23",
+      "url": "https://www.youtube.com/watch?v=L-gJ_Fo72-k",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:KBkkN12nVqs",
+      "label": "The Worst Red Flags I\u2019ve See...",
+      "full_title": "The Worst Red Flags I\u2019ve Seen As A Therapist",
+      "order": 1,
+      "channel": "healthygamergg",
+      "duration": "16:15",
+      "url": "https://www.youtube.com/watch?v=KBkkN12nVqs",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:_N6qPEA_dGc",
+      "label": "Why Gifted People Burn Out T...",
+      "full_title": "Why Gifted People Burn Out The Fastest",
+      "order": 1,
+      "channel": "healthygamergg",
+      "duration": "15:49",
+      "url": "https://www.youtube.com/watch?v=_N6qPEA_dGc",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:oCB-sCIKnkU",
+      "label": "Why You Always Feel Uneasy (...",
+      "full_title": "Why You Always Feel Uneasy (Transcendental Existential Dread)",
+      "order": 1,
+      "channel": "healthygamergg",
+      "duration": "12:00",
+      "url": "https://www.youtube.com/watch?v=oCB-sCIKnkU",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:VDL60Ef4qLI",
+      "label": "Dr. K Diagnoses Lord of the ...",
+      "full_title": "Dr. K Diagnoses Lord of the Rings Characters (Pt. 1)",
+      "order": 1,
+      "channel": "healthygamergg",
+      "duration": "02:48",
+      "url": "https://www.youtube.com/watch?v=VDL60Ef4qLI",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "theramintrees:systemic_family_therapy",
+      "label": "Systemic Family Therapy",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 20,
+      "prevalence": 69.0,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:buffer_response_delay",
+      "label": "Buffer Response Delay",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 13,
+      "prevalence": 44.8,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:covert_psychological_manipulation",
+      "label": "Covert Psychological Manipulation",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 13,
+      "prevalence": 44.8,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:toxic_guilt_and_false_responsibility",
+      "label": "Toxic Guilt And False Responsibility",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 12,
+      "prevalence": 41.4,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:cognitive_autonomy_and_individuation",
+      "label": "Cognitive Autonomy And Individuation",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 10,
+      "prevalence": 34.5,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:parental_invalidation_and_erasure",
+      "label": "Parental Invalidation And Erasure",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 10,
+      "prevalence": 34.5,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:relational_ethics_and_boundaries",
+      "label": "Relational Ethics And Boundaries",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 9,
+      "prevalence": 31.0,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:dogmatic_indoctrination_and_cults",
+      "label": "Dogmatic Indoctrination And Cults",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 8,
+      "prevalence": 27.6,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:family_estrangement_and_grief",
+      "label": "Family Estrangement And Grief",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 8,
+      "prevalence": 27.6,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:loss_of_sovereignty_and_agency",
+      "label": "Loss Of Sovereignty And Agency",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 7,
+      "prevalence": 24.1,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:relationship_autopsy",
+      "label": "Relationship Autopsy",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 6,
+      "prevalence": 20.7,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:covert_narcissism_and_victimhood",
+      "label": "Covert Narcissism And Victimhood",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 6,
+      "prevalence": 20.7,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:fog_fear_obligation_guilt",
+      "label": "Fog Fear Obligation Guilt",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 5,
+      "prevalence": 17.2,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:tribalism_and_in_group_isolation",
+      "label": "Tribalism And In Group Isolation",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 3,
+      "prevalence": 10.3,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:scripted_video_essay",
+      "label": "Scripted Video Essay",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 3,
+      "prevalence": 10.3,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:false_equivalence_fallacy",
+      "label": "False Equivalence Fallacy",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 3,
+      "prevalence": 10.3,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:cognitive_rumination_mental_loops",
+      "label": "Cognitive Rumination Mental Loops",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 3,
+      "prevalence": 10.3,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:infantilisation_forced_dependency",
+      "label": "Infantilisation Forced Dependency",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 3,
+      "prevalence": 10.3,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:compulsive_people_pleasing_appeasement",
+      "label": "Compulsive People Pleasing Appeasement",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 3,
+      "prevalence": 10.3,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:gaslighting_reality_denial",
+      "label": "Gaslighting Reality Denial",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 3,
+      "prevalence": 10.3,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:double_bind_communicative_trap",
+      "label": "Double Bind Communicative Trap",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 3,
+      "prevalence": 10.3,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:channel_editorial_memo",
+      "label": "Channel Editorial Memo",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 2,
+      "prevalence": 6.9,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:weaponised_and_compelled_love",
+      "label": "Weaponised And Compelled Love",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 2,
+      "prevalence": 6.9,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "theramintrees:giving_up_on_fixing_people",
+      "label": "Giving Up On Fixing People",
+      "order": 2,
+      "channel": "theramintrees",
+      "occurrences": 1,
+      "prevalence": 3.4,
+      "radius": 10,
+      "color": "#f59e0b"
+    },
+    {
+      "id": "vid:jWLZfeKpIhg",
+      "label": "losing (part 1) | relationsh...",
+      "full_title": "losing (part 1) | relationship autopsy & parental narcissism",
+      "order": 1,
+      "channel": "theramintrees",
+      "duration": "56 min",
+      "url": "https://www.youtube.com/watch?v=jWLZfeKpIhg",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:xFt_aeQw2GA",
+      "label": "concealing abuse | family de...",
+      "full_title": "concealing abuse | family denial & systemic protection",
+      "order": 1,
+      "channel": "theramintrees",
+      "duration": "46 min",
+      "url": "https://www.youtube.com/watch?v=xFt_aeQw2GA",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:6F58ZJt_qYU",
+      "label": "exposing abuse (part 2) | th...",
+      "full_title": "exposing abuse (part 2) | the fallout of truth-telling",
+      "order": 1,
+      "channel": "theramintrees",
+      "duration": "42 min",
+      "url": "https://www.youtube.com/watch?v=6F58ZJt_qYU",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:c39F04inLJ0",
+      "label": "infantilisation | forced dep...",
+      "full_title": "infantilisation | forced dependency & preventing adulthood",
+      "order": 1,
+      "channel": "theramintrees",
+      "duration": "39 min",
+      "url": "https://www.youtube.com/watch?v=c39F04inLJ0",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:oX3qM4VqbJo",
+      "label": "nobody's follower | reclaimi...",
+      "full_title": "nobody's follower | reclaiming self-sovereignty & leaving groups",
+      "order": 1,
+      "channel": "theramintrees",
+      "duration": "38 min",
+      "url": "https://www.youtube.com/watch?v=oX3qM4VqbJo",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:sXcTIkuzQ3I",
+      "label": "save | deconstructing the me...",
+      "full_title": "save | deconstructing the messiah & rescue complex",
+      "order": 1,
+      "channel": "theramintrees",
+      "duration": "35 min",
+      "url": "https://www.youtube.com/watch?v=sXcTIkuzQ3I",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:u91ctugBCsg",
+      "label": "compelled love / weaponised ...",
+      "full_title": "compelled love / weaponised love | love as emotional debt",
+      "order": 1,
+      "channel": "theramintrees",
+      "duration": "35 min",
+      "url": "https://www.youtube.com/watch?v=u91ctugBCsg",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:zcRUj8H3rc4",
+      "label": "death of a narcissist | grie...",
+      "full_title": "death of a narcissist | grief without reconciliation",
+      "order": 1,
+      "channel": "theramintrees",
+      "duration": "34 min",
+      "url": "https://www.youtube.com/watch?v=zcRUj8H3rc4",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:kMeehIpxH5k",
+      "label": "abuse in therapy | predatory...",
+      "full_title": "abuse in therapy | predatory dynamics & ethical boundaries",
+      "order": 1,
+      "channel": "theramintrees",
+      "duration": "32 min",
+      "url": "https://www.youtube.com/watch?v=kMeehIpxH5k",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:TsvJMlg_SaM",
+      "label": "exposing abuse (part 1) | br...",
+      "full_title": "exposing abuse (part 1) | breaking the silence",
+      "order": 1,
+      "channel": "theramintrees",
+      "duration": "33 min",
+      "url": "https://www.youtube.com/watch?v=TsvJMlg_SaM",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:qjZ3f-IXEXU",
+      "label": "bowing to narcissists | appe...",
+      "full_title": "bowing to narcissists | appeasement & institutional enabling",
+      "order": 1,
+      "channel": "theramintrees",
+      "duration": "31 min",
+      "url": "https://www.youtube.com/watch?v=qjZ3f-IXEXU",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:PEexQAkhFpM",
+      "label": "resisting emotional blackmai...",
+      "full_title": "resisting emotional blackmail | boundaries against fog",
+      "order": 1,
+      "channel": "theramintrees",
+      "duration": "31 min",
+      "url": "https://www.youtube.com/watch?v=PEexQAkhFpM",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:vnSiJOOdo30",
+      "label": "what we look for | attractio...",
+      "full_title": "what we look for | attraction, trauma bonding & compatibility",
+      "order": 1,
+      "channel": "theramintrees",
+      "duration": "32 min",
+      "url": "https://www.youtube.com/watch?v=vnSiJOOdo30",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:K4YZoNxSZNU",
+      "label": "living with abusers | surviv...",
+      "full_title": "living with abusers | survival tactics in hostile environments",
+      "order": 1,
+      "channel": "theramintrees",
+      "duration": "31 min",
+      "url": "https://www.youtube.com/watch?v=K4YZoNxSZNU",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:OsAaxOFOUl4",
+      "label": "moral values | developing au...",
+      "full_title": "moral values | developing autonomous ethical frameworks",
+      "order": 1,
+      "channel": "theramintrees",
+      "duration": "27 min",
+      "url": "https://www.youtube.com/watch?v=OsAaxOFOUl4",
+      "radius": 6,
+      "color": "#38bdf8"
+    }
+  ],
+  "links": [
+    {
+      "source": "T3_ATTACHMENT_RELATIONAL_BONDING",
+      "target": "healthygamergg:unrequited_love_and_friendzone",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_NEURODIVERGENCE_EXECUTIVE_FUNCTION",
+      "target": "healthygamergg:neurodivergence_and_adhd",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_SHAME_GUILT_EGO_PRESERVATION",
+      "target": "healthygamergg:ahamkara_ego_identity",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_EMOTIONAL_METABOLISM",
+      "target": "healthygamergg:dissociation_and_derealization",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_EMOTIONAL_METABOLISM",
+      "target": "healthygamergg:somatic_emotional_digestion",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_NEURODIVERGENCE_EXECUTIVE_FUNCTION",
+      "target": "healthygamergg:task_initiation_and_procrastination",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_AUTONOMY_SOVEREIGNTY",
+      "target": "healthygamergg:boundary_assertion_without_defense",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ATTACHMENT_RELATIONAL_BONDING",
+      "target": "healthygamergg:attachment_styles_anxious_avoidant",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_NEURODIVERGENCE_EXECUTIVE_FUNCTION",
+      "target": "healthygamergg:dopamine_baseline_and_receptors",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_SHAME_GUILT_EGO_PRESERVATION",
+      "target": "healthygamergg:imposter_syndrome",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ATTACHMENT_RELATIONAL_BONDING",
+      "target": "healthygamergg:limerence_and_pedestals",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_EMOTIONAL_METABOLISM",
+      "target": "healthygamergg:samskara_emotional_memory",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_EMOTIONAL_METABOLISM",
+      "target": "healthygamergg:alexithymia_emotional_disconnect",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_NEURODIVERGENCE_EXECUTIVE_FUNCTION",
+      "target": "healthygamergg:gifted_kid_burnout",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "healthygamergg:addiction_and_behavioral_medicine",
+      "target": "vid:hxJKaG7clOo",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:ahamkara_ego_identity",
+      "target": "vid:hxJKaG7clOo",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:boundary_assertion_without_defense",
+      "target": "vid:hxJKaG7clOo",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:ahamkara_ego_identity",
+      "target": "vid:joAreHuo1pQ",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:alexithymia_emotional_disconnect",
+      "target": "vid:joAreHuo1pQ",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:attachment_styles_anxious_avoidant",
+      "target": "vid:joAreHuo1pQ",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:attachment_styles_anxious_avoidant",
+      "target": "vid:Ads8VOa0qKQ",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:boundary_assertion_without_defense",
+      "target": "vid:Ads8VOa0qKQ",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:clinical_lecture",
+      "target": "vid:Ads8VOa0qKQ",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:chronic_loneliness_and_isolation",
+      "target": "vid:7afNvogg9kQ",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:clinical_lecture",
+      "target": "vid:7afNvogg9kQ",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:clinical_psychiatry",
+      "target": "vid:7afNvogg9kQ",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:addiction_and_behavioral_medicine",
+      "target": "vid:xHkcIRZa6lo",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:ahamkara_ego_identity",
+      "target": "vid:xHkcIRZa6lo",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:boundary_assertion_without_defense",
+      "target": "vid:xHkcIRZa6lo",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:case_study_trial_breakdown",
+      "target": "vid:7MykFJ7TByM",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:chronic_loneliness_and_isolation",
+      "target": "vid:7MykFJ7TByM",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:clinical_lecture",
+      "target": "vid:7MykFJ7TByM",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:addiction_and_behavioral_medicine",
+      "target": "vid:2MwTDoT8q_A",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:case_study_trial_breakdown",
+      "target": "vid:2MwTDoT8q_A",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:clinical_lecture",
+      "target": "vid:2MwTDoT8q_A",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:chronic_loneliness_and_isolation",
+      "target": "vid:l7BaFufR23E",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:clinical_lecture",
+      "target": "vid:l7BaFufR23E",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:clinical_psychiatry",
+      "target": "vid:l7BaFufR23E",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:addiction_and_behavioral_medicine",
+      "target": "vid:xWz2oqOqPHw",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:clinical_lecture",
+      "target": "vid:xWz2oqOqPHw",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:clinical_psychiatry",
+      "target": "vid:xWz2oqOqPHw",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:addiction_and_behavioral_medicine",
+      "target": "vid:H877DXOAlXI",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:clinical_lecture",
+      "target": "vid:H877DXOAlXI",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:clinical_psychiatry",
+      "target": "vid:H877DXOAlXI",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:clinical_psychiatry",
+      "target": "vid:L-gJ_Fo72-k",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:developmental_and_childhood_trauma",
+      "target": "vid:L-gJ_Fo72-k",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:live_client_interview",
+      "target": "vid:L-gJ_Fo72-k",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:case_study_trial_breakdown",
+      "target": "vid:KBkkN12nVqs",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:clinical_lecture",
+      "target": "vid:KBkkN12nVqs",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:clinical_psychiatry",
+      "target": "vid:KBkkN12nVqs",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:addiction_and_behavioral_medicine",
+      "target": "vid:_N6qPEA_dGc",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:clinical_lecture",
+      "target": "vid:_N6qPEA_dGc",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:clinical_psychiatry",
+      "target": "vid:_N6qPEA_dGc",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:clinical_psychiatry",
+      "target": "vid:oCB-sCIKnkU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:dissociation_and_derealization",
+      "target": "vid:oCB-sCIKnkU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:existential_anhedonia_and_numbness",
+      "target": "vid:oCB-sCIKnkU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:addiction_and_behavioral_medicine",
+      "target": "vid:VDL60Ef4qLI",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:clinical_lecture",
+      "target": "vid:VDL60Ef4qLI",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "healthygamergg:clinical_psychiatry",
+      "target": "vid:VDL60Ef4qLI",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "T3_POWER_ASYMMETRY_MANIPULATION",
+      "target": "theramintrees:covert_psychological_manipulation",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_SHAME_GUILT_EGO_PRESERVATION",
+      "target": "theramintrees:toxic_guilt_and_false_responsibility",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_AUTONOMY_SOVEREIGNTY",
+      "target": "theramintrees:cognitive_autonomy_and_individuation",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_AUTONOMY_SOVEREIGNTY",
+      "target": "theramintrees:relational_ethics_and_boundaries",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ATTACHMENT_RELATIONAL_BONDING",
+      "target": "theramintrees:family_estrangement_and_grief",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_POWER_ASYMMETRY_MANIPULATION",
+      "target": "theramintrees:covert_narcissism_and_victimhood",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_POWER_ASYMMETRY_MANIPULATION",
+      "target": "theramintrees:fog_fear_obligation_guilt",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_POWER_ASYMMETRY_MANIPULATION",
+      "target": "theramintrees:infantilisation_forced_dependency",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_SHAME_GUILT_EGO_PRESERVATION",
+      "target": "theramintrees:compulsive_people_pleasing_appeasement",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_POWER_ASYMMETRY_MANIPULATION",
+      "target": "theramintrees:gaslighting_reality_denial",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_POWER_ASYMMETRY_MANIPULATION",
+      "target": "theramintrees:double_bind_communicative_trap",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ATTACHMENT_RELATIONAL_BONDING",
+      "target": "theramintrees:weaponised_and_compelled_love",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "theramintrees:channel_editorial_memo",
+      "target": "vid:jWLZfeKpIhg",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:cognitive_autonomy_and_individuation",
+      "target": "vid:jWLZfeKpIhg",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:compulsive_people_pleasing_appeasement",
+      "target": "vid:jWLZfeKpIhg",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:buffer_response_delay",
+      "target": "vid:xFt_aeQw2GA",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:family_estrangement_and_grief",
+      "target": "vid:xFt_aeQw2GA",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:parental_invalidation_and_erasure",
+      "target": "vid:xFt_aeQw2GA",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:buffer_response_delay",
+      "target": "vid:6F58ZJt_qYU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:systemic_family_therapy",
+      "target": "vid:6F58ZJt_qYU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:buffer_response_delay",
+      "target": "vid:c39F04inLJ0",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:fog_fear_obligation_guilt",
+      "target": "vid:c39F04inLJ0",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:infantilisation_forced_dependency",
+      "target": "vid:c39F04inLJ0",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:buffer_response_delay",
+      "target": "vid:oX3qM4VqbJo",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:cognitive_autonomy_and_individuation",
+      "target": "vid:oX3qM4VqbJo",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:fog_fear_obligation_guilt",
+      "target": "vid:oX3qM4VqbJo",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:cognitive_autonomy_and_individuation",
+      "target": "vid:sXcTIkuzQ3I",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:covert_narcissism_and_victimhood",
+      "target": "vid:sXcTIkuzQ3I",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:covert_psychological_manipulation",
+      "target": "vid:sXcTIkuzQ3I",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:buffer_response_delay",
+      "target": "vid:u91ctugBCsg",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:family_estrangement_and_grief",
+      "target": "vid:u91ctugBCsg",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:systemic_family_therapy",
+      "target": "vid:u91ctugBCsg",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:covert_narcissism_and_victimhood",
+      "target": "vid:zcRUj8H3rc4",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:covert_psychological_manipulation",
+      "target": "vid:zcRUj8H3rc4",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:double_bind_communicative_trap",
+      "target": "vid:zcRUj8H3rc4",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:cognitive_autonomy_and_individuation",
+      "target": "vid:kMeehIpxH5k",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:cognitive_rumination_mental_loops",
+      "target": "vid:kMeehIpxH5k",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:compulsive_people_pleasing_appeasement",
+      "target": "vid:kMeehIpxH5k",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:buffer_response_delay",
+      "target": "vid:TsvJMlg_SaM",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:parental_invalidation_and_erasure",
+      "target": "vid:TsvJMlg_SaM",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:systemic_family_therapy",
+      "target": "vid:TsvJMlg_SaM",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:buffer_response_delay",
+      "target": "vid:qjZ3f-IXEXU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:compulsive_people_pleasing_appeasement",
+      "target": "vid:qjZ3f-IXEXU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:covert_narcissism_and_victimhood",
+      "target": "vid:qjZ3f-IXEXU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:buffer_response_delay",
+      "target": "vid:PEexQAkhFpM",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:cognitive_autonomy_and_individuation",
+      "target": "vid:PEexQAkhFpM",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:cognitive_rumination_mental_loops",
+      "target": "vid:PEexQAkhFpM",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:cognitive_autonomy_and_individuation",
+      "target": "vid:vnSiJOOdo30",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:covert_narcissism_and_victimhood",
+      "target": "vid:vnSiJOOdo30",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:covert_psychological_manipulation",
+      "target": "vid:vnSiJOOdo30",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:buffer_response_delay",
+      "target": "vid:K4YZoNxSZNU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:covert_psychological_manipulation",
+      "target": "vid:K4YZoNxSZNU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:systemic_family_therapy",
+      "target": "vid:K4YZoNxSZNU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:cognitive_autonomy_and_individuation",
+      "target": "vid:OsAaxOFOUl4",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:covert_psychological_manipulation",
+      "target": "vid:OsAaxOFOUl4",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theramintrees:dogmatic_indoctrination_and_cults",
+      "target": "vid:OsAaxOFOUl4",
+      "type": "channel_to_video",
+      "value": 1
+    }
+  ]
+}

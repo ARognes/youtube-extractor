@@ -1,0 +1,35 @@
+# OS & Editor
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Collected & Generated Data (Not for GitHub)
+data/
+downloaded_transcripts/
+formatted_transcripts/
+
+# Node / SvelteKit / Build
+node_modules/
+.svelte-kit/
+build/
+visualizer/build/
+visualizer/.svelte-kit/
+visualizer/node_modules/
+.env
+.env.*
+!.env.example
+package-lock.json
+
+# Rust & Test files
+target/
+test_mcp_call.js

@@ -1,0 +1,31 @@
+video_id: A3BuvfIJYMM
+title: How Our Identity is Shaped
+channel: HealthyGamerGG
+url: https://www.youtube.com/watch?v=A3BuvfIJYMM
+duration: 01:13
+word_count: 273
+first_order_tags:
+- tag: vtag_ahamkara_ego_identity
+  bound_second_order: ahamkara_ego_identity
+  timestamp: 00:18
+  seconds: 18.2
+  context: experience is like part of my identity
+- tag: vtag_ahamkara_ego_identity
+  bound_second_order: ahamkara_ego_identity
+  timestamp: 01:11
+  seconds: 71.5
+  context: of identity.
+second_order_tags:
+- ahamkara_ego_identity
+- clinical_psychiatry
+- live_client_interview
+third_order_tags:
+- T3_SHAME_GUILT_EGO_PRESERVATION
+key_phrases:
+- fried rice
+- interview news
+- news outlet
+- outlet telling
+- telling used
+- used fried
+summary_hook: Explores clinical_psychiatry, ahamkara_ego_identity, live_client_interview.

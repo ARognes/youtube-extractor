@@ -1,0 +1,69 @@
+order: 3
+scope: global_unbound
+compiled_at: '2026-09-05T20:09:53.264049'
+total_unbound_tags: 6
+unbound_tags:
+  T3_AUTONOMY_SOVEREIGNTY:
+    name: Autonomy & Cognitive Sovereignty
+    category: Foundational Epistemology
+    description: The fundamental capacity of an individual for self-governance, independent
+      thought, and resistance to external psychological coercion.
+    second_order_mapping:
+    - cognitive_autonomy_and_individuation
+    - relational_ethics_and_boundaries
+    - boundary_assertion_without_defense
+  T3_EMOTIONAL_METABOLISM:
+    name: Emotional Digestion & Somatic Metabolism
+    category: Somatic & Contemplative Science
+    description: The physiological processing of undigested affective distress (Samskaras)
+      without cognitive rationalization or behavioral avoidance.
+    second_order_mapping:
+    - samskara_emotional_memory
+    - somatic_emotional_digestion
+    - dissociation_and_derealization
+    - alexithymia_emotional_disconnect
+  T3_POWER_ASYMMETRY_MANIPULATION:
+    name: Power Asymmetry & Covert Exploitation
+    category: Interpersonal & Systemic Dynamics
+    description: Communicative and relational structures where authority or emotional
+      leverage is abused to enforce dependency, compliance, or reality distortion.
+    second_order_mapping:
+    - covert_psychological_manipulation
+    - double_bind_communicative_trap
+    - covert_narcissism_and_victimhood
+    - infantilisation_forced_dependency
+    - gaslighting_reality_denial
+    - fog_fear_obligation_guilt
+  T3_NEURODIVERGENCE_EXECUTIVE_FUNCTION:
+    name: Neurodivergence & Dopaminergic Regulation
+    category: Neurobiology & Executive Function
+    description: Brain circuitry mechanics governing dopamine baselines, attention
+      elasticity, task initiation friction, and burnout recovery.
+    second_order_mapping:
+    - neurodivergence_and_adhd
+    - dopamine_baseline_and_receptors
+    - task_initiation_and_procrastination
+    - two_minute_frictionless_entry
+    - gifted_kid_burnout
+  T3_ATTACHMENT_RELATIONAL_BONDING:
+    name: Attachment Systems & Relational Projection
+    category: Developmental & Relational Psychology
+    description: Early mammalian attachment security, relational attunement, romantic
+      pedestal projection, and the trauma of emotional abandonment.
+    second_order_mapping:
+    - attachment_styles_anxious_avoidant
+    - limerence_and_pedestals
+    - unrequited_love_and_friendzone
+    - weaponised_and_compelled_love
+    - family_estrangement_and_grief
+  T3_SHAME_GUILT_EGO_PRESERVATION:
+    name: Ego Defense & Weaponized Conscience
+    category: Identity & Moral Psychology
+    description: The deconstruction of false guilt, social compliance reflexes, ego
+      identity (Ahamkara), and the recovery of authentic self-worth.
+    second_order_mapping:
+    - ahamkara_ego_identity
+    - toxic_guilt_and_false_responsibility
+    - compulsive_people_pleasing_appeasement
+    - decoupling_worth_from_achievement
+    - imposter_syndrome

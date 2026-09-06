@@ -1,0 +1,83 @@
+video_id: o1G4JFuLlO8
+title: rumination | cognitive loops, injustice & breaking mental replay
+channel: TheraminTrees
+url: https://www.youtube.com/watch?v=o1G4JFuLlO8
+duration: 25 min
+word_count: 3820
+first_order_tags:
+- tag: vtag_cognitive_rumination_mental_loops
+  bound_second_order: cognitive_rumination_mental_loops
+  timestamp: 00:09
+  seconds: 9.0
+  context: Руминация/Мисловно предъвкване.
+- tag: vtag_cognitive_rumination_mental_loops
+  bound_second_order: cognitive_rumination_mental_loops
+  timestamp: 01:26
+  seconds: 86.2
+  context: Използваме руминация, за да правим сложни планове и да решаваме проблеми.
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: 05:37
+  seconds: 336.7
+  context: преосмисляйки се като ядосан победител, тя се почувства мощна за известно
+    време.
+- tag: vtag_cognitive_rumination_mental_loops
+  bound_second_order: cognitive_rumination_mental_loops
+  timestamp: 09:48
+  seconds: 587.7
+  context: За разлика от по-систематичния фокус, наблюдаван при конкретната руминация
+- tag: vtag_cognitive_rumination_mental_loops
+  bound_second_order: cognitive_rumination_mental_loops
+  timestamp: '10:26'
+  seconds: 625.9
+  context: Абстрактната руминация увеличава и удължава отрицателните състояния.
+- tag: vtag_cognitive_rumination_mental_loops
+  bound_second_order: cognitive_rumination_mental_loops
+  timestamp: '16:32'
+  seconds: 991.8
+  context: В някои случаи на руминация, нашите мисли не са в съответствие с никакъв
+    реален проблем.
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '20:18'
+  seconds: 1218.2
+  context: Тя продължаваше да пише от време на време.
+- tag: vtag_toxic_guilt_and_false_responsibility
+  bound_second_order: toxic_guilt_and_false_responsibility
+  timestamp: '22:23'
+  seconds: 1342.5
+  context: Гневът й я улесни да приеме позицията, че някой друг е виновен за всичките
+    й проблеми.
+- tag: vtag_cognitive_rumination_mental_loops
+  bound_second_order: cognitive_rumination_mental_loops
+  timestamp: '23:56'
+  seconds: 1436.1
+  context: Когато започнем отново да се занимаваме с дейност след дълъг период на
+    руминация,
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '24:05'
+  seconds: 1444.8
+  context: 'Може да си помислим: "Преди време, това беше по-забавно."'
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '25:31'
+  seconds: 1530.8
+  context: Разбира се, в живота на всеки от нас ще има време,
+- tag: vtag_family_estrangement_and_grief
+  bound_second_order: family_estrangement_and_grief
+  timestamp: '25:37'
+  seconds: 1537.3
+  context: Времена на конфликти и злоупотреби. Времена на загуба и скръб.
+second_order_tags:
+- buffer_response_delay
+- cognitive_rumination_mental_loops
+- family_estrangement_and_grief
+- systemic_family_therapy
+- toxic_guilt_and_false_responsibility
+third_order_tags:
+- T3_ATTACHMENT_RELATIONAL_BONDING
+- T3_SHAME_GUILT_EGO_PRESERVATION
+key_phrases: []
+summary_hook: Explores systemic_family_therapy, toxic_guilt_and_false_responsibility,
+  family_estrangement_and_grief.

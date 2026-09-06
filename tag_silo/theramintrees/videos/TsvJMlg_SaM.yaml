@@ -1,0 +1,68 @@
+video_id: TsvJMlg_SaM
+title: exposing abuse (part 1) | breaking the silence
+channel: TheraminTrees
+url: https://www.youtube.com/watch?v=TsvJMlg_SaM
+duration: 33 min
+word_count: 5049
+first_order_tags:
+- tag: vtag_parental_invalidation_and_erasure
+  bound_second_order: parental_invalidation_and_erasure
+  timestamp: 02:09
+  seconds: 129.3
+  context: Във видеото "прикриване на злоупотреби"
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: 06:58
+  seconds: 418.1
+  context: По време на посещението той разкрил, че е дошъл да говори за Нийл.
+- tag: vtag_toxic_guilt_and_false_responsibility
+  bound_second_order: toxic_guilt_and_false_responsibility
+  timestamp: '10:11'
+  seconds: 611.1
+  context: тя страда от огромно фалшиво чувство за вина, защото "предаде" тази организация,
+- tag: vtag_parental_invalidation_and_erasure
+  bound_second_order: parental_invalidation_and_erasure
+  timestamp: '16:47'
+  seconds: 1007.2
+  context: Изследвах перверзността на тази политика във видеото си за "прикриване
+    на злоупотреба" (concealing abuse).
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '17:16'
+  seconds: 1036.1
+  context: Очевидно дори това правило е нарушено от Свидетелите на Йехова по време
+    на изслушването на Комисията.
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '20:26'
+  seconds: 1225.9
+  context: Но Стюарт отдели време да му напомни, че като старейшина той имаше знания,
+    които не бяха дадени на конгрегацията,
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '22:44'
+  seconds: 1363.9
+  context: Но дори и те са били принудени многократно да прекарват досадни периоди
+    от време, прекарвайки старейшините по техните собствени процедури,
+- tag: vtag_parental_invalidation_and_erasure
+  bound_second_order: parental_invalidation_and_erasure
+  timestamp: '29:05'
+  seconds: 1745.3
+  context: и манталитет за прикриване, който възхвалява репутацията далеч над защитата
+    на децата
+second_order_tags:
+- buffer_response_delay
+- parental_invalidation_and_erasure
+- systemic_family_therapy
+- toxic_guilt_and_false_responsibility
+third_order_tags:
+- T3_SHAME_GUILT_EGO_PRESERVATION
+key_phrases:
+- 2012 7000
+- 7000 2015
+- 2015 1967
+- 1967 1989
+- 1989 1994
+- 1994 2012
+summary_hook: Explores systemic_family_therapy, toxic_guilt_and_false_responsibility,
+  parental_invalidation_and_erasure.

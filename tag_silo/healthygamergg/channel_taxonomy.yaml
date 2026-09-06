@@ -1,0 +1,152 @@
+channel: healthygamergg
+order: 2
+scope: channel_bound
+total_videos_analyzed: 100
+total_spoken_words: 149038
+compiled_at: '2026-09-05T20:09:50.643135'
+second_order_tags:
+  relational_and_attachment_psychology:
+    tag: relational_and_attachment_psychology
+    channel: healthygamergg
+    video_occurrences: 51
+    prevalence_pct: 51.0
+  clinical_psychiatry:
+    tag: clinical_psychiatry
+    channel: healthygamergg
+    video_occurrences: 41
+    prevalence_pct: 41.0
+  clinical_lecture:
+    tag: clinical_lecture
+    channel: healthygamergg
+    video_occurrences: 32
+    prevalence_pct: 32.0
+  neurobiology_and_neurotransmitters:
+    tag: neurobiology_and_neurotransmitters
+    channel: healthygamergg
+    video_occurrences: 20
+    prevalence_pct: 20.0
+  addiction_and_behavioral_medicine:
+    tag: addiction_and_behavioral_medicine
+    channel: healthygamergg
+    video_occurrences: 16
+    prevalence_pct: 16.0
+  developmental_and_childhood_trauma:
+    tag: developmental_and_childhood_trauma
+    channel: healthygamergg
+    video_occurrences: 14
+    prevalence_pct: 14.0
+  live_client_interview:
+    tag: live_client_interview
+    channel: healthygamergg
+    video_occurrences: 14
+    prevalence_pct: 14.0
+  unrequited_love_and_friendzone:
+    tag: unrequited_love_and_friendzone
+    channel: healthygamergg
+    video_occurrences: 11
+    prevalence_pct: 11.0
+  neurodivergence_and_adhd:
+    tag: neurodivergence_and_adhd
+    channel: healthygamergg
+    video_occurrences: 10
+    prevalence_pct: 10.0
+  existential_anhedonia_and_numbness:
+    tag: existential_anhedonia_and_numbness
+    channel: healthygamergg
+    video_occurrences: 10
+    prevalence_pct: 10.0
+  parental_conflict_and_guilt:
+    tag: parental_conflict_and_guilt
+    channel: healthygamergg
+    video_occurrences: 10
+    prevalence_pct: 10.0
+  ahamkara_ego_identity:
+    tag: ahamkara_ego_identity
+    channel: healthygamergg
+    video_occurrences: 9
+    prevalence_pct: 9.0
+  dissociation_and_derealization:
+    tag: dissociation_and_derealization
+    channel: healthygamergg
+    video_occurrences: 9
+    prevalence_pct: 9.0
+  eastern_contemplative_psychology:
+    tag: eastern_contemplative_psychology
+    channel: healthygamergg
+    video_occurrences: 9
+    prevalence_pct: 9.0
+  somatic_emotional_digestion:
+    tag: somatic_emotional_digestion
+    channel: healthygamergg
+    video_occurrences: 8
+    prevalence_pct: 8.0
+  case_study_trial_breakdown:
+    tag: case_study_trial_breakdown
+    channel: healthygamergg
+    video_occurrences: 6
+    prevalence_pct: 6.0
+  chronic_loneliness_and_isolation:
+    tag: chronic_loneliness_and_isolation
+    channel: healthygamergg
+    video_occurrences: 6
+    prevalence_pct: 6.0
+  q_and_a_unpacking:
+    tag: q_and_a_unpacking
+    channel: healthygamergg
+    video_occurrences: 6
+    prevalence_pct: 6.0
+  task_initiation_and_procrastination:
+    tag: task_initiation_and_procrastination
+    channel: healthygamergg
+    video_occurrences: 5
+    prevalence_pct: 5.0
+  boundary_assertion_without_defense:
+    tag: boundary_assertion_without_defense
+    channel: healthygamergg
+    video_occurrences: 4
+    prevalence_pct: 4.0
+  attachment_styles_anxious_avoidant:
+    tag: attachment_styles_anxious_avoidant
+    channel: healthygamergg
+    video_occurrences: 3
+    prevalence_pct: 3.0
+  dopamine_baseline_and_receptors:
+    tag: dopamine_baseline_and_receptors
+    channel: healthygamergg
+    video_occurrences: 3
+    prevalence_pct: 3.0
+  imposter_syndrome:
+    tag: imposter_syndrome
+    channel: healthygamergg
+    video_occurrences: 2
+    prevalence_pct: 2.0
+  defensive_intellectualization:
+    tag: defensive_intellectualization
+    channel: healthygamergg
+    video_occurrences: 1
+    prevalence_pct: 1.0
+  limerence_and_pedestals:
+    tag: limerence_and_pedestals
+    channel: healthygamergg
+    video_occurrences: 1
+    prevalence_pct: 1.0
+  sakshi_witness_consciousness:
+    tag: sakshi_witness_consciousness
+    channel: healthygamergg
+    video_occurrences: 1
+    prevalence_pct: 1.0
+  samskara_emotional_memory:
+    tag: samskara_emotional_memory
+    channel: healthygamergg
+    video_occurrences: 1
+    prevalence_pct: 1.0
+  alexithymia_emotional_disconnect:
+    tag: alexithymia_emotional_disconnect
+    channel: healthygamergg
+    video_occurrences: 1
+    prevalence_pct: 1.0
+  gifted_kid_burnout:
+    tag: gifted_kid_burnout
+    channel: healthygamergg
+    video_occurrences: 1
+    prevalence_pct: 1.0

@@ -1,0 +1,47 @@
+video_id: YIQocoxv5tg
+title: copying enemies | adopting abusive tactics to survive
+channel: TheraminTrees
+url: https://www.youtube.com/watch?v=YIQocoxv5tg
+duration: 24 min
+word_count: 3701
+first_order_tags:
+- tag: vtag_toxic_guilt_and_false_responsibility
+  bound_second_order: toxic_guilt_and_false_responsibility
+  timestamp: 02:49
+  seconds: 168.6
+  context: така че жертвите да започнат да свързват индивидуалността с вина или страх.
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '15:58'
+  seconds: 958.4
+  context: Когато сме изправени пред определено поведение за дълъг период от време
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '18:39'
+  seconds: 1119.1
+  context: Имаше време в детството ми, когато се отдръпвах
+- tag: vtag_toxic_guilt_and_false_responsibility
+  bound_second_order: toxic_guilt_and_false_responsibility
+  timestamp: '19:42'
+  seconds: 1182.0
+  context: на заплахи, подигравки и сълзливи чувства на вина.
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '20:16'
+  seconds: 1215.5
+  context: Жертвите идват свободно и могат да напуснат по всяко време.
+second_order_tags:
+- buffer_response_delay
+- covert_psychological_manipulation
+- systemic_family_therapy
+- toxic_guilt_and_false_responsibility
+third_order_tags:
+- T3_POWER_ASYMMETRY_MANIPULATION
+- T3_SHAME_GUILT_EGO_PRESERVATION
+key_phrases:
+- 2012 1930
+- 1930 moonies
+- moonies patreon
+- patreon theramintrees
+summary_hook: Explores systemic_family_therapy, covert_psychological_manipulation,
+  toxic_guilt_and_false_responsibility.

@@ -1,0 +1,40 @@
+video_id: 3JR2QGBL3IU
+title: The Treatment for Negative Emotion
+channel: HealthyGamerGG
+url: https://www.youtube.com/watch?v=3JR2QGBL3IU
+duration: 01:18
+word_count: 285
+first_order_tags:
+- tag: vtag_ahamkara_ego_identity
+  bound_second_order: ahamkara_ego_identity
+  timestamp: 00:47
+  seconds: 47.4
+  context: Then, we should do ego reduction
+- tag: vtag_somatic_emotional_digestion
+  bound_second_order: somatic_emotional_digestion
+  timestamp: 00:57
+  seconds: 56.9
+  context: the center of your chest. Breathe into
+- tag: vtag_existential_anhedonia_and_numbness
+  bound_second_order: existential_anhedonia_and_numbness
+  timestamp: 00:59
+  seconds: 59.4
+  context: that emptiness. Breathe out. Empty that
+second_order_tags:
+- addiction_and_behavioral_medicine
+- ahamkara_ego_identity
+- eastern_contemplative_psychology
+- existential_anhedonia_and_numbness
+- somatic_emotional_digestion
+third_order_tags:
+- T3_EMOTIONAL_METABOLISM
+- T3_SHAME_GUILT_EGO_PRESERVATION
+key_phrases:
+- handle small
+- small amount
+- play online
+- online video
+- video games
+- feel angry
+summary_hook: Explores eastern_contemplative_psychology, addiction_and_behavioral_medicine,
+  ahamkara_ego_identity.

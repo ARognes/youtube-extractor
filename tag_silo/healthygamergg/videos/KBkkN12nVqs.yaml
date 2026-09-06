@@ -1,0 +1,48 @@
+video_id: KBkkN12nVqs
+title: The Worst Red Flags I’ve Seen As A Therapist
+channel: HealthyGamerGG
+url: https://www.youtube.com/watch?v=KBkkN12nVqs
+duration: '16:15'
+word_count: 3726
+first_order_tags:
+- tag: vtag_parental_conflict_and_guilt
+  bound_second_order: parental_conflict_and_guilt
+  timestamp: 05:20
+  seconds: 320.5
+  context: way. Your boss is this way. Your parents
+- tag: vtag_somatic_emotional_digestion
+  bound_second_order: somatic_emotional_digestion
+  timestamp: 09:58
+  seconds: 598.0
+  context: '[clears throat] and appreciation are'
+- tag: vtag_somatic_emotional_digestion
+  bound_second_order: somatic_emotional_digestion
+  timestamp: '12:56'
+  seconds: 775.5
+  context: '[clears throat] then we do the slow work'
+- tag: vtag_parental_conflict_and_guilt
+  bound_second_order: parental_conflict_and_guilt
+  timestamp: '14:15'
+  seconds: 854.6
+  context: hear this so much from like parents who
+second_order_tags:
+- case_study_trial_breakdown
+- clinical_lecture
+- clinical_psychiatry
+- developmental_and_childhood_trauma
+- eastern_contemplative_psychology
+- live_client_interview
+- neurobiology_and_neurotransmitters
+- parental_conflict_and_guilt
+- relational_and_attachment_psychology
+- somatic_emotional_digestion
+third_order_tags:
+- T3_EMOTIONAL_METABOLISM
+key_phrases:
+- supportive psychotherapy
+- patient villain
+- doesn exist
+- person life
+- personality disorder
+- person mistreats
+summary_hook: Explores clinical_psychiatry, eastern_contemplative_psychology, neurobiology_and_neurotransmitters.

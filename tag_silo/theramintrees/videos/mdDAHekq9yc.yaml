@@ -1,0 +1,24 @@
+video_id: mdDAHekq9yc
+title: giving up on fixing people | accepting unchangeable dynamics
+channel: TheraminTrees
+url: https://www.youtube.com/watch?v=mdDAHekq9yc
+duration: 28 min
+word_count: 4164
+first_order_tags:
+- tag: vtag_giving_up_on_fixing_people
+  bound_second_order: giving_up_on_fixing_people
+  timestamp: 00:02
+  seconds: 1.8
+  context: Откажи се от идеята
+- tag: vtag_buffer_response_delay
+  bound_second_order: buffer_response_delay
+  timestamp: '11:39'
+  seconds: 698.9
+  context: След време изтощен от това че се опитва да бъде всичко за всички, Марсианецът
+    умира.
+second_order_tags:
+- buffer_response_delay
+- giving_up_on_fixing_people
+third_order_tags: []
+key_phrases: []
+summary_hook: Explores giving_up_on_fixing_people, buffer_response_delay.
