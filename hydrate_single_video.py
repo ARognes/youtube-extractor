@@ -9,7 +9,7 @@ import subprocess
 import time
 
 TRANSCRIPTS_DIR = "/Users/austinrognes/Documents/Projects/media-extractor/youtube-extractor/downloaded_transcripts"
-APIFY_TOKEN = "REDACTED_APIFY_API_TOKEN"
+APIFY_TOKEN = os.environ.get("APIFY_TOKEN", "")
 DEFAULT_BUDGET_CAP = 5.00 # USD
 
 def check_apify_balance(user_cap_override=None):

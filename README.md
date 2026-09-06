@@ -1,71 +1,93 @@
 # 🎬 YouTube Knowledge Extractor & Archival Publication System
 
-An autonomous, multi-creator knowledge extraction, synthesis, and publication pipeline that converts long-form spoken video essays and technical lectures into high-density reference books, Markdown manuals, and Model Context Protocol (MCP) data substrates.
+A high-performance Rust and Python knowledge extraction, synthesis, and publication pipeline that converts long-form spoken video essays and technical lectures into high-density reference books, Markdown manuals, 3-tier tag silos, Model Context Protocol (MCP) data substrates, and interactive web visualizers.
+
+---
+
+## ⚡ High-Performance Rust CLI Downloader (`youtube-extractor`)
+
+A compiled, multi-threaded Rust CLI equipped with **dynamic worker allocation** (`--workers N`) and **real-time ETA & throughput predictions**:
+
+```bash
+# Build the optimized release binary
+cargo build --release
+
+# 1. Download and format a single YouTube video transcript
+./target/release/youtube-extractor download "https://www.youtube.com/watch?v=LyTpZ327ixY" --channel "Philip DeFranco"
+
+# 2. Batch download transcripts from a queue file with dynamic workers & live ETA
+./target/release/youtube-extractor batch queue.json --workers 8 --skip-existing
+
+# 3. Sub-second parallel search across all 1,760+ YAML transcripts with jump URLs
+./target/release/youtube-extractor search "cognitive dissonance" --limit 5
+
+# 4. View library statistics (transcripts, words, channel rankings)
+./target/release/youtube-extractor status
+```
+
+---
+
+## 🏷️ 3-Tier Tagging Hierarchy Architecture
+
+The repository enforces a clean separation of raw data from a bottom-up tagging layer:
+- **1st-Order Tags (Video-Bound):** Timestamped concept anchors within individual video transcripts.
+- **2nd-Order Tags (Channel-Bound):** Channel-level thematic pillars and signature vocabulary isolated to each creator's domain (e.g., `tag_silo/healthygamergg/channel_taxonomy.yaml` and `tag_silo/theramintrees/channel_taxonomy.yaml`).
+- **3rd-Order Tags (Global Unbound):** Universal cross-cutting psychological and philosophical ontologies with no single-channel bounds (`tag_silo/third_order_unbound_tags.yaml`).
+
+```bash
+# Query the tag silos from the terminal
+python3 query_tag_silo.py --stats
+python3 query_tag_silo.py --channel healthygamergg --tag samskara
+python3 query_tag_silo.py --channel theramintrees --tag double_bind
+```
+
+---
+
+## 🌐 Interactive SvelteKit + D3.js Visualizer (`visualizer/`)
+
+An interactive Single-Page Application (SPA) designed for static deployment on **GitHub Pages**:
+- **D3 Force-Directed Network Graph:** Visualizes 1st, 2nd, and 3rd order relations with dynamic physics, zoom/pan, and search.
+- **Pillar Comparison Matrix:** Side-by-side comparative analysis of creator channels.
+- **Global Ontology Directory:** Interactive index of unbound concepts.
+
+```bash
+cd visualizer
+npm install
+npm run dev     # Launch local preview at http://localhost:5173
+npm run build   # Generate pure static site in visualizer/build/
+```
 
 ---
 
 ## 📂 Project Structure
 
 ```
-~/Documents/Projects/media-extractor/youtube-extractor/
-├── downloaded_transcripts/               # 1,740 raw, verified transcript JSON files (182 creator channels)
-├── reports/                              # Compiled publication PDFs, companion Markdown manuals & HTML layouts
-│   ├── core_cognitive_psychology_compendium.pdf
-│   ├── core_cognitive_psychology_compendium.md
-│   └── core_cognitive_psychology_compendium.html
-├── knowledge_cores_registry.json         # 6 MACE Domain Core registry manifest
-├── core_*_master_archive.json            # Domain-specific Master Archives
-├── *_master_codex.json & .md             # Single-file Creator Master Codices
-├── knowledge_graph_triples.json & .csv   # 5,641 extracted Semantic Graph Triples
-├── creator_instruct.jsonl                # 1,118 Fine-tuning Instruction training pairs
-├── creator_personas.json                 # 183 System prompt creator personas
-├── generate_core_compendium.py           # Publication PDF/Markdown compilation engine
-├── build_knowledge_cores.py              # Modular Archival Core Engine (MACE) compiler
-├── build_creator_master_codex.py         # Creator Master Codex synthesizer
-├── build_knowledge_graph.py              # Semantic graph extractor
-├── build_fine_tuning_dataset.py          # Instruction-tuning & persona dataset exporter
-├── build_cross_creator_synthesis.py      # Cross-creator consensus & divergence matrix
-└── mcp_knowledge_server.js               # Model Context Protocol RPC Server
+youtube-extractor/
+├── src/                                  # High-Performance Rust Engine
+│   ├── main.rs                           # Primary CLI (download, batch, search, status)
+│   ├── lib.rs                            # Transcript formatters, parsers & serialization
+│   └── bin/search_transcripts.rs         # Standalone parallel search binary
+├── formatted_transcripts/                # 1,760+ clean, structured YAML transcripts
+├── downloaded_transcripts/               # Raw archive JSONs with raw segment offsets
+├── tag_silo/                             # 3-Tier Tag Silo Layer
+│   ├── third_order_unbound_tags.yaml     # 3rd-Order global unbound ontologies
+│   ├── tag_hierarchy_manifest.json       # Graph manifest for D3.js SPA
+│   ├── healthygamergg/                   # HealthyGamerGG 2nd-order pillars & 1st-order records
+│   └── theramintrees/                    # TheraminTrees 2nd-order pillars & 1st-order records
+├── visualizer/                           # SvelteKit + D3.js Static Visualizer SPA
+├── reports/                              # Compiled publication PDFs & Markdown compendiums
+├── taxonomy/                             # Cross-channel creator profiles & speech dynamics
+├── .env.example                          # Environment configuration template
+└── Cargo.toml                            # Rust package and workspace configuration
 ```
 
 ---
 
-## 🚀 Quickstart & Usage
+## 🔐 Environment Setup
 
-### 1. Generate Domain Compendium Books (PDF + Markdown)
-Compile publication-grade PDF reference books and companion Markdown manuals for any domain core:
-
+Copy `.env.example` to `.env` to configure external API tokens if using optional third-party integrations:
 ```bash
-# Cognitive Psychology (TheraminTrees, HealthyGamerGG, JulienHimself)
-python3 generate_core_compendium.py --core core_cognitive_psychology
-
-# Business & Offer Scaling (Alex Hormozi, Tim Ferriss)
-python3 generate_core_compendium.py --core core_business_monetization
-
-# Software Engineering (ThePrimeagen, Web Dev Simplified, freeCodeCamp)
-python3 generate_core_compendium.py --core core_software_engineering
-
-# Cybersecurity & Homelabs (NetworkChuck, Seytonic)
-python3 generate_core_compendium.py --core core_cybersecurity_homelab
-
-# Early Buddhist Philosophy (Doug's Dharma)
-python3 generate_core_compendium.py --core core_pali_philosophy
-
-# Science & Classical Physics (Sabine Hossenfelder, Academy of Ideas)
-python3 generate_core_compendium.py --core core_science_philosophy
+cp .env.example .env
 ```
+*(No tokens are required for direct transcript downloads or offline search).*
 
-### 2. Synthesize Individual Creator Codices
-Synthesize a single comprehensive codex for any specific creator channel:
-```bash
-python3 -c "
-from build_creator_master_codex import build_master_codex_for_channel
-build_master_codex_for_channel('TheraminTrees', '.')
-"
-```
-
-### 3. Connect to MCP Clients (Claude Desktop, Cursor, Antigravity)
-Launch the Model Context Protocol stdio server to expose all 6 Archival Cores and 5,600+ knowledge graph triples as native AI tools:
-```bash
-node mcp_knowledge_server.js
-```

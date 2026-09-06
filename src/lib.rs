@@ -96,3 +96,42 @@ pub fn serialize_clean_yaml(doc: &FormattedTranscript) -> Result<String, Box<dyn
 
     Ok(yaml_out)
 }
+
+/// Extract clean 11-char YouTube video ID from either a raw ID or full URL
+pub fn extract_video_id(input: &str) -> Option<String> {
+    let trimmed = input.trim();
+    if trimmed.len() == 11 && !trimmed.contains('/') && !trimmed.contains('?') && !trimmed.contains('&') {
+        return Some(trimmed.to_string());
+    }
+
+    if let Ok(re) = regex::Regex::new(r"(?:v=|\/embed\/|\/shorts\/|\/watch\/|youtu\.be\/|\/v\/)([a-zA-Z0-9_-]{11})") {
+        if let Some(caps) = re.captures(trimmed) {
+            if let Some(m) = caps.get(1) {
+                return Some(m.as_str().to_string());
+            }
+        }
+    }
+    None
+}
+
+/// Fetch transcript segments using native fallback or Python helper
+pub fn fetch_transcript_segments(video_id: &str) -> Option<Vec<RawSegment>> {
+    // 1. Try python youtube_transcript_api helper
+    let script = format!(
+        "from youtube_transcript_api import YouTubeTranscriptApi; import json; res = YouTubeTranscriptApi().fetch('{}'); print(json.dumps([{{'text': s.text, 'start': s.start, 'duration': s.duration}} for s in res]))",
+        video_id
+    );
+
+    if let Ok(output) = std::process::Command::new("python3").arg("-c").arg(&script).output() {
+        if output.status.success() {
+            let stdout = String::from_utf8_lossy(&output.stdout);
+            if let Ok(segs) = serde_json::from_str::<Vec<RawSegment>>(&stdout) {
+                if !segs.is_empty() {
+                    return Some(segs);
+                }
+            }
+        }
+    }
+
+    None
+}

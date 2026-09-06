@@ -7,7 +7,7 @@ import urllib.request
 import urllib.error
 import subprocess
 
-APIFY_TOKEN = "REDACTED_APIFY_API_TOKEN"
+APIFY_TOKEN = os.environ.get("APIFY_TOKEN", "")
 MAX_BUDGET_USD = 5.00  # Strictly capped at half of the $5.00 monthly allowance
 
 QUEUE_FILE = "/Users/austinrognes/Documents/Projects/media-extractor/youtube-extractor/sequential_video_queue.json"

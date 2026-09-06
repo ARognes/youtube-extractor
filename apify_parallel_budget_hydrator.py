@@ -9,7 +9,7 @@ import subprocess
 import concurrent.futures
 import threading
 
-APIFY_TOKEN = "REDACTED_APIFY_API_TOKEN"
+APIFY_TOKEN = os.environ.get("APIFY_TOKEN", "")
 MAX_BUDGET_USD = 5.00  # Hard cap limit for total Apify spend
 MAX_PARALLEL_WORKERS = 12  # Run up to 12 parallel cloud scraper threads!
 

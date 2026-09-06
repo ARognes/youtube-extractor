@@ -55,7 +55,7 @@ const mcpProc = spawn('/Users/austinrognes/.nvm/versions/node/v20.19.6/bin/npx',
     'mcp-remote',
     'https://transcriptapi.com/mcp',
     '--header',
-    'Authorization: Bearer sk_JaAysZu79sqC3_fBTneaD3FcFXuhiz1Br9a862wb8JM'
+    'Authorization: Bearer " + (process.env.TRANSCRIPT_API_KEY || "") + "'
 ], { env, stdio: ['pipe', 'pipe', 'inherit'] });
 
 let msgId = 1;

@@ -12,7 +12,7 @@ TRANSCRIPTS_DIR = "/Users/austinrognes/Documents/Projects/media-extractor/youtub
 DASHBOARD_SRC = "/Users/austinrognes/.gemini/antigravity/brain/cb9f98a5-3825-4ba6-829d-56e835d72d8c/youtube_channel_overview_dashboard.html"
 DASHBOARD_DST = "/Users/austinrognes/Documents/Projects/media-extractor/youtube-extractor/youtube_channel_overview_dashboard.html"
 
-TRANSCRIPTAPI_KEY = "sk_JaAysZu79sqC3_fBTneaD3FcFXuhiz1Br9a862wb8JM"
+TRANSCRIPTAPI_KEY = os.environ.get("TRANSCRIPT_API_KEY", "")
 SUPADATA_KEY = "sd_32b8567c225df115f94f200dde8b8b61"
 
 def call_transcriptapi_mcp(video_id):

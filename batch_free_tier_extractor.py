@@ -7,7 +7,7 @@ def run():
     with open('/Users/austinrognes/Documents/Projects/media-extractor/youtube-extractor/real_home_videos.json', 'r') as f:
         videos = json.load(f)
 
-    api_key = 'sk_JaAysZu79sqC3_fBTneaD3FcFXuhiz1Br9a862wb8JM'
+    api_key = '" + os.environ.get("TRANSCRIPT_API_KEY", "") + "'
 
     # Select batch of 25 real videos
     batch = videos[3:28]
