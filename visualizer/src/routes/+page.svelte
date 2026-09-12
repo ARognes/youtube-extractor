@@ -25,8 +25,8 @@
     a_life_engineered: { name: 'A Life Engineered', creator: 'Steve Huynh', core: 'core_software_engineering', color: '#8b5cf6', borderClass: 'border-ale', barClass: 'bar-ale' }
   };
 
-  // Filtered graph data
-  let filteredNodes = $derived(() => {
+  // Filtered graph data using $derived.by
+  let filteredNodes = $derived.by(() => {
     return manifest.nodes.filter(n => {
       if (n.order === 1 && !showOrder1) return false;
       if (n.order === 2 && !showOrder2) return false;
@@ -46,8 +46,8 @@
     });
   });
 
-  let filteredLinks = $derived(() => {
-    const nodeIds = new Set(filteredNodes().map(n => n.id));
+  let filteredLinks = $derived.by(() => {
+    const nodeIds = new Set(filteredNodes.map(n => n.id));
     return manifest.links.filter(l => {
       const sourceId = typeof l.source === 'object' ? l.source.id : l.source;
       const targetId = typeof l.target === 'object' ? l.target.id : l.target;
@@ -55,7 +55,7 @@
     });
   });
 
-  let displayedChannels = $derived(() => {
+  let displayedChannels = $derived.by(() => {
     const keys = Object.keys(CHANNEL_METADATA);
     return keys.filter(k => {
       if (selectedCore !== 'all' && CHANNEL_METADATA[k].core !== selectedCore) return false;
@@ -67,8 +67,8 @@
   function initD3Graph() {
     if (!svgElement) return;
 
-    const width = svgElement.clientWidth || 960;
-    const height = svgElement.clientHeight || 700;
+    const width = svgElement.clientWidth || window.innerWidth || 960;
+    const height = svgElement.clientHeight || window.innerHeight || 700;
 
     d3.select(svgElement).selectAll('*').remove();
 
@@ -86,8 +86,8 @@
 
     svg.call(zoom);
 
-    const currentNodes = filteredNodes().map(d => ({ ...d }));
-    const currentLinks = filteredLinks().map(d => ({ ...d }));
+    const currentNodes = filteredNodes.map(d => ({ ...d }));
+    const currentLinks = filteredLinks.map(d => ({ ...d }));
 
     simulation = d3.forceSimulation(currentNodes)
       .force('link', d3.forceLink(currentLinks).id(d => d.id).distance(d => d.value === 2 ? 120 : 65))
@@ -188,9 +188,11 @@
 
   // Re-run D3 layout when filters change
   $effect(() => {
-    const _n = filteredNodes();
-    const _l = filteredLinks();
-    if (activeTab === 'graph') {
+    // track reactive properties
+    const _nodes = filteredNodes;
+    const _links = filteredLinks;
+    const _tab = activeTab;
+    if (_tab === 'graph') {
       setTimeout(() => initD3Graph(), 50);
     }
   });
@@ -330,7 +332,7 @@
         </div>
 
         <div class="channel-matrix-grid">
-          {#each displayedChannels() as chKey}
+          {#each displayedChannels as chKey}
             {@const meta = CHANNEL_METADATA[chKey]}
             {@const pillars = manifest.nodes.filter(n => n.order === 2 && n.channel === chKey)}
             <div class="channel-col {meta.borderClass}">

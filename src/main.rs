@@ -414,40 +414,133 @@ fn run_channel_ingestion(
     let mut successful = 0usize;
     let mut failed = 0usize;
     let mut total_words = 0usize;
+    let mut total_cues = 0usize;
+    let mut total_audio_sec = 0u32;
+    let total_videos = pending_candidates.len();
+    let batch_start = Instant::now();
 
     for (idx, cand) in pending_candidates.iter().enumerate() {
+        let current_num = idx + 1;
         let vid = &cand.item.video_id;
         let dur_display = cand.item.length_text.as_deref().unwrap_or("Unknown");
-        print!(
-            "[{}/{}] Ingesting: '{}' ({}) [Score: {:.1}]... ",
-            idx + 1,
-            pending_candidates.len(),
-            cand.item.title,
-            dur_display,
+        let video_start = Instant::now();
+
+        println!(
+            "\n{} [{}/{}] {} {}",
+            "▶".bold().cyan(),
+            current_num,
+            total_videos,
+            cand.item.title.bold(),
+            format!("({})", dur_display).bright_black()
+        );
+        println!(
+            "  {} Video ID: {} | TVH Score: {:.1}",
+            "•".bright_black(),
+            vid.bright_yellow(),
             cand.score
         );
+        print!("  {} Fetching transcript via authenticated API... ", "⏳".cyan());
         std::io::stdout().flush().unwrap();
 
         let pub_str = cand.item.published_time_text.as_deref();
         match ingest_video(&client, vid, &cand.item.title, &channel_title, Some(&channel_handle), pub_str, &[]) {
             Ok(words) => {
+                let fetch_dur = video_start.elapsed().as_secs_f64();
                 successful += 1;
                 total_words += words;
-                println!("{}", format!("✅ ({} words)", words).green());
+                total_audio_sec += cand.duration_seconds;
+
+                // Load cue count from formatted file
+                let cue_count = if let Ok(content) = fs::read_to_string(format!("{}/step_manual_{}.yaml", FORMATTED_DIR, vid)) {
+                    if let Some(pos) = content.find("timestamps: [") {
+                        content[pos..].matches('[').count().saturating_sub(1)
+                    } else {
+                        0
+                    }
+                } else {
+                    0
+                };
+                total_cues += cue_count;
+
+                let wpm = if cand.duration_seconds > 0 {
+                    (words as f64 / (cand.duration_seconds as f64 / 60.0)).round() as u32
+                } else {
+                    0
+                };
+
+                println!(
+                    "{}",
+                    format!("✅ Success in {:.2}s!", fetch_dur).green().bold()
+                );
+                println!(
+                    "    {} Words: {} | Cues: {} | Pacing: {} WPM",
+                    "📊".bright_black(),
+                    words.to_string().bold().cyan(),
+                    cue_count.to_string().bright_white(),
+                    wpm.to_string().yellow()
+                );
+                println!(
+                    "    {} Saved: {} & {}",
+                    "💾".bright_black(),
+                    format!("{}/step_manual_{}.yaml", FORMATTED_DIR, vid).bright_black(),
+                    format!("{}/step_manual_{}.json", DOWNLOADED_DIR, vid).bright_black()
+                );
             }
             Err(e) => {
+                let fetch_dur = video_start.elapsed().as_secs_f64();
                 failed += 1;
-                println!("{}", format!("⚠️  {}", e).yellow());
+                println!(
+                    "{}",
+                    format!("⚠️ Failed in {:.2}s ({})", fetch_dur, e).yellow()
+                );
             }
         }
+
+        // Live ETA calculation for long runs
+        let elapsed_total = batch_start.elapsed().as_secs_f64();
+        let videos_processed = current_num as f64;
+        let avg_time_per_video = elapsed_total / videos_processed;
+        let remaining_videos = (total_videos - current_num) as f64;
+        let eta_seconds = (avg_time_per_video * remaining_videos).round() as u64;
+        let eta_str = if eta_seconds >= 60 {
+            format!("{}m {}s", eta_seconds / 60, eta_seconds % 60)
+        } else {
+            format!("{}s", eta_seconds)
+        };
+
+        println!(
+            "  {} Progress: {}/{} ({:.0}%) | Elapsed: {:.1}s | Est. Remaining: {}",
+            "⏱".bright_black(),
+            current_num,
+            total_videos,
+            (current_num as f64 / total_videos as f64) * 100.0,
+            elapsed_total,
+            eta_str.cyan()
+        );
     }
 
-    println!("\n{}", "=======================================================".green());
-    println!("🎉 Ingestion Finished!");
-    println!(" - Ingested:    {} videos", successful.to_string().bold().green());
-    println!(" - Failed:      {} videos", failed.to_string().yellow());
-    println!(" - Total words: {} words", total_words.to_string().bold().cyan());
-    println!("{}", "=======================================================\n".green());
+    let total_elapsed = batch_start.elapsed().as_secs_f64();
+    let total_audio_fmt = format_duration_seconds(total_audio_sec);
+    let avg_wpm = if total_audio_sec > 0 {
+        (total_words as f64 / (total_audio_sec as f64 / 60.0)).round() as u32
+    } else {
+        0
+    };
+
+    println!("\n{}", "=========================================================================================".green());
+    println!("🎉 {}", "INGESTION BATCH SUMMARY".bold().green());
+    println!("{}", "=========================================================================================".green());
+    println!(" • Target Channel:       {}", channel_title.bold().bright_white());
+    println!(" • Videos Attempted:     {}", total_videos);
+    println!(" • Successfully Ingested: {}", successful.to_string().bold().green());
+    println!(" • Skipped / Failed:     {}", failed.to_string().yellow());
+    println!(" • Total Spoken Words:   {}", total_words.to_string().bold().cyan());
+    println!(" • Total Timestamp Cues: {}", total_cues.to_string().bright_white());
+    println!(" • Total Audio Duration: {}", total_audio_fmt.bold().yellow());
+    println!(" • Average Speech Rate:  {} WPM", avg_wpm.to_string().magenta());
+    println!(" • Total Execution Time: {:.2}s ({:.2}s/video average)", total_elapsed, if successful + failed > 0 { total_elapsed / (successful + failed) as f64 } else { 0.0 });
+    println!(" • Output Directory:     {}", FORMATTED_DIR.bright_black());
+    println!("{}", "=========================================================================================\n".green());
 
     Ok(())
 }
