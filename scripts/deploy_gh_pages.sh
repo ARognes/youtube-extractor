@@ -22,6 +22,7 @@ git checkout gh-pages
 # Clean existing static files
 rm -rf _app index.html 404.html robots.txt tag_hierarchy_manifest.json .nojekyll
 cp -r "$TMP_DIR"/* .
+cp "$TMP_DIR"/.nojekyll . 2>/dev/null || true
 rm -rf "$TMP_DIR"
 
 git add index.html 404.html robots.txt tag_hierarchy_manifest.json .nojekyll _app/
