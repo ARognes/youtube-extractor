@@ -1,0 +1,109 @@
+video_id: RpLnQnurpLY
+title: Learn Data Structures and Algorithms Visually – Crash Course
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=RpLnQnurpLY
+duration: '54:00'
+word_count: 13494
+first_order_tags:
+- tag: vtag_asymptotic_algorithmic_complexity
+  bound_second_order: asymptotic_algorithmic_complexity
+  timestamp: 00:57
+  seconds: 57.1
+  context: Whenever we hear these complicated names in books or tutorials like arrays,
+    link lists, pig notation, time complexity or recussion, an invis...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 05:39
+  seconds: 339.5
+  context: In programming language, we call this number an index.
+- tag: vtag_asymptotic_algorithmic_complexity
+  bound_second_order: asymptotic_algorithmic_complexity
+  timestamp: 06:10
+  seconds: 369.7
+  context: In technical terms, this is called constant time complexity.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 06:13
+  seconds: 373.1
+  context: Simply put, no matter how large the mountain of data is, if the specific
+    index is known, the time to find it will always be the same.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '14:10'
+  seconds: 850.3
+  context: Every time you type a new word or make a stroke on an image, the software
+    quietly pushes those actions into a stack.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '20:54'
+  seconds: 1253.7
+  context: What if we had data for which we didn't know any index or serial number?
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '22:38'
+  seconds: 1357.8
+  context: Then in the blink of an eye, it gives you a memory number or an index.
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: '26:00'
+  seconds: 1559.5
+  context: The most famous tree in the tree family is called a binary tree.
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: '26:13'
+  seconds: 1572.9
+  context: We call it a binary tree.
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: '27:47'
+  seconds: 1667.1
+  context: Suppose you are going to add some new numbers to a binary search tree.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '36:18'
+  seconds: 2177.9
+  context: Here the computer starts from the very first index of an array or list
+    and checks the data one by one until the end.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '41:17'
+  seconds: 2477.1
+  context: And this image continues to repeat into infinity getting smaller and smaller.
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: '45:09'
+  seconds: 2709.0
+  context: The first is called depth for search or DFS for short.
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: '46:20'
+  seconds: 2779.5
+  context: BFS works exactly by the rule of this bond ripples.
+- tag: vtag_memoization_and_tabulation
+  bound_second_order: memoization_and_tabulation
+  timestamp: '51:52'
+  seconds: 3112.3
+  context: The name of the third philosophy is dynamic programming which is known
+    as DP for short.
+second_order_tags:
+- asymptotic_algorithmic_complexity
+- computer_science_fundamentals
+- containerization_and_orchestration
+- graph_and_tree_traversals
+- machine_learning_and_data_science
+- mega_crash_course
+- memoization_and_tabulation
+- paper_and_architecture_breakdown
+- relational_normalization_and_acid
+- visual_algorithm_walkthrough
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- data structure
+- link list
+- binary search
+- data structures
+- real life
+- computer science
+summary_hook: Explores computer_science_fundamentals, machine_learning_and_data_science,
+  asymptotic_algorithmic_complexity.

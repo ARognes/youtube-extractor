@@ -1,0 +1,28 @@
+video_id: slL7AW9q8Fc
+title: Why I Quit Netflix
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=slL7AW9q8Fc
+duration: '38:30'
+word_count: 1525
+first_order_tags:
+- tag: vtag_concurrency_primitives_and_locks
+  bound_second_order: concurrency_primitives_and_locks
+  timestamp: 00:00
+  seconds: 0.0
+  context: so this is the story about how i quit netflix about three years into working
+    at netflix i was kind of excelling i took on some projects that...
+second_order_tags:
+- concurrency_primitives_and_locks
+- deep_dive_benchmark_build
+- developer_culture_and_critique
+third_order_tags:
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- quit netflix
+- good enough
+- open source
+- luck dragon
+- everybody else
+- bunch different
+summary_hook: Explores developer_culture_and_critique, concurrency_primitives_and_locks,
+  deep_dive_benchmark_build.

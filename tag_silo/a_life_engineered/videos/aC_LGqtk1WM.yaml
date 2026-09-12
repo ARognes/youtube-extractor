@@ -1,0 +1,28 @@
+video_id: aC_LGqtk1WM
+title: Casey Muratori Doesn’t Care About AI (Here’s Why) [EXTENDED CONVERSATION]
+channel: A Life Engineered
+url: https://www.youtube.com/watch?v=aC_LGqtk1WM
+duration: '23:48'
+word_count: 257
+first_order_tags:
+- tag: vtag_business_impact_over_code_output
+  bound_second_order: business_impact_over_code_output
+  timestamp: '19:50'
+  seconds: 1190.0
+  context: |-
+    01:11:06 - When AI Goes From Negative to Positive ROI
+    01:24:17 - I Will Never Explain Code in Plain English
+    01:25:07 - Bearish?
+second_order_tags:
+- business_impact_over_code_output
+- executive_interview_mentorship
+third_order_tags:
+- T3_ENGINEERING_LEADERSHIP_LEVERAGE
+key_phrases:
+- couldn care
+- care less
+- difference between
+- builders code
+- code builders
+- builders ship
+summary_hook: Explores business_impact_over_code_output, executive_interview_mentorship.

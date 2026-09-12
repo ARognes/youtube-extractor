@@ -1,0 +1,30 @@
+video_id: 63m2vvB4wo4
+title: Stop Writing TypeScript Code Like This
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=63m2vvB4wo4
+duration: '36:06'
+word_count: 3080
+first_order_tags:
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: '17:55'
+  seconds: 1074.9
+  context: So, having more return types in your code can make it easier for your AI
+    to parse the code instead of having to also infer the types just li...
+second_order_tags:
+- backend_and_database_integration
+- feature_deep_dive
+- form_validation_and_schema_parsing
+- practical_project_build
+- typescript_and_type_safety
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- return type
+- return types
+- value string
+- save user
+- second value
+- first value
+summary_hook: Explores typescript_and_type_safety, backend_and_database_integration,
+  form_validation_and_schema_parsing.

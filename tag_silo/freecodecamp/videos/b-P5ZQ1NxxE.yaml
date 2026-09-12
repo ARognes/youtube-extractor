@@ -1,0 +1,81 @@
+video_id: b-P5ZQ1NxxE
+title: Meta Muse Code & Muse Spark Course – Build AI Agents, APIs, and Full-Stack
+  Apps
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=b-P5ZQ1NxxE
+duration: '15:00'
+word_count: 29882
+first_order_tags:
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 00:07
+  seconds: 6.6
+  context: Uh it works with multiple modalities, image, video, I believe audio as
+    well, uh obviously text, and it will output it.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: 00:16
+  seconds: 16.2
+  context: So this is something um you can build with like in this course I'm running
+    off of tokens and I'm running on X high for a lot of things just ...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 00:41
+  seconds: 41.4
+  context: So you can work with Langchain, Llama Index, Versell AI, a bunch of stuff.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 01:40
+  seconds: 99.7
+  context: Those are not the original image.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 04:34
+  seconds: 273.7
+  context: And we will go and make a new file here index html.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: 05:55
+  seconds: 355.3
+  context: Um expected max tokens messages models or max token messages models.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 07:35
+  seconds: 455.0
+  context: Oh, so we have an index and the muse.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 08:56
+  seconds: 535.8
+  context: We'll go back over to our index html.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '10:17'
+  seconds: 617.0
+  context: And so we have extra high uh what we're set to our usage tokens, our context
+    which is 93% right now, how many turns we've had so far.
+- tag: vtag_infrastructure_misconfiguration
+  bound_second_order: infrastructure_misconfiguration
+  timestamp: '10:31'
+  seconds: 630.5
+  context: So very fast deploys uh zero downtime, very fast roll backs, right?
+second_order_tags:
+- cloud_devops_and_infrastructure
+- containerization_and_orchestration
+- cybersecurity_and_ethical_hacking
+- infrastructure_misconfiguration
+- machine_learning_and_data_science
+- paper_and_architecture_breakdown
+- relational_normalization_and_acid
+- transformer_attention_mechanisms
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- okay ahead
+- back over
+- give moment
+- cloud code
+- muse code
+- extra high
+summary_hook: Explores cloud_devops_and_infrastructure, machine_learning_and_data_science,
+  cybersecurity_and_ethical_hacking.

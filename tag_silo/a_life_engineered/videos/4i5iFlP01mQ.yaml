@@ -1,0 +1,30 @@
+video_id: 4i5iFlP01mQ
+title: Three Things Preventing Your Promotion to Senior Engineer (from a Principal
+  at Amazon)
+channel: A Life Engineered
+url: https://www.youtube.com/watch?v=4i5iFlP01mQ
+duration: '21:36'
+word_count: 2255
+first_order_tags:
+- tag: vtag_skip_level_alignment_meeting
+  bound_second_order: skip_level_alignment_meeting
+  timestamp: 00:00
+  seconds: 0.0
+  context: all of the content on youtube is about how to become a software developer
+    nobody tells you exactly how to get to the next level once you're ...
+second_order_tags:
+- career_progression_and_promotion
+- skip_level_alignment_meeting
+- staff_plus_and_executive_leadership
+- system_design_and_architecture_reviews
+third_order_tags:
+- T3_ENGINEERING_LEADERSHIP_LEVERAGE
+key_phrases:
+- senior engineer
+- senior engineers
+- next level
+- technically deep
+- hyperbolic discounting
+- leadership management
+summary_hook: Explores staff_plus_and_executive_leadership, career_progression_and_promotion,
+  system_design_and_architecture_reviews.

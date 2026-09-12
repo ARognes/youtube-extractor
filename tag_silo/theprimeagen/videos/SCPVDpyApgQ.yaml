@@ -1,0 +1,23 @@
+video_id: SCPVDpyApgQ
+title: Are Developers Ok?
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=SCPVDpyApgQ
+duration: '42:00'
+word_count: 2259
+first_order_tags: []
+second_order_tags:
+- deep_dive_benchmark_build
+- developer_culture_and_critique
+- runtime_internals_and_garbage_collection
+- system_architecture_and_scale
+third_order_tags:
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- cyber punk
+- font sizes
+- miku chan
+- open source
+- source control
+- waste time
+summary_hook: Explores runtime_internals_and_garbage_collection, system_architecture_and_scale,
+  developer_culture_and_critique.

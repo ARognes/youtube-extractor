@@ -1,0 +1,71 @@
+video_id: q3ca41YIZjc
+title: The 2% of Engineers Winning the AI Era (Ex-Meta L8)
+channel: A Life Engineered
+url: https://www.youtube.com/watch?v=q3ca41YIZjc
+duration: '23:48'
+word_count: 18975
+first_order_tags:
+- tag: vtag_negotiation_anchoring_and_batna
+  bound_second_order: negotiation_anchoring_and_batna
+  timestamp: 04:53
+  seconds: 292.6
+  context: All right, so I thought oh like let's let me find the domain where I can
+    leverage my prior experience.
+- tag: vtag_negotiation_anchoring_and_batna
+  bound_second_order: negotiation_anchoring_and_batna
+  timestamp: '15:07'
+  seconds: 906.8
+  context: So, I think in those situations, realizing your leverage and know to negotiate.
+- tag: vtag_terminal_senior_l5_plateau
+  bound_second_order: terminal_senior_l5_plateau
+  timestamp: '17:20'
+  seconds: 1039.9
+  context: Where's it going to be?" I do like your point of saying the foundational
+    models start to plateau.
+- tag: vtag_negotiation_anchoring_and_batna
+  bound_second_order: negotiation_anchoring_and_batna
+  timestamp: '17:56'
+  seconds: 1076.3
+  context: So, they are going to fall behind in terms of the leverage they have.
+- tag: vtag_negotiation_anchoring_and_batna
+  bound_second_order: negotiation_anchoring_and_batna
+  timestamp: '18:20'
+  seconds: 1100.2
+  context: Senior people should also know how to leverage their seniority.
+- tag: vtag_burnout_from_hero_mode
+  bound_second_order: burnout_from_hero_mode
+  timestamp: '19:47'
+  seconds: 1186.9
+  context: It's the bottleneck because everyone's writing so much more code.
+- tag: vtag_burnout_from_hero_mode
+  bound_second_order: burnout_from_hero_mode
+  timestamp: '21:12'
+  seconds: 1272.3
+  context: I think learning to lose control is actually a very important skill in
+    this AI world, because people who like micromanage, who really needs ...
+- tag: vtag_negotiation_anchoring_and_batna
+  bound_second_order: negotiation_anchoring_and_batna
+  timestamp: '22:21'
+  seconds: 1341.3
+  context: That becomes how we leverage local LLMs, uh and that itself is valuable.
+second_order_tags:
+- burnout_from_hero_mode
+- career_progression_and_promotion
+- career_strategy_masterclass
+- executive_interview_mentorship
+- negotiation_anchoring_and_batna
+- salary_negotiation_and_total_comp
+- staff_plus_and_executive_leadership
+- terminal_senior_l5_plateau
+third_order_tags:
+- T3_ENGINEERING_LEADERSHIP_LEVERAGE
+- T3_SHAME_GUILT_EGO_PRESERVATION
+key_phrases:
+- those things
+- games platform
+- senior engineers
+- game developers
+- very different
+- search engine
+summary_hook: Explores staff_plus_and_executive_leadership, career_progression_and_promotion,
+  salary_negotiation_and_total_comp.

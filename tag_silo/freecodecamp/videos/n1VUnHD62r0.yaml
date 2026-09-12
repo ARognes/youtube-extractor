@@ -1,0 +1,111 @@
+video_id: n1VUnHD62r0
+title: 'The 20 Minute Masterpiece: Dijkstra''s Algorithm'
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=n1VUnHD62r0
+duration: '54:00'
+word_count: 3398
+first_order_tags:
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: 00:44
+  seconds: 44.2
+  context: Dijkstra, came up with an algorithm that would power GPS navigation, network
+    routing, social media networks, supply chains, robotics, and mo...
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: 01:28
+  seconds: 88.4
+  context: Edsger Dijkstra was born in 1930 in Rotterdam, in the Netherlands.
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: 02:13
+  seconds: 132.5
+  context: In 1956, Dijkstra was working as a programmer at the Mathematical Center
+    in Amsterdam.
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: 03:41
+  seconds: 220.9
+  context: When Dijkstra and his girlfriend felt tired from walking around the shops
+    that day, they sat down at a cafe terrace to drink a cup of coffee...
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: 05:53
+  seconds: 353.5
+  context: By the time he had finished his coffee, the fundamental logic of what we
+    now know as Dijkstra's algorithm was complete.
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: 07:07
+  seconds: 427.1
+  context: To appreciate what Dijkstra came up with, you need to understand its underlying
+    principles.
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: 08:21
+  seconds: 500.7
+  context: To find the shortest path between any two given cities, Dijkstra had to
+    think about the possible paths between the cities in a more abstract...
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: 09:34
+  seconds: 574.4
+  context: In Dijkstra's algorithm, nodes represent cities.
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: '10:48'
+  seconds: 648.0
+  context: But just knowing that the cities are connected is not enough to solve Dijkstra's
+    problem.
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: '12:02'
+  seconds: 721.6
+  context: In Dijkstra's problem, weights would represent the distance between two
+    cities or the time it takes to travel between them, an abstract quan...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '12:46'
+  seconds: 765.8
+  context: Color similarity between pixels in different regions of an image.
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: '13:30'
+  seconds: 810.0
+  context: Dijkstra's algorithm works with this type of graph.
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: '29:57'
+  seconds: 1796.7
+  context: Another important thing that you should know about Dijkstra's algorithm
+    is that it's classified as a greedy algorithm.
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: '30:56'
+  seconds: 1855.6
+  context: Let's dive a little bit deeper and check out a Python implementation of
+    Dijkstra's algorithm to see how you can implement this algorithm in ...
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: '31:10'
+  seconds: 1870.4
+  context: Before we dive into the details of the actual Dijkstra function, let's
+    see how you can represent a graph in code, because we will need it.
+second_order_tags:
+- computer_science_fundamentals
+- containerization_and_orchestration
+- graph_and_tree_traversals
+- machine_learning_and_data_science
+- relational_normalization_and_acid
+- visual_algorithm_walkthrough
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- source node
+- shortest path
+- current node
+- find shortest
+- distance node
+- dijkstra algorithm
+summary_hook: Explores computer_science_fundamentals, machine_learning_and_data_science,
+  graph_and_tree_traversals.

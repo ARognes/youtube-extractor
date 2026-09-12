@@ -1,0 +1,51 @@
+video_id: 6C14E9sQ_-w
+title: Every Major AWS Outage (And Why They Keep Happening)
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=6C14E9sQ_-w
+duration: '49:30'
+word_count: 2105
+first_order_tags:
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '21:58'
+  seconds: 1318.4
+  context: Specifically, they removed the index subsystem, the service that tracks
+    the location of every single object in S3.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '22:27'
+  seconds: 1347.4
+  context: Without the index, S3 can't find anything.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '23:40'
+  seconds: 1419.8
+  context: The AWS team tries to restart the index subsystem.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '24:23'
+  seconds: 1463.3
+  context: The index subsystem hasn't needed a full restart in years.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '42:59'
+  seconds: 2578.8
+  context: With Dynamo DB unreachable EC2's orchestration system stalled new instances
+    can't launch.
+second_order_tags:
+- cloud_devops_and_infrastructure
+- computer_science_fundamentals
+- containerization_and_orchestration
+- cybersecurity_and_ethical_hacking
+- relational_normalization_and_acid
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- goes down
+- data center
+- every time
+- down slack
+- slack goes
+- northern virginia
+summary_hook: Explores computer_science_fundamentals, cloud_devops_and_infrastructure,
+  cybersecurity_and_ethical_hacking.

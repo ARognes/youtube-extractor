@@ -1,0 +1,21 @@
+video_id: Xm_VGeTpS2Q
+title: This Amazing TypeScript Feature Has NO Docs!
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=Xm_VGeTpS2Q
+duration: '33:06'
+word_count: 2918
+first_order_tags: []
+second_order_tags:
+- feature_deep_dive
+- practical_project_build
+- typescript_and_type_safety
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- type safety
+- satisfies keyword
+- object type
+- type string
+- string number
+- specific type
+summary_hook: Explores typescript_and_type_safety, practical_project_build, feature_deep_dive.

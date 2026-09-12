@@ -1,0 +1,47 @@
+video_id: g3X8JauSWTM
+title: Stop Building AI Slop – Build High-End Web Apps with AI
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=g3X8JauSWTM
+duration: '54:00'
+word_count: 14515
+first_order_tags:
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '11:28'
+  seconds: 688.1
+  context: And then we also have a request the FIN 20 which is the top popular stocks
+    uh index and then you can see like everything's all created right...
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '16:05'
+  seconds: 965.3
+  context: I just ask it to see okay what skills should we use right into what we're
+    trying to do right explain exactly hey install the skill uh based ...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '31:23'
+  seconds: 1882.8
+  context: We can ask Hickfield here to generating images using GBT image 2.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '39:21'
+  seconds: 2360.7
+  context: So obviously the reason why we generate images first is because we want
+    to kind of like get a rough idea right because if you take a look at...
+second_order_tags:
+- computer_science_fundamentals
+- containerization_and_orchestration
+- relational_normalization_and_acid
+- transformer_attention_mechanisms
+- visual_algorithm_walkthrough
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- clone version
+- pretty much
+- trying build
+- show exactly
+- dark mode
+- three different
+summary_hook: Explores computer_science_fundamentals, containerization_and_orchestration,
+  transformer_attention_mechanisms.

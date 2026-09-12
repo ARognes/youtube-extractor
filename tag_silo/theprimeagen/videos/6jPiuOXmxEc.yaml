@@ -1,0 +1,28 @@
+video_id: 6jPiuOXmxEc
+title: What You Need To Learn 2023 (as a software engineer)
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=6jPiuOXmxEc
+duration: '42:00'
+word_count: 771
+first_order_tags:
+- tag: vtag_premature_abstraction_bloat
+  bound_second_order: premature_abstraction_bloat
+  timestamp: 00:00
+  seconds: 0.0
+  context: what programming language should you use what library should you use should
+    you use this service or that service you often hear just influen...
+second_order_tags:
+- developer_culture_and_critique
+- premature_abstraction_bloat
+- runtime_internals_and_garbage_collection
+third_order_tags:
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- coolest part
+- need learn
+- program things
+- build things
+- things build
+- become better
+summary_hook: Explores runtime_internals_and_garbage_collection, developer_culture_and_critique,
+  premature_abstraction_bloat.

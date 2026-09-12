@@ -1,0 +1,50 @@
+video_id: L4-sJcTr0YU
+title: The New Career Map for Software Engineers
+channel: A Life Engineered
+url: https://www.youtube.com/watch?v=L4-sJcTr0YU
+duration: '21:36'
+word_count: 9138
+first_order_tags:
+- tag: vtag_sponsorship_vs_mentorship
+  bound_second_order: sponsorship_vs_mentorship
+  timestamp: 04:10
+  seconds: 249.5
+  context: This is where today's sponsor comes in.
+- tag: vtag_skip_level_alignment_meeting
+  bound_second_order: skip_level_alignment_meeting
+  timestamp: '10:01'
+  seconds: 601.0
+  context: We work on visibility, communication, delivery, influence, navigating politics
+    and reorgs,  everything that actually impacts your career.
+- tag: vtag_terminal_senior_l5_plateau
+  bound_second_order: terminal_senior_l5_plateau
+  timestamp: '11:46'
+  seconds: 705.7
+  context: Um so, I think that the there is no ceiling on ambition and that's where
+    a lot of this new energy will get pointed.
+- tag: vtag_burnout_from_hero_mode
+  bound_second_order: burnout_from_hero_mode
+  timestamp: '11:54'
+  seconds: 713.7
+  context: Uh, or do you see that as something more fundamental that, you know, there
+    will always be some sort of bottleneck in the process?
+second_order_tags:
+- burnout_from_hero_mode
+- career_progression_and_promotion
+- executive_interview_mentorship
+- skip_level_alignment_meeting
+- sponsorship_vs_mentorship
+- staff_plus_and_executive_leadership
+- terminal_senior_l5_plateau
+third_order_tags:
+- T3_ENGINEERING_LEADERSHIP_LEVERAGE
+- T3_SHAME_GUILT_EGO_PRESERVATION
+key_phrases:
+- coding agents
+- early career
+- those things
+- open claw
+- product management
+- every product
+summary_hook: Explores staff_plus_and_executive_leadership, career_progression_and_promotion,
+  sponsorship_vs_mentorship.

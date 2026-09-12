@@ -1,0 +1,46 @@
+video_id: BY63sGoGXq0
+title: Help Me Code Review My First Website
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=BY63sGoGXq0
+duration: '33:06'
+word_count: 19552
+first_order_tags:
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: 00:00
+  seconds: 0.0
+  context: hello everyone can you hear me figured I'd get jumpin in here a little
+    bit early that way if anyone else wants to trickle in before we start...
+- tag: vtag_css_layout_algorithms
+  bound_second_order: css_layout_algorithms
+  timestamp: 00:00
+  seconds: 0.0
+  context: hello everyone can you hear me figured I'd get jumpin in here a little
+    bit early that way if anyone else wants to trickle in before we start...
+- tag: vtag_use_sync_external_store_migration
+  bound_second_order: use_sync_external_store_migration
+  timestamp: 00:00
+  seconds: 0.0
+  context: hello everyone can you hear me figured I'd get jumpin in here a little
+    bit early that way if anyone else wants to trickle in before we start...
+second_order_tags:
+- backend_and_database_integration
+- css_layout_algorithms
+- form_validation_and_schema_parsing
+- frontend_reactivity_and_frameworks
+- modern_css_and_layouts
+- pattern_vs_antipattern_comparison
+- practical_project_build
+- typescript_and_type_safety
+- use_sync_external_store_migration
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- query selector
+- main section
+- live stream
+- exactly same
+- cart item
+- event listener
+summary_hook: Explores frontend_reactivity_and_frameworks, modern_css_and_layouts,
+  typescript_and_type_safety.

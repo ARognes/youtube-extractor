@@ -1,14 +1,18 @@
 {
-  "compiled_at": "2026-09-05T20:09:53.264867",
+  "compiled_at": "2026-09-11T21:12:50.142449",
   "summary": {
-    "third_order_count": 6,
-    "channels_indexed": 2,
-    "total_nodes": 89,
-    "total_links": 115
+    "total_cores": 2,
+    "third_order_count": 11,
+    "channels_indexed": 6,
+    "total_videos_analyzed": 485,
+    "total_words_analyzed": 2203177,
+    "total_nodes": 209,
+    "total_links": 294
   },
   "third_order_ontology": {
     "T3_AUTONOMY_SOVEREIGNTY": {
       "name": "Autonomy & Cognitive Sovereignty",
+      "core": "core_psychology",
       "category": "Foundational Epistemology",
       "description": "The fundamental capacity of an individual for self-governance, independent thought, and resistance to external psychological coercion.",
       "second_order_mapping": [
@@ -19,6 +23,7 @@
     },
     "T3_EMOTIONAL_METABOLISM": {
       "name": "Emotional Digestion & Somatic Metabolism",
+      "core": "core_psychology",
       "category": "Somatic & Contemplative Science",
       "description": "The physiological processing of undigested affective distress (Samskaras) without cognitive rationalization or behavioral avoidance.",
       "second_order_mapping": [
@@ -30,6 +35,7 @@
     },
     "T3_POWER_ASYMMETRY_MANIPULATION": {
       "name": "Power Asymmetry & Covert Exploitation",
+      "core": "core_psychology",
       "category": "Interpersonal & Systemic Dynamics",
       "description": "Communicative and relational structures where authority or emotional leverage is abused to enforce dependency, compliance, or reality distortion.",
       "second_order_mapping": [
@@ -43,6 +49,7 @@
     },
     "T3_NEURODIVERGENCE_EXECUTIVE_FUNCTION": {
       "name": "Neurodivergence & Dopaminergic Regulation",
+      "core": "cross_core",
       "category": "Neurobiology & Executive Function",
       "description": "Brain circuitry mechanics governing dopamine baselines, attention elasticity, task initiation friction, and burnout recovery.",
       "second_order_mapping": [
@@ -50,11 +57,13 @@
         "dopamine_baseline_and_receptors",
         "task_initiation_and_procrastination",
         "two_minute_frictionless_entry",
-        "gifted_kid_burnout"
+        "gifted_kid_burnout",
+        "tutorial_hell_and_passive_consumption"
       ]
     },
     "T3_ATTACHMENT_RELATIONAL_BONDING": {
       "name": "Attachment Systems & Relational Projection",
+      "core": "core_psychology",
       "category": "Developmental & Relational Psychology",
       "description": "Early mammalian attachment security, relational attunement, romantic pedestal projection, and the trauma of emotional abandonment.",
       "second_order_mapping": [
@@ -67,6 +76,7 @@
     },
     "T3_SHAME_GUILT_EGO_PRESERVATION": {
       "name": "Ego Defense & Weaponized Conscience",
+      "core": "cross_core",
       "category": "Identity & Moral Psychology",
       "description": "The deconstruction of false guilt, social compliance reflexes, ego identity (Ahamkara), and the recovery of authentic self-worth.",
       "second_order_mapping": [
@@ -74,7 +84,109 @@
         "toxic_guilt_and_false_responsibility",
         "compulsive_people_pleasing_appeasement",
         "decoupling_worth_from_achievement",
-        "imposter_syndrome"
+        "imposter_syndrome",
+        "lowballed_offer_fear",
+        "terminal_senior_l5_plateau"
+      ]
+    },
+    "T3_SYSTEM_ARCHITECTURE_PERFORMANCE": {
+      "name": "Low-Level Systems & Runtime Performance",
+      "core": "core_software_engineering",
+      "category": "Systems & Computer Architecture",
+      "description": "Memory models, hardware cache alignment, asynchronous execution primitives, and zero-cost abstraction design in modern systems programming.",
+      "second_order_mapping": [
+        "systems_programming_and_compilers",
+        "runtime_internals_and_garbage_collection",
+        "system_architecture_and_scale",
+        "cache_locality_and_data_oriented_design",
+        "zero_cost_abstractions",
+        "type_system_soundness",
+        "concurrency_primitives_and_locks",
+        "mechanical_sympathy",
+        "flamegraph_and_profiling_audit",
+        "data_oriented_restructuring",
+        "premature_abstraction_bloat",
+        "garbage_collector_stop_the_world_latency"
+      ]
+    },
+    "T3_DEVELOPER_ERGONOMICS_TOOLING": {
+      "name": "Developer Ergonomics & Modal Workflow",
+      "core": "core_software_engineering",
+      "category": "Ergonomics & Productivity",
+      "description": "Modal text manipulation (Vim/Neovim), Language Server Protocol (LSP) integrations, terminal multiplexing, and rapid tight feedback loops.",
+      "second_order_mapping": [
+        "editor_ergonomics_and_tooling",
+        "modal_editing_velocity",
+        "harpoon_buffer_navigation",
+        "slow_developer_feedback_loops",
+        "rebuilding_from_scratch_first_principles"
+      ]
+    },
+    "T3_FULLSTACK_REACTIVITY_STATE": {
+      "name": "Fullstack Reactivity & Component Architecture",
+      "core": "core_software_engineering",
+      "category": "Web Architecture & UX Engineering",
+      "description": "Declarative component lifecycles, unidirectional state management, React Server Components (RSC), isomorphic rendering, and modern CSS layout algorithms.",
+      "second_order_mapping": [
+        "frontend_reactivity_and_frameworks",
+        "modern_css_and_layouts",
+        "typescript_and_type_safety",
+        "backend_and_database_integration",
+        "ai_application_engineering",
+        "custom_hook_and_state_encapsulation",
+        "server_components_and_isomorphic_rendering",
+        "declarative_vs_imperative_ui",
+        "form_validation_and_schema_parsing",
+        "css_layout_algorithms",
+        "unnecessary_re_renders",
+        "prop_drilling_and_state_spaghetti",
+        "compound_component_pattern",
+        "rag_chunking_and_embedding_pipeline"
+      ]
+    },
+    "T3_ENGINEERING_LEADERSHIP_LEVERAGE": {
+      "name": "Staff+ Leadership, Promotion & Leverage",
+      "core": "core_software_engineering",
+      "category": "Organizational & Career Leverage",
+      "description": "Staff/Principal engineering scope, executive stakeholder alignment, salary negotiation dynamics, and technical leverage.",
+      "second_order_mapping": [
+        "staff_plus_and_executive_leadership",
+        "career_progression_and_promotion",
+        "salary_negotiation_and_total_comp",
+        "system_design_and_architecture_reviews",
+        "workplace_politics_and_influence",
+        "business_impact_over_code_output",
+        "sponsorship_vs_mentorship",
+        "the_l6_staff_archetype",
+        "strategic_scope_expansion",
+        "negotiation_anchoring_and_batna",
+        "invisible_glue_work_undervaluation",
+        "burnout_from_hero_mode",
+        "one_page_brag_document",
+        "skip_level_alignment_meeting",
+        "competing_offer_leverage_play",
+        "rfc_design_consensus_sprint"
+      ]
+    },
+    "T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES": {
+      "name": "Algorithmic Complexity & Foundations",
+      "core": "core_software_engineering",
+      "category": "Theoretical Computer Science",
+      "description": "Asymptotic analysis, tree/graph traversal mechanics, dynamic programming subproblem caching, and distributed data structures.",
+      "second_order_mapping": [
+        "computer_science_fundamentals",
+        "cloud_devops_and_infrastructure",
+        "machine_learning_and_data_science",
+        "cybersecurity_and_ethical_hacking",
+        "asymptotic_algorithmic_complexity",
+        "graph_and_tree_traversals",
+        "containerization_and_orchestration",
+        "transformer_attention_mechanisms",
+        "relational_normalization_and_acid",
+        "combinatorial_algorithm_exhaustion",
+        "two_pointer_and_sliding_window",
+        "memoization_and_tabulation",
+        "dockerfile_multistage_build"
       ]
     }
   },
@@ -83,6 +195,7 @@
       "id": "T3_AUTONOMY_SOVEREIGNTY",
       "label": "Autonomy & Cognitive Sovereignty",
       "order": 3,
+      "core": "core_psychology",
       "category": "Foundational Epistemology",
       "description": "The fundamental capacity of an individual for self-governance, independent thought, and resistance to external psychological coercion.",
       "radius": 24,
@@ -92,6 +205,7 @@
       "id": "T3_EMOTIONAL_METABOLISM",
       "label": "Emotional Digestion & Somatic Metabolism",
       "order": 3,
+      "core": "core_psychology",
       "category": "Somatic & Contemplative Science",
       "description": "The physiological processing of undigested affective distress (Samskaras) without cognitive rationalization or behavioral avoidance.",
       "radius": 24,
@@ -101,6 +215,7 @@
       "id": "T3_POWER_ASYMMETRY_MANIPULATION",
       "label": "Power Asymmetry & Covert Exploitation",
       "order": 3,
+      "core": "core_psychology",
       "category": "Interpersonal & Systemic Dynamics",
       "description": "Communicative and relational structures where authority or emotional leverage is abused to enforce dependency, compliance, or reality distortion.",
       "radius": 24,
@@ -110,6 +225,7 @@
       "id": "T3_NEURODIVERGENCE_EXECUTIVE_FUNCTION",
       "label": "Neurodivergence & Dopaminergic Regulation",
       "order": 3,
+      "core": "cross_core",
       "category": "Neurobiology & Executive Function",
       "description": "Brain circuitry mechanics governing dopamine baselines, attention elasticity, task initiation friction, and burnout recovery.",
       "radius": 24,
@@ -119,6 +235,7 @@
       "id": "T3_ATTACHMENT_RELATIONAL_BONDING",
       "label": "Attachment Systems & Relational Projection",
       "order": 3,
+      "core": "core_psychology",
       "category": "Developmental & Relational Psychology",
       "description": "Early mammalian attachment security, relational attunement, romantic pedestal projection, and the trauma of emotional abandonment.",
       "radius": 24,
@@ -128,8 +245,59 @@
       "id": "T3_SHAME_GUILT_EGO_PRESERVATION",
       "label": "Ego Defense & Weaponized Conscience",
       "order": 3,
+      "core": "cross_core",
       "category": "Identity & Moral Psychology",
       "description": "The deconstruction of false guilt, social compliance reflexes, ego identity (Ahamkara), and the recovery of authentic self-worth.",
+      "radius": 24,
+      "color": "#a855f7"
+    },
+    {
+      "id": "T3_SYSTEM_ARCHITECTURE_PERFORMANCE",
+      "label": "Low-Level Systems & Runtime Performance",
+      "order": 3,
+      "core": "core_software_engineering",
+      "category": "Systems & Computer Architecture",
+      "description": "Memory models, hardware cache alignment, asynchronous execution primitives, and zero-cost abstraction design in modern systems programming.",
+      "radius": 24,
+      "color": "#a855f7"
+    },
+    {
+      "id": "T3_DEVELOPER_ERGONOMICS_TOOLING",
+      "label": "Developer Ergonomics & Modal Workflow",
+      "order": 3,
+      "core": "core_software_engineering",
+      "category": "Ergonomics & Productivity",
+      "description": "Modal text manipulation (Vim/Neovim), Language Server Protocol (LSP) integrations, terminal multiplexing, and rapid tight feedback loops.",
+      "radius": 24,
+      "color": "#a855f7"
+    },
+    {
+      "id": "T3_FULLSTACK_REACTIVITY_STATE",
+      "label": "Fullstack Reactivity & Component Architecture",
+      "order": 3,
+      "core": "core_software_engineering",
+      "category": "Web Architecture & UX Engineering",
+      "description": "Declarative component lifecycles, unidirectional state management, React Server Components (RSC), isomorphic rendering, and modern CSS layout algorithms.",
+      "radius": 24,
+      "color": "#a855f7"
+    },
+    {
+      "id": "T3_ENGINEERING_LEADERSHIP_LEVERAGE",
+      "label": "Staff+ Leadership, Promotion & Leverage",
+      "order": 3,
+      "core": "core_software_engineering",
+      "category": "Organizational & Career Leverage",
+      "description": "Staff/Principal engineering scope, executive stakeholder alignment, salary negotiation dynamics, and technical leverage.",
+      "radius": 24,
+      "color": "#a855f7"
+    },
+    {
+      "id": "T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES",
+      "label": "Algorithmic Complexity & Foundations",
+      "order": 3,
+      "core": "core_software_engineering",
+      "category": "Theoretical Computer Science",
+      "description": "Asymptotic analysis, tree/graph traversal mechanics, dynamic programming subproblem caching, and distributed data structures.",
       "radius": 24,
       "color": "#a855f7"
     },
@@ -138,9 +306,10 @@
       "label": "Relational And Attachment Psychology",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 51,
       "prevalence": 51.0,
-      "radius": 20,
+      "radius": 22,
       "color": "#10b981"
     },
     {
@@ -148,9 +317,10 @@
       "label": "Clinical Psychiatry",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 41,
       "prevalence": 41.0,
-      "radius": 20,
+      "radius": 22,
       "color": "#10b981"
     },
     {
@@ -158,9 +328,10 @@
       "label": "Clinical Lecture",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 32,
       "prevalence": 32.0,
-      "radius": 16,
+      "radius": 22,
       "color": "#10b981"
     },
     {
@@ -168,9 +339,10 @@
       "label": "Neurobiology And Neurotransmitters",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 20,
       "prevalence": 20.0,
-      "radius": 10,
+      "radius": 16,
       "color": "#10b981"
     },
     {
@@ -178,9 +350,10 @@
       "label": "Addiction And Behavioral Medicine",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 16,
       "prevalence": 16.0,
-      "radius": 10,
+      "radius": 14,
       "color": "#10b981"
     },
     {
@@ -188,9 +361,10 @@
       "label": "Developmental And Childhood Trauma",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 14,
       "prevalence": 14.0,
-      "radius": 10,
+      "radius": 13,
       "color": "#10b981"
     },
     {
@@ -198,9 +372,10 @@
       "label": "Live Client Interview",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 14,
       "prevalence": 14.0,
-      "radius": 10,
+      "radius": 13,
       "color": "#10b981"
     },
     {
@@ -208,9 +383,10 @@
       "label": "Unrequited Love And Friendzone",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 11,
       "prevalence": 11.0,
-      "radius": 10,
+      "radius": 11,
       "color": "#10b981"
     },
     {
@@ -218,9 +394,10 @@
       "label": "Neurodivergence And Adhd",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 10,
       "prevalence": 10.0,
-      "radius": 10,
+      "radius": 11,
       "color": "#10b981"
     },
     {
@@ -228,9 +405,10 @@
       "label": "Existential Anhedonia And Numbness",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 10,
       "prevalence": 10.0,
-      "radius": 10,
+      "radius": 11,
       "color": "#10b981"
     },
     {
@@ -238,9 +416,10 @@
       "label": "Parental Conflict And Guilt",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 10,
       "prevalence": 10.0,
-      "radius": 10,
+      "radius": 11,
       "color": "#10b981"
     },
     {
@@ -248,6 +427,7 @@
       "label": "Ahamkara Ego Identity",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 9,
       "prevalence": 9.0,
       "radius": 10,
@@ -258,6 +438,7 @@
       "label": "Dissociation And Derealization",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 9,
       "prevalence": 9.0,
       "radius": 10,
@@ -268,6 +449,7 @@
       "label": "Eastern Contemplative Psychology",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 9,
       "prevalence": 9.0,
       "radius": 10,
@@ -278,6 +460,7 @@
       "label": "Somatic Emotional Digestion",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 8,
       "prevalence": 8.0,
       "radius": 10,
@@ -288,6 +471,7 @@
       "label": "Case Study Trial Breakdown",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 6,
       "prevalence": 6.0,
       "radius": 10,
@@ -298,6 +482,7 @@
       "label": "Chronic Loneliness And Isolation",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 6,
       "prevalence": 6.0,
       "radius": 10,
@@ -308,6 +493,7 @@
       "label": "Q And A Unpacking",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 6,
       "prevalence": 6.0,
       "radius": 10,
@@ -318,6 +504,7 @@
       "label": "Task Initiation And Procrastination",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 5,
       "prevalence": 5.0,
       "radius": 10,
@@ -328,6 +515,7 @@
       "label": "Boundary Assertion Without Defense",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 4,
       "prevalence": 4.0,
       "radius": 10,
@@ -338,6 +526,7 @@
       "label": "Attachment Styles Anxious Avoidant",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 3,
       "prevalence": 3.0,
       "radius": 10,
@@ -348,6 +537,7 @@
       "label": "Dopamine Baseline And Receptors",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 3,
       "prevalence": 3.0,
       "radius": 10,
@@ -358,6 +548,7 @@
       "label": "Imposter Syndrome",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 2,
       "prevalence": 2.0,
       "radius": 10,
@@ -368,6 +559,7 @@
       "label": "Defensive Intellectualization",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 1,
       "prevalence": 1.0,
       "radius": 10,
@@ -378,6 +570,7 @@
       "label": "Limerence And Pedestals",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 1,
       "prevalence": 1.0,
       "radius": 10,
@@ -388,6 +581,7 @@
       "label": "Sakshi Witness Consciousness",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 1,
       "prevalence": 1.0,
       "radius": 10,
@@ -398,6 +592,7 @@
       "label": "Samskara Emotional Memory",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 1,
       "prevalence": 1.0,
       "radius": 10,
@@ -408,6 +603,7 @@
       "label": "Alexithymia Emotional Disconnect",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 1,
       "prevalence": 1.0,
       "radius": 10,
@@ -418,6 +614,7 @@
       "label": "Gifted Kid Burnout",
       "order": 2,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "occurrences": 1,
       "prevalence": 1.0,
       "radius": 10,
@@ -429,6 +626,7 @@
       "full_title": "Stop Trying To Fix Your Traumatic Childhood",
       "order": 1,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "duration": "02:58:42",
       "url": "https://www.youtube.com/watch?v=hxJKaG7clOo",
       "radius": 6,
@@ -440,6 +638,7 @@
       "full_title": "Lindsay Clancy Trial Breakdown by Expert Psychiatrist (Dr.K )",
       "order": 1,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "duration": "02:40:52",
       "url": "https://www.youtube.com/watch?v=joAreHuo1pQ",
       "radius": 6,
@@ -451,6 +650,7 @@
       "full_title": "Stop Overcorrecting Your Attachment Style (Viewer Interview)",
       "order": 1,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "duration": "35:15",
       "url": "https://www.youtube.com/watch?v=Ads8VOa0qKQ",
       "radius": 6,
@@ -462,6 +662,7 @@
       "full_title": "Thoughts Your Therapist Has, But Doesn't Tell You",
       "order": 1,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "duration": "37:35",
       "url": "https://www.youtube.com/watch?v=7afNvogg9kQ",
       "radius": 6,
@@ -473,6 +674,7 @@
       "full_title": "Why You Should NEVER Confess Your Love",
       "order": 1,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "duration": "35:37",
       "url": "https://www.youtube.com/watch?v=xHkcIRZa6lo",
       "radius": 6,
@@ -484,6 +686,7 @@
       "full_title": "Analyzing The Lindsay Clancy Case",
       "order": 1,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "duration": "29:29",
       "url": "https://www.youtube.com/watch?v=7MykFJ7TByM",
       "radius": 6,
@@ -495,6 +698,7 @@
       "full_title": "Why 40% Of Young Men Need Erectile Retraining",
       "order": 1,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "duration": "23:39",
       "url": "https://www.youtube.com/watch?v=2MwTDoT8q_A",
       "radius": 6,
@@ -506,6 +710,7 @@
       "full_title": "The Lie of \"Positive Thinking\"",
       "order": 1,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "duration": "23:18",
       "url": "https://www.youtube.com/watch?v=l7BaFufR23E",
       "radius": 6,
@@ -517,6 +722,7 @@
       "full_title": "We Need To Talk About Ozempic",
       "order": 1,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "duration": "23:53",
       "url": "https://www.youtube.com/watch?v=xWz2oqOqPHw",
       "radius": 6,
@@ -528,6 +734,7 @@
       "full_title": "How To ACTUALLY Break An Addiction",
       "order": 1,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "duration": "18:26",
       "url": "https://www.youtube.com/watch?v=H877DXOAlXI",
       "radius": 6,
@@ -539,6 +746,7 @@
       "full_title": "Why You Need Constant Reassurance",
       "order": 1,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "duration": "18:23",
       "url": "https://www.youtube.com/watch?v=L-gJ_Fo72-k",
       "radius": 6,
@@ -550,41 +758,9 @@
       "full_title": "The Worst Red Flags I\u2019ve Seen As A Therapist",
       "order": 1,
       "channel": "healthygamergg",
+      "core": "core_psychology",
       "duration": "16:15",
       "url": "https://www.youtube.com/watch?v=KBkkN12nVqs",
-      "radius": 6,
-      "color": "#38bdf8"
-    },
-    {
-      "id": "vid:_N6qPEA_dGc",
-      "label": "Why Gifted People Burn Out T...",
-      "full_title": "Why Gifted People Burn Out The Fastest",
-      "order": 1,
-      "channel": "healthygamergg",
-      "duration": "15:49",
-      "url": "https://www.youtube.com/watch?v=_N6qPEA_dGc",
-      "radius": 6,
-      "color": "#38bdf8"
-    },
-    {
-      "id": "vid:oCB-sCIKnkU",
-      "label": "Why You Always Feel Uneasy (...",
-      "full_title": "Why You Always Feel Uneasy (Transcendental Existential Dread)",
-      "order": 1,
-      "channel": "healthygamergg",
-      "duration": "12:00",
-      "url": "https://www.youtube.com/watch?v=oCB-sCIKnkU",
-      "radius": 6,
-      "color": "#38bdf8"
-    },
-    {
-      "id": "vid:VDL60Ef4qLI",
-      "label": "Dr. K Diagnoses Lord of the ...",
-      "full_title": "Dr. K Diagnoses Lord of the Rings Characters (Pt. 1)",
-      "order": 1,
-      "channel": "healthygamergg",
-      "duration": "02:48",
-      "url": "https://www.youtube.com/watch?v=VDL60Ef4qLI",
       "radius": 6,
       "color": "#38bdf8"
     },
@@ -593,9 +769,10 @@
       "label": "Systemic Family Therapy",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 20,
       "prevalence": 69.0,
-      "radius": 10,
+      "radius": 16,
       "color": "#f59e0b"
     },
     {
@@ -603,9 +780,10 @@
       "label": "Buffer Response Delay",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 13,
       "prevalence": 44.8,
-      "radius": 10,
+      "radius": 12,
       "color": "#f59e0b"
     },
     {
@@ -613,9 +791,10 @@
       "label": "Covert Psychological Manipulation",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 13,
       "prevalence": 44.8,
-      "radius": 10,
+      "radius": 12,
       "color": "#f59e0b"
     },
     {
@@ -623,9 +802,10 @@
       "label": "Toxic Guilt And False Responsibility",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 12,
       "prevalence": 41.4,
-      "radius": 10,
+      "radius": 12,
       "color": "#f59e0b"
     },
     {
@@ -633,9 +813,10 @@
       "label": "Cognitive Autonomy And Individuation",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 10,
       "prevalence": 34.5,
-      "radius": 10,
+      "radius": 11,
       "color": "#f59e0b"
     },
     {
@@ -643,9 +824,10 @@
       "label": "Parental Invalidation And Erasure",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 10,
       "prevalence": 34.5,
-      "radius": 10,
+      "radius": 11,
       "color": "#f59e0b"
     },
     {
@@ -653,6 +835,7 @@
       "label": "Relational Ethics And Boundaries",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 9,
       "prevalence": 31.0,
       "radius": 10,
@@ -663,6 +846,7 @@
       "label": "Dogmatic Indoctrination And Cults",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 8,
       "prevalence": 27.6,
       "radius": 10,
@@ -673,6 +857,7 @@
       "label": "Family Estrangement And Grief",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 8,
       "prevalence": 27.6,
       "radius": 10,
@@ -683,6 +868,7 @@
       "label": "Loss Of Sovereignty And Agency",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 7,
       "prevalence": 24.1,
       "radius": 10,
@@ -693,6 +879,7 @@
       "label": "Relationship Autopsy",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 6,
       "prevalence": 20.7,
       "radius": 10,
@@ -703,6 +890,7 @@
       "label": "Covert Narcissism And Victimhood",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 6,
       "prevalence": 20.7,
       "radius": 10,
@@ -713,6 +901,7 @@
       "label": "Fog Fear Obligation Guilt",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 5,
       "prevalence": 17.2,
       "radius": 10,
@@ -723,6 +912,7 @@
       "label": "Tribalism And In Group Isolation",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 3,
       "prevalence": 10.3,
       "radius": 10,
@@ -733,6 +923,7 @@
       "label": "Scripted Video Essay",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 3,
       "prevalence": 10.3,
       "radius": 10,
@@ -743,6 +934,7 @@
       "label": "False Equivalence Fallacy",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 3,
       "prevalence": 10.3,
       "radius": 10,
@@ -753,6 +945,7 @@
       "label": "Cognitive Rumination Mental Loops",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 3,
       "prevalence": 10.3,
       "radius": 10,
@@ -763,6 +956,7 @@
       "label": "Infantilisation Forced Dependency",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 3,
       "prevalence": 10.3,
       "radius": 10,
@@ -773,6 +967,7 @@
       "label": "Compulsive People Pleasing Appeasement",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 3,
       "prevalence": 10.3,
       "radius": 10,
@@ -783,6 +978,7 @@
       "label": "Gaslighting Reality Denial",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 3,
       "prevalence": 10.3,
       "radius": 10,
@@ -793,6 +989,7 @@
       "label": "Double Bind Communicative Trap",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 3,
       "prevalence": 10.3,
       "radius": 10,
@@ -803,6 +1000,7 @@
       "label": "Channel Editorial Memo",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 2,
       "prevalence": 6.9,
       "radius": 10,
@@ -813,6 +1011,7 @@
       "label": "Weaponised And Compelled Love",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 2,
       "prevalence": 6.9,
       "radius": 10,
@@ -823,6 +1022,7 @@
       "label": "Giving Up On Fixing People",
       "order": 2,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "occurrences": 1,
       "prevalence": 3.4,
       "radius": 10,
@@ -834,6 +1034,7 @@
       "full_title": "losing (part 1) | relationship autopsy & parental narcissism",
       "order": 1,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "duration": "56 min",
       "url": "https://www.youtube.com/watch?v=jWLZfeKpIhg",
       "radius": 6,
@@ -845,6 +1046,7 @@
       "full_title": "concealing abuse | family denial & systemic protection",
       "order": 1,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "duration": "46 min",
       "url": "https://www.youtube.com/watch?v=xFt_aeQw2GA",
       "radius": 6,
@@ -856,6 +1058,7 @@
       "full_title": "exposing abuse (part 2) | the fallout of truth-telling",
       "order": 1,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "duration": "42 min",
       "url": "https://www.youtube.com/watch?v=6F58ZJt_qYU",
       "radius": 6,
@@ -867,6 +1070,7 @@
       "full_title": "infantilisation | forced dependency & preventing adulthood",
       "order": 1,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "duration": "39 min",
       "url": "https://www.youtube.com/watch?v=c39F04inLJ0",
       "radius": 6,
@@ -878,6 +1082,7 @@
       "full_title": "nobody's follower | reclaiming self-sovereignty & leaving groups",
       "order": 1,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "duration": "38 min",
       "url": "https://www.youtube.com/watch?v=oX3qM4VqbJo",
       "radius": 6,
@@ -889,6 +1094,7 @@
       "full_title": "save | deconstructing the messiah & rescue complex",
       "order": 1,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "duration": "35 min",
       "url": "https://www.youtube.com/watch?v=sXcTIkuzQ3I",
       "radius": 6,
@@ -900,6 +1106,7 @@
       "full_title": "compelled love / weaponised love | love as emotional debt",
       "order": 1,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "duration": "35 min",
       "url": "https://www.youtube.com/watch?v=u91ctugBCsg",
       "radius": 6,
@@ -911,6 +1118,7 @@
       "full_title": "death of a narcissist | grief without reconciliation",
       "order": 1,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "duration": "34 min",
       "url": "https://www.youtube.com/watch?v=zcRUj8H3rc4",
       "radius": 6,
@@ -922,6 +1130,7 @@
       "full_title": "abuse in therapy | predatory dynamics & ethical boundaries",
       "order": 1,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "duration": "32 min",
       "url": "https://www.youtube.com/watch?v=kMeehIpxH5k",
       "radius": 6,
@@ -933,6 +1142,7 @@
       "full_title": "exposing abuse (part 1) | breaking the silence",
       "order": 1,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "duration": "33 min",
       "url": "https://www.youtube.com/watch?v=TsvJMlg_SaM",
       "radius": 6,
@@ -944,6 +1154,7 @@
       "full_title": "bowing to narcissists | appeasement & institutional enabling",
       "order": 1,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "duration": "31 min",
       "url": "https://www.youtube.com/watch?v=qjZ3f-IXEXU",
       "radius": 6,
@@ -955,41 +1166,1388 @@
       "full_title": "resisting emotional blackmail | boundaries against fog",
       "order": 1,
       "channel": "theramintrees",
+      "core": "core_psychology",
       "duration": "31 min",
       "url": "https://www.youtube.com/watch?v=PEexQAkhFpM",
       "radius": 6,
       "color": "#38bdf8"
     },
     {
-      "id": "vid:vnSiJOOdo30",
-      "label": "what we look for | attractio...",
-      "full_title": "what we look for | attraction, trauma bonding & compatibility",
+      "id": "theprimeagen:systems_programming_and_compilers",
+      "label": "Systems Programming And Compilers",
+      "order": 2,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "occurrences": 41,
+      "prevalence": 40.2,
+      "radius": 22,
+      "color": "#ef4444"
+    },
+    {
+      "id": "theprimeagen:developer_culture_and_critique",
+      "label": "Developer Culture And Critique",
+      "order": 2,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "occurrences": 34,
+      "prevalence": 33.3,
+      "radius": 22,
+      "color": "#ef4444"
+    },
+    {
+      "id": "theprimeagen:engineering_philosophical_rant",
+      "label": "Engineering Philosophical Rant",
+      "order": 2,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "occurrences": 32,
+      "prevalence": 31.4,
+      "radius": 22,
+      "color": "#ef4444"
+    },
+    {
+      "id": "theprimeagen:deep_dive_benchmark_build",
+      "label": "Deep Dive Benchmark Build",
+      "order": 2,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "occurrences": 31,
+      "prevalence": 30.4,
+      "radius": 21,
+      "color": "#ef4444"
+    },
+    {
+      "id": "theprimeagen:runtime_internals_and_garbage_collection",
+      "label": "Runtime Internals And Garbage Collection",
+      "order": 2,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "occurrences": 29,
+      "prevalence": 28.4,
+      "radius": 20,
+      "color": "#ef4444"
+    },
+    {
+      "id": "theprimeagen:editor_ergonomics_and_tooling",
+      "label": "Editor Ergonomics And Tooling",
+      "order": 2,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "occurrences": 26,
+      "prevalence": 25.5,
+      "radius": 19,
+      "color": "#ef4444"
+    },
+    {
+      "id": "theprimeagen:modal_editing_velocity",
+      "label": "Modal Editing Velocity",
+      "order": 2,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "occurrences": 18,
+      "prevalence": 17.6,
+      "radius": 15,
+      "color": "#ef4444"
+    },
+    {
+      "id": "theprimeagen:concurrency_primitives_and_locks",
+      "label": "Concurrency Primitives And Locks",
+      "order": 2,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "occurrences": 14,
+      "prevalence": 13.7,
+      "radius": 13,
+      "color": "#ef4444"
+    },
+    {
+      "id": "theprimeagen:system_architecture_and_scale",
+      "label": "System Architecture And Scale",
+      "order": 2,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "occurrences": 10,
+      "prevalence": 9.8,
+      "radius": 11,
+      "color": "#ef4444"
+    },
+    {
+      "id": "theprimeagen:garbage_collector_stop_the_world_latency",
+      "label": "Garbage Collector Stop The World Latency",
+      "order": 2,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "occurrences": 7,
+      "prevalence": 6.9,
+      "radius": 10,
+      "color": "#ef4444"
+    },
+    {
+      "id": "theprimeagen:live_code_roast_critique",
+      "label": "Live Code Roast Critique",
+      "order": 2,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "occurrences": 7,
+      "prevalence": 6.9,
+      "radius": 10,
+      "color": "#ef4444"
+    },
+    {
+      "id": "theprimeagen:harpoon_buffer_navigation",
+      "label": "Harpoon Buffer Navigation",
+      "order": 2,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "occurrences": 6,
+      "prevalence": 5.9,
+      "radius": 10,
+      "color": "#ef4444"
+    },
+    {
+      "id": "theprimeagen:type_system_soundness",
+      "label": "Type System Soundness",
+      "order": 2,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "occurrences": 6,
+      "prevalence": 5.9,
+      "radius": 10,
+      "color": "#ef4444"
+    },
+    {
+      "id": "theprimeagen:mechanical_sympathy",
+      "label": "Mechanical Sympathy",
+      "order": 2,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "occurrences": 5,
+      "prevalence": 4.9,
+      "radius": 10,
+      "color": "#ef4444"
+    },
+    {
+      "id": "theprimeagen:premature_abstraction_bloat",
+      "label": "Premature Abstraction Bloat",
+      "order": 2,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "occurrences": 3,
+      "prevalence": 2.9,
+      "radius": 10,
+      "color": "#ef4444"
+    },
+    {
+      "id": "theprimeagen:flamegraph_and_profiling_audit",
+      "label": "Flamegraph And Profiling Audit",
+      "order": 2,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "occurrences": 3,
+      "prevalence": 2.9,
+      "radius": 10,
+      "color": "#ef4444"
+    },
+    {
+      "id": "theprimeagen:zero_cost_abstractions",
+      "label": "Zero Cost Abstractions",
+      "order": 2,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "occurrences": 3,
+      "prevalence": 2.9,
+      "radius": 10,
+      "color": "#ef4444"
+    },
+    {
+      "id": "vid:x7v6SNIgJpE",
+      "label": "FULL Introduction To HTMX Us...",
+      "full_title": "FULL Introduction To HTMX Using Golang",
       "order": 1,
-      "channel": "theramintrees",
-      "duration": "32 min",
-      "url": "https://www.youtube.com/watch?v=vnSiJOOdo30",
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "duration": "42:00",
+      "url": "https://www.youtube.com/watch?v=x7v6SNIgJpE",
       "radius": 6,
       "color": "#38bdf8"
     },
     {
-      "id": "vid:K4YZoNxSZNU",
-      "label": "living with abusers | surviv...",
-      "full_title": "living with abusers | survival tactics in hostile environments",
+      "id": "vid:38gVgJj0eFQ",
+      "label": "Immediate Mode UI and Animat...",
+      "full_title": "Immediate Mode UI and Animations with Casey Muratori",
       "order": 1,
-      "channel": "theramintrees",
-      "duration": "31 min",
-      "url": "https://www.youtube.com/watch?v=K4YZoNxSZNU",
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "duration": "40:12",
+      "url": "https://www.youtube.com/watch?v=38gVgJj0eFQ",
       "radius": 6,
       "color": "#38bdf8"
     },
     {
-      "id": "vid:OsAaxOFOUl4",
-      "label": "moral values | developing au...",
-      "full_title": "moral values | developing autonomous ethical frameworks",
+      "id": "vid:iKK_tY5Ph-4",
+      "label": "I Let Twitch Chat Create New...",
+      "full_title": "I Let Twitch Chat Create New Jokers for Balatro",
       "order": 1,
-      "channel": "theramintrees",
-      "duration": "27 min",
-      "url": "https://www.youtube.com/watch?v=OsAaxOFOUl4",
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "duration": "40:12",
+      "url": "https://www.youtube.com/watch?v=iKK_tY5Ph-4",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:w7i4amO_zaE",
+      "label": "0 to LSP : Neovim RC From Sc...",
+      "full_title": "0 to LSP : Neovim RC From Scratch",
+      "order": 1,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "duration": "38:30",
+      "url": "https://www.youtube.com/watch?v=w7i4amO_zaE",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:js7_bCY6WEw",
+      "label": "Layout is harder than you th...",
+      "full_title": "Layout is harder than you think..",
+      "order": 1,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "duration": "15 min",
+      "url": "https://www.youtube.com/watch?v=js7_bCY6WEw",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:js7_bCY6WEw",
+      "label": "Layout is harder than you th...",
+      "full_title": "Layout is harder than you think..",
+      "order": 1,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "duration": "42:00",
+      "url": "https://www.youtube.com/watch?v=js7_bCY6WEw",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:js7_bCY6WEw",
+      "label": "Layout is harder than you th...",
+      "full_title": "Layout is harder than you think..",
+      "order": 1,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "duration": "42:00",
+      "url": "https://www.youtube.com/watch?v=js7_bCY6WEw",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:GwcFxTuMYmU",
+      "label": "I Went To DEFCON!...",
+      "full_title": "I Went To DEFCON!",
+      "order": 1,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "duration": "15 min",
+      "url": "https://www.youtube.com/watch?v=GwcFxTuMYmU",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:ZH3iKbEiks0",
+      "label": "I was wrong btw...",
+      "full_title": "I was wrong btw",
+      "order": 1,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "duration": "42:00",
+      "url": "https://www.youtube.com/watch?v=ZH3iKbEiks0",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:FrMRyXtiJkc",
+      "label": "How to Vim in 2023: Tips and...",
+      "full_title": "How to Vim in 2023: Tips and Tricks",
+      "order": 1,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "duration": "42:00",
+      "url": "https://www.youtube.com/watch?v=FrMRyXtiJkc",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:GwcFxTuMYmU",
+      "label": "I Went To DEFCON!...",
+      "full_title": "I Went To DEFCON!",
+      "order": 1,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "duration": "42:00",
+      "url": "https://www.youtube.com/watch?v=GwcFxTuMYmU",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:3f9tbqSIm-E",
+      "label": "1000 Players - One Game of D...",
+      "full_title": "1000 Players - One Game of Doom",
+      "order": 1,
+      "channel": "theprimeagen",
+      "core": "core_software_engineering",
+      "duration": "42:00",
+      "url": "https://www.youtube.com/watch?v=3f9tbqSIm-E",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "web_dev_simplified:practical_project_build",
+      "label": "Practical Project Build",
+      "order": 2,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "occurrences": 45,
+      "prevalence": 54.9,
+      "radius": 22,
+      "color": "#3b82f6"
+    },
+    {
+      "id": "web_dev_simplified:modern_css_and_layouts",
+      "label": "Modern Css And Layouts",
+      "order": 2,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "occurrences": 39,
+      "prevalence": 47.6,
+      "radius": 22,
+      "color": "#3b82f6"
+    },
+    {
+      "id": "web_dev_simplified:typescript_and_type_safety",
+      "label": "Typescript And Type Safety",
+      "order": 2,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "occurrences": 31,
+      "prevalence": 37.8,
+      "radius": 21,
+      "color": "#3b82f6"
+    },
+    {
+      "id": "web_dev_simplified:frontend_reactivity_and_frameworks",
+      "label": "Frontend Reactivity And Frameworks",
+      "order": 2,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "occurrences": 29,
+      "prevalence": 35.4,
+      "radius": 20,
+      "color": "#3b82f6"
+    },
+    {
+      "id": "web_dev_simplified:backend_and_database_integration",
+      "label": "Backend And Database Integration",
+      "order": 2,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "occurrences": 27,
+      "prevalence": 32.9,
+      "radius": 19,
+      "color": "#3b82f6"
+    },
+    {
+      "id": "web_dev_simplified:feature_deep_dive",
+      "label": "Feature Deep Dive",
+      "order": 2,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "occurrences": 25,
+      "prevalence": 30.5,
+      "radius": 18,
+      "color": "#3b82f6"
+    },
+    {
+      "id": "web_dev_simplified:pattern_vs_antipattern_comparison",
+      "label": "Pattern Vs Antipattern Comparison",
+      "order": 2,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "occurrences": 15,
+      "prevalence": 18.3,
+      "radius": 13,
+      "color": "#3b82f6"
+    },
+    {
+      "id": "web_dev_simplified:form_validation_and_schema_parsing",
+      "label": "Form Validation And Schema Parsing",
+      "order": 2,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "occurrences": 10,
+      "prevalence": 12.2,
+      "radius": 11,
+      "color": "#3b82f6"
+    },
+    {
+      "id": "web_dev_simplified:ai_application_engineering",
+      "label": "Ai Application Engineering",
+      "order": 2,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "occurrences": 8,
+      "prevalence": 9.8,
+      "radius": 10,
+      "color": "#3b82f6"
+    },
+    {
+      "id": "web_dev_simplified:css_layout_algorithms",
+      "label": "Css Layout Algorithms",
+      "order": 2,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "occurrences": 8,
+      "prevalence": 9.8,
+      "radius": 10,
+      "color": "#3b82f6"
+    },
+    {
+      "id": "web_dev_simplified:use_sync_external_store_migration",
+      "label": "Use Sync External Store Migration",
+      "order": 2,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "occurrences": 5,
+      "prevalence": 6.1,
+      "radius": 10,
+      "color": "#3b82f6"
+    },
+    {
+      "id": "web_dev_simplified:unnecessary_re_renders",
+      "label": "Unnecessary Re Renders",
+      "order": 2,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "occurrences": 5,
+      "prevalence": 6.1,
+      "radius": 10,
+      "color": "#3b82f6"
+    },
+    {
+      "id": "web_dev_simplified:custom_hook_and_state_encapsulation",
+      "label": "Custom Hook And State Encapsulation",
+      "order": 2,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "occurrences": 4,
+      "prevalence": 4.9,
+      "radius": 10,
+      "color": "#3b82f6"
+    },
+    {
+      "id": "web_dev_simplified:declarative_vs_imperative_ui",
+      "label": "Declarative Vs Imperative Ui",
+      "order": 2,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "occurrences": 4,
+      "prevalence": 4.9,
+      "radius": 10,
+      "color": "#3b82f6"
+    },
+    {
+      "id": "web_dev_simplified:css_specificity_and_cascade_wars",
+      "label": "Css Specificity And Cascade Wars",
+      "order": 2,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "occurrences": 2,
+      "prevalence": 2.4,
+      "radius": 10,
+      "color": "#3b82f6"
+    },
+    {
+      "id": "web_dev_simplified:server_components_and_isomorphic_rendering",
+      "label": "Server Components And Isomorphic Rendering",
+      "order": 2,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "occurrences": 2,
+      "prevalence": 2.4,
+      "radius": 10,
+      "color": "#3b82f6"
+    },
+    {
+      "id": "web_dev_simplified:rag_chunking_and_embedding_pipeline",
+      "label": "Rag Chunking And Embedding Pipeline",
+      "order": 2,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "occurrences": 1,
+      "prevalence": 1.2,
+      "radius": 10,
+      "color": "#3b82f6"
+    },
+    {
+      "id": "web_dev_simplified:prop_drilling_and_state_spaghetti",
+      "label": "Prop Drilling And State Spaghetti",
+      "order": 2,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "occurrences": 1,
+      "prevalence": 1.2,
+      "radius": 10,
+      "color": "#3b82f6"
+    },
+    {
+      "id": "vid:1mvlBz6pj1I",
+      "label": "How To Build A Production Re...",
+      "full_title": "How To Build A Production Ready RAG AI - My Full AI Coding Workflow",
+      "order": 1,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "duration": "36:06",
+      "url": "https://www.youtube.com/watch?v=1mvlBz6pj1I",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:9aTRnV6g0eQ",
+      "label": "Learn React With This One Pr...",
+      "full_title": "Learn React With This One Project",
+      "order": 1,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "duration": "36:06",
+      "url": "https://www.youtube.com/watch?v=9aTRnV6g0eQ",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:U_D14T5TYuk",
+      "label": "How To Build A Production Re...",
+      "full_title": "How To Build A Production Ready API - Auth, JWT, API Keys",
+      "order": 1,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "duration": "36:06",
+      "url": "https://www.youtube.com/watch?v=U_D14T5TYuk",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:BY63sGoGXq0",
+      "label": "Help Me Code Review My First...",
+      "full_title": "Help Me Code Review My First Website",
+      "order": 1,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "duration": "33:06",
+      "url": "https://www.youtube.com/watch?v=BY63sGoGXq0",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:W7bZA9Fj6SA",
+      "label": "Talking With Eddie Jaoude an...",
+      "full_title": "Talking With Eddie Jaoude and Tanya Powell About Gender Diversity In Tech",
+      "order": 1,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "duration": "33:06",
+      "url": "https://www.youtube.com/watch?v=W7bZA9Fj6SA",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:UngVdAsQEiU",
+      "label": "The Best Local Agentic Codin...",
+      "full_title": "The Best Local Agentic Coding Workflow (Complete Guide)",
+      "order": 1,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "duration": "36:06",
+      "url": "https://www.youtube.com/watch?v=UngVdAsQEiU",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:NykJhYdBoqU",
+      "label": "Help Me Plan My Upcoming Jav...",
+      "full_title": "Help Me Plan My Upcoming JavaScript Course",
+      "order": 1,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "duration": "33:06",
+      "url": "https://www.youtube.com/watch?v=NykJhYdBoqU",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:7Z7ID5BbZU4",
+      "label": "Containers Don't Make Your A...",
+      "full_title": "Containers Don't Make Your AI Agent Safe",
+      "order": 1,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "duration": "36:06",
+      "url": "https://www.youtube.com/watch?v=7Z7ID5BbZU4",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:ovnyeq-Xxrc",
+      "label": "How To Handle Errors Like A ...",
+      "full_title": "How To Handle Errors Like A Senior Dev",
+      "order": 1,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "duration": "33:06",
+      "url": "https://www.youtube.com/watch?v=ovnyeq-Xxrc",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:cxQLKsktiBA",
+      "label": "How To Use AI Skills Like A ...",
+      "full_title": "How To Use AI Skills Like A Senior Developer",
+      "order": 1,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "duration": "36:06",
+      "url": "https://www.youtube.com/watch?v=cxQLKsktiBA",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:Y7nhXvJ7yH8",
+      "label": "How to Handle Accessibility ...",
+      "full_title": "How to Handle Accessibility Like a Senior Dev",
+      "order": 1,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "duration": "33:06",
+      "url": "https://www.youtube.com/watch?v=Y7nhXvJ7yH8",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:DogTO1jjFtI",
+      "label": "What I Use Instead...",
+      "full_title": "What I Use Instead",
+      "order": 1,
+      "channel": "web_dev_simplified",
+      "core": "core_software_engineering",
+      "duration": "36:06",
+      "url": "https://www.youtube.com/watch?v=DogTO1jjFtI",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "freecodecamp:mega_crash_course",
+      "label": "Mega Crash Course",
+      "order": 2,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "occurrences": 45,
+      "prevalence": 45.5,
+      "radius": 22,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "freecodecamp:machine_learning_and_data_science",
+      "label": "Machine Learning And Data Science",
+      "order": 2,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "occurrences": 38,
+      "prevalence": 38.4,
+      "radius": 22,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "freecodecamp:containerization_and_orchestration",
+      "label": "Containerization And Orchestration",
+      "order": 2,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "occurrences": 33,
+      "prevalence": 33.3,
+      "radius": 22,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "freecodecamp:relational_normalization_and_acid",
+      "label": "Relational Normalization And Acid",
+      "order": 2,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "occurrences": 26,
+      "prevalence": 26.3,
+      "radius": 19,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "freecodecamp:computer_science_fundamentals",
+      "label": "Computer Science Fundamentals",
+      "order": 2,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "occurrences": 25,
+      "prevalence": 25.3,
+      "radius": 18,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "freecodecamp:cloud_devops_and_infrastructure",
+      "label": "Cloud Devops And Infrastructure",
+      "order": 2,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "occurrences": 23,
+      "prevalence": 23.2,
+      "radius": 17,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "freecodecamp:visual_algorithm_walkthrough",
+      "label": "Visual Algorithm Walkthrough",
+      "order": 2,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "occurrences": 20,
+      "prevalence": 20.2,
+      "radius": 16,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "freecodecamp:cybersecurity_and_ethical_hacking",
+      "label": "Cybersecurity And Ethical Hacking",
+      "order": 2,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "occurrences": 18,
+      "prevalence": 18.2,
+      "radius": 15,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "freecodecamp:paper_and_architecture_breakdown",
+      "label": "Paper And Architecture Breakdown",
+      "order": 2,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "occurrences": 16,
+      "prevalence": 16.2,
+      "radius": 14,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "freecodecamp:transformer_attention_mechanisms",
+      "label": "Transformer Attention Mechanisms",
+      "order": 2,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "occurrences": 12,
+      "prevalence": 12.1,
+      "radius": 12,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "freecodecamp:mobile_and_cross_platform_dev",
+      "label": "Mobile And Cross Platform Dev",
+      "order": 2,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "occurrences": 5,
+      "prevalence": 5.1,
+      "radius": 10,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "freecodecamp:graph_and_tree_traversals",
+      "label": "Graph And Tree Traversals",
+      "order": 2,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "occurrences": 4,
+      "prevalence": 4.0,
+      "radius": 10,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "freecodecamp:infrastructure_misconfiguration",
+      "label": "Infrastructure Misconfiguration",
+      "order": 2,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "occurrences": 4,
+      "prevalence": 4.0,
+      "radius": 10,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "freecodecamp:asymptotic_algorithmic_complexity",
+      "label": "Asymptotic Algorithmic Complexity",
+      "order": 2,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "occurrences": 3,
+      "prevalence": 3.0,
+      "radius": 10,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "freecodecamp:semantic_chunking_tokenization",
+      "label": "Semantic Chunking Tokenization",
+      "order": 2,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "occurrences": 3,
+      "prevalence": 3.0,
+      "radius": 10,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "freecodecamp:memoization_and_tabulation",
+      "label": "Memoization And Tabulation",
+      "order": 2,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "occurrences": 1,
+      "prevalence": 1.0,
+      "radius": 10,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "freecodecamp:combinatorial_algorithm_exhaustion",
+      "label": "Combinatorial Algorithm Exhaustion",
+      "order": 2,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "occurrences": 1,
+      "prevalence": 1.0,
+      "radius": 10,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "freecodecamp:two_pointer_and_sliding_window",
+      "label": "Two Pointer And Sliding Window",
+      "order": 2,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "occurrences": 1,
+      "prevalence": 1.0,
+      "radius": 10,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "freecodecamp:tutorial_hell_and_passive_consumption",
+      "label": "Tutorial Hell And Passive Consumption",
+      "order": 2,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "occurrences": 1,
+      "prevalence": 1.0,
+      "radius": 10,
+      "color": "#06b6d4"
+    },
+    {
+      "id": "vid:Zy7EXDONlTY",
+      "label": "Agentic AI \u2013 Complete Course...",
+      "full_title": "Agentic AI \u2013 Complete Course for Beginners",
+      "order": 1,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "duration": "54:00",
+      "url": "https://www.youtube.com/watch?v=Zy7EXDONlTY",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:reDRM0tqhNs",
+      "label": "Claude Certified Architect -...",
+      "full_title": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+      "order": 1,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "duration": "54:00",
+      "url": "https://www.youtube.com/watch?v=reDRM0tqhNs",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:eDqVqVyCo6k",
+      "label": "Python for Engineers & Robot...",
+      "full_title": "Python for Engineers & Robotics \u2013 Master NumPy, Pandas, and ChatGPT Automation",
+      "order": 1,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "duration": "54:00",
+      "url": "https://www.youtube.com/watch?v=eDqVqVyCo6k",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:oDOw5tB3Udw",
+      "label": "Python for Beginners with Ha...",
+      "full_title": "Python for Beginners with Hands-On Projects",
+      "order": 1,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "duration": "54:00",
+      "url": "https://www.youtube.com/watch?v=oDOw5tB3Udw",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:XMnRj4ooYz8",
+      "label": "3D Printing & Additive Manuf...",
+      "full_title": "3D Printing & Additive Manufacturing \u2013 Full Course",
+      "order": 1,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "duration": "54:00",
+      "url": "https://www.youtube.com/watch?v=XMnRj4ooYz8",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:4GtVeULrNks",
+      "label": "React Native Full Stack Cour...",
+      "full_title": "React Native Full Stack Course \u2013 Clerk, Postgres, NativeWind",
+      "order": 1,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "duration": "54:00",
+      "url": "https://www.youtube.com/watch?v=4GtVeULrNks",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:KgTW0xfyr9A",
+      "label": "Reactathon Conference Live S...",
+      "full_title": "Reactathon Conference Live Stream - Day One",
+      "order": 1,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "duration": "49:30",
+      "url": "https://www.youtube.com/watch?v=KgTW0xfyr9A",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:Sz7SImkdIpo",
+      "label": "Reactathon Conference Live S...",
+      "full_title": "Reactathon Conference Live Stream - Day Three",
+      "order": 1,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "duration": "49:30",
+      "url": "https://www.youtube.com/watch?v=Sz7SImkdIpo",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:iqRcGCah0Kw",
+      "label": "System Design for AI Agents ...",
+      "full_title": "System Design for AI Agents \u2013 Building a Multi-Agent PR Reviewer",
+      "order": 1,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "duration": "54:00",
+      "url": "https://www.youtube.com/watch?v=iqRcGCah0Kw",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:b-P5ZQ1NxxE",
+      "label": "Meta Muse Code & Muse Spark ...",
+      "full_title": "Meta Muse Code & Muse Spark Course \u2013 Build AI Agents, APIs, and Full-Stack Apps",
+      "order": 1,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "duration": "15:00",
+      "url": "https://www.youtube.com/watch?v=b-P5ZQ1NxxE",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:AZDSpS5v57w",
+      "label": "AI Agents For Beginners \u2013 Op...",
+      "full_title": "AI Agents For Beginners \u2013 OpenClaw Case Study",
+      "order": 1,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "duration": "49:30",
+      "url": "https://www.youtube.com/watch?v=AZDSpS5v57w",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:QpR4QEv5Urk",
+      "label": "Image Generation using GANs ...",
+      "full_title": "Image Generation using GANs | Deep Learning with PyTorch: Zero to GANs | Part 6 of 6",
+      "order": 1,
+      "channel": "freecodecamp",
+      "core": "core_software_engineering",
+      "duration": "49:30",
+      "url": "https://www.youtube.com/watch?v=QpR4QEv5Urk",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "a_life_engineered:executive_interview_mentorship",
+      "label": "Executive Interview Mentorship",
+      "order": 2,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "occurrences": 50,
+      "prevalence": 68.5,
+      "radius": 22,
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "a_life_engineered:staff_plus_and_executive_leadership",
+      "label": "Staff Plus And Executive Leadership",
+      "order": 2,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "occurrences": 38,
+      "prevalence": 52.1,
+      "radius": 22,
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "a_life_engineered:career_strategy_masterclass",
+      "label": "Career Strategy Masterclass",
+      "order": 2,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "occurrences": 37,
+      "prevalence": 50.7,
+      "radius": 22,
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "a_life_engineered:career_progression_and_promotion",
+      "label": "Career Progression And Promotion",
+      "order": 2,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "occurrences": 32,
+      "prevalence": 43.8,
+      "radius": 22,
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "a_life_engineered:system_design_and_architecture_reviews",
+      "label": "System Design And Architecture Reviews",
+      "order": 2,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "occurrences": 17,
+      "prevalence": 23.3,
+      "radius": 14,
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "a_life_engineered:sponsorship_vs_mentorship",
+      "label": "Sponsorship Vs Mentorship",
+      "order": 2,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "occurrences": 16,
+      "prevalence": 21.9,
+      "radius": 14,
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "a_life_engineered:salary_negotiation_and_total_comp",
+      "label": "Salary Negotiation And Total Comp",
+      "order": 2,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "occurrences": 15,
+      "prevalence": 20.5,
+      "radius": 13,
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "a_life_engineered:workplace_politics_and_influence",
+      "label": "Workplace Politics And Influence",
+      "order": 2,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "occurrences": 13,
+      "prevalence": 17.8,
+      "radius": 12,
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "a_life_engineered:negotiation_anchoring_and_batna",
+      "label": "Negotiation Anchoring And Batna",
+      "order": 2,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "occurrences": 12,
+      "prevalence": 16.4,
+      "radius": 12,
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "a_life_engineered:skip_level_alignment_meeting",
+      "label": "Skip Level Alignment Meeting",
+      "order": 2,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "occurrences": 11,
+      "prevalence": 15.1,
+      "radius": 11,
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "a_life_engineered:terminal_senior_l5_plateau",
+      "label": "Terminal Senior L5 Plateau",
+      "order": 2,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "occurrences": 11,
+      "prevalence": 15.1,
+      "radius": 11,
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "a_life_engineered:business_impact_over_code_output",
+      "label": "Business Impact Over Code Output",
+      "order": 2,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "occurrences": 10,
+      "prevalence": 13.7,
+      "radius": 11,
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "a_life_engineered:burnout_from_hero_mode",
+      "label": "Burnout From Hero Mode",
+      "order": 2,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "occurrences": 8,
+      "prevalence": 11.0,
+      "radius": 10,
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "a_life_engineered:the_l6_staff_archetype",
+      "label": "The L6 Staff Archetype",
+      "order": 2,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "occurrences": 3,
+      "prevalence": 4.1,
+      "radius": 10,
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "a_life_engineered:lowballed_offer_fear",
+      "label": "Lowballed Offer Fear",
+      "order": 2,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "occurrences": 2,
+      "prevalence": 2.7,
+      "radius": 10,
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "a_life_engineered:strategic_scope_expansion",
+      "label": "Strategic Scope Expansion",
+      "order": 2,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "occurrences": 2,
+      "prevalence": 2.7,
+      "radius": 10,
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "a_life_engineered:competing_offer_leverage_play",
+      "label": "Competing Offer Leverage Play",
+      "order": 2,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "occurrences": 1,
+      "prevalence": 1.4,
+      "radius": 10,
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "a_life_engineered:one_page_brag_document",
+      "label": "One Page Brag Document",
+      "order": 2,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "occurrences": 1,
+      "prevalence": 1.4,
+      "radius": 10,
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "a_life_engineered:qa_salary_breakdown",
+      "label": "Qa Salary Breakdown",
+      "order": 2,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "occurrences": 1,
+      "prevalence": 1.4,
+      "radius": 10,
+      "color": "#8b5cf6"
+    },
+    {
+      "id": "vid:suZ2Gt6i8do",
+      "label": "Casey Muratori Doesn\u2019t Care ...",
+      "full_title": "Casey Muratori Doesn\u2019t Care About AI (Here\u2019s Why)",
+      "order": 1,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "duration": "23:48",
+      "url": "https://www.youtube.com/watch?v=suZ2Gt6i8do",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:q3ca41YIZjc",
+      "label": "The 2% of Engineers Winning ...",
+      "full_title": "The 2% of Engineers Winning the AI Era (Ex-Meta L8)",
+      "order": 1,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "duration": "23:48",
+      "url": "https://www.youtube.com/watch?v=q3ca41YIZjc",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:2_HxguGi3Ek",
+      "label": "I Coached an Amazon Engineer...",
+      "full_title": "I Coached an Amazon Engineer From Mid-Level to Senior (Live)",
+      "order": 1,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "duration": "23:48",
+      "url": "https://www.youtube.com/watch?v=2_HxguGi3Ek",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:Gf0pR4_bv-o",
+      "label": "Ex-Amazon VP on What Actuall...",
+      "full_title": "Ex-Amazon VP on What Actually Gets You Promoted | Ethan Evans",
+      "order": 1,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "duration": "25:54",
+      "url": "https://www.youtube.com/watch?v=Gf0pR4_bv-o",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:HJetxNETyIg",
+      "label": "Elite Amazon Engineer: \u201cI Bu...",
+      "full_title": "Elite Amazon Engineer: \u201cI Built a $250k Side Hustle & Still Got Promoted!\u201d",
+      "order": 1,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "duration": "16:18",
+      "url": "https://www.youtube.com/watch?v=HJetxNETyIg",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:gZ2V5VtwrCw",
+      "label": "What Big Tech Still Gets WRO...",
+      "full_title": "What Big Tech Still Gets WRONG about Great Programmers | Casey Muratori",
+      "order": 1,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "duration": "19:24",
+      "url": "https://www.youtube.com/watch?v=gZ2V5VtwrCw",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:kt7HzEMHYbU",
+      "label": "I Coached a Front-End Engine...",
+      "full_title": "I Coached a Front-End Engineer to Sound Senior (Live)",
+      "order": 1,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "duration": "25:54",
+      "url": "https://www.youtube.com/watch?v=kt7HzEMHYbU",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:_aUO6n-m4pM",
+      "label": "I Coached a Security Enginee...",
+      "full_title": "I Coached a Security Engineer Through His Failed Meta Interview (Live)",
+      "order": 1,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "duration": "25:54",
+      "url": "https://www.youtube.com/watch?v=_aUO6n-m4pM",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:g8iO2Z-oJDY",
+      "label": "Why Promotions Can Quietly K...",
+      "full_title": "Why Promotions Can Quietly Kill Great Engineers",
+      "order": 1,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "duration": "21:36",
+      "url": "https://www.youtube.com/watch?v=g8iO2Z-oJDY",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:QbFgSk70Or0",
+      "label": "I Coached an AWS Engineer Se...",
+      "full_title": "I Coached an AWS Engineer Senior to Staff (Live)",
+      "order": 1,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "duration": "23:48",
+      "url": "https://www.youtube.com/watch?v=QbFgSk70Or0",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:7FKNmNYAP-4",
+      "label": "Why Even Google Engineers Ar...",
+      "full_title": "Why Even Google Engineers Are Relearning Everything | Maddy Zhang",
+      "order": 1,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "duration": "16:18",
+      "url": "https://www.youtube.com/watch?v=7FKNmNYAP-4",
+      "radius": 6,
+      "color": "#38bdf8"
+    },
+    {
+      "id": "vid:v3Pn71WQmOI",
+      "label": "I Coached an AWS Engineer Fr...",
+      "full_title": "I Coached an AWS Engineer From Mid-Level to Senior (Live)",
+      "order": 1,
+      "channel": "a_life_engineered",
+      "core": "core_software_engineering",
+      "duration": "25:54",
+      "url": "https://www.youtube.com/watch?v=v3Pn71WQmOI",
       "radius": 6,
       "color": "#38bdf8"
     }
@@ -1296,60 +2854,6 @@
       "value": 1
     },
     {
-      "source": "healthygamergg:addiction_and_behavioral_medicine",
-      "target": "vid:_N6qPEA_dGc",
-      "type": "channel_to_video",
-      "value": 1
-    },
-    {
-      "source": "healthygamergg:clinical_lecture",
-      "target": "vid:_N6qPEA_dGc",
-      "type": "channel_to_video",
-      "value": 1
-    },
-    {
-      "source": "healthygamergg:clinical_psychiatry",
-      "target": "vid:_N6qPEA_dGc",
-      "type": "channel_to_video",
-      "value": 1
-    },
-    {
-      "source": "healthygamergg:clinical_psychiatry",
-      "target": "vid:oCB-sCIKnkU",
-      "type": "channel_to_video",
-      "value": 1
-    },
-    {
-      "source": "healthygamergg:dissociation_and_derealization",
-      "target": "vid:oCB-sCIKnkU",
-      "type": "channel_to_video",
-      "value": 1
-    },
-    {
-      "source": "healthygamergg:existential_anhedonia_and_numbness",
-      "target": "vid:oCB-sCIKnkU",
-      "type": "channel_to_video",
-      "value": 1
-    },
-    {
-      "source": "healthygamergg:addiction_and_behavioral_medicine",
-      "target": "vid:VDL60Ef4qLI",
-      "type": "channel_to_video",
-      "value": 1
-    },
-    {
-      "source": "healthygamergg:clinical_lecture",
-      "target": "vid:VDL60Ef4qLI",
-      "type": "channel_to_video",
-      "value": 1
-    },
-    {
-      "source": "healthygamergg:clinical_psychiatry",
-      "target": "vid:VDL60Ef4qLI",
-      "type": "channel_to_video",
-      "value": 1
-    },
-    {
       "source": "T3_POWER_ASYMMETRY_MANIPULATION",
       "target": "theramintrees:covert_psychological_manipulation",
       "type": "unbound_to_channel",
@@ -1632,56 +3136,1184 @@
       "value": 1
     },
     {
-      "source": "theramintrees:cognitive_autonomy_and_individuation",
-      "target": "vid:vnSiJOOdo30",
+      "source": "T3_SYSTEM_ARCHITECTURE_PERFORMANCE",
+      "target": "theprimeagen:systems_programming_and_compilers",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_SYSTEM_ARCHITECTURE_PERFORMANCE",
+      "target": "theprimeagen:runtime_internals_and_garbage_collection",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_DEVELOPER_ERGONOMICS_TOOLING",
+      "target": "theprimeagen:editor_ergonomics_and_tooling",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_DEVELOPER_ERGONOMICS_TOOLING",
+      "target": "theprimeagen:modal_editing_velocity",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_SYSTEM_ARCHITECTURE_PERFORMANCE",
+      "target": "theprimeagen:concurrency_primitives_and_locks",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_SYSTEM_ARCHITECTURE_PERFORMANCE",
+      "target": "theprimeagen:system_architecture_and_scale",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_SYSTEM_ARCHITECTURE_PERFORMANCE",
+      "target": "theprimeagen:garbage_collector_stop_the_world_latency",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_DEVELOPER_ERGONOMICS_TOOLING",
+      "target": "theprimeagen:harpoon_buffer_navigation",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_SYSTEM_ARCHITECTURE_PERFORMANCE",
+      "target": "theprimeagen:type_system_soundness",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_SYSTEM_ARCHITECTURE_PERFORMANCE",
+      "target": "theprimeagen:mechanical_sympathy",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_SYSTEM_ARCHITECTURE_PERFORMANCE",
+      "target": "theprimeagen:premature_abstraction_bloat",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_SYSTEM_ARCHITECTURE_PERFORMANCE",
+      "target": "theprimeagen:flamegraph_and_profiling_audit",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_SYSTEM_ARCHITECTURE_PERFORMANCE",
+      "target": "theprimeagen:zero_cost_abstractions",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "theprimeagen:deep_dive_benchmark_build",
+      "target": "vid:x7v6SNIgJpE",
       "type": "channel_to_video",
       "value": 1
     },
     {
-      "source": "theramintrees:covert_narcissism_and_victimhood",
-      "target": "vid:vnSiJOOdo30",
+      "source": "theprimeagen:developer_culture_and_critique",
+      "target": "vid:x7v6SNIgJpE",
       "type": "channel_to_video",
       "value": 1
     },
     {
-      "source": "theramintrees:covert_psychological_manipulation",
-      "target": "vid:vnSiJOOdo30",
+      "source": "theprimeagen:editor_ergonomics_and_tooling",
+      "target": "vid:x7v6SNIgJpE",
       "type": "channel_to_video",
       "value": 1
     },
     {
-      "source": "theramintrees:buffer_response_delay",
-      "target": "vid:K4YZoNxSZNU",
+      "source": "theprimeagen:concurrency_primitives_and_locks",
+      "target": "vid:38gVgJj0eFQ",
       "type": "channel_to_video",
       "value": 1
     },
     {
-      "source": "theramintrees:covert_psychological_manipulation",
-      "target": "vid:K4YZoNxSZNU",
+      "source": "theprimeagen:deep_dive_benchmark_build",
+      "target": "vid:38gVgJj0eFQ",
       "type": "channel_to_video",
       "value": 1
     },
     {
-      "source": "theramintrees:systemic_family_therapy",
-      "target": "vid:K4YZoNxSZNU",
+      "source": "theprimeagen:developer_culture_and_critique",
+      "target": "vid:38gVgJj0eFQ",
       "type": "channel_to_video",
       "value": 1
     },
     {
-      "source": "theramintrees:cognitive_autonomy_and_individuation",
-      "target": "vid:OsAaxOFOUl4",
+      "source": "theprimeagen:deep_dive_benchmark_build",
+      "target": "vid:iKK_tY5Ph-4",
       "type": "channel_to_video",
       "value": 1
     },
     {
-      "source": "theramintrees:covert_psychological_manipulation",
-      "target": "vid:OsAaxOFOUl4",
+      "source": "theprimeagen:deep_dive_benchmark_build",
+      "target": "vid:w7i4amO_zaE",
       "type": "channel_to_video",
       "value": 1
     },
     {
-      "source": "theramintrees:dogmatic_indoctrination_and_cults",
-      "target": "vid:OsAaxOFOUl4",
+      "source": "theprimeagen:editor_ergonomics_and_tooling",
+      "target": "vid:w7i4amO_zaE",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:harpoon_buffer_navigation",
+      "target": "vid:w7i4amO_zaE",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:deep_dive_benchmark_build",
+      "target": "vid:js7_bCY6WEw",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:developer_culture_and_critique",
+      "target": "vid:js7_bCY6WEw",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:garbage_collector_stop_the_world_latency",
+      "target": "vid:js7_bCY6WEw",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:deep_dive_benchmark_build",
+      "target": "vid:js7_bCY6WEw",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:developer_culture_and_critique",
+      "target": "vid:js7_bCY6WEw",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:garbage_collector_stop_the_world_latency",
+      "target": "vid:js7_bCY6WEw",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:deep_dive_benchmark_build",
+      "target": "vid:js7_bCY6WEw",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:developer_culture_and_critique",
+      "target": "vid:js7_bCY6WEw",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:garbage_collector_stop_the_world_latency",
+      "target": "vid:js7_bCY6WEw",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:deep_dive_benchmark_build",
+      "target": "vid:GwcFxTuMYmU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:developer_culture_and_critique",
+      "target": "vid:GwcFxTuMYmU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:engineering_philosophical_rant",
+      "target": "vid:GwcFxTuMYmU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:deep_dive_benchmark_build",
+      "target": "vid:ZH3iKbEiks0",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:developer_culture_and_critique",
+      "target": "vid:ZH3iKbEiks0",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:editor_ergonomics_and_tooling",
+      "target": "vid:ZH3iKbEiks0",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:deep_dive_benchmark_build",
+      "target": "vid:FrMRyXtiJkc",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:editor_ergonomics_and_tooling",
+      "target": "vid:FrMRyXtiJkc",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:harpoon_buffer_navigation",
+      "target": "vid:FrMRyXtiJkc",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:deep_dive_benchmark_build",
+      "target": "vid:GwcFxTuMYmU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:developer_culture_and_critique",
+      "target": "vid:GwcFxTuMYmU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:engineering_philosophical_rant",
+      "target": "vid:GwcFxTuMYmU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:deep_dive_benchmark_build",
+      "target": "vid:3f9tbqSIm-E",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:editor_ergonomics_and_tooling",
+      "target": "vid:3f9tbqSIm-E",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "theprimeagen:runtime_internals_and_garbage_collection",
+      "target": "vid:3f9tbqSIm-E",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "T3_FULLSTACK_REACTIVITY_STATE",
+      "target": "web_dev_simplified:modern_css_and_layouts",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_FULLSTACK_REACTIVITY_STATE",
+      "target": "web_dev_simplified:typescript_and_type_safety",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_FULLSTACK_REACTIVITY_STATE",
+      "target": "web_dev_simplified:frontend_reactivity_and_frameworks",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_FULLSTACK_REACTIVITY_STATE",
+      "target": "web_dev_simplified:backend_and_database_integration",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_FULLSTACK_REACTIVITY_STATE",
+      "target": "web_dev_simplified:form_validation_and_schema_parsing",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_FULLSTACK_REACTIVITY_STATE",
+      "target": "web_dev_simplified:ai_application_engineering",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_FULLSTACK_REACTIVITY_STATE",
+      "target": "web_dev_simplified:css_layout_algorithms",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_FULLSTACK_REACTIVITY_STATE",
+      "target": "web_dev_simplified:unnecessary_re_renders",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_FULLSTACK_REACTIVITY_STATE",
+      "target": "web_dev_simplified:custom_hook_and_state_encapsulation",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_FULLSTACK_REACTIVITY_STATE",
+      "target": "web_dev_simplified:declarative_vs_imperative_ui",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_FULLSTACK_REACTIVITY_STATE",
+      "target": "web_dev_simplified:server_components_and_isomorphic_rendering",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_FULLSTACK_REACTIVITY_STATE",
+      "target": "web_dev_simplified:rag_chunking_and_embedding_pipeline",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_FULLSTACK_REACTIVITY_STATE",
+      "target": "web_dev_simplified:prop_drilling_and_state_spaghetti",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "web_dev_simplified:ai_application_engineering",
+      "target": "vid:1mvlBz6pj1I",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:backend_and_database_integration",
+      "target": "vid:1mvlBz6pj1I",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:css_specificity_and_cascade_wars",
+      "target": "vid:1mvlBz6pj1I",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:backend_and_database_integration",
+      "target": "vid:9aTRnV6g0eQ",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:css_layout_algorithms",
+      "target": "vid:9aTRnV6g0eQ",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:custom_hook_and_state_encapsulation",
+      "target": "vid:9aTRnV6g0eQ",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:backend_and_database_integration",
+      "target": "vid:U_D14T5TYuk",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:feature_deep_dive",
+      "target": "vid:U_D14T5TYuk",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:form_validation_and_schema_parsing",
+      "target": "vid:U_D14T5TYuk",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:backend_and_database_integration",
+      "target": "vid:BY63sGoGXq0",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:css_layout_algorithms",
+      "target": "vid:BY63sGoGXq0",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:form_validation_and_schema_parsing",
+      "target": "vid:BY63sGoGXq0",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:backend_and_database_integration",
+      "target": "vid:W7bZA9Fj6SA",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:frontend_reactivity_and_frameworks",
+      "target": "vid:W7bZA9Fj6SA",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:modern_css_and_layouts",
+      "target": "vid:W7bZA9Fj6SA",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:ai_application_engineering",
+      "target": "vid:UngVdAsQEiU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:backend_and_database_integration",
+      "target": "vid:UngVdAsQEiU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:feature_deep_dive",
+      "target": "vid:UngVdAsQEiU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:backend_and_database_integration",
+      "target": "vid:NykJhYdBoqU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:frontend_reactivity_and_frameworks",
+      "target": "vid:NykJhYdBoqU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:modern_css_and_layouts",
+      "target": "vid:NykJhYdBoqU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:ai_application_engineering",
+      "target": "vid:7Z7ID5BbZU4",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:backend_and_database_integration",
+      "target": "vid:7Z7ID5BbZU4",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:frontend_reactivity_and_frameworks",
+      "target": "vid:7Z7ID5BbZU4",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:backend_and_database_integration",
+      "target": "vid:ovnyeq-Xxrc",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:declarative_vs_imperative_ui",
+      "target": "vid:ovnyeq-Xxrc",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:form_validation_and_schema_parsing",
+      "target": "vid:ovnyeq-Xxrc",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:custom_hook_and_state_encapsulation",
+      "target": "vid:cxQLKsktiBA",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:declarative_vs_imperative_ui",
+      "target": "vid:cxQLKsktiBA",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:feature_deep_dive",
+      "target": "vid:cxQLKsktiBA",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:feature_deep_dive",
+      "target": "vid:Y7nhXvJ7yH8",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:frontend_reactivity_and_frameworks",
+      "target": "vid:Y7nhXvJ7yH8",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:modern_css_and_layouts",
+      "target": "vid:Y7nhXvJ7yH8",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:ai_application_engineering",
+      "target": "vid:DogTO1jjFtI",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:feature_deep_dive",
+      "target": "vid:DogTO1jjFtI",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "web_dev_simplified:frontend_reactivity_and_frameworks",
+      "target": "vid:DogTO1jjFtI",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES",
+      "target": "freecodecamp:machine_learning_and_data_science",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES",
+      "target": "freecodecamp:containerization_and_orchestration",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES",
+      "target": "freecodecamp:relational_normalization_and_acid",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES",
+      "target": "freecodecamp:computer_science_fundamentals",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES",
+      "target": "freecodecamp:cloud_devops_and_infrastructure",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES",
+      "target": "freecodecamp:cybersecurity_and_ethical_hacking",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES",
+      "target": "freecodecamp:transformer_attention_mechanisms",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES",
+      "target": "freecodecamp:graph_and_tree_traversals",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES",
+      "target": "freecodecamp:asymptotic_algorithmic_complexity",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES",
+      "target": "freecodecamp:memoization_and_tabulation",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES",
+      "target": "freecodecamp:combinatorial_algorithm_exhaustion",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES",
+      "target": "freecodecamp:two_pointer_and_sliding_window",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_NEURODIVERGENCE_EXECUTIVE_FUNCTION",
+      "target": "freecodecamp:tutorial_hell_and_passive_consumption",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "freecodecamp:cloud_devops_and_infrastructure",
+      "target": "vid:Zy7EXDONlTY",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:containerization_and_orchestration",
+      "target": "vid:Zy7EXDONlTY",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:cybersecurity_and_ethical_hacking",
+      "target": "vid:Zy7EXDONlTY",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:cloud_devops_and_infrastructure",
+      "target": "vid:reDRM0tqhNs",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:computer_science_fundamentals",
+      "target": "vid:reDRM0tqhNs",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:containerization_and_orchestration",
+      "target": "vid:reDRM0tqhNs",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:cloud_devops_and_infrastructure",
+      "target": "vid:eDqVqVyCo6k",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:combinatorial_algorithm_exhaustion",
+      "target": "vid:eDqVqVyCo6k",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:computer_science_fundamentals",
+      "target": "vid:eDqVqVyCo6k",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:cloud_devops_and_infrastructure",
+      "target": "vid:oDOw5tB3Udw",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:computer_science_fundamentals",
+      "target": "vid:oDOw5tB3Udw",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:containerization_and_orchestration",
+      "target": "vid:oDOw5tB3Udw",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:computer_science_fundamentals",
+      "target": "vid:XMnRj4ooYz8",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:containerization_and_orchestration",
+      "target": "vid:XMnRj4ooYz8",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:infrastructure_misconfiguration",
+      "target": "vid:XMnRj4ooYz8",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:containerization_and_orchestration",
+      "target": "vid:4GtVeULrNks",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:cybersecurity_and_ethical_hacking",
+      "target": "vid:4GtVeULrNks",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:mobile_and_cross_platform_dev",
+      "target": "vid:4GtVeULrNks",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:cloud_devops_and_infrastructure",
+      "target": "vid:KgTW0xfyr9A",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:computer_science_fundamentals",
+      "target": "vid:KgTW0xfyr9A",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:containerization_and_orchestration",
+      "target": "vid:KgTW0xfyr9A",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:cloud_devops_and_infrastructure",
+      "target": "vid:Sz7SImkdIpo",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:containerization_and_orchestration",
+      "target": "vid:Sz7SImkdIpo",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:cybersecurity_and_ethical_hacking",
+      "target": "vid:Sz7SImkdIpo",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:cloud_devops_and_infrastructure",
+      "target": "vid:iqRcGCah0Kw",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:containerization_and_orchestration",
+      "target": "vid:iqRcGCah0Kw",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:cybersecurity_and_ethical_hacking",
+      "target": "vid:iqRcGCah0Kw",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:cloud_devops_and_infrastructure",
+      "target": "vid:b-P5ZQ1NxxE",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:containerization_and_orchestration",
+      "target": "vid:b-P5ZQ1NxxE",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:cybersecurity_and_ethical_hacking",
+      "target": "vid:b-P5ZQ1NxxE",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:cloud_devops_and_infrastructure",
+      "target": "vid:AZDSpS5v57w",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:computer_science_fundamentals",
+      "target": "vid:AZDSpS5v57w",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:containerization_and_orchestration",
+      "target": "vid:AZDSpS5v57w",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:cloud_devops_and_infrastructure",
+      "target": "vid:QpR4QEv5Urk",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:computer_science_fundamentals",
+      "target": "vid:QpR4QEv5Urk",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "freecodecamp:containerization_and_orchestration",
+      "target": "vid:QpR4QEv5Urk",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "T3_ENGINEERING_LEADERSHIP_LEVERAGE",
+      "target": "a_life_engineered:staff_plus_and_executive_leadership",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ENGINEERING_LEADERSHIP_LEVERAGE",
+      "target": "a_life_engineered:career_progression_and_promotion",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ENGINEERING_LEADERSHIP_LEVERAGE",
+      "target": "a_life_engineered:system_design_and_architecture_reviews",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ENGINEERING_LEADERSHIP_LEVERAGE",
+      "target": "a_life_engineered:sponsorship_vs_mentorship",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ENGINEERING_LEADERSHIP_LEVERAGE",
+      "target": "a_life_engineered:salary_negotiation_and_total_comp",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ENGINEERING_LEADERSHIP_LEVERAGE",
+      "target": "a_life_engineered:workplace_politics_and_influence",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ENGINEERING_LEADERSHIP_LEVERAGE",
+      "target": "a_life_engineered:negotiation_anchoring_and_batna",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ENGINEERING_LEADERSHIP_LEVERAGE",
+      "target": "a_life_engineered:skip_level_alignment_meeting",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_SHAME_GUILT_EGO_PRESERVATION",
+      "target": "a_life_engineered:terminal_senior_l5_plateau",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ENGINEERING_LEADERSHIP_LEVERAGE",
+      "target": "a_life_engineered:business_impact_over_code_output",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ENGINEERING_LEADERSHIP_LEVERAGE",
+      "target": "a_life_engineered:burnout_from_hero_mode",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ENGINEERING_LEADERSHIP_LEVERAGE",
+      "target": "a_life_engineered:the_l6_staff_archetype",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_SHAME_GUILT_EGO_PRESERVATION",
+      "target": "a_life_engineered:lowballed_offer_fear",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ENGINEERING_LEADERSHIP_LEVERAGE",
+      "target": "a_life_engineered:strategic_scope_expansion",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ENGINEERING_LEADERSHIP_LEVERAGE",
+      "target": "a_life_engineered:competing_offer_leverage_play",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "T3_ENGINEERING_LEADERSHIP_LEVERAGE",
+      "target": "a_life_engineered:one_page_brag_document",
+      "type": "unbound_to_channel",
+      "value": 2
+    },
+    {
+      "source": "a_life_engineered:career_progression_and_promotion",
+      "target": "vid:suZ2Gt6i8do",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:career_strategy_masterclass",
+      "target": "vid:suZ2Gt6i8do",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:executive_interview_mentorship",
+      "target": "vid:suZ2Gt6i8do",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:burnout_from_hero_mode",
+      "target": "vid:q3ca41YIZjc",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:career_progression_and_promotion",
+      "target": "vid:q3ca41YIZjc",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:career_strategy_masterclass",
+      "target": "vid:q3ca41YIZjc",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:career_progression_and_promotion",
+      "target": "vid:2_HxguGi3Ek",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:career_strategy_masterclass",
+      "target": "vid:2_HxguGi3Ek",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:executive_interview_mentorship",
+      "target": "vid:2_HxguGi3Ek",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:business_impact_over_code_output",
+      "target": "vid:Gf0pR4_bv-o",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:career_progression_and_promotion",
+      "target": "vid:Gf0pR4_bv-o",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:executive_interview_mentorship",
+      "target": "vid:Gf0pR4_bv-o",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:burnout_from_hero_mode",
+      "target": "vid:HJetxNETyIg",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:business_impact_over_code_output",
+      "target": "vid:HJetxNETyIg",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:career_progression_and_promotion",
+      "target": "vid:HJetxNETyIg",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:executive_interview_mentorship",
+      "target": "vid:gZ2V5VtwrCw",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:lowballed_offer_fear",
+      "target": "vid:gZ2V5VtwrCw",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:salary_negotiation_and_total_comp",
+      "target": "vid:gZ2V5VtwrCw",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:burnout_from_hero_mode",
+      "target": "vid:kt7HzEMHYbU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:business_impact_over_code_output",
+      "target": "vid:kt7HzEMHYbU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:career_progression_and_promotion",
+      "target": "vid:kt7HzEMHYbU",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:career_strategy_masterclass",
+      "target": "vid:_aUO6n-m4pM",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:executive_interview_mentorship",
+      "target": "vid:_aUO6n-m4pM",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:salary_negotiation_and_total_comp",
+      "target": "vid:_aUO6n-m4pM",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:career_progression_and_promotion",
+      "target": "vid:g8iO2Z-oJDY",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:career_strategy_masterclass",
+      "target": "vid:g8iO2Z-oJDY",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:executive_interview_mentorship",
+      "target": "vid:g8iO2Z-oJDY",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:career_progression_and_promotion",
+      "target": "vid:QbFgSk70Or0",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:career_strategy_masterclass",
+      "target": "vid:QbFgSk70Or0",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:executive_interview_mentorship",
+      "target": "vid:QbFgSk70Or0",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:career_progression_and_promotion",
+      "target": "vid:7FKNmNYAP-4",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:executive_interview_mentorship",
+      "target": "vid:7FKNmNYAP-4",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:salary_negotiation_and_total_comp",
+      "target": "vid:7FKNmNYAP-4",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:career_progression_and_promotion",
+      "target": "vid:v3Pn71WQmOI",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:career_strategy_masterclass",
+      "target": "vid:v3Pn71WQmOI",
+      "type": "channel_to_video",
+      "value": 1
+    },
+    {
+      "source": "a_life_engineered:executive_interview_mentorship",
+      "target": "vid:v3Pn71WQmOI",
       "type": "channel_to_video",
       "value": 1
     }

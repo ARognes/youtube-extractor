@@ -1,0 +1,30 @@
+video_id: qsBfyUzZhTc
+title: 'How to Build a Career in Tech: Cassidy Williams (@cassidoo) Connects the Dots'
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=qsBfyUzZhTc
+duration: '45:00'
+word_count: 11356
+first_order_tags:
+- tag: vtag_asymptotic_algorithmic_complexity
+  bound_second_order: asymptotic_algorithmic_complexity
+  timestamp: '14:09'
+  seconds: 849.1
+  context: And and I truly think that I'm decent at interviewing not because I'm perfect
+    at getting merge sort in the proper space and time complexity,...
+second_order_tags:
+- asymptotic_algorithmic_complexity
+- cloud_devops_and_infrastructure
+- computer_science_fundamentals
+- machine_learning_and_data_science
+- visual_algorithm_walkthrough
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- love seeing
+- white house
+- over time
+- thank much
+- computer science
+- junior year
+summary_hook: Explores computer_science_fundamentals, cloud_devops_and_infrastructure,
+  machine_learning_and_data_science.

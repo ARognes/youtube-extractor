@@ -1,0 +1,28 @@
+video_id: tYQyh1tjSFc
+title: am I becoming a real Game Dev?
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=tYQyh1tjSFc
+duration: '42:00'
+word_count: 2900
+first_order_tags:
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: 01:43
+  seconds: 103.3
+  context: There we go, we have a nice little slow motion right there.
+second_order_tags:
+- modal_editing_velocity
+- runtime_internals_and_garbage_collection
+- systems_programming_and_compilers
+third_order_tags:
+- T3_DEVELOPER_ERGONOMICS_TOOLING
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- being able
+- character selection
+- game mode
+- stack trace
+- update been
+- stupid bats
+summary_hook: Explores systems_programming_and_compilers, runtime_internals_and_garbage_collection,
+  modal_editing_velocity.

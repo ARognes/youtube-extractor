@@ -7,6 +7,10 @@ Compiles a 3-Tier Tagging Hierarchy from `formatted_transcripts/`:
 2. Second-Order Tags: Channel-Bound (creator thematic pillars and vocabulary)
 3. Third-Order Tags: Unbound / Global (universal conceptual nodes across all channels)
 
+Knowledge Cores Supported:
+- Cognitive Psychology & Contemplative Science (HealthyGamerGG, TheraminTrees)
+- Software Engineering & Systems (ThePrimeagen, Web Dev Simplified, freeCodeCamp.org, A Life Engineered)
+
 Exports:
 - `tag_silo/<channel_slug>/videos/<video_id>.yaml` (Per-video tag records)
 - `tag_silo/<channel_slug>/channel_taxonomy.yaml` (Second-order channel taxonomy)
@@ -40,7 +44,7 @@ def str_representer(dumper, data):
 
 CleanDumper.add_representer(str, str_representer)
 
-SCRATCH_DIR = '/Users/austinrognes/Documents/Projects/media-extractor/youtube-extractor'
+SCRATCH_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FORMATTED_DIR = os.path.join(SCRATCH_DIR, 'formatted_transcripts')
 TAG_SILO_ROOT = os.path.join(SCRATCH_DIR, 'tag_silo')
 
@@ -73,49 +77,198 @@ THERAMINTREES_TITLES = {
     "4D5tZoF8cC4": "impersonation & boundary defense | direct channel memo"
 }
 
-# Third-Order Global Unbound Tag Ontologies
+# ==============================================================================
+# Third-Order Global Unbound Tag Ontologies (Cross-Core Meta Taxonomy)
+# ==============================================================================
 THIRD_ORDER_UNBOUND_ONTOLOGY = {
     "T3_AUTONOMY_SOVEREIGNTY": {
         "name": "Autonomy & Cognitive Sovereignty",
+        "core": "core_psychology",
         "category": "Foundational Epistemology",
         "description": "The fundamental capacity of an individual for self-governance, independent thought, and resistance to external psychological coercion.",
-        "second_order_mapping": ["cognitive_autonomy_and_individuation", "relational_ethics_and_boundaries", "boundary_assertion_without_defense"]
+        "second_order_mapping": [
+            "cognitive_autonomy_and_individuation",
+            "relational_ethics_and_boundaries",
+            "boundary_assertion_without_defense"
+        ]
     },
     "T3_EMOTIONAL_METABOLISM": {
         "name": "Emotional Digestion & Somatic Metabolism",
+        "core": "core_psychology",
         "category": "Somatic & Contemplative Science",
         "description": "The physiological processing of undigested affective distress (Samskaras) without cognitive rationalization or behavioral avoidance.",
-        "second_order_mapping": ["samskara_emotional_memory", "somatic_emotional_digestion", "dissociation_and_derealization", "alexithymia_emotional_disconnect"]
+        "second_order_mapping": [
+            "samskara_emotional_memory",
+            "somatic_emotional_digestion",
+            "dissociation_and_derealization",
+            "alexithymia_emotional_disconnect"
+        ]
     },
     "T3_POWER_ASYMMETRY_MANIPULATION": {
         "name": "Power Asymmetry & Covert Exploitation",
+        "core": "core_psychology",
         "category": "Interpersonal & Systemic Dynamics",
         "description": "Communicative and relational structures where authority or emotional leverage is abused to enforce dependency, compliance, or reality distortion.",
-        "second_order_mapping": ["covert_psychological_manipulation", "double_bind_communicative_trap", "covert_narcissism_and_victimhood", "infantilisation_forced_dependency", "gaslighting_reality_denial", "fog_fear_obligation_guilt"]
+        "second_order_mapping": [
+            "covert_psychological_manipulation",
+            "double_bind_communicative_trap",
+            "covert_narcissism_and_victimhood",
+            "infantilisation_forced_dependency",
+            "gaslighting_reality_denial",
+            "fog_fear_obligation_guilt"
+        ]
     },
     "T3_NEURODIVERGENCE_EXECUTIVE_FUNCTION": {
         "name": "Neurodivergence & Dopaminergic Regulation",
+        "core": "cross_core",
         "category": "Neurobiology & Executive Function",
         "description": "Brain circuitry mechanics governing dopamine baselines, attention elasticity, task initiation friction, and burnout recovery.",
-        "second_order_mapping": ["neurodivergence_and_adhd", "dopamine_baseline_and_receptors", "task_initiation_and_procrastination", "two_minute_frictionless_entry", "gifted_kid_burnout"]
+        "second_order_mapping": [
+            "neurodivergence_and_adhd",
+            "dopamine_baseline_and_receptors",
+            "task_initiation_and_procrastination",
+            "two_minute_frictionless_entry",
+            "gifted_kid_burnout",
+            "tutorial_hell_and_passive_consumption"
+        ]
     },
     "T3_ATTACHMENT_RELATIONAL_BONDING": {
         "name": "Attachment Systems & Relational Projection",
+        "core": "core_psychology",
         "category": "Developmental & Relational Psychology",
         "description": "Early mammalian attachment security, relational attunement, romantic pedestal projection, and the trauma of emotional abandonment.",
-        "second_order_mapping": ["attachment_styles_anxious_avoidant", "limerence_and_pedestals", "unrequited_love_and_friendzone", "weaponised_and_compelled_love", "family_estrangement_and_grief"]
+        "second_order_mapping": [
+            "attachment_styles_anxious_avoidant",
+            "limerence_and_pedestals",
+            "unrequited_love_and_friendzone",
+            "weaponised_and_compelled_love",
+            "family_estrangement_and_grief"
+        ]
     },
     "T3_SHAME_GUILT_EGO_PRESERVATION": {
         "name": "Ego Defense & Weaponized Conscience",
+        "core": "cross_core",
         "category": "Identity & Moral Psychology",
         "description": "The deconstruction of false guilt, social compliance reflexes, ego identity (Ahamkara), and the recovery of authentic self-worth.",
-        "second_order_mapping": ["ahamkara_ego_identity", "toxic_guilt_and_false_responsibility", "compulsive_people_pleasing_appeasement", "decoupling_worth_from_achievement", "imposter_syndrome"]
+        "second_order_mapping": [
+            "ahamkara_ego_identity",
+            "toxic_guilt_and_false_responsibility",
+            "compulsive_people_pleasing_appeasement",
+            "decoupling_worth_from_achievement",
+            "imposter_syndrome",
+            "lowballed_offer_fear",
+            "terminal_senior_l5_plateau"
+        ]
+    },
+    "T3_SYSTEM_ARCHITECTURE_PERFORMANCE": {
+        "name": "Low-Level Systems & Runtime Performance",
+        "core": "core_software_engineering",
+        "category": "Systems & Computer Architecture",
+        "description": "Memory models, hardware cache alignment, asynchronous execution primitives, and zero-cost abstraction design in modern systems programming.",
+        "second_order_mapping": [
+            "systems_programming_and_compilers",
+            "runtime_internals_and_garbage_collection",
+            "system_architecture_and_scale",
+            "cache_locality_and_data_oriented_design",
+            "zero_cost_abstractions",
+            "type_system_soundness",
+            "concurrency_primitives_and_locks",
+            "mechanical_sympathy",
+            "flamegraph_and_profiling_audit",
+            "data_oriented_restructuring",
+            "premature_abstraction_bloat",
+            "garbage_collector_stop_the_world_latency"
+        ]
+    },
+    "T3_DEVELOPER_ERGONOMICS_TOOLING": {
+        "name": "Developer Ergonomics & Modal Workflow",
+        "core": "core_software_engineering",
+        "category": "Ergonomics & Productivity",
+        "description": "Modal text manipulation (Vim/Neovim), Language Server Protocol (LSP) integrations, terminal multiplexing, and rapid tight feedback loops.",
+        "second_order_mapping": [
+            "editor_ergonomics_and_tooling",
+            "modal_editing_velocity",
+            "harpoon_buffer_navigation",
+            "slow_developer_feedback_loops",
+            "rebuilding_from_scratch_first_principles"
+        ]
+    },
+    "T3_FULLSTACK_REACTIVITY_STATE": {
+        "name": "Fullstack Reactivity & Component Architecture",
+        "core": "core_software_engineering",
+        "category": "Web Architecture & UX Engineering",
+        "description": "Declarative component lifecycles, unidirectional state management, React Server Components (RSC), isomorphic rendering, and modern CSS layout algorithms.",
+        "second_order_mapping": [
+            "frontend_reactivity_and_frameworks",
+            "modern_css_and_layouts",
+            "typescript_and_type_safety",
+            "backend_and_database_integration",
+            "ai_application_engineering",
+            "custom_hook_and_state_encapsulation",
+            "server_components_and_isomorphic_rendering",
+            "declarative_vs_imperative_ui",
+            "form_validation_and_schema_parsing",
+            "css_layout_algorithms",
+            "unnecessary_re_renders",
+            "prop_drilling_and_state_spaghetti",
+            "compound_component_pattern",
+            "rag_chunking_and_embedding_pipeline"
+        ]
+    },
+    "T3_ENGINEERING_LEADERSHIP_LEVERAGE": {
+        "name": "Staff+ Leadership, Promotion & Leverage",
+        "core": "core_software_engineering",
+        "category": "Organizational & Career Leverage",
+        "description": "Staff/Principal engineering scope, executive stakeholder alignment, salary negotiation dynamics, and technical leverage.",
+        "second_order_mapping": [
+            "staff_plus_and_executive_leadership",
+            "career_progression_and_promotion",
+            "salary_negotiation_and_total_comp",
+            "system_design_and_architecture_reviews",
+            "workplace_politics_and_influence",
+            "business_impact_over_code_output",
+            "sponsorship_vs_mentorship",
+            "the_l6_staff_archetype",
+            "strategic_scope_expansion",
+            "negotiation_anchoring_and_batna",
+            "invisible_glue_work_undervaluation",
+            "burnout_from_hero_mode",
+            "one_page_brag_document",
+            "skip_level_alignment_meeting",
+            "competing_offer_leverage_play",
+            "rfc_design_consensus_sprint"
+        ]
+    },
+    "T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES": {
+        "name": "Algorithmic Complexity & Foundations",
+        "core": "core_software_engineering",
+        "category": "Theoretical Computer Science",
+        "description": "Asymptotic analysis, tree/graph traversal mechanics, dynamic programming subproblem caching, and distributed data structures.",
+        "second_order_mapping": [
+            "computer_science_fundamentals",
+            "cloud_devops_and_infrastructure",
+            "machine_learning_and_data_science",
+            "cybersecurity_and_ethical_hacking",
+            "asymptotic_algorithmic_complexity",
+            "graph_and_tree_traversals",
+            "containerization_and_orchestration",
+            "transformer_attention_mechanisms",
+            "relational_normalization_and_acid",
+            "combinatorial_algorithm_exhaustion",
+            "two_pointer_and_sliding_window",
+            "memoization_and_tabulation",
+            "dockerfile_multistage_build"
+        ]
     }
 }
 
-# Second-Order Channel Lexicons
+# ==============================================================================
+# Second-Order Channel Lexicons (Channel-Isolated Thematic Taxonomies)
+# ==============================================================================
 SECOND_ORDER_LEXICONS = {
     "healthygamergg": {
+        "core": "core_psychology",
+        "color": "#10b981",
         "domains": {
             "clinical_psychiatry": ["psychiatry", "psychiatrist", "diagnosis", "dsm", "antidepressant", "medication", "clinical", "disorder", "therapy", "therapist", "did", "derealization", "bipolar", "schizoid"],
             "eastern_contemplative_psychology": ["sanskrit", "ayurveda", "vedanta", "monk", "monastery", "samkhya", "karma", "dharma", "yoga", "meditation", "pranayama", "chakra", "ashram", "guru", "mindfulness", "hinduism", "buddhism"],
@@ -162,6 +315,8 @@ SECOND_ORDER_LEXICONS = {
         }
     },
     "theramintrees": {
+        "core": "core_psychology",
+        "color": "#f59e0b",
         "domains": {
             "systemic_family_therapy": ["family", "parent", "mother", "father", "childhood", "household", "sibling", "upbringing", "dynasty", "семей", "родител", "майка", "баща"],
             "covert_psychological_manipulation": ["manipulation", "manipulative", "covert", "control", "abusive", "predatory", "leverage", "tactics", "exploit", "манипул", "злоупотреб", "насил"],
@@ -199,6 +354,147 @@ SECOND_ORDER_LEXICONS = {
             "relationship_autopsy": ["relationship autopsy", "retrospective", "case study", "in part one", "in part two", "losing", "аутопсия"],
             "philosophical_deconstruction": ["deconstruction", "critique", "examining the dogma", "structural breakdown", "logical fallacy", "деконструкция"],
             "channel_editorial_memo": ["channel note", "memo", "update", "direct message to viewers", "alert"]
+        }
+    },
+    "theprimeagen": {
+        "core": "core_software_engineering",
+        "color": "#ef4444",
+        "domains": {
+            "systems_programming_and_compilers": ["rust", "zig", "odin", "c++", "c language", "compiler", "llvm", "assembly", "memory safety", "borrow checker", "pointers", "segmentation fault", "libc"],
+            "editor_ergonomics_and_tooling": ["neovim", "vim", "tmux", "terminal", "alacritty", "kitty", "lsp", "treesitter", "harpoon", "keybindings", "modal editing", "lua", "init.lua", "remap"],
+            "runtime_internals_and_garbage_collection": ["v8", "javascript engine", "garbage collection", "jit", "heap", "stack", "call stack", "event loop", "node.js", "bun", "deno", "libuv"],
+            "system_architecture_and_scale": ["distributed systems", "microservices", "monolith", "latency", "throughput", "concurrency", "threads", "async", "tokio", "database indexing", "redis"],
+            "developer_culture_and_critique": ["code review", "software engineering", "tech lead", "junior vs senior", "netflix", "interview", "algorithm", "leet code", "clean code", "senior engineer"]
+        },
+        "concepts": {
+            "cache_locality_and_data_oriented_design": ["cache locality", "cache line", "cpu cache", "l1 cache", "data-oriented", "dod", "memory layout", "struct of arrays", "array of structs", "branch prediction", "instruction cache"],
+            "modal_editing_velocity": ["modal editing", "vim motions", "motion", "normal mode", "insert mode", "harpoon", "buffer", "telescope", "navigation", "keystroke"],
+            "zero_cost_abstractions": ["zero cost", "zero-cost", "abstraction", "compile time", "monomorphization", "macros", "inlining", "codegen", "generics"],
+            "type_system_soundness": ["type system", "strong typing", "type safety", "generics", "trait", "interface", "runtime safety", "undefined behavior", "soundness"],
+            "concurrency_primitives_and_locks": ["mutex", "atomic", "rwlock", "deadlock", "race condition", "threads", "channel", "mpsc", "actor model", "thread safe"],
+            "mechanical_sympathy": ["mechanical sympathy", "hardware", "cpu instructions", "simd", "registers", "syscall", "io bound", "cpu bound", "context switch"]
+        },
+        "pain_points": {
+            "premature_abstraction_bloat": ["clean code", "over engineering", "abstraction", "oop", "design pattern", "inheritance", "solid principles", "bloat", "unnecessary complexity", "class hierarchy"],
+            "garbage_collector_stop_the_world_latency": ["garbage collector", "gc pause", "stop the world", "memory leak", "memory pressure", "allocations", "churn", "gc pressure"],
+            "slow_developer_feedback_loops": ["slow test", "slow build", "compile times", "ci cd lag", "sluggish ide", "lsp lag", "slow pipeline"],
+            "framework_churn_fatigue": ["framework fatigue", "new js framework", "flavor of the month", "trend chasing", "deprecated", "churn"],
+            "interview_leetcode_disconnect": ["leetcode", "coding interview", "whiteboarding", "reverse binary tree", "useless questions", "grind"]
+        },
+        "actionable_protocols": {
+            "flamegraph_and_profiling_audit": ["flamegraph", "profiler", "perf", "valgrind", "benchmark", "criterion", "hyperfine", "profiling", "cpu profile"],
+            "harpoon_buffer_navigation": ["harpoon", "jump buffer", "file navigation", "quickfix list", "fast editing", "fuzzy find"],
+            "data_oriented_restructuring": ["soa", "data layout", "flattening data", "continuous memory", "linear scan", "cache friendly"],
+            "rebuilding_from_scratch_first_principles": ["build from scratch", "first principles", "own engine", "handmade", "raw primitives", "from the ground up"]
+        },
+        "modalities": {
+            "live_code_roast_critique": ["reaction", "roast", "reviewing", "drama", "reddit", "tier list", "prime reacts"],
+            "deep_dive_benchmark_build": ["building", "coding", "live stream", "full tutorial", "from scratch", "deep dive", "implementing"],
+            "engineering_philosophical_rant": ["hot take", "truth about", "why i left", "stop using", "the problem with", "rant"]
+        }
+    },
+    "web_dev_simplified": {
+        "core": "core_software_engineering",
+        "color": "#3b82f6",
+        "domains": {
+            "frontend_reactivity_and_frameworks": ["react", "next.js", "vue", "svelte", "solidjs", "jsx", "tsx", "component", "virtual dom", "re-render", "props", "hook"],
+            "modern_css_and_layouts": ["css", "flexbox", "grid", "container queries", "tailwind", "responsive design", "animations", "subgrid", "aspect-ratio", "variables", "css module"],
+            "typescript_and_type_safety": ["typescript", "generics", "type inference", "union type", "zod", "utility types", "strict mode", "ts-node", "interface vs type"],
+            "backend_and_database_integration": ["node", "express", "prisma", "drizzle", "postgresql", "mongodb", "sql", "api routes", "serverless", "rest", "trpc", "authentication"],
+            "ai_application_engineering": ["rag", "ai agent", "langchain", "embeddings", "vector database", "openai", "claude", "prompt engineering", "llm", "semantic search"]
+        },
+        "concepts": {
+            "custom_hook_and_state_encapsulation": ["custom hook", "useeffect", "usestate", "usememo", "usecallback", "usereducer", "context api", "derived state", "state management"],
+            "server_components_and_isomorphic_rendering": ["rsc", "server components", "client components", "ssr", "ssg", "hydration", "streaming ssr", "suspense", "server actions"],
+            "declarative_vs_imperative_ui": ["declarative", "imperative", "data flow", "unidirectional", "props", "event handler", "state driven"],
+            "form_validation_and_schema_parsing": ["zod", "form validation", "react hook form", "controlled input", "uncontrolled input", "form action", "parse"],
+            "css_layout_algorithms": ["flexbox", "css grid", "auto-fit", "auto-fill", "minmax", "clamp", "media query", "fr unit"]
+        },
+        "pain_points": {
+            "unnecessary_re_renders": ["re-render", "infinite loop", "stale closure", "dependency array", "memory leak", "performance lag", "unnecessary render"],
+            "prop_drilling_and_state_spaghetti": ["prop drilling", "global state mess", "over-complicating state", "redundant state", "context hell"],
+            "css_specificity_and_cascade_wars": ["css specificity", "important tag", "broken layout", "z-index issues", "overflow hidden", "cascade"],
+            "ai_hallucination_and_unsafe_execution": ["hallucination", "unsafe agent", "rag context overflow", "vector search inaccuracy", "injection"]
+        },
+        "actionable_protocols": {
+            "compound_component_pattern": ["compound component", "slot pattern", "render props", "polymorphic component", "component composition"],
+            "use_sync_external_store_migration": ["usesyncexternalstore", "subscribe", "store selector", "state management", "external store"],
+            "clamp_fluid_responsive_system": ["clamp", "fluid typography", "fluid spacing", "responsive typography", "clamp formula"],
+            "rag_chunking_and_embedding_pipeline": ["rag pipeline", "vector store", "chunking", "semantic search", "retrieval", "pinecone", "chromadb"]
+        },
+        "modalities": {
+            "practical_project_build": ["how to build", "full course", "project", "step by step", "crash course", "from scratch", "clone"],
+            "pattern_vs_antipattern_comparison": ["stop doing this", "do this instead", "cleanest way", "mistakes", "wrong way", "vs", "better way"],
+            "feature_deep_dive": ["deep dive", "explained in 10 minutes", "everything you need to know", "cheat sheet", "guide"]
+        }
+    },
+    "freecodecamp": {
+        "core": "core_software_engineering",
+        "color": "#06b6d4",
+        "domains": {
+            "computer_science_fundamentals": ["data structures", "algorithms", "big o", "graph theory", "trees", "sorting", "binary search", "dynamic programming", "recursion", "complexity"],
+            "cloud_devops_and_infrastructure": ["docker", "kubernetes", "aws", "gcp", "azure", "linux", "bash", "networking", "ci/cd", "terraform", "nginx", "dns", "ip address"],
+            "machine_learning_and_data_science": ["machine learning", "deep learning", "neural network", "transformer", "pytorch", "tensorflow", "python", "pandas", "numpy", "matplotlib", "scikit-learn"],
+            "mobile_and_cross_platform_dev": ["flutter", "react native", "swift", "kotlin", "android", "ios", "dart", "xcode"],
+            "cybersecurity_and_ethical_hacking": ["cybersecurity", "ethical hacking", "penetration testing", "cryptography", "burp suite", "wireshark", "security", "vulnerability", "sql injection"]
+        },
+        "concepts": {
+            "asymptotic_algorithmic_complexity": ["time complexity", "space complexity", "big o notation", "o(n)", "o(log n)", "o(n^2)", "constant time", "linear time", "polynomial"],
+            "graph_and_tree_traversals": ["bfs", "dfs", "breadth first", "depth first", "binary tree", "dijkstra", "a* algorithm", "adjacency list", "binary search tree", "avl tree"],
+            "containerization_and_orchestration": ["container", "dockerfile", "image", "volume", "pod", "kubernetes cluster", "service mesh", "orchestration", "ingress"],
+            "transformer_attention_mechanisms": ["attention is all you need", "self-attention", "transformer architecture", "tokens", "embedding layer", "multi-head attention", "encoder decoder"],
+            "relational_normalization_and_acid": ["acid properties", "normalization", "sql schema", "foreign key", "primary key", "transactions", "index", "b-tree"]
+        },
+        "pain_points": {
+            "tutorial_hell_and_passive_consumption": ["tutorial hell", "passive learning", "getting stuck", "can't code without tutorial", "imposter", "lost in code"],
+            "combinatorial_algorithm_exhaustion": ["recursion stack overflow", "exponential time", "brute force failure", "edge case bugs", "time limit exceeded", "tle"],
+            "infrastructure_misconfiguration": ["permission denied", "port conflict", "cors error", "environment variable leak", "downtime", "crash loop"]
+        },
+        "actionable_protocols": {
+            "two_pointer_and_sliding_window": ["two pointer", "sliding window", "two pointers", "pointer technique", "array subarray", "window start"],
+            "memoization_and_tabulation": ["dynamic programming", "memoization", "tabulation", "top down", "bottom up", "subproblems", "memo"],
+            "dockerfile_multistage_build": ["multistage build", "minimal image", "alpine base", "layer caching", "multi-stage"],
+            "semantic_chunking_tokenization": ["tokenization", "bpe", "wordpiece", "sliding window chunks", "token limit"]
+        },
+        "modalities": {
+            "mega_crash_course": ["crash course", "full course", "complete course", "mastery course", "10 hour", "bootcamp", "handbook"],
+            "visual_algorithm_walkthrough": ["visually", "visual guide", "animated", "step by step visual", "diagrams", "animation"],
+            "paper_and_architecture_breakdown": ["paper that created", "breakdown", "research paper", "whitepaper", "explained", "anatomy of"]
+        }
+    },
+    "a_life_engineered": {
+        "core": "core_software_engineering",
+        "color": "#8b5cf6",
+        "domains": {
+            "staff_plus_and_executive_leadership": ["staff engineer", "principal engineer", "director", "vp of engineering", "executive", "tech lead", "engineering management", "leadership", "cto", "ex-amazon vp"],
+            "career_progression_and_promotion": ["promotion", "promo packet", "leveling", "l5 to l6", "l6 to l7", "senior engineer", "career ladder", "evaluations", "perf review", "calibration"],
+            "salary_negotiation_and_total_comp": ["salary", "compensation", "equity", "rsu", "negotiation", "counter offer", "total comp", "signing bonus", "base salary", "stock options"],
+            "system_design_and_architecture_reviews": ["system design", "design document", "rfc", "architecture review", "scalability tradeoffs", "tech debt", "reliability", "sla", "availability"],
+            "workplace_politics_and_influence": ["stakeholder management", "office politics", "influence without authority", "managing up", "executive presence", "sponsors", "alignment"]
+        },
+        "concepts": {
+            "business_impact_over_code_output": ["business impact", "revenue", "roi", "moving the needle", "bottom line", "outcomes over output", "high leverage", "strategic value"],
+            "sponsorship_vs_mentorship": ["sponsor", "sponsorship", "advocate", "closed doors", "decision makers", "mentor vs sponsor", "career champion"],
+            "the_l6_staff_archetype": ["archetype", "depth specialist", "systems architect", "problem solver", "glue engineer", "force multiplier", "multiplier"],
+            "strategic_scope_expansion": ["scope expansion", "cross team", "org level", "multi team initiative", "unblocking teams", "organizational impact"],
+            "negotiation_anchoring_and_batna": ["batna", "anchoring", "leverage", "competing offers", "multiple offers", "walk away price", "market rate"]
+        },
+        "pain_points": {
+            "terminal_senior_l5_plateau": ["stuck at senior", "terminal level", "plateau", "can't reach staff", "hard to promote", "glass ceiling", "ceiling"],
+            "invisible_glue_work_undervaluation": ["glue work", "unrecognized effort", "shadow work", "no promo credit", "thankless tasks", "glue"],
+            "burnout_from_hero_mode": ["hero syndrome", "doing everything yourself", "single point of failure", "overworked", "delegation failure", "bottleneck"],
+            "lowballed_offer_fear": ["lowball", "exploding offer", "afraid to ask", "imposter in negotiation", "leaving money on the table", "undervalued"]
+        },
+        "actionable_protocols": {
+            "one_page_brag_document": ["brag doc", "brag document", "promo doc", "impact tracker", "weekly wins", "evidence log", "brag sheet"],
+            "skip_level_alignment_meeting": ["skip level", "manager's manager", "director 1 on 1", "strategic alignment", "visibility", "skip 1:1"],
+            "competing_offer_leverage_play": ["counter offer", "competing offer", "negotiate politely", "recruiter email template", "bracketed ask", "countering"],
+            "rfc_design_consensus_sprint": ["rfc", "write a design doc", "consensus building", "architecture proposal", "pre-wire stakeholders", "design review"]
+        },
+        "modalities": {
+            "executive_interview_mentorship": ["conversation", "interview", "vp", "director", "with ethan evans", "guest", "extended conversation"],
+            "career_strategy_masterclass": ["how to get promoted", "how to negotiate", "how to become staff", "career advice", "guide", "framework"],
+            "qa_salary_breakdown": ["salary breakdown", "critique", "live coaching", "q&a", "viewer question", "case study"]
         }
     }
 }
@@ -287,7 +583,7 @@ def extract_key_phrases(transcript_text, top_n=6):
         'what', 'when', 'where', 'your', 'they', 'them', 'their', 'because', 'would',
         'could', 'should', 'people', 'going', 'really', 'think', 'know', 'like', 'just',
         'well', 'then', 'into', 'some', 'other', 'than', 'want', 'look', 'make', 'even',
-        'music', 'snorts'
+        'music', 'snorts', 'here', 'right', 'also', 'something', 'doing'
     }]
     
     bigrams = []
@@ -330,13 +626,20 @@ def analyze_video_3tier(video_data, channel_slug, lexicon):
 
     # Contextual defaults if empty
     if not matched_second_order:
-        matched_second_order.append("clinical_lecture" if channel_slug == "healthygamergg" else "scripted_video_essay")
+        default_map = {
+            "healthygamergg": "clinical_lecture",
+            "theramintrees": "scripted_video_essay",
+            "theprimeagen": "engineering_philosophical_rant",
+            "web_dev_simplified": "practical_project_build",
+            "freecodecamp": "mega_crash_course",
+            "a_life_engineered": "career_strategy_masterclass"
+        }
+        matched_second_order.append(default_map.get(channel_slug, "technical_analysis"))
 
     # Match First-Order Tags (Video-bound with timestamps)
     for seg in segments:
         seg_lower = seg["text"].lower()
         for t2 in matched_second_order:
-            # find keywords
             kw_list = []
             for d in ["concepts", "pain_points", "actionable_protocols"]:
                 if t2 in lexicon.get(d, {}):
@@ -388,7 +691,14 @@ def analyze_video_3tier(video_data, channel_slug, lexicon):
 
 def process_channels():
     os.makedirs(TAG_SILO_ROOT, exist_ok=True)
-    target_channels = [("healthygamergg", "healthygamergg"), ("theramintrees", "theramintrees")]
+    target_channels = [
+        ("healthygamergg", ["healthygamergg"]),
+        ("theramintrees", ["theramintrees"]),
+        ("theprimeagen", ["theprimeagen"]),
+        ("web_dev_simplified", ["web dev simplified"]),
+        ("freecodecamp", ["freecodecamp.org", "freecodecamp"]),
+        ("a_life_engineered", ["a life engineered"])
+    ]
 
     all_channel_records = {}
     manifest_nodes = []
@@ -400,69 +710,90 @@ def process_channels():
             "id": t3_id,
             "label": t3_meta["name"],
             "order": 3,
+            "core": t3_meta.get("core", "cross_core"),
             "category": t3_meta["category"],
             "description": t3_meta["description"],
             "radius": 24,
             "color": "#a855f7" # Purple core
         })
 
-    for channel_slug, channel_query in target_channels:
-        print(f"\n=======================================================")
-        print(f"🚀 Processing 3-Tier Tag Silo for: '{channel_slug.upper()}'")
-        print(f"=======================================================")
+    # Single-pass scan over all formatted transcripts
+    print("⚡ Performing single-pass transcript scan across formatted_transcripts...", flush=True)
+    channel_video_buckets = defaultdict(list)
+    all_files = sorted([f for f in os.listdir(FORMATTED_DIR) if f.endswith('.yaml')])
+
+    for fn in all_files:
+        fp = os.path.join(FORMATTED_DIR, fn)
+        with open(fp, 'r', encoding='utf-8') as yf:
+            header_lines = [yf.readline() for _ in range(12)]
+            header_str = ''.join(header_lines).lower()
+            
+            matched_slug = None
+            for slug, qkeys in target_channels:
+                if any(qk in header_str for qk in qkeys):
+                    matched_slug = slug
+                    break
+            if not matched_slug:
+                continue
+
+            yf.seek(0)
+            data = yaml.load(yf, Loader=SafeLoader)
+            ch = (data.get('channel') or '').strip().lower()
+            
+            # verify matching
+            valid = False
+            for slug, qkeys in target_channels:
+                if slug == matched_slug and any(qk in ch for qk in qkeys):
+                    valid = True
+                    break
+            if not valid:
+                continue
+
+            vid_id = data.get('video_id', '')
+            title = data.get('title', '')
+            if matched_slug == 'theramintrees' and vid_id in THERAMINTREES_TITLES:
+                title = THERAMINTREES_TITLES[vid_id]
+            elif 'TheraminTrees Video Essay' in title and vid_id in THERAMINTREES_TITLES:
+                title = THERAMINTREES_TITLES[vid_id]
+
+            tr = data.get('transcript') or ''
+            if isinstance(tr, str) and tr.startswith('{"content":'):
+                try:
+                    inner = json.loads(tr)
+                    tr_text = inner.get('content', '')
+                except:
+                    tr_text = tr
+            else:
+                tr_text = str(tr)
+
+            channel_video_buckets[matched_slug].append({
+                "video_id": vid_id,
+                "title": title,
+                "channel": data.get('channel'),
+                "url": data.get('url') or f"https://www.youtube.com/watch?v={vid_id}",
+                "duration": data.get('duration', 'N/A'),
+                "word_count": len(tr_text.split()),
+                "transcript_text": tr_text
+            })
+
+    total_all_videos = 0
+    total_all_words = 0
+
+    for channel_slug, _ in target_channels:
+        matched_videos = channel_video_buckets.get(channel_slug, [])
+        print(f"\n=======================================================", flush=True)
+        print(f"🚀 Processing 3-Tier Tag Silo for: '{channel_slug.upper()}' ({len(matched_videos)} videos)", flush=True)
+        print(f"=======================================================", flush=True)
 
         channel_dir = os.path.join(TAG_SILO_ROOT, channel_slug)
         videos_dir = os.path.join(channel_dir, 'videos')
         os.makedirs(videos_dir, exist_ok=True)
 
         lexicon = SECOND_ORDER_LEXICONS.get(channel_slug, {})
-
-        matched_videos = []
-        all_files = sorted([f for f in os.listdir(FORMATTED_DIR) if f.endswith('.yaml')])
-        for fn in all_files:
-            fp = os.path.join(FORMATTED_DIR, fn)
-            with open(fp, 'r', encoding='utf-8') as yf:
-                header_lines = [yf.readline() for _ in range(12)]
-                header_str = ''.join(header_lines).lower()
-                if channel_query not in header_str:
-                    continue
-                yf.seek(0)
-                data = yaml.load(yf, Loader=SafeLoader)
-                ch = (data.get('channel') or '').strip().lower()
-                if channel_query not in ch:
-                    continue
-
-                vid_id = data.get('video_id', '')
-                title = data.get('title', '')
-                if channel_slug == 'theramintrees' and vid_id in THERAMINTREES_TITLES:
-                    title = THERAMINTREES_TITLES[vid_id]
-                elif 'TheraminTrees Video Essay' in title and vid_id in THERAMINTREES_TITLES:
-                    title = THERAMINTREES_TITLES[vid_id]
-
-                tr = data.get('transcript') or ''
-                if isinstance(tr, str) and tr.startswith('{"content":'):
-                    try:
-                        inner = json.loads(tr)
-                        tr_text = inner.get('content', '')
-                    except:
-                        tr_text = tr
-                else:
-                    tr_text = str(tr)
-
-                matched_videos.append({
-                    "video_id": vid_id,
-                    "title": title,
-                    "channel": data.get('channel'),
-                    "url": data.get('url') or f"https://www.youtube.com/watch?v={vid_id}",
-                    "duration": data.get('duration', 'N/A'),
-                    "word_count": len(tr_text.split()),
-                    "transcript_text": tr_text
-                })
-
-        print(f"Loaded {len(matched_videos)} videos for {channel_slug}.")
+        channel_color = lexicon.get("color", "#64748b")
+        channel_core = lexicon.get("core", "core_general")
 
         tag_counts = defaultdict(int)
-        tag_dimension_map = {}
         inverted_index = defaultdict(list)
         total_words = 0
         channel_records = []
@@ -488,11 +819,13 @@ def process_channels():
                 })
 
         all_channel_records[channel_slug] = channel_records
+        total_all_videos += len(matched_videos)
+        total_all_words += total_words
 
         # Second-Order Channel Taxonomy
-        channel_color = "#10b981" if channel_slug == "healthygamergg" else "#f59e0b"
         taxonomy = {
             "channel": channel_slug,
+            "core": channel_core,
             "order": 2,
             "scope": "channel_bound",
             "total_videos_analyzed": len(matched_videos),
@@ -517,9 +850,10 @@ def process_channels():
                 "label": tag.replace("_", " ").title(),
                 "order": 2,
                 "channel": channel_slug,
+                "core": channel_core,
                 "occurrences": count,
                 "prevalence": prevalence,
-                "radius": max(10, min(20, count // 2)),
+                "radius": max(10, min(22, count // 2 + 6)),
                 "color": channel_color
             })
 
@@ -541,12 +875,13 @@ def process_channels():
         with open(inv_path, 'w', encoding='utf-8') as jf:
             json.dump({
                 "channel": channel_slug,
+                "core": channel_core,
                 "total_tags": len(inverted_index),
                 "index": inverted_index
             }, jf, indent=2)
 
-        # Sample First-Order Video Nodes into Graph (Top 15 per channel to avoid clutter)
-        sample_vids = sorted(channel_records, key=lambda x: -x["word_count"])[:15]
+        # Sample First-Order Video Nodes into Graph (Top 12 per channel for crisp rendering)
+        sample_vids = sorted(channel_records, key=lambda x: -x["word_count"])[:12]
         for v in sample_vids:
             v_node_id = f"vid:{v['video_id']}"
             manifest_nodes.append({
@@ -555,6 +890,7 @@ def process_channels():
                 "full_title": v["title"],
                 "order": 1,
                 "channel": channel_slug,
+                "core": channel_core,
                 "duration": v["duration"],
                 "url": v["url"],
                 "radius": 6,
@@ -580,22 +916,38 @@ def process_channels():
         }, yf, Dumper=CleanDumper, sort_keys=False, allow_unicode=True)
 
     # 4. Export Combined Tag Hierarchy Graph Manifest for SvelteKit D3 SPA
+    manifest_data = {
+        "compiled_at": datetime.now().isoformat(),
+        "summary": {
+            "total_cores": 2,
+            "third_order_count": len(THIRD_ORDER_UNBOUND_ONTOLOGY),
+            "channels_indexed": len(target_channels),
+            "total_videos_analyzed": total_all_videos,
+            "total_words_analyzed": total_all_words,
+            "total_nodes": len(manifest_nodes),
+            "total_links": len(manifest_links)
+        },
+        "third_order_ontology": THIRD_ORDER_UNBOUND_ONTOLOGY,
+        "nodes": manifest_nodes,
+        "links": manifest_links
+    }
+
     manifest_path = os.path.join(TAG_SILO_ROOT, 'tag_hierarchy_manifest.json')
     with open(manifest_path, 'w', encoding='utf-8') as jf:
-        json.dump({
-            "compiled_at": datetime.now().isoformat(),
-            "summary": {
-                "third_order_count": len(THIRD_ORDER_UNBOUND_ONTOLOGY),
-                "channels_indexed": len(target_channels),
-                "total_nodes": len(manifest_nodes),
-                "total_links": len(manifest_links)
-            },
-            "third_order_ontology": THIRD_ORDER_UNBOUND_ONTOLOGY,
-            "nodes": manifest_nodes,
-            "links": manifest_links
-        }, jf, indent=2)
+        json.dump(manifest_data, jf, indent=2)
 
-    print(f"\n✅ 3-Tier Tagging Hierarchy compiled successfully!")
+    # Also sync directly to visualizer/src/lib/ and visualizer/static/
+    vis_lib_path = os.path.join(SCRATCH_DIR, 'visualizer', 'src', 'lib', 'tag_hierarchy_manifest.json')
+    vis_static_path = os.path.join(SCRATCH_DIR, 'visualizer', 'static', 'tag_hierarchy_manifest.json')
+    if os.path.exists(os.path.dirname(vis_lib_path)):
+        with open(vis_lib_path, 'w', encoding='utf-8') as jf:
+            json.dump(manifest_data, jf, indent=2)
+    if os.path.exists(os.path.dirname(vis_static_path)):
+        with open(vis_static_path, 'w', encoding='utf-8') as jf:
+            json.dump(manifest_data, jf, indent=2)
+
+    print(f"\n✅ 3-Tier Tagging Hierarchy compiled successfully across all Knowledge Cores!")
+    print(f" - Analyzed {total_all_videos} videos across {len(target_channels)} channels ({total_all_words:,} words)")
     print(f" - Third-Order Global Tags: {t3_export_path}")
     print(f" - D3 Graph Manifest for SPA: {manifest_path} ({len(manifest_nodes)} nodes, {len(manifest_links)} links)")
 

@@ -1,0 +1,108 @@
+video_id: b2mLDkMSyn4
+title: 'Data Analysis with Python: Part 4 of 6 - Analyzing tabular data with Pandas'
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=b2mLDkMSyn4
+duration: '45:00'
+word_count: 23007
+first_order_tags:
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 07:53
+  seconds: 473.0
+  context: We can call we can index into COVID DF for new cases.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 08:09
+  seconds: 488.9
+  context: So, this gives us a series, and then out of the series we can get the 200
+    and the value at the 246th index.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '10:02'
+  seconds: 602.0
+  context: So, you need to pass in this index 243 into dot loc.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '11:19'
+  seconds: 679.0
+  context: So, you can check that by simply getting the series, so COVID df.new tests
+    and calling dot first valid index on the series.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '12:02'
+  seconds: 722.0
+  context: You can get uh out of a series or out of a column, you can get values out
+    by passing in the index.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '14:11'
+  seconds: 851.0
+  context: So the false here indicates that at that particular index, the value within
+    COVID DF.new_cases was not greater than thousand, was less than ...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '15:30'
+  seconds: 930.2
+  context: So the way we can do that is once again, we have COVID DF and then we pass
+    in an index.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '18:47'
+  seconds: 1127.1
+  context: So, if you look at the days So, this negative value was at index 172.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '19:44'
+  seconds: 1183.7
+  context: So, we say COVID DF.at and so, 172 is the row number or the row index and
+    then new cases is the column.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '20:56'
+  seconds: 1256.1
+  context: So, we can now what we can do is we can extract different parts of the
+    data into separate columns using the date time index class.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '21:12'
+  seconds: 1271.9
+  context: So, now we've just added four columns simply by converting the date time
+    date column into a date time data type and then passing it into the...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '23:14'
+  seconds: 1394.1
+  context: And we pass that as an index.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '25:12'
+  seconds: 1511.8
+  context: So, the original data frame still exists, but this new data frame, the
+    index, it does not have the same number of rows as the original data ...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '27:50'
+  seconds: 1670.2
+  context: So, the way to verify is once again, we just have a Boolean here that we
+    want to check that the location is Italy, and pass that as an index...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '30:29'
+  seconds: 1828.7
+  context: And then we also set index equal to none.
+second_order_tags:
+- computer_science_fundamentals
+- machine_learning_and_data_science
+- relational_normalization_and_acid
+- visual_algorithm_walkthrough
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- data frame
+- number cases
+- cases deaths
+- deaths tests
+- covid data
+- once again
+summary_hook: Explores computer_science_fundamentals, machine_learning_and_data_science,
+  relational_normalization_and_acid.

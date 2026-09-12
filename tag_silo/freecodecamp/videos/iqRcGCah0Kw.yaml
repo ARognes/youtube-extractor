@@ -1,0 +1,113 @@
+video_id: iqRcGCah0Kw
+title: System Design for AI Agents – Building a Multi-Agent PR Reviewer
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=iqRcGCah0Kw
+duration: '54:00'
+word_count: 31586
+first_order_tags:
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 06:44
+  seconds: 403.7
+  context: For example, there can be orchestration deadlock.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 09:09
+  seconds: 549.2
+  context: Then we'll talk about okay which orchestration to use whether to use langraph
+    whether to use a temporal and then we'll talk about okay what ...
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '17:16'
+  seconds: 1035.7
+  context: Now this now let's design a system for optimizing our tokens which is caching
+    and all that which is one of our thing which we'll talk about ...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '18:03'
+  seconds: 1083.3
+  context: Then orchestration deadlock which means the aggregator waits forever on
+    a hung agent which means our parall agents for agent they are not gi...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '21:49'
+  seconds: 1309.0
+  context: So PG vector scale is an advanced version of PG vector itself where it
+    can actually add an index so that Postgress can find a nearby vectors...
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '22:32'
+  seconds: 1351.7
+  context: We eventually have this continuous aggregate all the period of a time such
+    as cost per minute, the P95 latency, the tokens total or any such...
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '23:17'
+  seconds: 1396.8
+  context: Then you have this dis disc I just discussed when you have a millions and
+    millions of thing this particular algorithm eventually helps you t...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '23:17'
+  seconds: 1396.8
+  context: Then you have this dis disc I just discussed when you have a millions and
+    millions of thing this particular algorithm eventually helps you t...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '23:42'
+  seconds: 1421.9
+  context: So we need to create an ingress handler so that it ingests the PR and then
+    eventually says sure.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '25:15'
+  seconds: 1514.7
+  context: So what you're doing we are using the modular monolith answer is extracting
+    the web hook receiver as a stateless ingress service and then th...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '27:28'
+  seconds: 1647.6
+  context: In real world you end up sitting and then figure out okay how does my ingress
+    system work.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '28:30'
+  seconds: 1710.3
+  context: So if you think about the whole system in general the MVP at least in the
+    real world which you'll see is anytime the GitHub PR is posted we'...
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '28:40'
+  seconds: 1720.3
+  context: For example in the economics and tokens in the phases we want to develop
+    PR cost hourly.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '30:51'
+  seconds: 1850.7
+  context: I kind of end up using something where tokens are less.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '31:11'
+  seconds: 1870.8
+  context: And I I mean at least we'll have a different session on how do we optimize
+    for tokens when working with AI and coding agents.
+second_order_tags:
+- cloud_devops_and_infrastructure
+- containerization_and_orchestration
+- cybersecurity_and_ethical_hacking
+- machine_learning_and_data_science
+- relational_normalization_and_acid
+- transformer_attention_mechanisms
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- every single
+- feel free
+- review agent
+- three different
+- tiger cloud
+- frankly speaking
+summary_hook: Explores cloud_devops_and_infrastructure, machine_learning_and_data_science,
+  cybersecurity_and_ethical_hacking.

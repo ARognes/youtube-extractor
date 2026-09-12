@@ -1,0 +1,40 @@
+video_id: csIEMIoN0oQ
+title: 'How to Build a Career in Tech: Jordan Jackson Connects the Dots'
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=csIEMIoN0oQ
+duration: '49:30'
+word_count: 13654
+first_order_tags:
+- tag: vtag_infrastructure_misconfiguration
+  bound_second_order: infrastructure_misconfiguration
+  timestamp: 05:09
+  seconds: 308.8
+  context: Uh so, one thing about the job was that we would have downtime.
+- tag: vtag_infrastructure_misconfiguration
+  bound_second_order: infrastructure_misconfiguration
+  timestamp: 07:07
+  seconds: 427.3
+  context: Like, something that that I found fascinating about that is you said that
+    you had downtime at work, right?
+- tag: vtag_asymptotic_algorithmic_complexity
+  bound_second_order: asymptotic_algorithmic_complexity
+  timestamp: '13:41'
+  seconds: 820.8
+  context: Um one of the questions I remember uh it like if you have like a stack
+    and you're putting numbers on the stack, how do you access the highes...
+second_order_tags:
+- asymptotic_algorithmic_complexity
+- cloud_devops_and_infrastructure
+- computer_science_fundamentals
+- infrastructure_misconfiguration
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- pretty much
+- tech company
+- learn code
+- free code
+- code camp
+- learning code
+summary_hook: Explores computer_science_fundamentals, cloud_devops_and_infrastructure,
+  asymptotic_algorithmic_complexity.

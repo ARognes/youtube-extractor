@@ -1,0 +1,28 @@
+video_id: sH0_LJoMJd4
+title: STOP LYING, The truth about Software Engineering
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=sH0_LJoMJd4
+duration: '38:30'
+word_count: 931
+first_order_tags:
+- tag: vtag_concurrency_primitives_and_locks
+  bound_second_order: concurrency_primitives_and_locks
+  timestamp: 00:00
+  seconds: 0.0
+  context: so I was scrolling through Twitter and I saw this tweet and I just had
+    to make a video I could not believe it and I kid you not oh I'll try ...
+second_order_tags:
+- concurrency_primitives_and_locks
+- developer_culture_and_critique
+- engineering_philosophical_rant
+third_order_tags:
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- three months
+- couple years
+- next couple
+- been programming
+- multiple times
+- build anything
+summary_hook: Explores developer_culture_and_critique, concurrency_primitives_and_locks,
+  engineering_philosophical_rant.

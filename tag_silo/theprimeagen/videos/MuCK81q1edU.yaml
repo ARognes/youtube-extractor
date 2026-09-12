@@ -1,0 +1,38 @@
+video_id: MuCK81q1edU
+title: Is JSON Blazingly Fast or...?
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=MuCK81q1edU
+duration: '35:00'
+word_count: 2077
+first_order_tags:
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: 00:00
+  seconds: 0.0
+  context: Json JavaScript objects notation properly pronounced and was almost called
+    the Gizmo Gizmo dismal am I like four years old it's funny it's t...
+- tag: vtag_concurrency_primitives_and_locks
+  bound_second_order: concurrency_primitives_and_locks
+  timestamp: 00:00
+  seconds: 0.0
+  context: Json JavaScript objects notation properly pronounced and was almost called
+    the Gizmo Gizmo dismal am I like four years old it's funny it's t...
+second_order_tags:
+- concurrency_primitives_and_locks
+- deep_dive_benchmark_build
+- developer_culture_and_critique
+- modal_editing_velocity
+- system_architecture_and_scale
+- systems_programming_and_compilers
+third_order_tags:
+- T3_DEVELOPER_ERGONOMICS_TOOLING
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- zeros ones
+- bytes represent
+- exact same
+- across wire
+- eight bytes
+- remember json
+summary_hook: Explores systems_programming_and_compilers, system_architecture_and_scale,
+  developer_culture_and_critique.

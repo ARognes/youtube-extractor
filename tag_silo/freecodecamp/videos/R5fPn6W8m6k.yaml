@@ -1,0 +1,82 @@
+video_id: R5fPn6W8m6k
+title: Code a Reinforcement Learning Library in C from Scratch (Full Course)
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=R5fPn6W8m6k
+duration: '54:00'
+word_count: 17717
+first_order_tags:
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 01:54
+  seconds: 114.0
+  context: So yeah uh let's go and define the variable first like what is variable
+    you know variable is basically the uh which is struck it could be an...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 06:44
+  seconds: 404.4
+  context: Now in arena you will find like this push truck function which is here
+    push truck function which basically can be used to allocate the memor...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 09:51
+  seconds: 591.0
+  context: it won't have a grant because like we have to write this well uh you know
+    this model state that I just remembered like it will have a number...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '16:46'
+  seconds: 1005.7
+  context: So initially it will get the value of like zero with index stack and zero
+    with index we are storing the out bar and then stack size increasi...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '17:01'
+  seconds: 1021.2
+  context: So by current and stack stack size, this will pop the index.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '26:00'
+  seconds: 1560.4
+  context: So basically these three iteration we are going to do to actually index
+    the matrix.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '27:29'
+  seconds: 1648.5
+  context: So ji columns equals to you have this out a data and uh which is k + i
+    which is so here you can see like k is zero and i is zero the first i...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '31:01'
+  seconds: 1861.1
+  context: what we have done here because I think you know if and wire if this is
+    like this you know in the input uh this is getting very confused you ...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '40:31'
+  seconds: 2431.3
+  context: So whatever the index of the snake I will have like a 1.0 floating point
+    and in data I size plus 0.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '52:37'
+  seconds: 3157.1
+  context: Okay, that makes more sense because you know so there will be five accents
+    so five index for it but like it will only store whatever the act...
+second_order_tags:
+- computer_science_fundamentals
+- machine_learning_and_data_science
+- mega_crash_course
+- relational_normalization_and_acid
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- model state
+- rows columns
+- forward pass
+- number inputs
+- stack size
+- haven defined
+summary_hook: Explores computer_science_fundamentals, machine_learning_and_data_science,
+  relational_normalization_and_acid.

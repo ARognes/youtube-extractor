@@ -1,0 +1,41 @@
+video_id: nQrUeK0n1qw
+title: Every Project Needs This NEW Tanstack Library
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=nQrUeK0n1qw
+duration: '33:06'
+word_count: 3644
+first_order_tags:
+- tag: vtag_unnecessary_re_renders
+  bound_second_order: unnecessary_re_renders
+  timestamp: '20:48'
+  seconds: 1247.7
+  context: And anything that we return from this function right here is going to be
+    automatically re-render in our component when it changes.
+- tag: vtag_unnecessary_re_renders
+  bound_second_order: unnecessary_re_renders
+  timestamp: '22:53'
+  seconds: 1372.5
+  context: Cuz without this, our component won't re-render when this value changes.
+- tag: vtag_unnecessary_re_renders
+  bound_second_order: unnecessary_re_renders
+  timestamp: '30:51'
+  seconds: 1850.8
+  context: Let's just make sure we put our batch save in our dependency array even
+    though it technically never changes.
+second_order_tags:
+- backend_and_database_integration
+- frontend_reactivity_and_frameworks
+- modern_css_and_layouts
+- practical_project_build
+- unnecessary_re_renders
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- every single
+- single time
+- wait period
+- throttled state
+- throttled value
+- fetch request
+summary_hook: Explores frontend_reactivity_and_frameworks, modern_css_and_layouts,
+  backend_and_database_integration.

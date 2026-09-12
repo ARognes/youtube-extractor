@@ -1,0 +1,25 @@
+video_id: tLLQoF2JjAg
+title: 'Prime picks one language (Challenge Level: Impossible)'
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=tLLQoF2JjAg
+duration: 15 min
+word_count: 223
+first_order_tags:
+- tag: vtag_type_system_soundness
+  bound_second_order: type_system_soundness
+  timestamp: 00:08
+  seconds: 8.3
+  context: That was a mess without type safety. I
+second_order_tags:
+- runtime_internals_and_garbage_collection
+- type_system_soundness
+third_order_tags:
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- teach finished
+- finished front
+- front back
+- back database
+- database node
+- node problem
+summary_hook: Explores runtime_internals_and_garbage_collection, type_system_soundness.

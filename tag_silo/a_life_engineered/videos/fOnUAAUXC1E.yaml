@@ -1,0 +1,34 @@
+video_id: fOnUAAUXC1E
+title: If I Were Looking For A Tech Job In 2025 I'd Do This
+channel: A Life Engineered
+url: https://www.youtube.com/watch?v=fOnUAAUXC1E
+duration: '19:24'
+word_count: 2316
+first_order_tags:
+- tag: vtag_sponsorship_vs_mentorship
+  bound_second_order: sponsorship_vs_mentorship
+  timestamp: 09:42
+  seconds: 582.0
+  context: in the morning and she's done with her work by lunchtime afterwards she
+    does whatever she wants given what you know about Alice and Bob who ...
+- tag: vtag_negotiation_anchoring_and_batna
+  bound_second_order: negotiation_anchoring_and_batna
+  timestamp: 09:42
+  seconds: 582.0
+  context: in the morning and she's done with her work by lunchtime afterwards she
+    does whatever she wants given what you know about Alice and Bob who ...
+second_order_tags:
+- executive_interview_mentorship
+- negotiation_anchoring_and_batna
+- sponsorship_vs_mentorship
+third_order_tags:
+- T3_ENGINEERING_LEADERSHIP_LEVERAGE
+key_phrases:
+- computer science
+- high school
+- landing interview
+- preparing interview
+- looking work
+- called back
+summary_hook: Explores sponsorship_vs_mentorship, negotiation_anchoring_and_batna,
+  executive_interview_mentorship.

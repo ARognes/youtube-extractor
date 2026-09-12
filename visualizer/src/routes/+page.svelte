@@ -10,10 +10,20 @@
   let showOrder1 = $state(true);
   let showOrder2 = $state(true);
   let showOrder3 = $state(true);
-  let selectedChannel = $state('all'); // 'all' | 'healthygamergg' | 'theramintrees'
+  let selectedCore = $state('all'); // 'all' | 'core_psychology' | 'core_software_engineering'
+  let selectedChannel = $state('all'); // 'all' | channel_slug
 
   let svgElement = $state();
   let simulation = $state();
+
+  const CHANNEL_METADATA = {
+    healthygamergg: { name: 'HealthyGamerGG', creator: 'Dr. Alok Kanojia', core: 'core_psychology', color: '#10b981', borderClass: 'border-hg', barClass: 'bar-hg' },
+    theramintrees: { name: 'TheraminTrees', creator: 'TheraminTrees', core: 'core_psychology', color: '#f59e0b', borderClass: 'border-tt', barClass: 'bar-tt' },
+    theprimeagen: { name: 'ThePrimeagen', creator: 'ThePrimeagen', core: 'core_software_engineering', color: '#ef4444', borderClass: 'border-tp', barClass: 'bar-tp' },
+    web_dev_simplified: { name: 'Web Dev Simplified', creator: 'Kyle Cook', core: 'core_software_engineering', color: '#3b82f6', borderClass: 'border-wds', barClass: 'bar-wds' },
+    freecodecamp: { name: 'freeCodeCamp.org', creator: 'Quincy Larson & Team', core: 'core_software_engineering', color: '#06b6d4', borderClass: 'border-fcc', barClass: 'bar-fcc' },
+    a_life_engineered: { name: 'A Life Engineered', creator: 'Steve Huynh', core: 'core_software_engineering', color: '#8b5cf6', borderClass: 'border-ale', barClass: 'bar-ale' }
+  };
 
   // Filtered graph data
   let filteredNodes = $derived(() => {
@@ -21,6 +31,9 @@
       if (n.order === 1 && !showOrder1) return false;
       if (n.order === 2 && !showOrder2) return false;
       if (n.order === 3 && !showOrder3) return false;
+      if (selectedCore !== 'all') {
+        if (n.core && n.core !== 'cross_core' && n.core !== selectedCore) return false;
+      }
       if (selectedChannel !== 'all' && n.channel && n.channel !== selectedChannel) return false;
       if (searchQuery.trim()) {
         const q = searchQuery.toLowerCase();
@@ -42,11 +55,20 @@
     });
   });
 
+  let displayedChannels = $derived(() => {
+    const keys = Object.keys(CHANNEL_METADATA);
+    return keys.filter(k => {
+      if (selectedCore !== 'all' && CHANNEL_METADATA[k].core !== selectedCore) return false;
+      if (selectedChannel !== 'all' && k !== selectedChannel) return false;
+      return true;
+    });
+  });
+
   function initD3Graph() {
     if (!svgElement) return;
 
-    const width = svgElement.clientWidth || 900;
-    const height = svgElement.clientHeight || 650;
+    const width = svgElement.clientWidth || 960;
+    const height = svgElement.clientHeight || 700;
 
     d3.select(svgElement).selectAll('*').remove();
 
@@ -57,7 +79,7 @@
 
     // Zoom behavior
     const zoom = d3.zoom()
-      .scaleExtent([0.2, 4])
+      .scaleExtent([0.15, 4])
       .on('zoom', (event) => {
         g.attr('transform', event.transform);
       });
@@ -68,14 +90,14 @@
     const currentLinks = filteredLinks().map(d => ({ ...d }));
 
     simulation = d3.forceSimulation(currentNodes)
-      .force('link', d3.forceLink(currentLinks).id(d => d.id).distance(d => d.value === 2 ? 110 : 60))
-      .force('charge', d3.forceManyBody().strength(d => d.order === 3 ? -350 : (d.order === 2 ? -180 : -70)))
+      .force('link', d3.forceLink(currentLinks).id(d => d.id).distance(d => d.value === 2 ? 120 : 65))
+      .force('charge', d3.forceManyBody().strength(d => d.order === 3 ? -450 : (d.order === 2 ? -220 : -80)))
       .force('center', d3.forceCenter(width / 2, height / 2))
-      .force('collide', d3.forceCollide().radius(d => d.radius + 12));
+      .force('collide', d3.forceCollide().radius(d => d.radius + 10));
 
     // Draw Links
     const link = g.append('g')
-      .attr('stroke-opacity', 0.5)
+      .attr('stroke-opacity', 0.45)
       .selectAll('line')
       .data(currentLinks)
       .join('line')
@@ -94,11 +116,11 @@
     // Node Circles
     node.append('circle')
       .attr('r', d => d.radius)
-      .attr('fill', d => d.color)
+      .attr('fill', d => d.color || '#94a3b8')
       .attr('stroke', '#ffffff')
       .attr('stroke-width', d => d.order === 3 ? 2.5 : 1)
-      .attr('stroke-opacity', 0.8)
-      .attr('filter', d => d.order === 3 ? 'drop-shadow(0 0 8px rgba(168, 85, 247, 0.6))' : 'none');
+      .attr('stroke-opacity', 0.85)
+      .attr('filter', d => d.order === 3 ? 'drop-shadow(0 0 10px rgba(168, 85, 247, 0.7))' : 'none');
 
     // Node Text Labels
     node.append('text')
@@ -117,7 +139,7 @@
     });
 
     node.on('mouseover', function(event, d) {
-      d3.select(this).select('circle').transition().duration(150).attr('r', d.radius * 1.3);
+      d3.select(this).select('circle').transition().duration(150).attr('r', d.radius * 1.25);
     });
 
     node.on('mouseout', function(event, d) {
@@ -166,7 +188,6 @@
 
   // Re-run D3 layout when filters change
   $effect(() => {
-    // track reactive dependencies
     const _n = filteredNodes();
     const _l = filteredLinks();
     if (activeTab === 'graph') {
@@ -176,7 +197,7 @@
 </script>
 
 <svelte:head>
-  <title>Cognitive Knowledge Silo: 3-Tier Tagging Hierarchy</title>
+  <title>Multi-Core Knowledge Silo: 3-Tier Tagging Hierarchy</title>
 </svelte:head>
 
 <div class="app-layout">
@@ -185,8 +206,10 @@
     <div class="brand">
       <span class="logo">🏷️</span>
       <div>
-        <h1>Cognitive Tag Silo Architecture</h1>
-        <p class="subtitle">3-Tier Hierarchy: 1st-Order (Video) • 2nd-Order (Channel) • 3rd-Order (Global Unbound)</p>
+        <h1>Multi-Core Knowledge Silo Visualizer</h1>
+        <p class="subtitle">
+          3-Tier Hierarchy • {manifest.summary.channels_indexed} Channels • {manifest.summary.total_videos_analyzed} Videos • {manifest.summary.total_words_analyzed.toLocaleString()} Spoken Words
+        </p>
       </div>
     </div>
 
@@ -195,7 +218,7 @@
         🌐 D3 Force Graph
       </button>
       <button class="tab-btn" class:active={activeTab === 'ontology'} onclick={() => activeTab = 'ontology'}>
-        🏛️ 3rd-Order Ontology
+        🏛️ 3rd-Order Ontology ({manifest.summary.third_order_count})
       </button>
       <button class="tab-btn" class:active={activeTab === 'matrix'} onclick={() => activeTab = 'matrix'}>
         📊 Channel Matrix
@@ -206,28 +229,40 @@
   <!-- Control Bar -->
   <div class="control-bar">
     <div class="filter-group">
-      <span class="filter-label">Order Filters:</span>
-      <label class="badge-toggle badge-3rd">
-        <input type="checkbox" bind:checked={showOrder3} />
-        3rd-Order (Global)
-      </label>
-      <label class="badge-toggle badge-2nd">
-        <input type="checkbox" bind:checked={showOrder2} />
-        2nd-Order (Channel)
-      </label>
-      <label class="badge-toggle badge-1st">
-        <input type="checkbox" bind:checked={showOrder1} />
-        1st-Order (Video)
-      </label>
+      <span class="filter-label">Knowledge Core:</span>
+      <select bind:value={selectedCore} class="core-select">
+        <option value="all">All Knowledge Cores</option>
+        <option value="core_psychology">🧠 Cognitive Psychology</option>
+        <option value="core_software_engineering">💻 Software Engineering & Systems</option>
+      </select>
     </div>
 
     <div class="filter-group">
       <span class="filter-label">Channel:</span>
       <select bind:value={selectedChannel} class="channel-select">
         <option value="all">All Channels</option>
-        <option value="healthygamergg">HealthyGamerGG</option>
-        <option value="theramintrees">TheraminTrees</option>
+        {#each Object.entries(CHANNEL_METADATA) as [slug, meta]}
+          {#if selectedCore === 'all' || meta.core === selectedCore}
+            <option value={slug}>{meta.name}</option>
+          {/if}
+        {/each}
       </select>
+    </div>
+
+    <div class="filter-group">
+      <span class="filter-label">Orders:</span>
+      <label class="badge-toggle badge-3rd">
+        <input type="checkbox" bind:checked={showOrder3} />
+        3rd (Global)
+      </label>
+      <label class="badge-toggle badge-2nd">
+        <input type="checkbox" bind:checked={showOrder2} />
+        2nd (Channel)
+      </label>
+      <label class="badge-toggle badge-1st">
+        <input type="checkbox" bind:checked={showOrder1} />
+        1st (Video)
+      </label>
     </div>
 
     <div class="search-box">
@@ -244,82 +279,81 @@
       <div class="graph-wrapper">
         <svg bind:this={svgElement} class="d3-svg"></svg>
         <div class="graph-legend">
-          <div class="legend-item"><span class="dot dot-3rd"></span> 3rd-Order: Unbound Global Concept</div>
-          <div class="legend-item"><span class="dot dot-hg"></span> 2nd-Order: HealthyGamerGG Pillar</div>
-          <div class="legend-item"><span class="dot dot-tt"></span> 2nd-Order: TheraminTrees Pillar</div>
-          <div class="legend-item"><span class="dot dot-1st"></span> 1st-Order: Video Instance</div>
+          <div class="legend-title">Taxonomy Legend</div>
+          <div class="legend-item"><span class="dot dot-3rd"></span> 3rd-Order: Global Unbound Concept</div>
+          <div class="legend-item"><span class="dot dot-hg"></span> 2nd-Order: HealthyGamerGG</div>
+          <div class="legend-item"><span class="dot dot-tt"></span> 2nd-Order: TheraminTrees</div>
+          <div class="legend-item"><span class="dot dot-tp"></span> 2nd-Order: ThePrimeagen</div>
+          <div class="legend-item"><span class="dot dot-wds"></span> 2nd-Order: Web Dev Simplified</div>
+          <div class="legend-item"><span class="dot dot-fcc"></span> 2nd-Order: freeCodeCamp.org</div>
+          <div class="legend-item"><span class="dot dot-ale"></span> 2nd-Order: A Life Engineered</div>
+          <div class="legend-item"><span class="dot dot-1st"></span> 1st-Order: Video Timestamp Node</div>
         </div>
       </div>
     {:else if activeTab === 'ontology'}
       <div class="ontology-view">
-        <h2>🏛️ Third-Order Global Unbound Tag Ontology</h2>
-        <p class="section-desc">Universal, cross-cutting psychological and philosophical concepts with no single-channel bounds.</p>
+        <div class="view-header">
+          <h2>🏛️ Third-Order Global Unbound Tag Ontology</h2>
+          <p class="section-desc">Universal, cross-cutting conceptual anchors with no single-channel bounds, bridging cognitive architecture and software systems.</p>
+        </div>
         
         <div class="ontology-grid">
           {#each Object.entries(manifest.third_order_ontology) as [t3Id, t3]}
-            <div class="ontology-card">
-              <div class="card-header">
-                <span class="order-badge order-3">3rd-Order</span>
-                <span class="category-tag">{t3.category}</span>
-              </div>
-              <h3>{t3.name}</h3>
-              <p class="desc">{t3.description}</p>
+            {#if selectedCore === 'all' || t3.core === 'cross_core' || t3.core === selectedCore}
+              <div class="ontology-card">
+                <div class="card-header">
+                  <span class="order-badge order-3">3rd-Order</span>
+                  <span class="core-tag {t3.core}">{t3.core === 'core_psychology' ? '🧠 Psychology' : (t3.core === 'core_software_engineering' ? '💻 Software' : '🔗 Cross-Core')}</span>
+                  <span class="category-tag">{t3.category}</span>
+                </div>
+                <h3>{t3.name}</h3>
+                <p class="desc">{t3.description}</p>
 
-              <div class="mapping-section">
-                <h4>Bound 2nd-Order Channel Satellites:</h4>
-                <div class="tag-chips">
-                  {#each t3.second_order_mapping as s2}
-                    <span class="chip">{s2.replace(/_/g, ' ')}</span>
-                  {/each}
+                <div class="mapping-section">
+                  <h4>Bound 2nd-Order Channel Satellites ({t3.second_order_mapping.length}):</h4>
+                  <div class="tag-chips">
+                    {#each t3.second_order_mapping as s2}
+                      <span class="chip">{s2.replace(/_/g, ' ')}</span>
+                    {/each}
+                  </div>
                 </div>
               </div>
-            </div>
+            {/if}
           {/each}
         </div>
       </div>
     {:else if activeTab === 'matrix'}
       <div class="matrix-view">
-        <h2>📊 Second-Order Channel Pillar Matrix</h2>
-        <p class="section-desc">Comparing channel-bound thematic signatures across contrasting creator archetypes.</p>
+        <div class="view-header">
+          <h2>📊 Second-Order Channel Pillar Matrix</h2>
+          <p class="section-desc">Side-by-side comparison of creator-specific thematic signatures, vocabulary distribution, and relative topic prevalence.</p>
+        </div>
 
-        <div class="channel-comparison-grid">
-          <!-- HealthyGamerGG Column -->
-          <div class="channel-col col-hg">
-            <div class="col-header">
-              <h3>HealthyGamerGG (Dr. Alok Kanojia)</h3>
-              <span class="col-stats">100 Videos | 149,038 words</span>
+        <div class="channel-matrix-grid">
+          {#each displayedChannels() as chKey}
+            {@const meta = CHANNEL_METADATA[chKey]}
+            {@const pillars = manifest.nodes.filter(n => n.order === 2 && n.channel === chKey)}
+            <div class="channel-col {meta.borderClass}">
+              <div class="col-header">
+                <div>
+                  <h3>{meta.name}</h3>
+                  <span class="col-creator">{meta.creator}</span>
+                </div>
+                <span class="col-stats">{pillars.length} Pillars</span>
+              </div>
+              <div class="pillar-list">
+                {#each pillars as node}
+                  <button type="button" class="pillar-row" onclick={() => selectedNode = node}>
+                    <div class="pillar-title">{node.label}</div>
+                    <div class="pillar-bar-wrap">
+                      <div class="pillar-bar {meta.barClass}" style="width: {Math.min(100, node.prevalence * 2.2)}%"></div>
+                      <span class="prevalence-label">{node.prevalence}% ({node.occurrences} vids)</span>
+                    </div>
+                  </button>
+                {/each}
+              </div>
             </div>
-            <div class="pillar-list">
-              {#each manifest.nodes.filter(n => n.order === 2 && n.channel === 'healthygamergg') as node}
-                <button type="button" class="pillar-row" onclick={() => selectedNode = node}>
-                  <div class="pillar-title">{node.label}</div>
-                  <div class="pillar-bar-wrap">
-                    <div class="pillar-bar bar-hg" style="width: {Math.min(100, node.prevalence * 3)}%"></div>
-                    <span class="prevalence-label">{node.prevalence}% ({node.occurrences} vids)</span>
-                  </div>
-                </button>
-              {/each}
-            </div>
-          </div>
-
-          <!-- TheraminTrees Column -->
-          <div class="channel-col col-tt">
-            <div class="col-header">
-              <h3>TheraminTrees</h3>
-              <span class="col-stats">29 Videos | 118,789 words</span>
-            </div>
-            <div class="pillar-list">
-              {#each manifest.nodes.filter(n => n.order === 2 && n.channel === 'theramintrees') as node}
-                <button type="button" class="pillar-row" onclick={() => selectedNode = node}>
-                  <div class="pillar-title">{node.label}</div>
-                  <div class="pillar-bar-wrap">
-                    <div class="pillar-bar bar-tt" style="width: {Math.min(100, node.prevalence * 2.5)}%"></div>
-                    <span class="prevalence-label">{node.prevalence}% ({node.occurrences} vids)</span>
-                  </div>
-                </button>
-              {/each}
-            </div>
-          </div>
+          {/each}
         </div>
       </div>
     {/if}
@@ -334,7 +368,9 @@
             {selectedNode.order === 3 ? '3rd-Order (Global Unbound)' : (selectedNode.order === 2 ? '2nd-Order (Channel-Bound)' : '1st-Order (Video-Bound)')}
           </span>
           {#if selectedNode.channel}
-            <span class="channel-badge">{selectedNode.channel.toUpperCase()}</span>
+            <span class="channel-badge" style="border-left: 3px solid {CHANNEL_METADATA[selectedNode.channel]?.color || '#fff'}">
+              {CHANNEL_METADATA[selectedNode.channel]?.name || selectedNode.channel.toUpperCase()}
+            </span>
           {/if}
         </div>
 
@@ -342,7 +378,7 @@
 
         {#if selectedNode.description}
           <div class="drawer-section">
-            <h4>Description / Epistemic Grounding</h4>
+            <h4>Description / Conceptual Definition</h4>
             <p>{selectedNode.description}</p>
           </div>
         {/if}
@@ -434,24 +470,34 @@
     background: rgba(18, 26, 43, 0.85);
     border-bottom: 1px solid rgba(255, 255, 255, 0.06);
     gap: 16px;
+    flex-wrap: wrap;
   }
   .filter-group {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 8px;
   }
   .filter-label {
-    font-size: 0.78rem;
+    font-size: 0.75rem;
     color: #94a3b8;
     font-weight: 600;
     text-transform: uppercase;
+  }
+  .core-select, .channel-select {
+    background: rgba(15, 23, 42, 0.85);
+    color: #f1f5f9;
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    padding: 5px 10px;
+    border-radius: 6px;
+    font-size: 0.8rem;
+    cursor: pointer;
   }
   .badge-toggle {
     display: flex;
     align-items: center;
     gap: 6px;
-    font-size: 0.78rem;
-    padding: 4px 10px;
+    font-size: 0.75rem;
+    padding: 3px 8px;
     border-radius: 4px;
     cursor: pointer;
     font-weight: 600;
@@ -460,17 +506,9 @@
   .badge-2nd { background: rgba(16, 185, 129, 0.15); color: #34d399; border: 1px solid #10b981; }
   .badge-1st { background: rgba(56, 189, 248, 0.15); color: #38bdf8; border: 1px solid #0284c7; }
 
-  .channel-select {
-    background: rgba(15, 23, 42, 0.8);
-    color: #f1f5f9;
-    border: 1px solid rgba(255, 255, 255, 0.12);
-    padding: 4px 8px;
-    border-radius: 4px;
-    font-size: 0.8rem;
-  }
   .search-box {
     position: relative;
-    width: 260px;
+    width: 240px;
   }
   .search-box input {
     width: 100%;
@@ -511,81 +549,101 @@
     position: absolute;
     bottom: 16px;
     left: 16px;
-    background: rgba(15, 23, 42, 0.85);
-    backdrop-filter: blur(8px);
-    border: 1px solid rgba(255, 255, 255, 0.08);
+    background: rgba(15, 23, 42, 0.9);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
     padding: 10px 14px;
-    border-radius: 6px;
-    font-size: 0.75rem;
+    border-radius: 8px;
+    font-size: 0.72rem;
     display: flex;
     flex-direction: column;
-    gap: 6px;
+    gap: 5px;
+    max-height: 280px;
+    overflow-y: auto;
   }
+  .legend-title { font-weight: 700; color: #f8fafc; font-size: 0.76rem; margin-bottom: 2px; }
   .legend-item { display: flex; align-items: center; gap: 8px; color: #cbd5e1; }
-  .dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+  .dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; flex-shrink: 0; }
   .dot-3rd { background: #a855f7; box-shadow: 0 0 6px #a855f7; }
   .dot-hg { background: #10b981; }
   .dot-tt { background: #f59e0b; }
+  .dot-tp { background: #ef4444; }
+  .dot-wds { background: #3b82f6; }
+  .dot-fcc { background: #06b6d4; }
+  .dot-ale { background: #8b5cf6; }
   .dot-1st { background: #38bdf8; }
 
-  /* Ontology & Matrix Views */
+  /* Ontology View */
   .ontology-view, .matrix-view {
     flex: 1;
     overflow-y: auto;
-    padding: 32px;
+    padding: 28px 32px;
   }
-  .ontology-view h2, .matrix-view h2 { font-size: 1.3rem; margin-bottom: 6px; color: #fff; }
+  .view-header h2 { font-size: 1.3rem; margin-bottom: 4px; color: #fff; }
   .section-desc { color: #94a3b8; font-size: 0.85rem; margin-bottom: 24px; }
 
   .ontology-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
     gap: 20px;
   }
   .ontology-card {
-    background: rgba(30, 41, 59, 0.4);
+    background: rgba(30, 41, 59, 0.45);
     border: 1px solid rgba(255, 255, 255, 0.08);
     border-radius: 8px;
     padding: 20px;
     border-top: 3px solid #a855f7;
+    display: flex;
+    flex-direction: column;
   }
   .card-header {
     display: flex;
-    justify-content: space-between;
-    margin-bottom: 8px;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 10px;
   }
-  .category-tag { font-size: 0.72rem; color: #cbd5e1; background: rgba(255, 255, 255, 0.06); padding: 2px 6px; border-radius: 4px; }
+  .core-tag { font-size: 0.7rem; padding: 2px 6px; border-radius: 4px; font-weight: 600; }
+  .core-tag.core_psychology { background: rgba(16, 185, 129, 0.2); color: #34d399; }
+  .core-tag.core_software_engineering { background: rgba(59, 130, 246, 0.2); color: #60a5fa; }
+  .core-tag.cross_core { background: rgba(168, 85, 247, 0.2); color: #c084fc; }
+  .category-tag { font-size: 0.7rem; color: #cbd5e1; background: rgba(255, 255, 255, 0.06); padding: 2px 6px; border-radius: 4px; }
   .ontology-card h3 { font-size: 1.05rem; margin-bottom: 8px; color: #fff; }
-  .ontology-card .desc { font-size: 0.82rem; color: #94a3b8; margin-bottom: 16px; line-height: 1.4; }
-  .mapping-section h4 { font-size: 0.75rem; color: #a855f7; text-transform: uppercase; margin-bottom: 8px; }
+  .ontology-card .desc { font-size: 0.82rem; color: #94a3b8; margin-bottom: 16px; line-height: 1.45; }
+  .mapping-section h4 { font-size: 0.72rem; color: #a855f7; text-transform: uppercase; margin-bottom: 8px; }
   .tag-chips { display: flex; flex-wrap: wrap; gap: 6px; }
-  .chip { background: rgba(255, 255, 255, 0.06); padding: 3px 8px; border-radius: 4px; font-size: 0.75rem; color: #e2e8f0; }
+  .chip { background: rgba(255, 255, 255, 0.06); padding: 3px 8px; border-radius: 4px; font-size: 0.73rem; color: #e2e8f0; }
 
   /* Channel Matrix View */
-  .channel-comparison-grid {
+  .channel-matrix-grid {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 24px;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 20px;
   }
   .channel-col {
-    background: rgba(18, 26, 43, 0.6);
+    background: rgba(18, 26, 43, 0.65);
     border: 1px solid rgba(255, 255, 255, 0.08);
     border-radius: 8px;
-    padding: 20px;
+    padding: 18px;
   }
-  .col-hg { border-top: 3px solid #10b981; }
-  .col-tt { border-top: 3px solid #f59e0b; }
-  .col-header { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 16px; }
-  .col-header h3 { font-size: 1.05rem; color: #fff; }
-  .col-stats { font-size: 0.75rem; color: #94a3b8; }
-  .pillar-list { display: flex; flex-direction: column; gap: 8px; }
+  .border-hg { border-top: 3px solid #10b981; }
+  .border-tt { border-top: 3px solid #f59e0b; }
+  .border-tp { border-top: 3px solid #ef4444; }
+  .border-wds { border-top: 3px solid #3b82f6; }
+  .border-fcc { border-top: 3px solid #06b6d4; }
+  .border-ale { border-top: 3px solid #8b5cf6; }
+
+  .col-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 14px; }
+  .col-header h3 { font-size: 1.0rem; color: #fff; }
+  .col-creator { font-size: 0.75rem; color: #94a3b8; }
+  .col-stats { font-size: 0.72rem; color: #94a3b8; background: rgba(255, 255, 255, 0.06); padding: 2px 6px; border-radius: 4px; }
+  .pillar-list { display: flex; flex-direction: column; gap: 6px; }
   .pillar-row {
     display: block;
     width: 100%;
     text-align: left;
     border: 1px solid transparent;
     font-family: inherit;
-    padding: 8px 10px;
+    padding: 7px 9px;
     background: rgba(15, 23, 42, 0.5);
     border-radius: 4px;
     cursor: pointer;
@@ -595,12 +653,16 @@
     background: rgba(255, 255, 255, 0.06);
     border-color: rgba(255, 255, 255, 0.1);
   }
-  .pillar-title { font-size: 0.82rem; font-weight: 600; color: #f1f5f9; margin-bottom: 4px; }
-  .pillar-bar-wrap { display: flex; align-items: center; gap: 10px; }
-  .pillar-bar { height: 6px; border-radius: 3px; }
+  .pillar-title { font-size: 0.8rem; font-weight: 600; color: #f1f5f9; margin-bottom: 3px; }
+  .pillar-bar-wrap { display: flex; align-items: center; gap: 8px; }
+  .pillar-bar { height: 5px; border-radius: 3px; }
   .bar-hg { background: #10b981; }
   .bar-tt { background: #f59e0b; }
-  .prevalence-label { font-size: 0.72rem; color: #94a3b8; }
+  .bar-tp { background: #ef4444; }
+  .bar-wds { background: #3b82f6; }
+  .bar-fcc { background: #06b6d4; }
+  .bar-ale { background: #8b5cf6; }
+  .prevalence-label { font-size: 0.7rem; color: #94a3b8; }
 
   /* Inspector Drawer */
   .inspector-drawer {
@@ -623,7 +685,7 @@
     font-size: 1.2rem;
     cursor: pointer;
   }
-  .drawer-header { display: flex; gap: 8px; margin-bottom: 12px; }
+  .drawer-header { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
   .order-badge { font-size: 0.7rem; font-weight: 700; padding: 2px 6px; border-radius: 4px; }
   .order-3 { background: rgba(168, 85, 247, 0.2); color: #c084fc; border: 1px solid #a855f7; }
   .order-2 { background: rgba(16, 185, 129, 0.2); color: #34d399; border: 1px solid #10b981; }
@@ -632,7 +694,7 @@
   .inspector-drawer h2 { font-size: 1.15rem; margin-bottom: 16px; color: #fff; }
   .drawer-section { margin-bottom: 16px; }
   .drawer-section h4 { font-size: 0.75rem; color: #94a3b8; text-transform: uppercase; margin-bottom: 6px; }
-  .drawer-section p { font-size: 0.82rem; color: #cbd5e1; line-height: 1.4; }
+  .drawer-section p { font-size: 0.82rem; color: #cbd5e1; line-height: 1.45; }
   .drawer-section a { color: #38bdf8; text-decoration: none; font-weight: 600; }
   .drawer-section a:hover { text-decoration: underline; }
 </style>

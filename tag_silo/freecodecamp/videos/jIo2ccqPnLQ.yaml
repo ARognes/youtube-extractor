@@ -1,0 +1,39 @@
+video_id: jIo2ccqPnLQ
+title: The Paper That Created Modern AI
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=jIo2ccqPnLQ
+duration: '54:00'
+word_count: 1453
+first_order_tags:
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '30:46'
+  seconds: 1846.0
+  context: It's called Attention Is All You Need.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '49:36'
+  seconds: 2976.3
+  context: And even the AI that predicted the structure of nearly every protein known
+    to science, look under the hood and again and again and again, yo...
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '53:22'
+  seconds: 3202.3
+  context: So, yes, this was the story of the Transformer and how it came about, as
+    well as the research paper called Attention is All You Need.
+second_order_tags:
+- machine_learning_and_data_science
+- paper_and_architecture_breakdown
+- transformer_attention_mechanisms
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- mechanism attention
+- word time
+- called attention
+- running system
+- every time
+- research paper
+summary_hook: Explores machine_learning_and_data_science, transformer_attention_mechanisms,
+  paper_and_architecture_breakdown.

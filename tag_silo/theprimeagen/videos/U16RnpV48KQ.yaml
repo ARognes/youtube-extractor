@@ -1,0 +1,51 @@
+video_id: U16RnpV48KQ
+title: This Algorithm is 1,606,240% FASTER
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=U16RnpV48KQ
+duration: '38:30'
+word_count: 2547
+first_order_tags:
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: 07:00
+  seconds: 420.0
+  context: alright the next one should be obvious what we're going to do here and
+    this one will be 26 times faster which of course is to use an array i...
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: '28:00'
+  seconds: 1680.0
+  context: then we do the loop again adding in the next last item in the window which
+    is now the 14th position so now we have from 1 to 14 we do the di...
+- tag: vtag_concurrency_primitives_and_locks
+  bound_second_order: concurrency_primitives_and_locks
+  timestamp: '35:00'
+  seconds: 2100.0
+  context: now this is kind of interesting because this is pretty much the primary
+    Loop right here we just go over this code over and over and over aga...
+- tag: vtag_mechanical_sympathy
+  bound_second_order: mechanical_sympathy
+  timestamp: '35:00'
+  seconds: 2100.0
+  context: now this is kind of interesting because this is pretty much the primary
+    Loop right here we just go over this code over and over and over aga...
+second_order_tags:
+- concurrency_primitives_and_locks
+- developer_culture_and_critique
+- mechanical_sympathy
+- modal_editing_velocity
+- runtime_internals_and_garbage_collection
+- system_architecture_and_scale
+- systems_programming_and_compilers
+third_order_tags:
+- T3_DEVELOPER_ERGONOMICS_TOOLING
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- times faster
+- blazingly fast
+- faster hash
+- advent code
+- distinct characters
+- first characters
+summary_hook: Explores systems_programming_and_compilers, runtime_internals_and_garbage_collection,
+  system_architecture_and_scale.

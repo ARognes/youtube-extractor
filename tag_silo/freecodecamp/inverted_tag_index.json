@@ -1,0 +1,1881 @@
+{
+  "channel": "freecodecamp",
+  "core": "core_software_engineering",
+  "total_tags": 19,
+  "index": {
+    "computer_science_fundamentals": [
+      {
+        "video_id": "g3X8JauSWTM",
+        "title": "Stop Building AI Slop \u2013 Build High-End Web Apps with AI",
+        "timestamps": []
+      },
+      {
+        "video_id": "RpLnQnurpLY",
+        "title": "Learn Data Structures and Algorithms Visually \u2013 Crash Course",
+        "timestamps": []
+      },
+      {
+        "video_id": "R5fPn6W8m6k",
+        "title": "Code a Reinforcement Learning Library in C from Scratch (Full Course)",
+        "timestamps": []
+      },
+      {
+        "video_id": "eDqVqVyCo6k",
+        "title": "Python for Engineers & Robotics \u2013 Master NumPy, Pandas, and ChatGPT Automation",
+        "timestamps": []
+      },
+      {
+        "video_id": "XMnRj4ooYz8",
+        "title": "3D Printing & Additive Manufacturing \u2013 Full Course",
+        "timestamps": []
+      },
+      {
+        "video_id": "yVga-_gMfIM",
+        "title": "AI-Assisted Development Tutorial \u2013 Multi-Agent Coding & Deployment with TRAE IDE",
+        "timestamps": []
+      },
+      {
+        "video_id": "reDRM0tqhNs",
+        "title": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+        "timestamps": []
+      },
+      {
+        "video_id": "oDOw5tB3Udw",
+        "title": "Python for Beginners with Hands-On Projects",
+        "timestamps": []
+      },
+      {
+        "video_id": "YdhXnB5E-4s",
+        "title": "Intro to Shaders \u2013 JavaScript & p5.js Course for Beginners",
+        "timestamps": []
+      },
+      {
+        "video_id": "n1VUnHD62r0",
+        "title": "The 20 Minute Masterpiece: Dijkstra's Algorithm",
+        "timestamps": []
+      },
+      {
+        "video_id": "AZDSpS5v57w",
+        "title": "AI Agents For Beginners \u2013 OpenClaw Case Study",
+        "timestamps": []
+      },
+      {
+        "video_id": "6C14E9sQ_-w",
+        "title": "Every Major AWS Outage (And Why They Keep Happening)",
+        "timestamps": []
+      },
+      {
+        "video_id": "2WJ-ut_XEYQ",
+        "title": "Mastering JavaScript Dates and Times \u2013 Fundamentals to Advanced Techniques",
+        "timestamps": []
+      },
+      {
+        "video_id": "lz9bQm3nZIM",
+        "title": "How Hackers Think",
+        "timestamps": []
+      },
+      {
+        "video_id": "QpR4QEv5Urk",
+        "title": "Image Generation using GANs | Deep Learning with PyTorch: Zero to GANs | Part 6 of 6",
+        "timestamps": []
+      },
+      {
+        "video_id": "JN7-ZBFYSCU",
+        "title": "Data Augmentation, Regularization, and ResNets | Deep Learning with PyTorch: Zero to GANs | 5 of 6",
+        "timestamps": []
+      },
+      {
+        "video_id": "csIEMIoN0oQ",
+        "title": "How to Build a Career in Tech: Jordan Jackson Connects the Dots",
+        "timestamps": []
+      },
+      {
+        "video_id": "KgTW0xfyr9A",
+        "title": "Reactathon Conference Live Stream - Day One",
+        "timestamps": []
+      },
+      {
+        "video_id": "TTerxQRfcFc",
+        "title": "How to Build a Career in Tech: Tara Z. Manicsic Connects the Dots",
+        "timestamps": []
+      },
+      {
+        "video_id": "qsBfyUzZhTc",
+        "title": "How to Build a Career in Tech: Cassidy Williams (@cassidoo) Connects the Dots",
+        "timestamps": []
+      },
+      {
+        "video_id": "iVajTZgMk4M",
+        "title": "Solving Python Challenges - Python Basics with Sam",
+        "timestamps": []
+      },
+      {
+        "video_id": "xVA-gUk8-aM",
+        "title": "Reviewing Your Website Designs Live - with Gary Simon",
+        "timestamps": []
+      },
+      {
+        "video_id": "XRKIa4k0h2E",
+        "title": "Data Analysis with Python: Part 6 of 6 - Exploratory Data Analysis - A Case Study [Live Course]",
+        "timestamps": []
+      },
+      {
+        "video_id": "b2mLDkMSyn4",
+        "title": "Data Analysis with Python: Part 4 of 6 - Analyzing tabular data with Pandas",
+        "timestamps": []
+      },
+      {
+        "video_id": "_kNabHEZQlo",
+        "title": "Did you know that Dijkstra came up with his famous algorithm in about 20 minutes?",
+        "timestamps": []
+      }
+    ],
+    "containerization_and_orchestration": [
+      {
+        "video_id": "g3X8JauSWTM",
+        "title": "Stop Building AI Slop \u2013 Build High-End Web Apps with AI",
+        "timestamps": [
+          "31:23",
+          "39:21"
+        ]
+      },
+      {
+        "video_id": "RpLnQnurpLY",
+        "title": "Learn Data Structures and Algorithms Visually \u2013 Crash Course",
+        "timestamps": [
+          "14:10",
+          "41:17"
+        ]
+      },
+      {
+        "video_id": "iqRcGCah0Kw",
+        "title": "System Design for AI Agents \u2013 Building a Multi-Agent PR Reviewer",
+        "timestamps": [
+          "06:44",
+          "09:09",
+          "18:03",
+          "23:42",
+          "25:15",
+          "27:28",
+          "28:30"
+        ]
+      },
+      {
+        "video_id": "eDqVqVyCo6k",
+        "title": "Python for Engineers & Robotics \u2013 Master NumPy, Pandas, and ChatGPT Automation",
+        "timestamps": [
+          "06:28",
+          "29:45"
+        ]
+      },
+      {
+        "video_id": "wDWKUvTKCaw",
+        "title": "Low-Level Graphics in C \u2013 Pixel Manipulation and Frame Buffers",
+        "timestamps": [
+          "11:02",
+          "12:07",
+          "32:12"
+        ]
+      },
+      {
+        "video_id": "hAsz5GAbBQE",
+        "title": "Kubernetes Operator Best Practices \u2013 Kubebuilder Deep Dive",
+        "timestamps": [
+          "03:04",
+          "04:27",
+          "06:16",
+          "07:05",
+          "14:48",
+          "15:09",
+          "24:18",
+          "27:58",
+          "28:32",
+          "32:59",
+          "36:44"
+        ]
+      },
+      {
+        "video_id": "Zy7EXDONlTY",
+        "title": "Agentic AI \u2013 Complete Course for Beginners",
+        "timestamps": [
+          "00:07",
+          "01:04",
+          "03:07",
+          "07:20",
+          "08:44",
+          "10:32",
+          "14:13",
+          "16:23",
+          "18:54",
+          "20:10",
+          "25:31"
+        ]
+      },
+      {
+        "video_id": "XMnRj4ooYz8",
+        "title": "3D Printing & Additive Manufacturing \u2013 Full Course",
+        "timestamps": [
+          "03:21",
+          "05:44",
+          "07:29",
+          "08:03",
+          "09:18",
+          "10:25",
+          "11:16",
+          "12:31",
+          "13:23",
+          "14:06",
+          "15:30",
+          "16:50"
+        ]
+      },
+      {
+        "video_id": "bYgphDEWwvs",
+        "title": "TypeScript in Express \u2013 TypeScript Tutorial",
+        "timestamps": [
+          "20:36"
+        ]
+      },
+      {
+        "video_id": "reDRM0tqhNs",
+        "title": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+        "timestamps": [
+          "00:21",
+          "24:54"
+        ]
+      },
+      {
+        "video_id": "b-P5ZQ1NxxE",
+        "title": "Meta Muse Code & Muse Spark Course \u2013 Build AI Agents, APIs, and Full-Stack Apps",
+        "timestamps": [
+          "00:07",
+          "01:40"
+        ]
+      },
+      {
+        "video_id": "oDOw5tB3Udw",
+        "title": "Python for Beginners with Hands-On Projects",
+        "timestamps": [
+          "04:49"
+        ]
+      },
+      {
+        "video_id": "YdhXnB5E-4s",
+        "title": "Intro to Shaders \u2013 JavaScript & p5.js Course for Beginners",
+        "timestamps": [
+          "01:47",
+          "35:07"
+        ]
+      },
+      {
+        "video_id": "4GtVeULrNks",
+        "title": "React Native Full Stack Course \u2013 Clerk, Postgres, NativeWind",
+        "timestamps": [
+          "01:40",
+          "03:44",
+          "06:01",
+          "11:54",
+          "12:23",
+          "15:57",
+          "17:13",
+          "18:05"
+        ]
+      },
+      {
+        "video_id": "n1VUnHD62r0",
+        "title": "The 20 Minute Masterpiece: Dijkstra's Algorithm",
+        "timestamps": [
+          "12:46"
+        ]
+      },
+      {
+        "video_id": "aJP1AbZSqz8",
+        "title": "TypeScript in React - Full Tutorial",
+        "timestamps": [
+          "22:02",
+          "24:58",
+          "25:20",
+          "26:26",
+          "28:03"
+        ]
+      },
+      {
+        "video_id": "AZDSpS5v57w",
+        "title": "AI Agents For Beginners \u2013 OpenClaw Case Study",
+        "timestamps": []
+      },
+      {
+        "video_id": "6C14E9sQ_-w",
+        "title": "Every Major AWS Outage (And Why They Keep Happening)",
+        "timestamps": [
+          "42:59"
+        ]
+      },
+      {
+        "video_id": "hIh2O9OL69o",
+        "title": "Build an AI Agent in Telegram with Vercel, Cursor, Composio",
+        "timestamps": [
+          "10:09",
+          "26:41",
+          "28:03"
+        ]
+      },
+      {
+        "video_id": "QpR4QEv5Urk",
+        "title": "Image Generation using GANs | Deep Learning with PyTorch: Zero to GANs | Part 6 of 6",
+        "timestamps": [
+          "00:00",
+          "05:07",
+          "06:50",
+          "07:41",
+          "08:32",
+          "11:06",
+          "12:48",
+          "18:47",
+          "20:29",
+          "21:20",
+          "22:11"
+        ]
+      },
+      {
+        "video_id": "JN7-ZBFYSCU",
+        "title": "Data Augmentation, Regularization, and ResNets | Deep Learning with PyTorch: Zero to GANs | 5 of 6",
+        "timestamps": [
+          "02:34",
+          "03:01",
+          "04:14",
+          "05:14",
+          "06:19",
+          "07:01",
+          "08:07",
+          "09:41"
+        ]
+      },
+      {
+        "video_id": "d9QHNkD_Pos",
+        "title": "Image Classification with Convolutional Neural Networks | Deep Learning with PyTorch: Zero to GANs |",
+        "timestamps": [
+          "14:09"
+        ]
+      },
+      {
+        "video_id": "Sz7SImkdIpo",
+        "title": "Reactathon Conference Live Stream - Day Three",
+        "timestamps": [
+          "00:00",
+          "33:00"
+        ]
+      },
+      {
+        "video_id": "KgTW0xfyr9A",
+        "title": "Reactathon Conference Live Stream - Day One",
+        "timestamps": [
+          "00:00",
+          "03:18",
+          "29:42",
+          "42:54"
+        ]
+      },
+      {
+        "video_id": "uuuzvOEC0zw",
+        "title": "PyTorch Images and Logistic Regression | Deep Learning with PyTorch: Zero to GANs | Part 2 of 6",
+        "timestamps": [
+          "16:52"
+        ]
+      },
+      {
+        "video_id": "4fq8QlpEMec",
+        "title": "How to Build a Career in Tech: Kurt Kemple Connects the Dots",
+        "timestamps": [
+          "15:00"
+        ]
+      },
+      {
+        "video_id": "VtCUn3mY-L8",
+        "title": "How to Build a Career in Tech: Henri Helvetica Connects the Dots",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "PkLwJicRI8s",
+        "title": "Tkinter Calculator - Python Basics with Sam",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "xVA-gUk8-aM",
+        "title": "Reviewing Your Website Designs Live - with Gary Simon",
+        "timestamps": [
+          "00:00",
+          "22:30"
+        ]
+      },
+      {
+        "video_id": "TzWXqTJk6Qs",
+        "title": "Reviewing Your Website Designs Live - with Gary Simon",
+        "timestamps": [
+          "00:00",
+          "22:30",
+          "33:45"
+        ]
+      },
+      {
+        "video_id": "kZNIHeCaZiM",
+        "title": "Chicken Nuggets and itertools - Python Basics with Sam",
+        "timestamps": [
+          "07:56"
+        ]
+      },
+      {
+        "video_id": "r-GpCakJjxc",
+        "title": "Reviewing Your Website Designs Live - with Gary Simon",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "7l6bXLAKyEI",
+        "title": "Claude Code Full Course \u2013 Autonomous Goals, MCP, and VS Code Setup",
+        "timestamps": [
+          "09:43",
+          "10:44"
+        ]
+      }
+    ],
+    "relational_normalization_and_acid": [
+      {
+        "video_id": "g3X8JauSWTM",
+        "title": "Stop Building AI Slop \u2013 Build High-End Web Apps with AI",
+        "timestamps": [
+          "11:28"
+        ]
+      },
+      {
+        "video_id": "RpLnQnurpLY",
+        "title": "Learn Data Structures and Algorithms Visually \u2013 Crash Course",
+        "timestamps": [
+          "05:39",
+          "06:13",
+          "20:54",
+          "22:38",
+          "36:18"
+        ]
+      },
+      {
+        "video_id": "R5fPn6W8m6k",
+        "title": "Code a Reinforcement Learning Library in C from Scratch (Full Course)",
+        "timestamps": [
+          "01:54",
+          "06:44",
+          "09:51",
+          "16:46",
+          "17:01",
+          "26:00",
+          "27:29",
+          "31:01",
+          "40:31",
+          "52:37"
+        ]
+      },
+      {
+        "video_id": "iqRcGCah0Kw",
+        "title": "System Design for AI Agents \u2013 Building a Multi-Agent PR Reviewer",
+        "timestamps": [
+          "21:49",
+          "23:17"
+        ]
+      },
+      {
+        "video_id": "eDqVqVyCo6k",
+        "title": "Python for Engineers & Robotics \u2013 Master NumPy, Pandas, and ChatGPT Automation",
+        "timestamps": [
+          "23:58",
+          "34:52",
+          "35:01",
+          "36:02",
+          "37:01",
+          "39:28",
+          "41:56",
+          "42:01",
+          "43:05",
+          "44:13",
+          "45:02",
+          "46:10"
+        ]
+      },
+      {
+        "video_id": "wDWKUvTKCaw",
+        "title": "Low-Level Graphics in C \u2013 Pixel Manipulation and Frame Buffers",
+        "timestamps": [
+          "25:11",
+          "38:42",
+          "39:51",
+          "40:33",
+          "41:03"
+        ]
+      },
+      {
+        "video_id": "Zy7EXDONlTY",
+        "title": "Agentic AI \u2013 Complete Course for Beginners",
+        "timestamps": [
+          "00:36",
+          "26:14"
+        ]
+      },
+      {
+        "video_id": "bYgphDEWwvs",
+        "title": "TypeScript in Express \u2013 TypeScript Tutorial",
+        "timestamps": [
+          "04:51",
+          "07:09",
+          "08:16",
+          "09:09",
+          "10:57",
+          "11:10",
+          "12:07",
+          "13:34",
+          "14:04",
+          "19:19",
+          "24:41",
+          "38:52",
+          "39:36",
+          "41:36"
+        ]
+      },
+      {
+        "video_id": "reDRM0tqhNs",
+        "title": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+        "timestamps": [
+          "16:07"
+        ]
+      },
+      {
+        "video_id": "b-P5ZQ1NxxE",
+        "title": "Meta Muse Code & Muse Spark Course \u2013 Build AI Agents, APIs, and Full-Stack Apps",
+        "timestamps": [
+          "00:41",
+          "04:34",
+          "07:35",
+          "08:56"
+        ]
+      },
+      {
+        "video_id": "oDOw5tB3Udw",
+        "title": "Python for Beginners with Hands-On Projects",
+        "timestamps": [
+          "26:39",
+          "27:00",
+          "28:12",
+          "29:16",
+          "41:27"
+        ]
+      },
+      {
+        "video_id": "4GtVeULrNks",
+        "title": "React Native Full Stack Course \u2013 Clerk, Postgres, NativeWind",
+        "timestamps": [
+          "04:37",
+          "05:03",
+          "06:32",
+          "09:29",
+          "13:03",
+          "21:26",
+          "24:30"
+        ]
+      },
+      {
+        "video_id": "n1VUnHD62r0",
+        "title": "The 20 Minute Masterpiece: Dijkstra's Algorithm",
+        "timestamps": []
+      },
+      {
+        "video_id": "aJP1AbZSqz8",
+        "title": "TypeScript in React - Full Tutorial",
+        "timestamps": [
+          "03:09",
+          "08:12",
+          "09:31",
+          "10:11",
+          "11:08",
+          "12:09",
+          "38:27",
+          "41:00"
+        ]
+      },
+      {
+        "video_id": "AZDSpS5v57w",
+        "title": "AI Agents For Beginners \u2013 OpenClaw Case Study",
+        "timestamps": []
+      },
+      {
+        "video_id": "6C14E9sQ_-w",
+        "title": "Every Major AWS Outage (And Why They Keep Happening)",
+        "timestamps": [
+          "21:58",
+          "22:27",
+          "23:40",
+          "24:23"
+        ]
+      },
+      {
+        "video_id": "2WJ-ut_XEYQ",
+        "title": "Mastering JavaScript Dates and Times \u2013 Fundamentals to Advanced Techniques",
+        "timestamps": [
+          "09:58",
+          "10:02",
+          "11:21",
+          "12:09",
+          "14:05",
+          "15:03",
+          "22:26",
+          "23:57"
+        ]
+      },
+      {
+        "video_id": "rQxPGqPq8wk",
+        "title": "Why Computers Can\u2019t Count Money",
+        "timestamps": [
+          "11:49",
+          "12:34",
+          "17:00",
+          "18:28",
+          "20:41",
+          "22:54"
+        ]
+      },
+      {
+        "video_id": "QpR4QEv5Urk",
+        "title": "Image Generation using GANs | Deep Learning with PyTorch: Zero to GANs | Part 6 of 6",
+        "timestamps": [
+          "05:07",
+          "11:06",
+          "21:20",
+          "22:11"
+        ]
+      },
+      {
+        "video_id": "JN7-ZBFYSCU",
+        "title": "Data Augmentation, Regularization, and ResNets | Deep Learning with PyTorch: Zero to GANs | 5 of 6",
+        "timestamps": [
+          "00:50",
+          "05:09",
+          "06:04",
+          "07:14",
+          "09:57",
+          "10:04",
+          "11:33"
+        ]
+      },
+      {
+        "video_id": "Sz7SImkdIpo",
+        "title": "Reactathon Conference Live Stream - Day Three",
+        "timestamps": [
+          "00:00",
+          "16:30",
+          "33:00"
+        ]
+      },
+      {
+        "video_id": "KgTW0xfyr9A",
+        "title": "Reactathon Conference Live Stream - Day One",
+        "timestamps": [
+          "03:18",
+          "06:36",
+          "09:54",
+          "13:12",
+          "19:48"
+        ]
+      },
+      {
+        "video_id": "iVajTZgMk4M",
+        "title": "Solving Python Challenges - Python Basics with Sam",
+        "timestamps": [
+          "32:29"
+        ]
+      },
+      {
+        "video_id": "1vMtftJf7tQ",
+        "title": "Board Game, Lists and More - Python Basics with Sam",
+        "timestamps": [
+          "07:30",
+          "22:30",
+          "37:30"
+        ]
+      },
+      {
+        "video_id": "XRKIa4k0h2E",
+        "title": "Data Analysis with Python: Part 6 of 6 - Exploratory Data Analysis - A Case Study [Live Course]",
+        "timestamps": [
+          "04:52",
+          "05:17",
+          "06:28",
+          "08:41",
+          "11:44",
+          "14:22",
+          "27:30"
+        ]
+      },
+      {
+        "video_id": "b2mLDkMSyn4",
+        "title": "Data Analysis with Python: Part 4 of 6 - Analyzing tabular data with Pandas",
+        "timestamps": [
+          "07:53",
+          "08:09",
+          "10:02",
+          "11:19",
+          "12:02",
+          "14:11",
+          "15:30",
+          "18:47",
+          "19:44",
+          "20:56",
+          "21:12",
+          "23:14",
+          "25:12",
+          "27:50",
+          "30:29"
+        ]
+      }
+    ],
+    "transformer_attention_mechanisms": [
+      {
+        "video_id": "g3X8JauSWTM",
+        "title": "Stop Building AI Slop \u2013 Build High-End Web Apps with AI",
+        "timestamps": [
+          "16:05"
+        ]
+      },
+      {
+        "video_id": "jIo2ccqPnLQ",
+        "title": "The Paper That Created Modern AI",
+        "timestamps": [
+          "30:46",
+          "49:36",
+          "53:22"
+        ]
+      },
+      {
+        "video_id": "iqRcGCah0Kw",
+        "title": "System Design for AI Agents \u2013 Building a Multi-Agent PR Reviewer",
+        "timestamps": [
+          "17:16",
+          "22:32",
+          "23:17",
+          "28:40",
+          "30:51",
+          "31:11"
+        ]
+      },
+      {
+        "video_id": "Zy7EXDONlTY",
+        "title": "Agentic AI \u2013 Complete Course for Beginners",
+        "timestamps": [
+          "00:29",
+          "30:04"
+        ]
+      },
+      {
+        "video_id": "reDRM0tqhNs",
+        "title": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+        "timestamps": [
+          "04:43",
+          "07:28",
+          "08:22",
+          "10:05",
+          "11:14",
+          "13:33",
+          "18:39",
+          "22:42",
+          "25:13",
+          "27:31",
+          "30:02",
+          "31:11"
+        ]
+      },
+      {
+        "video_id": "b-P5ZQ1NxxE",
+        "title": "Meta Muse Code & Muse Spark Course \u2013 Build AI Agents, APIs, and Full-Stack Apps",
+        "timestamps": [
+          "00:16",
+          "05:55",
+          "10:17"
+        ]
+      },
+      {
+        "video_id": "AZDSpS5v57w",
+        "title": "AI Agents For Beginners \u2013 OpenClaw Case Study",
+        "timestamps": [
+          "00:18",
+          "01:01",
+          "02:08",
+          "03:43",
+          "04:04",
+          "05:49",
+          "06:11",
+          "08:50",
+          "09:04",
+          "10:36",
+          "11:21"
+        ]
+      },
+      {
+        "video_id": "SWGFVNQNLm4",
+        "title": "Notion Workers \u2013 Full Tutorial 2026",
+        "timestamps": [
+          "20:03",
+          "23:15",
+          "24:36",
+          "32:21",
+          "41:58",
+          "43:29",
+          "46:58"
+        ]
+      },
+      {
+        "video_id": "hIh2O9OL69o",
+        "title": "Build an AI Agent in Telegram with Vercel, Cursor, Composio",
+        "timestamps": [
+          "14:24",
+          "15:14",
+          "37:22"
+        ]
+      },
+      {
+        "video_id": "KgTW0xfyr9A",
+        "title": "Reactathon Conference Live Stream - Day One",
+        "timestamps": [
+          "03:18",
+          "19:48"
+        ]
+      },
+      {
+        "video_id": "pQMvO_ssdcA",
+        "title": "How many devs actually use that whole million-token context window...?",
+        "timestamps": [
+          "30:19"
+        ]
+      },
+      {
+        "video_id": "7l6bXLAKyEI",
+        "title": "Claude Code Full Course \u2013 Autonomous Goals, MCP, and VS Code Setup",
+        "timestamps": [
+          "13:38",
+          "30:00",
+          "30:17",
+          "45:07",
+          "51:13"
+        ]
+      }
+    ],
+    "visual_algorithm_walkthrough": [
+      {
+        "video_id": "g3X8JauSWTM",
+        "title": "Stop Building AI Slop \u2013 Build High-End Web Apps with AI",
+        "timestamps": []
+      },
+      {
+        "video_id": "RpLnQnurpLY",
+        "title": "Learn Data Structures and Algorithms Visually \u2013 Crash Course",
+        "timestamps": []
+      },
+      {
+        "video_id": "wDWKUvTKCaw",
+        "title": "Low-Level Graphics in C \u2013 Pixel Manipulation and Frame Buffers",
+        "timestamps": []
+      },
+      {
+        "video_id": "yVga-_gMfIM",
+        "title": "AI-Assisted Development Tutorial \u2013 Multi-Agent Coding & Deployment with TRAE IDE",
+        "timestamps": []
+      },
+      {
+        "video_id": "reDRM0tqhNs",
+        "title": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+        "timestamps": []
+      },
+      {
+        "video_id": "YdhXnB5E-4s",
+        "title": "Intro to Shaders \u2013 JavaScript & p5.js Course for Beginners",
+        "timestamps": []
+      },
+      {
+        "video_id": "4GtVeULrNks",
+        "title": "React Native Full Stack Course \u2013 Clerk, Postgres, NativeWind",
+        "timestamps": []
+      },
+      {
+        "video_id": "n1VUnHD62r0",
+        "title": "The 20 Minute Masterpiece: Dijkstra's Algorithm",
+        "timestamps": []
+      },
+      {
+        "video_id": "aJP1AbZSqz8",
+        "title": "TypeScript in React - Full Tutorial",
+        "timestamps": []
+      },
+      {
+        "video_id": "2WJ-ut_XEYQ",
+        "title": "Mastering JavaScript Dates and Times \u2013 Fundamentals to Advanced Techniques",
+        "timestamps": []
+      },
+      {
+        "video_id": "Sz7SImkdIpo",
+        "title": "Reactathon Conference Live Stream - Day Three",
+        "timestamps": []
+      },
+      {
+        "video_id": "4fq8QlpEMec",
+        "title": "How to Build a Career in Tech: Kurt Kemple Connects the Dots",
+        "timestamps": []
+      },
+      {
+        "video_id": "qsBfyUzZhTc",
+        "title": "How to Build a Career in Tech: Cassidy Williams (@cassidoo) Connects the Dots",
+        "timestamps": []
+      },
+      {
+        "video_id": "VtCUn3mY-L8",
+        "title": "How to Build a Career in Tech: Henri Helvetica Connects the Dots",
+        "timestamps": []
+      },
+      {
+        "video_id": "xVA-gUk8-aM",
+        "title": "Reviewing Your Website Designs Live - with Gary Simon",
+        "timestamps": []
+      },
+      {
+        "video_id": "TzWXqTJk6Qs",
+        "title": "Reviewing Your Website Designs Live - with Gary Simon",
+        "timestamps": []
+      },
+      {
+        "video_id": "r-GpCakJjxc",
+        "title": "Reviewing Your Website Designs Live - with Gary Simon",
+        "timestamps": []
+      },
+      {
+        "video_id": "XRKIa4k0h2E",
+        "title": "Data Analysis with Python: Part 6 of 6 - Exploratory Data Analysis - A Case Study [Live Course]",
+        "timestamps": []
+      },
+      {
+        "video_id": "b2mLDkMSyn4",
+        "title": "Data Analysis with Python: Part 4 of 6 - Analyzing tabular data with Pandas",
+        "timestamps": []
+      },
+      {
+        "video_id": "7l6bXLAKyEI",
+        "title": "Claude Code Full Course \u2013 Autonomous Goals, MCP, and VS Code Setup",
+        "timestamps": []
+      }
+    ],
+    "machine_learning_and_data_science": [
+      {
+        "video_id": "jIo2ccqPnLQ",
+        "title": "The Paper That Created Modern AI",
+        "timestamps": []
+      },
+      {
+        "video_id": "RpLnQnurpLY",
+        "title": "Learn Data Structures and Algorithms Visually \u2013 Crash Course",
+        "timestamps": []
+      },
+      {
+        "video_id": "R5fPn6W8m6k",
+        "title": "Code a Reinforcement Learning Library in C from Scratch (Full Course)",
+        "timestamps": []
+      },
+      {
+        "video_id": "iqRcGCah0Kw",
+        "title": "System Design for AI Agents \u2013 Building a Multi-Agent PR Reviewer",
+        "timestamps": []
+      },
+      {
+        "video_id": "eDqVqVyCo6k",
+        "title": "Python for Engineers & Robotics \u2013 Master NumPy, Pandas, and ChatGPT Automation",
+        "timestamps": []
+      },
+      {
+        "video_id": "Zy7EXDONlTY",
+        "title": "Agentic AI \u2013 Complete Course for Beginners",
+        "timestamps": []
+      },
+      {
+        "video_id": "XMnRj4ooYz8",
+        "title": "3D Printing & Additive Manufacturing \u2013 Full Course",
+        "timestamps": []
+      },
+      {
+        "video_id": "reDRM0tqhNs",
+        "title": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+        "timestamps": []
+      },
+      {
+        "video_id": "b-P5ZQ1NxxE",
+        "title": "Meta Muse Code & Muse Spark Course \u2013 Build AI Agents, APIs, and Full-Stack Apps",
+        "timestamps": []
+      },
+      {
+        "video_id": "oDOw5tB3Udw",
+        "title": "Python for Beginners with Hands-On Projects",
+        "timestamps": []
+      },
+      {
+        "video_id": "n1VUnHD62r0",
+        "title": "The 20 Minute Masterpiece: Dijkstra's Algorithm",
+        "timestamps": []
+      },
+      {
+        "video_id": "AZDSpS5v57w",
+        "title": "AI Agents For Beginners \u2013 OpenClaw Case Study",
+        "timestamps": []
+      },
+      {
+        "video_id": "QpR4QEv5Urk",
+        "title": "Image Generation using GANs | Deep Learning with PyTorch: Zero to GANs | Part 6 of 6",
+        "timestamps": []
+      },
+      {
+        "video_id": "JN7-ZBFYSCU",
+        "title": "Data Augmentation, Regularization, and ResNets | Deep Learning with PyTorch: Zero to GANs | 5 of 6",
+        "timestamps": []
+      },
+      {
+        "video_id": "d9QHNkD_Pos",
+        "title": "Image Classification with Convolutional Neural Networks | Deep Learning with PyTorch: Zero to GANs |",
+        "timestamps": []
+      },
+      {
+        "video_id": "1jsr5okmlZ0",
+        "title": "How to Build a Career in Tech: April Speight Connects the Dots",
+        "timestamps": []
+      },
+      {
+        "video_id": "Sz7SImkdIpo",
+        "title": "Reactathon Conference Live Stream - Day Three",
+        "timestamps": []
+      },
+      {
+        "video_id": "mvXDQNNcDu4",
+        "title": "Python Main Function, Door Game, and More - Python Basics with Sam",
+        "timestamps": []
+      },
+      {
+        "video_id": "KgTW0xfyr9A",
+        "title": "Reactathon Conference Live Stream - Day One",
+        "timestamps": []
+      },
+      {
+        "video_id": "Qn5DDQn0fx0",
+        "title": "Training Deep Neural Networks on a GPU | Deep Learning with PyTorch: Zero to GANs | Part 3 of 6",
+        "timestamps": []
+      },
+      {
+        "video_id": "uuuzvOEC0zw",
+        "title": "PyTorch Images and Logistic Regression | Deep Learning with PyTorch: Zero to GANs | Part 2 of 6",
+        "timestamps": []
+      },
+      {
+        "video_id": "5ioMqzMRFgM",
+        "title": "PyTorch Basics and Gradient Descent | Deep Learning with PyTorch: Zero to GANs | Part 1 of 6",
+        "timestamps": []
+      },
+      {
+        "video_id": "qsBfyUzZhTc",
+        "title": "How to Build a Career in Tech: Cassidy Williams (@cassidoo) Connects the Dots",
+        "timestamps": []
+      },
+      {
+        "video_id": "iVajTZgMk4M",
+        "title": "Solving Python Challenges - Python Basics with Sam",
+        "timestamps": []
+      },
+      {
+        "video_id": "VtCUn3mY-L8",
+        "title": "How to Build a Career in Tech: Henri Helvetica Connects the Dots",
+        "timestamps": []
+      },
+      {
+        "video_id": "3j6v4wBZWR8",
+        "title": "Random Password Generator - Python Basics with Sam",
+        "timestamps": []
+      },
+      {
+        "video_id": "PkLwJicRI8s",
+        "title": "Tkinter Calculator - Python Basics with Sam",
+        "timestamps": []
+      },
+      {
+        "video_id": "kZNIHeCaZiM",
+        "title": "Chicken Nuggets and itertools - Python Basics with Sam",
+        "timestamps": []
+      },
+      {
+        "video_id": "1vMtftJf7tQ",
+        "title": "Board Game, Lists and More - Python Basics with Sam",
+        "timestamps": []
+      },
+      {
+        "video_id": "XRKIa4k0h2E",
+        "title": "Data Analysis with Python: Part 6 of 6 - Exploratory Data Analysis - A Case Study [Live Course]",
+        "timestamps": []
+      },
+      {
+        "video_id": "bybjFBOBJlg",
+        "title": "Data Analysis with Python: Part 5 of 6 - Visualization with Matplotlib and Seaborn (Live Course)",
+        "timestamps": []
+      },
+      {
+        "video_id": "b2mLDkMSyn4",
+        "title": "Data Analysis with Python: Part 4 of 6 - Analyzing tabular data with Pandas",
+        "timestamps": []
+      },
+      {
+        "video_id": "UzDuMsnTIGQ",
+        "title": "Generators and Classes - Python Basics with Sam",
+        "timestamps": []
+      },
+      {
+        "video_id": "NlZXAytUeeE",
+        "title": "Data Analysis with Python: Part 3 of 6 Numerical Computing with Numpy (Live Course)",
+        "timestamps": []
+      },
+      {
+        "video_id": "xapvhkhlPNI",
+        "title": "Build a Shopping List for the Command Line - Python Basics with Sam",
+        "timestamps": []
+      },
+      {
+        "video_id": "lFXt6mBEiTQ",
+        "title": "Behind the popular AI tools lies a crucial bit of tech called a transformer.",
+        "timestamps": []
+      },
+      {
+        "video_id": "V9q-XvAwJQY",
+        "title": "Why understanding key ML concepts really helps you use LLMs more effectively",
+        "timestamps": []
+      },
+      {
+        "video_id": "SXfDBlyqkNQ",
+        "title": "Are you familiar with the Zen of Python? Estefania breaks down the principles here.",
+        "timestamps": []
+      }
+    ],
+    "paper_and_architecture_breakdown": [
+      {
+        "video_id": "jIo2ccqPnLQ",
+        "title": "The Paper That Created Modern AI",
+        "timestamps": []
+      },
+      {
+        "video_id": "RpLnQnurpLY",
+        "title": "Learn Data Structures and Algorithms Visually \u2013 Crash Course",
+        "timestamps": []
+      },
+      {
+        "video_id": "eDqVqVyCo6k",
+        "title": "Python for Engineers & Robotics \u2013 Master NumPy, Pandas, and ChatGPT Automation",
+        "timestamps": []
+      },
+      {
+        "video_id": "hAsz5GAbBQE",
+        "title": "Kubernetes Operator Best Practices \u2013 Kubebuilder Deep Dive",
+        "timestamps": []
+      },
+      {
+        "video_id": "Zy7EXDONlTY",
+        "title": "Agentic AI \u2013 Complete Course for Beginners",
+        "timestamps": []
+      },
+      {
+        "video_id": "XMnRj4ooYz8",
+        "title": "3D Printing & Additive Manufacturing \u2013 Full Course",
+        "timestamps": []
+      },
+      {
+        "video_id": "bYgphDEWwvs",
+        "title": "TypeScript in Express \u2013 TypeScript Tutorial",
+        "timestamps": []
+      },
+      {
+        "video_id": "reDRM0tqhNs",
+        "title": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+        "timestamps": []
+      },
+      {
+        "video_id": "b-P5ZQ1NxxE",
+        "title": "Meta Muse Code & Muse Spark Course \u2013 Build AI Agents, APIs, and Full-Stack Apps",
+        "timestamps": []
+      },
+      {
+        "video_id": "oDOw5tB3Udw",
+        "title": "Python for Beginners with Hands-On Projects",
+        "timestamps": []
+      },
+      {
+        "video_id": "4GtVeULrNks",
+        "title": "React Native Full Stack Course \u2013 Clerk, Postgres, NativeWind",
+        "timestamps": []
+      },
+      {
+        "video_id": "AZDSpS5v57w",
+        "title": "AI Agents For Beginners \u2013 OpenClaw Case Study",
+        "timestamps": []
+      },
+      {
+        "video_id": "2WJ-ut_XEYQ",
+        "title": "Mastering JavaScript Dates and Times \u2013 Fundamentals to Advanced Techniques",
+        "timestamps": []
+      },
+      {
+        "video_id": "iVajTZgMk4M",
+        "title": "Solving Python Challenges - Python Basics with Sam",
+        "timestamps": []
+      },
+      {
+        "video_id": "XRKIa4k0h2E",
+        "title": "Data Analysis with Python: Part 6 of 6 - Exploratory Data Analysis - A Case Study [Live Course]",
+        "timestamps": []
+      },
+      {
+        "video_id": "lFXt6mBEiTQ",
+        "title": "Behind the popular AI tools lies a crucial bit of tech called a transformer.",
+        "timestamps": []
+      }
+    ],
+    "asymptotic_algorithmic_complexity": [
+      {
+        "video_id": "RpLnQnurpLY",
+        "title": "Learn Data Structures and Algorithms Visually \u2013 Crash Course",
+        "timestamps": [
+          "00:57",
+          "06:10"
+        ]
+      },
+      {
+        "video_id": "csIEMIoN0oQ",
+        "title": "How to Build a Career in Tech: Jordan Jackson Connects the Dots",
+        "timestamps": [
+          "13:41"
+        ]
+      },
+      {
+        "video_id": "qsBfyUzZhTc",
+        "title": "How to Build a Career in Tech: Cassidy Williams (@cassidoo) Connects the Dots",
+        "timestamps": [
+          "14:09"
+        ]
+      }
+    ],
+    "graph_and_tree_traversals": [
+      {
+        "video_id": "RpLnQnurpLY",
+        "title": "Learn Data Structures and Algorithms Visually \u2013 Crash Course",
+        "timestamps": [
+          "26:00",
+          "26:13",
+          "27:47",
+          "45:09",
+          "46:20"
+        ]
+      },
+      {
+        "video_id": "n1VUnHD62r0",
+        "title": "The 20 Minute Masterpiece: Dijkstra's Algorithm",
+        "timestamps": [
+          "00:44",
+          "01:28",
+          "02:13",
+          "03:41",
+          "05:53",
+          "07:07",
+          "08:21",
+          "09:34",
+          "10:48",
+          "12:02",
+          "13:30",
+          "29:57",
+          "30:56",
+          "31:10"
+        ]
+      },
+      {
+        "video_id": "QpR4QEv5Urk",
+        "title": "Image Generation using GANs | Deep Learning with PyTorch: Zero to GANs | Part 6 of 6",
+        "timestamps": []
+      },
+      {
+        "video_id": "_kNabHEZQlo",
+        "title": "Did you know that Dijkstra came up with his famous algorithm in about 20 minutes?",
+        "timestamps": [
+          "04:52",
+          "09:43",
+          "17:49",
+          "27:32",
+          "30:47",
+          "34:01",
+          "37:16",
+          "38:53"
+        ]
+      }
+    ],
+    "mega_crash_course": [
+      {
+        "video_id": "RpLnQnurpLY",
+        "title": "Learn Data Structures and Algorithms Visually \u2013 Crash Course",
+        "timestamps": []
+      },
+      {
+        "video_id": "R5fPn6W8m6k",
+        "title": "Code a Reinforcement Learning Library in C from Scratch (Full Course)",
+        "timestamps": []
+      },
+      {
+        "video_id": "Zy7EXDONlTY",
+        "title": "Agentic AI \u2013 Complete Course for Beginners",
+        "timestamps": []
+      },
+      {
+        "video_id": "XMnRj4ooYz8",
+        "title": "3D Printing & Additive Manufacturing \u2013 Full Course",
+        "timestamps": []
+      },
+      {
+        "video_id": "PVAstrvWPkQ",
+        "title": "How an Apple Engineer Pranked Billion-Dollar Lawyers (and Won)",
+        "timestamps": []
+      },
+      {
+        "video_id": "2WJ-ut_XEYQ",
+        "title": "Mastering JavaScript Dates and Times \u2013 Fundamentals to Advanced Techniques",
+        "timestamps": []
+      },
+      {
+        "video_id": "mABpAI-pCw0",
+        "title": "Command Line Basics for Beginners - Full Course",
+        "timestamps": []
+      },
+      {
+        "video_id": "7q4D6_3syuE",
+        "title": "Scaling Your AI Models with Micro-DDP \u2013 Tutorial",
+        "timestamps": []
+      },
+      {
+        "video_id": "SWGFVNQNLm4",
+        "title": "Notion Workers \u2013 Full Tutorial 2026",
+        "timestamps": []
+      },
+      {
+        "video_id": "pkNzU-5oDiA",
+        "title": "Reactathon Conference Live Stream - Day Two",
+        "timestamps": []
+      },
+      {
+        "video_id": "KgTW0xfyr9A",
+        "title": "Reactathon Conference Live Stream - Day One",
+        "timestamps": []
+      },
+      {
+        "video_id": "xVA-gUk8-aM",
+        "title": "Reviewing Your Website Designs Live - with Gary Simon",
+        "timestamps": []
+      },
+      {
+        "video_id": "YHQWuLG78Hw",
+        "title": "Project-based learning is a popular way to teach these days",
+        "timestamps": []
+      },
+      {
+        "video_id": "O3foXkb1Zos",
+        "title": "AI won't necessarily displace skilled devs - it'll just move their value up the chain",
+        "timestamps": []
+      },
+      {
+        "video_id": "XgqWCiOVh7A",
+        "title": "You've likely heard \"fake it til you make it\"...well, Mark has done that, and talks about it here.",
+        "timestamps": []
+      },
+      {
+        "video_id": "osOR3nusP2I",
+        "title": "Learning how to ask good questions is a key skill you should work on",
+        "timestamps": []
+      },
+      {
+        "video_id": "heht1VB09fI",
+        "title": "Why problem-solving is key for developers",
+        "timestamps": []
+      },
+      {
+        "video_id": "JoX93gO6eko",
+        "title": "Why apps designed by AI look like apps designed by AI - and why skilled designers still matter",
+        "timestamps": []
+      },
+      {
+        "video_id": "tHhiB1kA5Zw",
+        "title": "Learning a new skill is tough. But as Jessica says, the only way to fail is to stop & not come back.",
+        "timestamps": []
+      },
+      {
+        "video_id": "9z_7WC8n5sY",
+        "title": "\"I just like computers\" - sounds like reason enough to work in tech, doesn't it?",
+        "timestamps": []
+      },
+      {
+        "video_id": "MrnOWLtCLas",
+        "title": "If you're working on a college or job application, think about this: what makes you uniquely you?",
+        "timestamps": []
+      },
+      {
+        "video_id": "kEBXszEhC0U",
+        "title": "CSS logical properties change how you code - and Chris breaks it down here.",
+        "timestamps": []
+      },
+      {
+        "video_id": "JZeJc9Z7dOg",
+        "title": "Back in 2004, email seemed like a solved problem. But an engineer at Google had different ideas...",
+        "timestamps": []
+      },
+      {
+        "video_id": "5bL1WhHj668",
+        "title": "Organizing a huge hackathon like TreeHacks is no small feat...but for Rachel, it was so worth it.",
+        "timestamps": []
+      },
+      {
+        "video_id": "jNjaBcxaJ7Y",
+        "title": "Can you help a company solve a problem - and will they let you in and learn from you?",
+        "timestamps": []
+      },
+      {
+        "video_id": "nVD3pUEaTjU",
+        "title": "Did you know...Instagram didn't start off as a photo-sharing app?",
+        "timestamps": []
+      },
+      {
+        "video_id": "J6t5ev2Z9yk",
+        "title": "How Jessica \"accidentally\" became a developer while living and working in Japan",
+        "timestamps": []
+      },
+      {
+        "video_id": "5Cm0Lr-HPDk",
+        "title": "Have you used the has selector in CSS? According to Chris Coyier, it's a game-changer.",
+        "timestamps": []
+      },
+      {
+        "video_id": "MrlJQXOmTgo",
+        "title": "Here's a little programming challenge for you: can you figure out the output of this code?",
+        "timestamps": []
+      },
+      {
+        "video_id": "r-CKT4J14uM",
+        "title": "Why in-person conferences still matter these days",
+        "timestamps": []
+      },
+      {
+        "video_id": "z76TrtlL930",
+        "title": "Here's a fun exercize for ChatGPT",
+        "timestamps": []
+      },
+      {
+        "video_id": "y8aYytIyzqs",
+        "title": "Is your job costing you your health?",
+        "timestamps": []
+      },
+      {
+        "video_id": "y-uopI6VtE4",
+        "title": "In the beginning, Amazon sold...1 book. In its first week. What a start.",
+        "timestamps": []
+      },
+      {
+        "video_id": "rN4qvA2K8lA",
+        "title": "In life, things should be important or enjoyable - or ideally both",
+        "timestamps": []
+      },
+      {
+        "video_id": "1SKV4B_WPkg",
+        "title": "Why did the dev go broke?",
+        "timestamps": []
+      },
+      {
+        "video_id": "l0fEgTBT50M",
+        "title": "Don't try to go it alone - build up a community of supporters. Life will be much easier.",
+        "timestamps": []
+      },
+      {
+        "video_id": "g4Jne1qDDhU",
+        "title": "Don't try to learn a new skill in a vacuum - build with a goal in mind",
+        "timestamps": []
+      },
+      {
+        "video_id": "8C-lYCzCVX4",
+        "title": "Netflix was created because of a late fee - thanks, Blockbuster!",
+        "timestamps": []
+      },
+      {
+        "video_id": "MxaIP40tPCQ",
+        "title": "Building trust at a new job is key - and so is being someone people actually want to work with",
+        "timestamps": []
+      },
+      {
+        "video_id": "4uNoRLpLud8",
+        "title": "Why companies still need real people responsible for critical work",
+        "timestamps": []
+      },
+      {
+        "video_id": "7l6bXLAKyEI",
+        "title": "Claude Code Full Course \u2013 Autonomous Goals, MCP, and VS Code Setup",
+        "timestamps": []
+      },
+      {
+        "video_id": "ETQjANMlkWo",
+        "title": "Google almost had a very different name (and functionality)...",
+        "timestamps": []
+      },
+      {
+        "video_id": "w_nSaJRzLw4",
+        "title": "Stop choosing between learning coding fundamentals and learning to use AI. Do both.",
+        "timestamps": []
+      },
+      {
+        "video_id": "shN9XmVABnY",
+        "title": "Build something real first, then sell it",
+        "timestamps": []
+      },
+      {
+        "video_id": "7q4D6_3syuE",
+        "title": "Scaling Your AI Models with Micro-DDP \u2013 Tutorial",
+        "timestamps": []
+      }
+    ],
+    "memoization_and_tabulation": [
+      {
+        "video_id": "RpLnQnurpLY",
+        "title": "Learn Data Structures and Algorithms Visually \u2013 Crash Course",
+        "timestamps": [
+          "51:52"
+        ]
+      }
+    ],
+    "cloud_devops_and_infrastructure": [
+      {
+        "video_id": "iqRcGCah0Kw",
+        "title": "System Design for AI Agents \u2013 Building a Multi-Agent PR Reviewer",
+        "timestamps": []
+      },
+      {
+        "video_id": "eDqVqVyCo6k",
+        "title": "Python for Engineers & Robotics \u2013 Master NumPy, Pandas, and ChatGPT Automation",
+        "timestamps": []
+      },
+      {
+        "video_id": "wDWKUvTKCaw",
+        "title": "Low-Level Graphics in C \u2013 Pixel Manipulation and Frame Buffers",
+        "timestamps": []
+      },
+      {
+        "video_id": "hAsz5GAbBQE",
+        "title": "Kubernetes Operator Best Practices \u2013 Kubebuilder Deep Dive",
+        "timestamps": []
+      },
+      {
+        "video_id": "Zy7EXDONlTY",
+        "title": "Agentic AI \u2013 Complete Course for Beginners",
+        "timestamps": []
+      },
+      {
+        "video_id": "yVga-_gMfIM",
+        "title": "AI-Assisted Development Tutorial \u2013 Multi-Agent Coding & Deployment with TRAE IDE",
+        "timestamps": []
+      },
+      {
+        "video_id": "reDRM0tqhNs",
+        "title": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+        "timestamps": []
+      },
+      {
+        "video_id": "b-P5ZQ1NxxE",
+        "title": "Meta Muse Code & Muse Spark Course \u2013 Build AI Agents, APIs, and Full-Stack Apps",
+        "timestamps": []
+      },
+      {
+        "video_id": "oDOw5tB3Udw",
+        "title": "Python for Beginners with Hands-On Projects",
+        "timestamps": []
+      },
+      {
+        "video_id": "AZDSpS5v57w",
+        "title": "AI Agents For Beginners \u2013 OpenClaw Case Study",
+        "timestamps": []
+      },
+      {
+        "video_id": "6C14E9sQ_-w",
+        "title": "Every Major AWS Outage (And Why They Keep Happening)",
+        "timestamps": []
+      },
+      {
+        "video_id": "mABpAI-pCw0",
+        "title": "Command Line Basics for Beginners - Full Course",
+        "timestamps": []
+      },
+      {
+        "video_id": "SWGFVNQNLm4",
+        "title": "Notion Workers \u2013 Full Tutorial 2026",
+        "timestamps": []
+      },
+      {
+        "video_id": "QpR4QEv5Urk",
+        "title": "Image Generation using GANs | Deep Learning with PyTorch: Zero to GANs | Part 6 of 6",
+        "timestamps": []
+      },
+      {
+        "video_id": "JN7-ZBFYSCU",
+        "title": "Data Augmentation, Regularization, and ResNets | Deep Learning with PyTorch: Zero to GANs | 5 of 6",
+        "timestamps": []
+      },
+      {
+        "video_id": "csIEMIoN0oQ",
+        "title": "How to Build a Career in Tech: Jordan Jackson Connects the Dots",
+        "timestamps": []
+      },
+      {
+        "video_id": "1jsr5okmlZ0",
+        "title": "How to Build a Career in Tech: April Speight Connects the Dots",
+        "timestamps": []
+      },
+      {
+        "video_id": "Sz7SImkdIpo",
+        "title": "Reactathon Conference Live Stream - Day Three",
+        "timestamps": []
+      },
+      {
+        "video_id": "KgTW0xfyr9A",
+        "title": "Reactathon Conference Live Stream - Day One",
+        "timestamps": []
+      },
+      {
+        "video_id": "TTerxQRfcFc",
+        "title": "How to Build a Career in Tech: Tara Z. Manicsic Connects the Dots",
+        "timestamps": []
+      },
+      {
+        "video_id": "4fq8QlpEMec",
+        "title": "How to Build a Career in Tech: Kurt Kemple Connects the Dots",
+        "timestamps": []
+      },
+      {
+        "video_id": "qsBfyUzZhTc",
+        "title": "How to Build a Career in Tech: Cassidy Williams (@cassidoo) Connects the Dots",
+        "timestamps": []
+      },
+      {
+        "video_id": "7l6bXLAKyEI",
+        "title": "Claude Code Full Course \u2013 Autonomous Goals, MCP, and VS Code Setup",
+        "timestamps": []
+      }
+    ],
+    "cybersecurity_and_ethical_hacking": [
+      {
+        "video_id": "iqRcGCah0Kw",
+        "title": "System Design for AI Agents \u2013 Building a Multi-Agent PR Reviewer",
+        "timestamps": []
+      },
+      {
+        "video_id": "eDqVqVyCo6k",
+        "title": "Python for Engineers & Robotics \u2013 Master NumPy, Pandas, and ChatGPT Automation",
+        "timestamps": []
+      },
+      {
+        "video_id": "hAsz5GAbBQE",
+        "title": "Kubernetes Operator Best Practices \u2013 Kubebuilder Deep Dive",
+        "timestamps": []
+      },
+      {
+        "video_id": "Zy7EXDONlTY",
+        "title": "Agentic AI \u2013 Complete Course for Beginners",
+        "timestamps": []
+      },
+      {
+        "video_id": "yVga-_gMfIM",
+        "title": "AI-Assisted Development Tutorial \u2013 Multi-Agent Coding & Deployment with TRAE IDE",
+        "timestamps": []
+      },
+      {
+        "video_id": "reDRM0tqhNs",
+        "title": "Claude Certified Architect - Foundations \u2013 Prepare for and pass the exam!",
+        "timestamps": []
+      },
+      {
+        "video_id": "b-P5ZQ1NxxE",
+        "title": "Meta Muse Code & Muse Spark Course \u2013 Build AI Agents, APIs, and Full-Stack Apps",
+        "timestamps": []
+      },
+      {
+        "video_id": "oDOw5tB3Udw",
+        "title": "Python for Beginners with Hands-On Projects",
+        "timestamps": []
+      },
+      {
+        "video_id": "4GtVeULrNks",
+        "title": "React Native Full Stack Course \u2013 Clerk, Postgres, NativeWind",
+        "timestamps": []
+      },
+      {
+        "video_id": "AZDSpS5v57w",
+        "title": "AI Agents For Beginners \u2013 OpenClaw Case Study",
+        "timestamps": []
+      },
+      {
+        "video_id": "6C14E9sQ_-w",
+        "title": "Every Major AWS Outage (And Why They Keep Happening)",
+        "timestamps": []
+      },
+      {
+        "video_id": "lz9bQm3nZIM",
+        "title": "How Hackers Think",
+        "timestamps": []
+      },
+      {
+        "video_id": "SWGFVNQNLm4",
+        "title": "Notion Workers \u2013 Full Tutorial 2026",
+        "timestamps": []
+      },
+      {
+        "video_id": "Sz7SImkdIpo",
+        "title": "Reactathon Conference Live Stream - Day Three",
+        "timestamps": []
+      },
+      {
+        "video_id": "KgTW0xfyr9A",
+        "title": "Reactathon Conference Live Stream - Day One",
+        "timestamps": []
+      },
+      {
+        "video_id": "FVgbs2wvKmE",
+        "title": "The first webcam was invented to watch...coffee?",
+        "timestamps": []
+      },
+      {
+        "video_id": "-sYDCt_NFIM",
+        "title": "Sometimes, the more you learn about something, the more curious you become. Follow that curiosity.",
+        "timestamps": []
+      },
+      {
+        "video_id": "7l6bXLAKyEI",
+        "title": "Claude Code Full Course \u2013 Autonomous Goals, MCP, and VS Code Setup",
+        "timestamps": []
+      }
+    ],
+    "combinatorial_algorithm_exhaustion": [
+      {
+        "video_id": "eDqVqVyCo6k",
+        "title": "Python for Engineers & Robotics \u2013 Master NumPy, Pandas, and ChatGPT Automation",
+        "timestamps": [
+          "19:33"
+        ]
+      }
+    ],
+    "semantic_chunking_tokenization": [
+      {
+        "video_id": "Zy7EXDONlTY",
+        "title": "Agentic AI \u2013 Complete Course for Beginners",
+        "timestamps": []
+      },
+      {
+        "video_id": "AZDSpS5v57w",
+        "title": "AI Agents For Beginners \u2013 OpenClaw Case Study",
+        "timestamps": [
+          "00:18",
+          "03:47",
+          "04:09"
+        ]
+      },
+      {
+        "video_id": "hIh2O9OL69o",
+        "title": "Build an AI Agent in Telegram with Vercel, Cursor, Composio",
+        "timestamps": [
+          "14:47",
+          "15:01"
+        ]
+      }
+    ],
+    "infrastructure_misconfiguration": [
+      {
+        "video_id": "XMnRj4ooYz8",
+        "title": "3D Printing & Additive Manufacturing \u2013 Full Course",
+        "timestamps": [
+          "02:11",
+          "13:41",
+          "17:04"
+        ]
+      },
+      {
+        "video_id": "b-P5ZQ1NxxE",
+        "title": "Meta Muse Code & Muse Spark Course \u2013 Build AI Agents, APIs, and Full-Stack Apps",
+        "timestamps": [
+          "10:31"
+        ]
+      },
+      {
+        "video_id": "csIEMIoN0oQ",
+        "title": "How to Build a Career in Tech: Jordan Jackson Connects the Dots",
+        "timestamps": [
+          "05:09",
+          "07:07"
+        ]
+      },
+      {
+        "video_id": "Sz7SImkdIpo",
+        "title": "Reactathon Conference Live Stream - Day Three",
+        "timestamps": [
+          "16:30"
+        ]
+      }
+    ],
+    "mobile_and_cross_platform_dev": [
+      {
+        "video_id": "4GtVeULrNks",
+        "title": "React Native Full Stack Course \u2013 Clerk, Postgres, NativeWind",
+        "timestamps": []
+      },
+      {
+        "video_id": "AZDSpS5v57w",
+        "title": "AI Agents For Beginners \u2013 OpenClaw Case Study",
+        "timestamps": []
+      },
+      {
+        "video_id": "Sz7SImkdIpo",
+        "title": "Reactathon Conference Live Stream - Day Three",
+        "timestamps": []
+      },
+      {
+        "video_id": "KgTW0xfyr9A",
+        "title": "Reactathon Conference Live Stream - Day One",
+        "timestamps": []
+      },
+      {
+        "video_id": "XRKIa4k0h2E",
+        "title": "Data Analysis with Python: Part 6 of 6 - Exploratory Data Analysis - A Case Study [Live Course]",
+        "timestamps": []
+      }
+    ],
+    "two_pointer_and_sliding_window": [
+      {
+        "video_id": "AZDSpS5v57w",
+        "title": "AI Agents For Beginners \u2013 OpenClaw Case Study",
+        "timestamps": [
+          "06:12"
+        ]
+      }
+    ],
+    "tutorial_hell_and_passive_consumption": [
+      {
+        "video_id": "4fq8QlpEMec",
+        "title": "How to Build a Career in Tech: Kurt Kemple Connects the Dots",
+        "timestamps": [
+          "30:00"
+        ]
+      }
+    ]
+  }
+}

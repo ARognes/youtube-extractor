@@ -1,0 +1,28 @@
+video_id: boD0ReK62FI
+title: Looking Under the Hood of JavaScript
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=boD0ReK62FI
+duration: '38:30'
+word_count: 1275
+first_order_tags:
+- tag: vtag_concurrency_primitives_and_locks
+  bound_second_order: concurrency_primitives_and_locks
+  timestamp: 00:00
+  seconds: 0.0
+  context: so what's wrong with this code now your first thought was it's not rust
+    which you would normally be correct but not this time it's the infin...
+second_order_tags:
+- concurrency_primitives_and_locks
+- runtime_internals_and_garbage_collection
+- systems_programming_and_compilers
+third_order_tags:
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- negative number
+- long actually
+- 32-bit number
+- stranger number
+- execute immediately
+- chromium code
+summary_hook: Explores systems_programming_and_compilers, runtime_internals_and_garbage_collection,
+  concurrency_primitives_and_locks.

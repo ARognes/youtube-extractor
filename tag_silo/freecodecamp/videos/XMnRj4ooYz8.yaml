@@ -1,0 +1,114 @@
+video_id: XMnRj4ooYz8
+title: 3D Printing & Additive Manufacturing – Full Course
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=XMnRj4ooYz8
+duration: '54:00'
+word_count: 58941
+first_order_tags:
+- tag: vtag_infrastructure_misconfiguration
+  bound_second_order: infrastructure_misconfiguration
+  timestamp: 02:11
+  seconds: 130.6
+  context: So it is fast, it is quick and the factories can optimize the production
+    process and also using the same efficiency, the same decision-m abi...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 03:21
+  seconds: 200.7
+  context: For example, if I have there is a 3D print build volume where I can fit
+    five components, all the five components can have different designs ...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 05:44
+  seconds: 344.4
+  context: Whereas in 3D printing the cost will decrease but again the decrease in
+    cost is very minimal if the volume increases.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 07:29
+  seconds: 448.9
+  context: Uh now in the next part of the module what we will be doing is we'll be
+    learning about each of these technologies in detail but we will limi...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 08:03
+  seconds: 483.4
+  context: features which s are of size in the range of microns like micro needle
+    prototypes as you can see in this image.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 09:18
+  seconds: 558.2
+  context: And definitely we can do a low volume production of small components where
+    the batches is in from hundreds to thousands.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '10:25'
+  seconds: 624.7
+  context: Now in this video if you see uh the software may you will have a virtual
+    build volume where you can create the parts in the build volume.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '11:16'
+  seconds: 675.8
+  context: Now you can clearly see in the image that uh there is a built platform
+    on which uh metal wire is being depos melted and deposited uh layer b...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '12:31'
+  seconds: 750.6
+  context: The material wastage is minimum and at the same time in a single build
+    if we are able to accommodate multiple components based on the build ...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '13:23'
+  seconds: 802.9
+  context: Now automotive is primarily using right now additive manufacturing for
+    prototyping because at the mass production level the volume of automo...
+- tag: vtag_infrastructure_misconfiguration
+  bound_second_order: infrastructure_misconfiguration
+  timestamp: '13:41'
+  seconds: 820.7
+  context: So having localized solutions through which you can produce the spare parts
+    on demand whenever required helps the energy sector a lot and uh...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '14:06'
+  seconds: 845.6
+  context: I will take you through this quick uh GIF image where you can see that
+    uh wherever the blue area is there till that time the cold uh air is ...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '15:30'
+  seconds: 930.0
+  context: Uh you can have a look at the image.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '16:50'
+  seconds: 1009.5
+  context: So the image that you see on your right hand side is someone is holding
+    a vacuum uh injection molded component in his hand but below that wh...
+- tag: vtag_infrastructure_misconfiguration
+  bound_second_order: infrastructure_misconfiguration
+  timestamp: '17:04'
+  seconds: 1023.8
+  context: So oil and gas has a very specific way of using 3D printing uh for the
+    spare parts management because if we talk about oil and gas where the...
+second_order_tags:
+- computer_science_fundamentals
+- containerization_and_orchestration
+- infrastructure_misconfiguration
+- machine_learning_and_data_science
+- mega_crash_course
+- paper_and_architecture_breakdown
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- additive manufacturing
+- powder fusion
+- being used
+- topology optimization
+- module will
+- powder particles
+summary_hook: Explores computer_science_fundamentals, machine_learning_and_data_science,
+  containerization_and_orchestration.

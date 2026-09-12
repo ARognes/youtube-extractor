@@ -1,0 +1,115 @@
+video_id: ULS7LHNScHc
+title: Stop Using Context in React - Use This Instead
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=ULS7LHNScHc
+duration: '36:06'
+word_count: 4684
+first_order_tags:
+- tag: vtag_custom_hook_and_state_encapsulation
+  bound_second_order: custom_hook_and_state_encapsulation
+  timestamp: 00:00
+  seconds: 0.0
+  context: Zustand is an incredibly powerful state management library that I've used
+    to build applications from simple counters all the way to complete...
+- tag: vtag_use_sync_external_store_migration
+  bound_second_order: use_sync_external_store_migration
+  timestamp: 00:00
+  seconds: 0.0
+  context: Zustand is an incredibly powerful state management library that I've used
+    to build applications from simple counters all the way to complete...
+- tag: vtag_custom_hook_and_state_encapsulation
+  bound_second_order: custom_hook_and_state_encapsulation
+  timestamp: 01:28
+  seconds: 87.6
+  context: And then we're using a custom hook we called the created use counter.
+- tag: vtag_custom_hook_and_state_encapsulation
+  bound_second_order: custom_hook_and_state_encapsulation
+  timestamp: 02:55
+  seconds: 175.2
+  context: Now the reason that this is happening is because when you use context inside
+    of React, every single time you access your context through tha...
+- tag: vtag_unnecessary_re_renders
+  bound_second_order: unnecessary_re_renders
+  timestamp: 02:55
+  seconds: 175.2
+  context: Now the reason that this is happening is because when you use context inside
+    of React, every single time you access your context through tha...
+- tag: vtag_unnecessary_re_renders
+  bound_second_order: unnecessary_re_renders
+  timestamp: 03:11
+  seconds: 191.1
+  context: This can lead to massive performance problems because if you have a context
+    that's wrapping most of your application and you use it in lots ...
+- tag: vtag_custom_hook_and_state_encapsulation
+  bound_second_order: custom_hook_and_state_encapsulation
+  timestamp: 04:07
+  seconds: 246.9
+  context: And this is because with Zustand, you're essentially creating a custom
+    hook.
+- tag: vtag_custom_hook_and_state_encapsulation
+  bound_second_order: custom_hook_and_state_encapsulation
+  timestamp: 06:22
+  seconds: 382.2
+  context: And now we've created a custom hook called this use counter store that
+    just stores a count variable in it and nothing else at all.
+- tag: vtag_unnecessary_re_renders
+  bound_second_order: unnecessary_re_renders
+  timestamp: '14:28'
+  seconds: 868.0
+  context: So now what essentially is going to happen is it's going to extract that
+    count variable out and it's only going to re-render this component ...
+- tag: vtag_unnecessary_re_renders
+  bound_second_order: unnecessary_re_renders
+  timestamp: '15:16'
+  seconds: 915.8
+  context: And since they never change, the code in this section should never re-render.
+- tag: vtag_unnecessary_re_renders
+  bound_second_order: unnecessary_re_renders
+  timestamp: '17:23'
+  seconds: 1043.2
+  context: And that's cuz we're technically getting an infinite loop.
+- tag: vtag_unnecessary_re_renders
+  bound_second_order: unnecessary_re_renders
+  timestamp: '18:03'
+  seconds: 1083.0
+  context: Then the object is different, re-render, and so on an infinite number of
+    times.
+- tag: vtag_custom_hook_and_state_encapsulation
+  bound_second_order: custom_hook_and_state_encapsulation
+  timestamp: '29:52'
+  seconds: 1791.7
+  context: Another optional thing that I pretty much recommend for every use case
+    of Zustand is that you use Immer or some others type of immutable sta...
+- tag: vtag_use_sync_external_store_migration
+  bound_second_order: use_sync_external_store_migration
+  timestamp: '29:52'
+  seconds: 1791.7
+  context: Another optional thing that I pretty much recommend for every use case
+    of Zustand is that you use Immer or some others type of immutable sta...
+- tag: vtag_custom_hook_and_state_encapsulation
+  bound_second_order: custom_hook_and_state_encapsulation
+  timestamp: '35:42'
+  seconds: 2142.1
+  context: Now, Zustand and state management in general is amazing, but sometimes
+    you just don't need it.
+second_order_tags:
+- backend_and_database_integration
+- custom_hook_and_state_encapsulation
+- feature_deep_dive
+- frontend_reactivity_and_frameworks
+- modern_css_and_layouts
+- practical_project_build
+- typescript_and_type_safety
+- unnecessary_re_renders
+- use_sync_external_store_migration
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- counter store
+- decrement reset
+- count variable
+- increment decrement
+- current state
+- exactly same
+summary_hook: Explores frontend_reactivity_and_frameworks, modern_css_and_layouts,
+  typescript_and_type_safety.

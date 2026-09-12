@@ -1,0 +1,28 @@
+video_id: ZNFdkTIzdXM
+title: 'Rust for TypeScript devs : Borrow Checker'
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=ZNFdkTIzdXM
+duration: '35:00'
+word_count: 1841
+first_order_tags:
+- tag: vtag_garbage_collector_stop_the_world_latency
+  bound_second_order: garbage_collector_stop_the_world_latency
+  timestamp: 08:45
+  seconds: 525.0
+  context: push you know five and it's going to tell you sorry you cannot borrow this
+    thing as mutable it's immutable so now we have made this effectiv...
+second_order_tags:
+- garbage_collector_stop_the_world_latency
+- runtime_internals_and_garbage_collection
+- systems_programming_and_compilers
+third_order_tags:
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- mutable reference
+- borrow checker
+- reference value
+- last item
+- immutable reference
+- create array
+summary_hook: Explores systems_programming_and_compilers, runtime_internals_and_garbage_collection,
+  garbage_collector_stop_the_world_latency.

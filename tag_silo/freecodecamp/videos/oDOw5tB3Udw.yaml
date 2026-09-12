@@ -1,0 +1,58 @@
+video_id: oDOw5tB3Udw
+title: Python for Beginners with Hands-On Projects
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=oDOw5tB3Udw
+duration: '54:00'
+word_count: 67804
+first_order_tags:
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 04:49
+  seconds: 289.4
+  context: In simple terms a variable is a container that stores data.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '26:39'
+  seconds: 1598.7
+  context: Ordered means list item maintain their defined sequence and can be accessed
+    using index numbers in that specific order.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '27:00'
+  seconds: 1620.3
+  context: These are called index values.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '28:12'
+  seconds: 1691.6
+  context: So index value of apple is zero.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '29:16'
+  seconds: 1755.7
+  context: As you can see here just like uh lists the tupil are indexed means tupal
+    items can be accessed using index their index values.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '41:27'
+  seconds: 2487.4
+  context: So zero means the index is going to start from one.
+second_order_tags:
+- cloud_devops_and_infrastructure
+- computer_science_fundamentals
+- containerization_and_orchestration
+- cybersecurity_and_ethical_hacking
+- machine_learning_and_data_science
+- paper_and_architecture_breakdown
+- relational_normalization_and_acid
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- execute code
+- dive practicals
+- loop runs
+- working directory
+- current value
+- line number
+summary_hook: Explores computer_science_fundamentals, cloud_devops_and_infrastructure,
+  machine_learning_and_data_science.

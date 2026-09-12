@@ -1,0 +1,36 @@
+video_id: h7UEwBaGoVo
+title: Is TypeScript (NodeJS) Faster than Go?? |  A server comparison
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=h7UEwBaGoVo
+duration: '38:30'
+word_count: 2048
+first_order_tags:
+- tag: vtag_type_system_soundness
+  bound_second_order: type_system_soundness
+  timestamp: 00:00
+  seconds: 0.0
+  context: so if you've been on Twitter at any point you would think that JavaScript
+    is the greatest language ever and that everybody uses it everybody...
+- tag: vtag_concurrency_primitives_and_locks
+  bound_second_order: concurrency_primitives_and_locks
+  timestamp: 00:00
+  seconds: 0.0
+  context: so if you've been on Twitter at any point you would think that JavaScript
+    is the greatest language ever and that everybody uses it everybody...
+second_order_tags:
+- concurrency_primitives_and_locks
+- runtime_internals_and_garbage_collection
+- system_architecture_and_scale
+- systems_programming_and_compilers
+- type_system_soundness
+third_order_tags:
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- amount time
+- blazingly fast
+- sockets will
+- will emit
+- blazing fast
+- single message
+summary_hook: Explores systems_programming_and_compilers, runtime_internals_and_garbage_collection,
+  system_architecture_and_scale.

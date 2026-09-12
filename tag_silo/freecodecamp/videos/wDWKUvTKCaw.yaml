@@ -1,0 +1,68 @@
+video_id: wDWKUvTKCaw
+title: Low-Level Graphics in C – Pixel Manipulation and Frame Buffers
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=wDWKUvTKCaw
+duration: '54:00'
+word_count: 14591
+first_order_tags:
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '11:02'
+  seconds: 661.8
+  context: And this texture right here, we can think of it as an image, right?
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '12:07'
+  seconds: 726.8
+  context: So I'm going to update this texture image right here with the contents
+    of the frame buffer which is what I have been manipulating.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '25:11'
+  seconds: 1511.0
+  context: You can come here and look by API or just the complete API index.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '32:12'
+  seconds: 1931.8
+  context: So to find the pitch of our texture that we're trying to update the pitch
+    is the width right so how wide is that image so each row of that i...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '38:42'
+  seconds: 2321.9
+  context: So you int 32t color and this is the function that's going to convert x
+    and y into array index right the frame buffer array index for us.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '39:51'
+  seconds: 2390.8
+  context: Well, for us to go from 2D to array index in the frame buffer, let's just
+    think about that.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '40:33'
+  seconds: 2432.9
+  context: So again let's review that for me to go from X and Y 2D to the actual index
+    position I have to go 30 * 320 plus 60.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '41:03'
+  seconds: 2463.5
+  context: This is how we get from x and y to frame buffer index of my array.
+second_order_tags:
+- cloud_devops_and_infrastructure
+- containerization_and_orchestration
+- relational_normalization_and_acid
+- visual_algorithm_walkthrough
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- frame buffer
+- operating system
+- buffer array
+- create window
+- programming language
+- update texture
+summary_hook: Explores cloud_devops_and_infrastructure, containerization_and_orchestration,
+  relational_normalization_and_acid.

@@ -1,0 +1,28 @@
+video_id: VtCUn3mY-L8
+title: 'How to Build a Career in Tech: Henri Helvetica Connects the Dots'
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=VtCUn3mY-L8
+duration: '45:00'
+word_count: 9109
+first_order_tags:
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 00:00
+  seconds: 0.0
+  context: hello everyone thank you so much for your patience we are here we're up
+    and running i am so excited to bring you the first in a series of in...
+second_order_tags:
+- containerization_and_orchestration
+- machine_learning_and_data_science
+- visual_algorithm_walkthrough
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- thank much
+- little more
+- yeah mean
+- public work
+- learn jason
+- free code
+summary_hook: Explores machine_learning_and_data_science, containerization_and_orchestration,
+  visual_algorithm_walkthrough.

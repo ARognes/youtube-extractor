@@ -1,0 +1,33 @@
+video_id: V0MSrZ-ffjY
+title: Managing Software Engineers
+channel: ThePrimeagenHighlights
+url: https://www.youtube.com/watch?v=V0MSrZ-ffjY
+duration: '36:54'
+word_count: 75
+first_order_tags:
+- tag: vtag_zero_cost_abstractions
+  bound_second_order: zero_cost_abstractions
+  timestamp: 00:00
+  seconds: 0.0
+  context: this is like my strongest stance on software engineering which is that
+    you don't need a lot of management what you actually need is to have ...
+- tag: vtag_premature_abstraction_bloat
+  bound_second_order: premature_abstraction_bloat
+  timestamp: 00:00
+  seconds: 0.0
+  context: this is like my strongest stance on software engineering which is that
+    you don't need a lot of management what you actually need is to have ...
+second_order_tags:
+- developer_culture_and_critique
+- premature_abstraction_bloat
+- zero_cost_abstractions
+third_order_tags:
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- software engineering
+- strongest stance
+- stance software
+- engineering need
+- need management
+- management actually
+summary_hook: Explores developer_culture_and_critique, zero_cost_abstractions, premature_abstraction_bloat.

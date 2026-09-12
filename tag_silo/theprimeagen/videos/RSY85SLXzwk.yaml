@@ -1,0 +1,28 @@
+video_id: RSY85SLXzwk
+title: Go is blazingly faster than Zig?
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=RSY85SLXzwk
+duration: '35:00'
+word_count: 1714
+first_order_tags:
+- tag: vtag_concurrency_primitives_and_locks
+  bound_second_order: concurrency_primitives_and_locks
+  timestamp: 00:00
+  seconds: 0.0
+  context: Zig a general purpose programming language recently made Popular by bun
+    is a blazingly fast programming language go it's pretty easy and it'...
+second_order_tags:
+- concurrency_primitives_and_locks
+- runtime_internals_and_garbage_collection
+- systems_programming_and_compilers
+third_order_tags:
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- blazingly fast
+- concurrent connections
+- requests second
+- programming language
+- guest appearance
+- items queue
+summary_hook: Explores systems_programming_and_compilers, runtime_internals_and_garbage_collection,
+  concurrency_primitives_and_locks.

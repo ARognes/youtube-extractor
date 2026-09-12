@@ -1,0 +1,98 @@
+channel: web_dev_simplified
+core: core_software_engineering
+order: 2
+scope: channel_bound
+total_videos_analyzed: 82
+total_spoken_words: 290299
+compiled_at: '2026-09-11T21:12:36.668191'
+second_order_tags:
+  practical_project_build:
+    tag: practical_project_build
+    channel: web_dev_simplified
+    video_occurrences: 45
+    prevalence_pct: 54.9
+  modern_css_and_layouts:
+    tag: modern_css_and_layouts
+    channel: web_dev_simplified
+    video_occurrences: 39
+    prevalence_pct: 47.6
+  typescript_and_type_safety:
+    tag: typescript_and_type_safety
+    channel: web_dev_simplified
+    video_occurrences: 31
+    prevalence_pct: 37.8
+  frontend_reactivity_and_frameworks:
+    tag: frontend_reactivity_and_frameworks
+    channel: web_dev_simplified
+    video_occurrences: 29
+    prevalence_pct: 35.4
+  backend_and_database_integration:
+    tag: backend_and_database_integration
+    channel: web_dev_simplified
+    video_occurrences: 27
+    prevalence_pct: 32.9
+  feature_deep_dive:
+    tag: feature_deep_dive
+    channel: web_dev_simplified
+    video_occurrences: 25
+    prevalence_pct: 30.5
+  pattern_vs_antipattern_comparison:
+    tag: pattern_vs_antipattern_comparison
+    channel: web_dev_simplified
+    video_occurrences: 15
+    prevalence_pct: 18.3
+  form_validation_and_schema_parsing:
+    tag: form_validation_and_schema_parsing
+    channel: web_dev_simplified
+    video_occurrences: 10
+    prevalence_pct: 12.2
+  ai_application_engineering:
+    tag: ai_application_engineering
+    channel: web_dev_simplified
+    video_occurrences: 8
+    prevalence_pct: 9.8
+  css_layout_algorithms:
+    tag: css_layout_algorithms
+    channel: web_dev_simplified
+    video_occurrences: 8
+    prevalence_pct: 9.8
+  use_sync_external_store_migration:
+    tag: use_sync_external_store_migration
+    channel: web_dev_simplified
+    video_occurrences: 5
+    prevalence_pct: 6.1
+  unnecessary_re_renders:
+    tag: unnecessary_re_renders
+    channel: web_dev_simplified
+    video_occurrences: 5
+    prevalence_pct: 6.1
+  custom_hook_and_state_encapsulation:
+    tag: custom_hook_and_state_encapsulation
+    channel: web_dev_simplified
+    video_occurrences: 4
+    prevalence_pct: 4.9
+  declarative_vs_imperative_ui:
+    tag: declarative_vs_imperative_ui
+    channel: web_dev_simplified
+    video_occurrences: 4
+    prevalence_pct: 4.9
+  css_specificity_and_cascade_wars:
+    tag: css_specificity_and_cascade_wars
+    channel: web_dev_simplified
+    video_occurrences: 2
+    prevalence_pct: 2.4
+  server_components_and_isomorphic_rendering:
+    tag: server_components_and_isomorphic_rendering
+    channel: web_dev_simplified
+    video_occurrences: 2
+    prevalence_pct: 2.4
+  rag_chunking_and_embedding_pipeline:
+    tag: rag_chunking_and_embedding_pipeline
+    channel: web_dev_simplified
+    video_occurrences: 1
+    prevalence_pct: 1.2
+  prop_drilling_and_state_spaghetti:
+    tag: prop_drilling_and_state_spaghetti
+    channel: web_dev_simplified
+    video_occurrences: 1
+    prevalence_pct: 1.2

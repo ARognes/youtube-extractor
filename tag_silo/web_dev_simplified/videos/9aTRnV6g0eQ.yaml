@@ -1,0 +1,115 @@
+video_id: 9aTRnV6g0eQ
+title: Learn React With This One Project
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=9aTRnV6g0eQ
+duration: '36:06'
+word_count: 25202
+first_order_tags:
+- tag: vtag_css_layout_algorithms
+  bound_second_order: css_layout_algorithms
+  timestamp: 03:23
+  seconds: 203.0
+  context: Easiest way for me to lay that out is with flexbox.
+- tag: vtag_declarative_vs_imperative_ui
+  bound_second_order: declarative_vs_imperative_ui
+  timestamp: 05:37
+  seconds: 337.3
+  context: This is where the idea of props come in.
+- tag: vtag_declarative_vs_imperative_ui
+  bound_second_order: declarative_vs_imperative_ui
+  timestamp: 06:01
+  seconds: 360.7
+  context: So, let's create that type button props.
+- tag: vtag_declarative_vs_imperative_ui
+  bound_second_order: declarative_vs_imperative_ui
+  timestamp: '10:56'
+  seconds: 655.9
+  context: And now in here we can take in a habit property and we'll call this our
+    habit item props as our type.
+- tag: vtag_declarative_vs_imperative_ui
+  bound_second_order: declarative_vs_imperative_ui
+  timestamp: '14:03'
+  seconds: 843.3
+  context: So if I wanted to have to manually pass every single one of those by passing
+    the prop here, putting the props up here and then putting it do...
+- tag: vtag_declarative_vs_imperative_ui
+  bound_second_order: declarative_vs_imperative_ui
+  timestamp: '15:45'
+  seconds: 944.8
+  context: So for example, this add habit button, I can make slightly bigger, or these
+    buttons I can make stack vertically instead, and since my compon...
+- tag: vtag_css_layout_algorithms
+  bound_second_order: css_layout_algorithms
+  timestamp: '16:55'
+  seconds: 1015.1
+  context: For example, we want it to be flexbox based.
+- tag: vtag_unnecessary_re_renders
+  bound_second_order: unnecessary_re_renders
+  timestamp: '17:54'
+  seconds: 1074.4
+  context: And that's the important thing to understand about React is state is the
+    one thing that causes your application to re-render.
+- tag: vtag_declarative_vs_imperative_ui
+  bound_second_order: declarative_vs_imperative_ui
+  timestamp: '17:56'
+  seconds: 1076.0
+  context: So, the way React works is kind of different than like JavaScript and that
+    it's a reactive declarative language.
+- tag: vtag_unnecessary_re_renders
+  bound_second_order: unnecessary_re_renders
+  timestamp: '18:07'
+  seconds: 1086.9
+  context: So, it's important to understand how state works because it is the one
+    way you cause your application to re-render and make it actually reac...
+- tag: vtag_declarative_vs_imperative_ui
+  bound_second_order: declarative_vs_imperative_ui
+  timestamp: '19:09'
+  seconds: 1149.4
+  context: I actually want to get rid of that and make it so that my habits are passed
+    into this component so we can say that we're going to get the pr...
+- tag: vtag_unnecessary_re_renders
+  bound_second_order: unnecessary_re_renders
+  timestamp: '20:52'
+  seconds: 1252.4
+  context: The page doesn't re-render until after all of our set state changes have
+    been made.
+- tag: vtag_prop_drilling_and_state_spaghetti
+  bound_second_order: prop_drilling_and_state_spaghetti
+  timestamp: '22:15'
+  seconds: 1335.2
+  context: This is what's called prop drilling.
+- tag: vtag_prop_drilling_and_state_spaghetti
+  bound_second_order: prop_drilling_and_state_spaghetti
+  timestamp: '23:43'
+  seconds: 1422.7
+  context: Up here, I need to pass that along cuz again, we have that prop drilling
+    thing that I talked about.
+- tag: vtag_unnecessary_re_renders
+  bound_second_order: unnecessary_re_renders
+  timestamp: '23:58'
+  seconds: 1438.3
+  context: It'll re-render my form and it'll re-render my list where ultimately those
+    changes are being reflected.
+second_order_tags:
+- backend_and_database_integration
+- css_layout_algorithms
+- custom_hook_and_state_encapsulation
+- declarative_vs_imperative_ui
+- form_validation_and_schema_parsing
+- frontend_reactivity_and_frameworks
+- modern_css_and_layouts
+- practical_project_build
+- prop_drilling_and_state_spaghetti
+- typescript_and_type_safety
+- unnecessary_re_renders
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- pass along
+- every single
+- exact same
+- visible dates
+- exactly same
+- habit context
+summary_hook: Explores frontend_reactivity_and_frameworks, modern_css_and_layouts,
+  typescript_and_type_safety.

@@ -1,0 +1,22 @@
+video_id: sYuFT-MJBFs
+title: Comparing Rust (Yew) vs TypeScript (React) NodeJS | SSR times
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=sYuFT-MJBFs
+duration: '35:00'
+word_count: 1713
+first_order_tags: []
+second_order_tags:
+- deep_dive_benchmark_build
+- runtime_internals_and_garbage_collection
+- systems_programming_and_compilers
+third_order_tags:
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- much better
+- node rust
+- many requests
+- will rendered
+- rust framework
+- blazingly fast
+summary_hook: Explores systems_programming_and_compilers, runtime_internals_and_garbage_collection,
+  deep_dive_benchmark_build.

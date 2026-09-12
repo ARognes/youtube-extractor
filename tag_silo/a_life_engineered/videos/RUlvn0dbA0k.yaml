@@ -1,0 +1,67 @@
+video_id: RUlvn0dbA0k
+title: The Dead Simple Reason You're Not Getting Promoted (Ex-Amazon Principal Engineer)
+channel: A Life Engineered
+url: https://www.youtube.com/watch?v=RUlvn0dbA0k
+duration: '19:24'
+word_count: 3092
+first_order_tags:
+- tag: vtag_business_impact_over_code_output
+  bound_second_order: business_impact_over_code_output
+  timestamp: 00:00
+  seconds: 0.0
+  context: but if I told you that getting promoted in Tech has almost nothing to do
+    with your technical skills over the last year I've worked closely w...
+- tag: vtag_sponsorship_vs_mentorship
+  bound_second_order: sponsorship_vs_mentorship
+  timestamp: 00:00
+  seconds: 0.0
+  context: but if I told you that getting promoted in Tech has almost nothing to do
+    with your technical skills over the last year I've worked closely w...
+- tag: vtag_the_l6_staff_archetype
+  bound_second_order: the_l6_staff_archetype
+  timestamp: 00:00
+  seconds: 0.0
+  context: but if I told you that getting promoted in Tech has almost nothing to do
+    with your technical skills over the last year I've worked closely w...
+- tag: vtag_negotiation_anchoring_and_batna
+  bound_second_order: negotiation_anchoring_and_batna
+  timestamp: 00:00
+  seconds: 0.0
+  context: but if I told you that getting promoted in Tech has almost nothing to do
+    with your technical skills over the last year I've worked closely w...
+- tag: vtag_terminal_senior_l5_plateau
+  bound_second_order: terminal_senior_l5_plateau
+  timestamp: 00:00
+  seconds: 0.0
+  context: but if I told you that getting promoted in Tech has almost nothing to do
+    with your technical skills over the last year I've worked closely w...
+- tag: vtag_skip_level_alignment_meeting
+  bound_second_order: skip_level_alignment_meeting
+  timestamp: 00:00
+  seconds: 0.0
+  context: but if I told you that getting promoted in Tech has almost nothing to do
+    with your technical skills over the last year I've worked closely w...
+second_order_tags:
+- business_impact_over_code_output
+- career_progression_and_promotion
+- executive_interview_mentorship
+- negotiation_anchoring_and_batna
+- salary_negotiation_and_total_comp
+- skip_level_alignment_meeting
+- sponsorship_vs_mentorship
+- staff_plus_and_executive_leadership
+- system_design_and_architecture_reviews
+- terminal_senior_l5_plateau
+- the_l6_staff_archetype
+third_order_tags:
+- T3_ENGINEERING_LEADERSHIP_LEVERAGE
+- T3_SHAME_GUILT_EGO_PRESERVATION
+key_phrases:
+- next level
+- ride share
+- senior engineer
+- doesn mean
+- each time
+- wait until
+summary_hook: Explores staff_plus_and_executive_leadership, career_progression_and_promotion,
+  salary_negotiation_and_total_comp.

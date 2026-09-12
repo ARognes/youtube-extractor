@@ -1,0 +1,27 @@
+video_id: uL9oOZStezw
+title: Vim as your editor - Advanced Motions P2
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=uL9oOZStezw
+duration: '35:00'
+word_count: 2851
+first_order_tags:
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: 00:00
+  seconds: 0.0
+  context: you know as the CEO of the startup I know you're probably first asking
+    yourself if you're the CEO why are you out here in the cube form you ...
+second_order_tags:
+- deep_dive_benchmark_build
+- editor_ergonomics_and_tooling
+- modal_editing_velocity
+third_order_tags:
+- T3_DEVELOPER_ERGONOMICS_TOOLING
+key_phrases:
+- squirrely brace
+- white space
+- percent sign
+- insert mode
+- four lines
+- double quotes
+summary_hook: Explores editor_ergonomics_and_tooling, modal_editing_velocity, deep_dive_benchmark_build.

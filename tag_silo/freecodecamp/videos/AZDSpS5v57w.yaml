@@ -1,0 +1,114 @@
+video_id: AZDSpS5v57w
+title: AI Agents For Beginners – OpenClaw Case Study
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=AZDSpS5v57w
+duration: '49:30'
+word_count: 28872
+first_order_tags:
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: 00:18
+  seconds: 17.9
+  context: You'll learn what chat GBP actually is, how large language models work,
+    what tokens and tokenization mean, how temperature and sampling shap...
+- tag: vtag_semantic_chunking_tokenization
+  bound_second_order: semantic_chunking_tokenization
+  timestamp: 00:18
+  seconds: 17.9
+  context: You'll learn what chat GBP actually is, how large language models work,
+    what tokens and tokenization mean, how temperature and sampling shap...
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: 01:01
+  seconds: 61.2
+  context: In 2017, a team of researchers at Google published a paper called attention
+    is all you need.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: 02:08
+  seconds: 127.7
+  context: An LLM is what you get when you take the transformer architecture, scale
+    it up with billions of parameters and train it on massive text.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: 03:43
+  seconds: 222.6
+  context: You see words and LLM sees tokens.
+- tag: vtag_semantic_chunking_tokenization
+  bound_second_order: semantic_chunking_tokenization
+  timestamp: 03:47
+  seconds: 226.8
+  context: This process is called tokenization.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: 04:04
+  seconds: 243.7
+  context: A word like anthropomorphisation, I hope I got that right because becomes
+    five separate tokens.
+- tag: vtag_semantic_chunking_tokenization
+  bound_second_order: semantic_chunking_tokenization
+  timestamp: 04:09
+  seconds: 249.0
+  context: Uncommon words like tokenization get split into two or three tokens broken
+    into known subpieces.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: 05:49
+  seconds: 349.2
+  context: In a typical interaction, you might have 200 tokens of system instructions,
+    3,000 tokens of conversation history, 150 tokens for your latest...
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: 06:11
+  seconds: 371.4
+  context: This preserves key information in fewer tokens.
+- tag: vtag_two_pointer_and_sliding_window
+  bound_second_order: two_pointer_and_sliding_window
+  timestamp: 06:12
+  seconds: 372.4
+  context: And there's the sliding window approach.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: 08:50
+  seconds: 529.6
+  context: Your prompt consumes tokens from the context window.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: 09:04
+  seconds: 544.4
+  context: Your message gets packaged up, sent over the internet to a server, routed
+    to the right model, and the model generates tokens one at a time.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '10:36'
+  seconds: 636.2
+  context: Every concept from the last seven lessons, tokens, temperature, prompts,
+    context windows, now has a home in code you wrote.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '11:21'
+  seconds: 680.5
+  context: Every call uses tokens, and tokens aren't free.
+second_order_tags:
+- cloud_devops_and_infrastructure
+- computer_science_fundamentals
+- containerization_and_orchestration
+- cybersecurity_and_ethical_hacking
+- machine_learning_and_data_science
+- mobile_and_cross_platform_dev
+- paper_and_architecture_breakdown
+- relational_normalization_and_acid
+- semantic_chunking_tokenization
+- transformer_attention_mechanisms
+- two_pointer_and_sliding_window
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- system prompt
+- context window
+- agent loop
+- tool calls
+- open claw
+- tool call
+summary_hook: Explores computer_science_fundamentals, cloud_devops_and_infrastructure,
+  machine_learning_and_data_science.

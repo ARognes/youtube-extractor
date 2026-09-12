@@ -1,0 +1,27 @@
+video_id: TB0cXGvuw9A
+title: Stepping Down From RustConf and Rust Project Controversy
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=TB0cXGvuw9A
+duration: '42:00'
+word_count: 716
+first_order_tags:
+- tag: vtag_type_system_soundness
+  bound_second_order: type_system_soundness
+  timestamp: 00:00
+  seconds: 0.0
+  context: again we find ourselves kind of in another problem with the kind of the
+    whole rust project leadership uh again this time not about trademark...
+second_order_tags:
+- live_code_roast_critique
+- systems_programming_and_compilers
+- type_system_soundness
+third_order_tags:
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- sorry anyone
+- rust project
+- trademark stuff
+- whatever happening
+- decisions made
+- anyone gotten
+summary_hook: Explores systems_programming_and_compilers, type_system_soundness, live_code_roast_critique.

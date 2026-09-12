@@ -1,0 +1,43 @@
+video_id: wc9gBBybgLw
+title: 3 High-Leverage Career Skills (From a Principal At Amazon)
+channel: A Life Engineered
+url: https://www.youtube.com/watch?v=wc9gBBybgLw
+duration: '19:24'
+word_count: 2892
+first_order_tags:
+- tag: vtag_business_impact_over_code_output
+  bound_second_order: business_impact_over_code_output
+  timestamp: 00:00
+  seconds: 0.0
+  context: if I told you you could get more output and higher performance with less
+    effort would you do it of course you would if you're a programmer l...
+- tag: vtag_negotiation_anchoring_and_batna
+  bound_second_order: negotiation_anchoring_and_batna
+  timestamp: 00:00
+  seconds: 0.0
+  context: if I told you you could get more output and higher performance with less
+    effort would you do it of course you would if you're a programmer l...
+- tag: vtag_one_page_brag_document
+  bound_second_order: one_page_brag_document
+  timestamp: 00:00
+  seconds: 0.0
+  context: if I told you you could get more output and higher performance with less
+    effort would you do it of course you would if you're a programmer l...
+second_order_tags:
+- business_impact_over_code_output
+- career_progression_and_promotion
+- executive_interview_mentorship
+- negotiation_anchoring_and_batna
+- one_page_brag_document
+- staff_plus_and_executive_leadership
+third_order_tags:
+- T3_ENGINEERING_LEADERSHIP_LEVERAGE
+key_phrases:
+- high leverage
+- brag document
+- leverage skill
+- software engineering
+- skill number
+- impactful things
+summary_hook: Explores staff_plus_and_executive_leadership, career_progression_and_promotion,
+  business_impact_over_code_output.

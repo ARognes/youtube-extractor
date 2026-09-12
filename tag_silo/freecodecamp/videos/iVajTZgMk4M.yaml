@@ -1,0 +1,28 @@
+video_id: iVajTZgMk4M
+title: Solving Python Challenges - Python Basics with Sam
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=iVajTZgMk4M
+duration: '45:00'
+word_count: 8098
+first_order_tags:
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '32:29'
+  seconds: 1948.6
+  context: We can index forward and we can index backwards.
+second_order_tags:
+- computer_science_fundamentals
+- machine_learning_and_data_science
+- paper_and_architecture_breakdown
+- relational_normalization_and_acid
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- file name
+- these files
+- floor division
+- discord server
+- second largest
+- east west
+summary_hook: Explores computer_science_fundamentals, machine_learning_and_data_science,
+  relational_normalization_and_acid.

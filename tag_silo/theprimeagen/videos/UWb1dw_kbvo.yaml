@@ -1,0 +1,30 @@
+video_id: UWb1dw_kbvo
+title: This Is Goodbye
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=UWb1dw_kbvo
+duration: '42:00'
+word_count: 882
+first_order_tags:
+- tag: vtag_concurrency_primitives_and_locks
+  bound_second_order: concurrency_primitives_and_locks
+  timestamp: 01:08
+  seconds: 68.1
+  context: I haven't been making videos for this channel in what feels like six months.
+- tag: vtag_concurrency_primitives_and_locks
+  bound_second_order: concurrency_primitives_and_locks
+  timestamp: '40:52'
+  seconds: 2451.9
+  context: Expect more videos on this channel.
+second_order_tags:
+- concurrency_primitives_and_locks
+- developer_culture_and_critique
+third_order_tags:
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- time goodbye
+- videos channel
+- down time
+- streamer awards
+- honestly feels
+- during time
+summary_hook: Explores developer_culture_and_critique, concurrency_primitives_and_locks.

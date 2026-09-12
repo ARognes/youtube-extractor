@@ -1,0 +1,25 @@
+video_id: A_XGsAl-LqY
+title: the worst man in tech
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=A_XGsAl-LqY
+duration: 15 min
+word_count: 1335
+first_order_tags:
+- tag: vtag_mechanical_sympathy
+  bound_second_order: mechanical_sympathy
+  timestamp: 01:20
+  seconds: 79.8
+  context: has been using his arsenal of Hardware
+second_order_tags:
+- developer_culture_and_critique
+- mechanical_sympathy
+third_order_tags:
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- patent troll
+- cloud flare
+- work life
+- millions dollars
+- episode patent
+- patent trolls
+summary_hook: Explores developer_culture_and_critique, mechanical_sympathy.

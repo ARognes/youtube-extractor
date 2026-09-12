@@ -1,0 +1,36 @@
+video_id: 4fq8QlpEMec
+title: 'How to Build a Career in Tech: Kurt Kemple Connects the Dots'
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=4fq8QlpEMec
+duration: '45:00'
+word_count: 11945
+first_order_tags:
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '15:00'
+  seconds: 900.0
+  context: so about coming up on like eight years in january it'll be about eight
+    years yeah yeah so um so you know over the course of that eight years...
+- tag: vtag_tutorial_hell_and_passive_consumption
+  bound_second_order: tutorial_hell_and_passive_consumption
+  timestamp: '30:00'
+  seconds: 1800.0
+  context: you never get to turn that off right like i need to know if the person
+    next to me has malicious intent i need to know if the person on the o...
+second_order_tags:
+- cloud_devops_and_infrastructure
+- containerization_and_orchestration
+- tutorial_hell_and_passive_consumption
+- visual_algorithm_walkthrough
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+- T3_NEURODIVERGENCE_EXECUTIVE_FUNCTION
+key_phrases:
+- those things
+- valuable skills
+- being able
+- doesn mean
+- very valuable
+- very hard
+summary_hook: Explores cloud_devops_and_infrastructure, containerization_and_orchestration,
+  tutorial_hell_and_passive_consumption.

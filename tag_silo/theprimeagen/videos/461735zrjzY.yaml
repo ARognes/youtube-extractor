@@ -1,0 +1,23 @@
+video_id: 461735zrjzY
+title: React Is This Fast???
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=461735zrjzY
+duration: '35:00'
+word_count: 1442
+first_order_tags: []
+second_order_tags:
+- editor_ergonomics_and_tooling
+- runtime_internals_and_garbage_collection
+- systems_programming_and_compilers
+third_order_tags:
+- T3_DEVELOPER_ERGONOMICS_TOOLING
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- parallel requests
+- react faster
+- node react
+- blazingly fast
+- server side
+- fast leptos
+summary_hook: Explores systems_programming_and_compilers, editor_ergonomics_and_tooling,
+  runtime_internals_and_garbage_collection.

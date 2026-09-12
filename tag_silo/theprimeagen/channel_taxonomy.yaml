@@ -1,0 +1,93 @@
+channel: theprimeagen
+core: core_software_engineering
+order: 2
+scope: channel_bound
+total_videos_analyzed: 102
+total_spoken_words: 169796
+compiled_at: '2026-09-11T21:12:34.066348'
+second_order_tags:
+  systems_programming_and_compilers:
+    tag: systems_programming_and_compilers
+    channel: theprimeagen
+    video_occurrences: 41
+    prevalence_pct: 40.2
+  developer_culture_and_critique:
+    tag: developer_culture_and_critique
+    channel: theprimeagen
+    video_occurrences: 34
+    prevalence_pct: 33.3
+  engineering_philosophical_rant:
+    tag: engineering_philosophical_rant
+    channel: theprimeagen
+    video_occurrences: 32
+    prevalence_pct: 31.4
+  deep_dive_benchmark_build:
+    tag: deep_dive_benchmark_build
+    channel: theprimeagen
+    video_occurrences: 31
+    prevalence_pct: 30.4
+  runtime_internals_and_garbage_collection:
+    tag: runtime_internals_and_garbage_collection
+    channel: theprimeagen
+    video_occurrences: 29
+    prevalence_pct: 28.4
+  editor_ergonomics_and_tooling:
+    tag: editor_ergonomics_and_tooling
+    channel: theprimeagen
+    video_occurrences: 26
+    prevalence_pct: 25.5
+  modal_editing_velocity:
+    tag: modal_editing_velocity
+    channel: theprimeagen
+    video_occurrences: 18
+    prevalence_pct: 17.6
+  concurrency_primitives_and_locks:
+    tag: concurrency_primitives_and_locks
+    channel: theprimeagen
+    video_occurrences: 14
+    prevalence_pct: 13.7
+  system_architecture_and_scale:
+    tag: system_architecture_and_scale
+    channel: theprimeagen
+    video_occurrences: 10
+    prevalence_pct: 9.8
+  garbage_collector_stop_the_world_latency:
+    tag: garbage_collector_stop_the_world_latency
+    channel: theprimeagen
+    video_occurrences: 7
+    prevalence_pct: 6.9
+  live_code_roast_critique:
+    tag: live_code_roast_critique
+    channel: theprimeagen
+    video_occurrences: 7
+    prevalence_pct: 6.9
+  harpoon_buffer_navigation:
+    tag: harpoon_buffer_navigation
+    channel: theprimeagen
+    video_occurrences: 6
+    prevalence_pct: 5.9
+  type_system_soundness:
+    tag: type_system_soundness
+    channel: theprimeagen
+    video_occurrences: 6
+    prevalence_pct: 5.9
+  mechanical_sympathy:
+    tag: mechanical_sympathy
+    channel: theprimeagen
+    video_occurrences: 5
+    prevalence_pct: 4.9
+  premature_abstraction_bloat:
+    tag: premature_abstraction_bloat
+    channel: theprimeagen
+    video_occurrences: 3
+    prevalence_pct: 2.9
+  flamegraph_and_profiling_audit:
+    tag: flamegraph_and_profiling_audit
+    channel: theprimeagen
+    video_occurrences: 3
+    prevalence_pct: 2.9
+  zero_cost_abstractions:
+    tag: zero_cost_abstractions
+    channel: theprimeagen
+    video_occurrences: 3
+    prevalence_pct: 2.9

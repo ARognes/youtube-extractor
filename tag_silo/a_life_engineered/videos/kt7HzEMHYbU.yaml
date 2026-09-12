@@ -1,0 +1,69 @@
+video_id: kt7HzEMHYbU
+title: I Coached a Front-End Engineer to Sound Senior (Live)
+channel: A Life Engineered
+url: https://www.youtube.com/watch?v=kt7HzEMHYbU
+duration: '25:54'
+word_count: 11909
+first_order_tags:
+- tag: vtag_business_impact_over_code_output
+  bound_second_order: business_impact_over_code_output
+  timestamp: 00:21
+  seconds: 20.8
+  context: In this video, the three things I'll help Kennan fix are front-loading
+    his actions so his impact lands in the first 30 seconds, cutting keyw...
+- tag: vtag_business_impact_over_code_output
+  bound_second_order: business_impact_over_code_output
+  timestamp: '11:49'
+  seconds: 708.7
+  context: The business impact of the of the questionnaire.
+- tag: vtag_terminal_senior_l5_plateau
+  bound_second_order: terminal_senior_l5_plateau
+  timestamp: '16:45'
+  seconds: 1005.1
+  context: If you're trying to style yourself as a senior engineer, and this is your
+    most proud project, is that kind of like a ceiling to what you're ...
+- tag: vtag_business_impact_over_code_output
+  bound_second_order: business_impact_over_code_output
+  timestamp: '16:59'
+  seconds: 1019.0
+  context: Again, it's a bit harder to quantify the business impact for that.
+- tag: vtag_business_impact_over_code_output
+  bound_second_order: business_impact_over_code_output
+  timestamp: '17:01'
+  seconds: 1021.3
+  context: Whereas I think this is working on a project that had a business need and
+    a business impact.
+- tag: vtag_terminal_senior_l5_plateau
+  bound_second_order: terminal_senior_l5_plateau
+  timestamp: '17:18'
+  seconds: 1037.5
+  context: '>> Really, when people ask you this question, they''re trying to determine
+    a ceiling.'
+- tag: vtag_burnout_from_hero_mode
+  bound_second_order: burnout_from_hero_mode
+  timestamp: '24:17'
+  seconds: 1456.7
+  context: Like think about it this way like right now the bottleneck, so we're filming
+    this in late May of 2026.
+second_order_tags:
+- burnout_from_hero_mode
+- business_impact_over_code_output
+- career_progression_and_promotion
+- career_strategy_masterclass
+- executive_interview_mentorship
+- staff_plus_and_executive_leadership
+- system_design_and_architecture_reviews
+- terminal_senior_l5_plateau
+- workplace_politics_and_influence
+third_order_tags:
+- T3_ENGINEERING_LEADERSHIP_LEVERAGE
+- T3_SHAME_GUILT_EGO_PRESERVATION
+key_phrases:
+- end-to-end testing
+- front-end engineer
+- back-end engineer
+- does sense
+- very helpful
+- being able
+summary_hook: Explores staff_plus_and_executive_leadership, career_progression_and_promotion,
+  system_design_and_architecture_reviews.

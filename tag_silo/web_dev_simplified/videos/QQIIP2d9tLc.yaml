@@ -1,0 +1,24 @@
+video_id: QQIIP2d9tLc
+title: Stop Using window “resize” Event Listeners
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=QQIIP2d9tLc
+duration: '27:06'
+word_count: 375
+first_order_tags:
+- tag: vtag_css_layout_algorithms
+  bound_second_order: css_layout_algorithms
+  timestamp: '25:49'
+  seconds: 1548.6
+  context: It's kind of like the equivalent of a container query versus a media query.
+second_order_tags:
+- css_layout_algorithms
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- resize observer
+- resize event
+- function resizing
+- changing size
+- calling function
+- most common
+summary_hook: Explores css_layout_algorithms.

@@ -1,0 +1,26 @@
+video_id: PkLwJicRI8s
+title: Tkinter Calculator - Python Basics with Sam
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=PkLwJicRI8s
+duration: '45:00'
+word_count: 7215
+first_order_tags:
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 00:00
+  seconds: 0.0
+  context: okay oh hey everybody this is sam uh from python basics doing our bi-weekly
+    streams so today we're going to be looking at t kenter and build...
+second_order_tags:
+- containerization_and_orchestration
+- machine_learning_and_data_science
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- equal sign
+- main loop
+- best practice
+- free code
+- code camp
+- button text
+summary_hook: Explores machine_learning_and_data_science, containerization_and_orchestration.

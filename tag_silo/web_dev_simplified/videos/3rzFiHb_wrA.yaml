@@ -1,0 +1,43 @@
+video_id: 3rzFiHb_wrA
+title: CSS if() Statements Are Finally Here!
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=3rzFiHb_wrA
+duration: '27:06'
+word_count: 499
+first_order_tags:
+- tag: vtag_css_layout_algorithms
+  bound_second_order: css_layout_algorithms
+  timestamp: 07:18
+  seconds: 437.8
+  context: Now you can do lots of different things such as a media query and a style
+    query which are the two most common.
+- tag: vtag_css_layout_algorithms
+  bound_second_order: css_layout_algorithms
+  timestamp: 08:20
+  seconds: 500.3
+  context: And as you can see in the bottom example here we have a media query where
+    we're checking if the height is less than or equal to 700 pixels.
+- tag: vtag_css_layout_algorithms
+  bound_second_order: css_layout_algorithms
+  timestamp: '13:33'
+  seconds: 813.0
+  context: Media query for less than a,000.
+- tag: vtag_css_layout_algorithms
+  bound_second_order: css_layout_algorithms
+  timestamp: '23:58'
+  seconds: 1438.4
+  context: For example, up here, we could have a media query at the top section that's
+    going to return, you know, solid or something like that.
+second_order_tags:
+- css_layout_algorithms
+- modern_css_and_layouts
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- media query
+- else condition
+- value small
+- small medium
+- media queries
+- style queries
+summary_hook: Explores modern_css_and_layouts, css_layout_algorithms.

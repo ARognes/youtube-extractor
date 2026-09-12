@@ -1,0 +1,31 @@
+video_id: oNxRxSE_eog
+title: I Coached a Ex-Microsoft Manager for His Netflix Interview
+channel: A Life Engineered
+url: https://www.youtube.com/watch?v=oNxRxSE_eog
+duration: '25:54'
+word_count: 7513
+first_order_tags:
+- tag: vtag_burnout_from_hero_mode
+  bound_second_order: burnout_from_hero_mode
+  timestamp: 08:10
+  seconds: 490.0
+  context: But, that's not necessarily the problem The big problem is the customers
+    that are trying to deliver mission-critical workloads in Azure not ...
+second_order_tags:
+- burnout_from_hero_mode
+- career_strategy_masterclass
+- executive_interview_mentorship
+- staff_plus_and_executive_leadership
+- system_design_and_architecture_reviews
+- workplace_politics_and_influence
+third_order_tags:
+- T3_ENGINEERING_LEADERSHIP_LEVERAGE
+key_phrases:
+- hybrid connectivity
+- little more
+- engineering manager
+- makes sense
+- these things
+- manager team
+summary_hook: Explores staff_plus_and_executive_leadership, system_design_and_architecture_reviews,
+  workplace_politics_and_influence.

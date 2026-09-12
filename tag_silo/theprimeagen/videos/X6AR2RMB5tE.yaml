@@ -1,0 +1,26 @@
+video_id: X6AR2RMB5tE
+title: Shorts
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=X6AR2RMB5tE
+duration: '38:30'
+word_count: 2817
+first_order_tags:
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: 00:00
+  seconds: 0.0
+  context: my name is the primagen and I've been using Vim for about 10 years and
+    I wanted to take the time to build a series in which could lead you f...
+second_order_tags:
+- editor_ergonomics_and_tooling
+- modal_editing_velocity
+third_order_tags:
+- T3_DEVELOPER_ERGONOMICS_TOOLING
+key_phrases:
+- insert mode
+- move cursor
+- visual mode
+- line press
+- using code
+- down below
+summary_hook: Explores editor_ergonomics_and_tooling, modal_editing_velocity.

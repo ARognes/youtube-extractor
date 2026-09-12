@@ -1,0 +1,103 @@
+channel: a_life_engineered
+core: core_software_engineering
+order: 2
+scope: channel_bound
+total_videos_analyzed: 73
+total_spoken_words: 248249
+compiled_at: '2026-09-11T21:12:50.139904'
+second_order_tags:
+  executive_interview_mentorship:
+    tag: executive_interview_mentorship
+    channel: a_life_engineered
+    video_occurrences: 50
+    prevalence_pct: 68.5
+  staff_plus_and_executive_leadership:
+    tag: staff_plus_and_executive_leadership
+    channel: a_life_engineered
+    video_occurrences: 38
+    prevalence_pct: 52.1
+  career_strategy_masterclass:
+    tag: career_strategy_masterclass
+    channel: a_life_engineered
+    video_occurrences: 37
+    prevalence_pct: 50.7
+  career_progression_and_promotion:
+    tag: career_progression_and_promotion
+    channel: a_life_engineered
+    video_occurrences: 32
+    prevalence_pct: 43.8
+  system_design_and_architecture_reviews:
+    tag: system_design_and_architecture_reviews
+    channel: a_life_engineered
+    video_occurrences: 17
+    prevalence_pct: 23.3
+  sponsorship_vs_mentorship:
+    tag: sponsorship_vs_mentorship
+    channel: a_life_engineered
+    video_occurrences: 16
+    prevalence_pct: 21.9
+  salary_negotiation_and_total_comp:
+    tag: salary_negotiation_and_total_comp
+    channel: a_life_engineered
+    video_occurrences: 15
+    prevalence_pct: 20.5
+  workplace_politics_and_influence:
+    tag: workplace_politics_and_influence
+    channel: a_life_engineered
+    video_occurrences: 13
+    prevalence_pct: 17.8
+  negotiation_anchoring_and_batna:
+    tag: negotiation_anchoring_and_batna
+    channel: a_life_engineered
+    video_occurrences: 12
+    prevalence_pct: 16.4
+  skip_level_alignment_meeting:
+    tag: skip_level_alignment_meeting
+    channel: a_life_engineered
+    video_occurrences: 11
+    prevalence_pct: 15.1
+  terminal_senior_l5_plateau:
+    tag: terminal_senior_l5_plateau
+    channel: a_life_engineered
+    video_occurrences: 11
+    prevalence_pct: 15.1
+  business_impact_over_code_output:
+    tag: business_impact_over_code_output
+    channel: a_life_engineered
+    video_occurrences: 10
+    prevalence_pct: 13.7
+  burnout_from_hero_mode:
+    tag: burnout_from_hero_mode
+    channel: a_life_engineered
+    video_occurrences: 8
+    prevalence_pct: 11.0
+  the_l6_staff_archetype:
+    tag: the_l6_staff_archetype
+    channel: a_life_engineered
+    video_occurrences: 3
+    prevalence_pct: 4.1
+  lowballed_offer_fear:
+    tag: lowballed_offer_fear
+    channel: a_life_engineered
+    video_occurrences: 2
+    prevalence_pct: 2.7
+  strategic_scope_expansion:
+    tag: strategic_scope_expansion
+    channel: a_life_engineered
+    video_occurrences: 2
+    prevalence_pct: 2.7
+  competing_offer_leverage_play:
+    tag: competing_offer_leverage_play
+    channel: a_life_engineered
+    video_occurrences: 1
+    prevalence_pct: 1.4
+  one_page_brag_document:
+    tag: one_page_brag_document
+    channel: a_life_engineered
+    video_occurrences: 1
+    prevalence_pct: 1.4
+  qa_salary_breakdown:
+    tag: qa_salary_breakdown
+    channel: a_life_engineered
+    video_occurrences: 1
+    prevalence_pct: 1.4

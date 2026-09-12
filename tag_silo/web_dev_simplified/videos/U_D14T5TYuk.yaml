@@ -1,0 +1,48 @@
+video_id: U_D14T5TYuk
+title: How To Build A Production Ready API - Auth, JWT, API Keys
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=U_D14T5TYuk
+duration: '36:06'
+word_count: 24798
+first_order_tags:
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: 03:21
+  seconds: 201.2
+  context: So, we're going to be using Zod for all of our validation.
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: 04:00
+  seconds: 240.1
+  context: If we hover over the type for this, you can see that matches the type that
+    we created in our Zod schema.
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: '10:30'
+  seconds: 630.4
+  context: And then inside of here, what I want to do is I want to create a brand
+    new environment schema using Zod.
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: '24:12'
+  seconds: 1452.5
+  context: Make sure I import Zod.
+second_order_tags:
+- backend_and_database_integration
+- feature_deep_dive
+- form_validation_and_schema_parsing
+- frontend_reactivity_and_frameworks
+- modern_css_and_layouts
+- practical_project_build
+- typescript_and_type_safety
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- pass along
+- create brand
+- give quick
+- send along
+- quick save
+- json token
+summary_hook: Explores frontend_reactivity_and_frameworks, modern_css_and_layouts,
+  typescript_and_type_safety.

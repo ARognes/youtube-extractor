@@ -1,0 +1,1568 @@
+{
+  "channel": "theprimeagen",
+  "core": "core_software_engineering",
+  "total_tags": 17,
+  "index": {
+    "editor_ergonomics_and_tooling": [
+      {
+        "video_id": "HwmqZTnb7Co",
+        "title": "I learned Odin",
+        "timestamps": []
+      },
+      {
+        "video_id": "taoAAcS5PSw",
+        "title": "Musician turned Programmer turned Musician",
+        "timestamps": []
+      },
+      {
+        "video_id": "ZH3iKbEiks0",
+        "title": "I was wrong btw",
+        "timestamps": []
+      },
+      {
+        "video_id": "3f9tbqSIm-E",
+        "title": "1000 Players - One Game of Doom",
+        "timestamps": []
+      },
+      {
+        "video_id": "x7v6SNIgJpE",
+        "title": "FULL Introduction To HTMX Using Golang",
+        "timestamps": []
+      },
+      {
+        "video_id": "o462tY758CY",
+        "title": "I Fixed Git",
+        "timestamps": []
+      },
+      {
+        "video_id": "FrMRyXtiJkc",
+        "title": "How to Vim in 2023: Tips and Tricks",
+        "timestamps": []
+      },
+      {
+        "video_id": "nMHxdz-N7EU",
+        "title": "Primeagen Answers the Webs Most Asked Questions for a Software Engineer",
+        "timestamps": []
+      },
+      {
+        "video_id": "7ap3CkBEpOE",
+        "title": "Faster than your favorite JS framework?",
+        "timestamps": []
+      },
+      {
+        "video_id": "w7i4amO_zaE",
+        "title": "0 to LSP : Neovim RC From Scratch",
+        "timestamps": []
+      },
+      {
+        "video_id": "X6AR2RMB5tE",
+        "title": "Shorts",
+        "timestamps": []
+      },
+      {
+        "video_id": "QIyc6NKS5J0",
+        "title": "If I could give advice to myself when starting as a software engineer",
+        "timestamps": []
+      },
+      {
+        "video_id": "bdumjiHabhQ",
+        "title": "My Developer Workflow - How I use i3, tmux, and vim",
+        "timestamps": []
+      },
+      {
+        "video_id": "D4YTJ2W5q4Y",
+        "title": "Why I use Vim in 2022",
+        "timestamps": []
+      },
+      {
+        "video_id": "qZO9A5F6BZs",
+        "title": "Vim As You Editor - Advanced Motions P1",
+        "timestamps": []
+      },
+      {
+        "video_id": "461735zrjzY",
+        "title": "React Is This Fast???",
+        "timestamps": []
+      },
+      {
+        "video_id": "Z0GX2mTUtfo",
+        "title": "Go is faster than Rust??!  Go vs Rust vs TypeScript Servers (as a scientist)",
+        "timestamps": []
+      },
+      {
+        "video_id": "5JGVtttuDQA",
+        "title": "Vim As Your Editor - Horizontal",
+        "timestamps": []
+      },
+      {
+        "video_id": "KfENDDEpCsI",
+        "title": "Vim As Your Editor - Vertical Movements",
+        "timestamps": []
+      },
+      {
+        "video_id": "uL9oOZStezw",
+        "title": "Vim as your editor - Advanced Motions P2",
+        "timestamps": []
+      },
+      {
+        "video_id": "G8vdu30EEfw",
+        "title": "I like Game Programming",
+        "timestamps": []
+      },
+      {
+        "video_id": "jHAOMOZ_DPI",
+        "title": "Easy Vim Motion",
+        "timestamps": []
+      },
+      {
+        "video_id": "iKifE10TUNA",
+        "title": "Is this TikTok Tech?",
+        "timestamps": []
+      },
+      {
+        "video_id": "w00JOVpapxA",
+        "title": "How To Properly Quit Vim",
+        "timestamps": []
+      },
+      {
+        "video_id": "38gVgJj0eFQ",
+        "title": "Immediate Mode UI and Animations with Casey Muratori",
+        "timestamps": []
+      },
+      {
+        "video_id": "iKifE10TUNA",
+        "title": "Is this TikTok Tech?",
+        "timestamps": []
+      }
+    ],
+    "systems_programming_and_compilers": [
+      {
+        "video_id": "HwmqZTnb7Co",
+        "title": "I learned Odin",
+        "timestamps": []
+      },
+      {
+        "video_id": "tYQyh1tjSFc",
+        "title": "am I becoming a real Game Dev?",
+        "timestamps": []
+      },
+      {
+        "video_id": "js7_bCY6WEw",
+        "title": "Layout is harder than you think..",
+        "timestamps": []
+      },
+      {
+        "video_id": "x7v6SNIgJpE",
+        "title": "FULL Introduction To HTMX Using Golang",
+        "timestamps": []
+      },
+      {
+        "video_id": "o462tY758CY",
+        "title": "I Fixed Git",
+        "timestamps": []
+      },
+      {
+        "video_id": "E8cM12jRH7k",
+        "title": "How To Learn A New Programming Language",
+        "timestamps": []
+      },
+      {
+        "video_id": "TB0cXGvuw9A",
+        "title": "Stepping Down From RustConf and Rust Project Controversy",
+        "timestamps": []
+      },
+      {
+        "video_id": "PHvbLmLPX6s",
+        "title": "This Lesson Taught Me How To Do Better Benchmarks",
+        "timestamps": []
+      },
+      {
+        "video_id": "gutR_LNoZw0",
+        "title": "Rust Foundation IS DOING WHAT????",
+        "timestamps": []
+      },
+      {
+        "video_id": "2gG08VUuwzg",
+        "title": "Twitter's Algorithm Has MASSIVE Problems",
+        "timestamps": []
+      },
+      {
+        "video_id": "FrMRyXtiJkc",
+        "title": "How to Vim in 2023: Tips and Tricks",
+        "timestamps": []
+      },
+      {
+        "video_id": "RDd71IUIgpg",
+        "title": "CoPilot Review: My Thoughts After 6 Months",
+        "timestamps": []
+      },
+      {
+        "video_id": "Epwlk4B90vk",
+        "title": "RUST Enums ARE Better",
+        "timestamps": []
+      },
+      {
+        "video_id": "ReeLQR7KCcM",
+        "title": "What Next...Finding a New Job In Software",
+        "timestamps": []
+      },
+      {
+        "video_id": "boD0ReK62FI",
+        "title": "Looking Under the Hood of JavaScript",
+        "timestamps": []
+      },
+      {
+        "video_id": "nMHxdz-N7EU",
+        "title": "Primeagen Answers the Webs Most Asked Questions for a Software Engineer",
+        "timestamps": []
+      },
+      {
+        "video_id": "7ap3CkBEpOE",
+        "title": "Faster than your favorite JS framework?",
+        "timestamps": []
+      },
+      {
+        "video_id": "w7i4amO_zaE",
+        "title": "0 to LSP : Neovim RC From Scratch",
+        "timestamps": []
+      },
+      {
+        "video_id": "QIyc6NKS5J0",
+        "title": "If I could give advice to myself when starting as a software engineer",
+        "timestamps": []
+      },
+      {
+        "video_id": "h7UEwBaGoVo",
+        "title": "Is TypeScript (NodeJS) Faster than Go?? |  A server comparison",
+        "timestamps": []
+      },
+      {
+        "video_id": "qAYFepR4GcE",
+        "title": "Bun (TypeScript) is faster than Rust!?!",
+        "timestamps": []
+      },
+      {
+        "video_id": "qZO9A5F6BZs",
+        "title": "Vim As You Editor - Advanced Motions P1",
+        "timestamps": []
+      },
+      {
+        "video_id": "RSY85SLXzwk",
+        "title": "Go is blazingly faster than Zig?",
+        "timestamps": []
+      },
+      {
+        "video_id": "ZNFdkTIzdXM",
+        "title": "Rust for TypeScript devs : Borrow Checker",
+        "timestamps": []
+      },
+      {
+        "video_id": "Sp5_d6coiqU",
+        "title": "How to make TypeScript Blazingly Fast (JavaScript/NodeJS)",
+        "timestamps": []
+      },
+      {
+        "video_id": "461735zrjzY",
+        "title": "React Is This Fast???",
+        "timestamps": []
+      },
+      {
+        "video_id": "MuCK81q1edU",
+        "title": "Is JSON Blazingly Fast or...?",
+        "timestamps": []
+      },
+      {
+        "video_id": "sYuFT-MJBFs",
+        "title": "Comparing Rust (Yew) vs TypeScript (React) NodeJS | SSR times",
+        "timestamps": []
+      },
+      {
+        "video_id": "Z0GX2mTUtfo",
+        "title": "Go is faster than Rust??!  Go vs Rust vs TypeScript Servers (as a scientist)",
+        "timestamps": []
+      },
+      {
+        "video_id": "5JGVtttuDQA",
+        "title": "Vim As Your Editor - Horizontal",
+        "timestamps": []
+      },
+      {
+        "video_id": "KfENDDEpCsI",
+        "title": "Vim As Your Editor - Vertical Movements",
+        "timestamps": []
+      },
+      {
+        "video_id": "1-0r90bm6CE",
+        "title": "We Have A Problem..",
+        "timestamps": []
+      },
+      {
+        "video_id": "_ebVsYQou8A",
+        "title": "Programming Curves",
+        "timestamps": []
+      },
+      {
+        "video_id": "G8vdu30EEfw",
+        "title": "I like Game Programming",
+        "timestamps": []
+      },
+      {
+        "video_id": "js7_bCY6WEw",
+        "title": "Layout is harder than you think..",
+        "timestamps": []
+      },
+      {
+        "video_id": "U16RnpV48KQ",
+        "title": "This Algorithm is 1,606,240% FASTER",
+        "timestamps": []
+      },
+      {
+        "video_id": "Sp5_d6coiqU",
+        "title": "How to make TypeScript Blazingly Fast (JavaScript/NodeJS)",
+        "timestamps": []
+      },
+      {
+        "video_id": "38gVgJj0eFQ",
+        "title": "Immediate Mode UI and Animations with Casey Muratori",
+        "timestamps": []
+      },
+      {
+        "video_id": "1-0r90bm6CE",
+        "title": "We Have A Problem..",
+        "timestamps": []
+      },
+      {
+        "video_id": "_ebVsYQou8A",
+        "title": "Programming Curves",
+        "timestamps": []
+      },
+      {
+        "video_id": "js7_bCY6WEw",
+        "title": "Layout is harder than you think..",
+        "timestamps": []
+      }
+    ],
+    "modal_editing_velocity": [
+      {
+        "video_id": "tYQyh1tjSFc",
+        "title": "am I becoming a real Game Dev?",
+        "timestamps": [
+          "01:43"
+        ]
+      },
+      {
+        "video_id": "ZH3iKbEiks0",
+        "title": "I was wrong btw",
+        "timestamps": [
+          "09:03",
+          "12:08",
+          "31:21",
+          "32:05",
+          "34:12",
+          "37:18",
+          "39:16"
+        ]
+      },
+      {
+        "video_id": "x7v6SNIgJpE",
+        "title": "FULL Introduction To HTMX Using Golang",
+        "timestamps": [
+          "29:39",
+          "39:32"
+        ]
+      },
+      {
+        "video_id": "o462tY758CY",
+        "title": "I Fixed Git",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "FrMRyXtiJkc",
+        "title": "How to Vim in 2023: Tips and Tricks",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "w7i4amO_zaE",
+        "title": "0 to LSP : Neovim RC From Scratch",
+        "timestamps": [
+          "00:00",
+          "19:15"
+        ]
+      },
+      {
+        "video_id": "X6AR2RMB5tE",
+        "title": "Shorts",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "D4YTJ2W5q4Y",
+        "title": "Why I use Vim in 2022",
+        "timestamps": [
+          "19:15"
+        ]
+      },
+      {
+        "video_id": "qZO9A5F6BZs",
+        "title": "Vim As You Editor - Advanced Motions P1",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "Sp5_d6coiqU",
+        "title": "How to make TypeScript Blazingly Fast (JavaScript/NodeJS)",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "MuCK81q1edU",
+        "title": "Is JSON Blazingly Fast or...?",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "5JGVtttuDQA",
+        "title": "Vim As Your Editor - Horizontal",
+        "timestamps": [
+          "00:00",
+          "14:00",
+          "21:00",
+          "28:00"
+        ]
+      },
+      {
+        "video_id": "KfENDDEpCsI",
+        "title": "Vim As Your Editor - Vertical Movements",
+        "timestamps": [
+          "00:00",
+          "17:30"
+        ]
+      },
+      {
+        "video_id": "uL9oOZStezw",
+        "title": "Vim as your editor - Advanced Motions P2",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "U16RnpV48KQ",
+        "title": "This Algorithm is 1,606,240% FASTER",
+        "timestamps": [
+          "07:00",
+          "28:00"
+        ]
+      },
+      {
+        "video_id": "jHAOMOZ_DPI",
+        "title": "Easy Vim Motion",
+        "timestamps": []
+      },
+      {
+        "video_id": "Sp5_d6coiqU",
+        "title": "How to make TypeScript Blazingly Fast (JavaScript/NodeJS)",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "38gVgJj0eFQ",
+        "title": "Immediate Mode UI and Animations with Casey Muratori",
+        "timestamps": [
+          "09:11",
+          "10:26",
+          "29:27"
+        ]
+      }
+    ],
+    "runtime_internals_and_garbage_collection": [
+      {
+        "video_id": "tYQyh1tjSFc",
+        "title": "am I becoming a real Game Dev?",
+        "timestamps": []
+      },
+      {
+        "video_id": "js7_bCY6WEw",
+        "title": "Layout is harder than you think..",
+        "timestamps": []
+      },
+      {
+        "video_id": "taoAAcS5PSw",
+        "title": "Musician turned Programmer turned Musician",
+        "timestamps": []
+      },
+      {
+        "video_id": "3f9tbqSIm-E",
+        "title": "1000 Players - One Game of Doom",
+        "timestamps": []
+      },
+      {
+        "video_id": "x7v6SNIgJpE",
+        "title": "FULL Introduction To HTMX Using Golang",
+        "timestamps": []
+      },
+      {
+        "video_id": "SCPVDpyApgQ",
+        "title": "Are Developers Ok?",
+        "timestamps": []
+      },
+      {
+        "video_id": "6jPiuOXmxEc",
+        "title": "What You Need To Learn 2023 (as a software engineer)",
+        "timestamps": []
+      },
+      {
+        "video_id": "o462tY758CY",
+        "title": "I Fixed Git",
+        "timestamps": []
+      },
+      {
+        "video_id": "PHvbLmLPX6s",
+        "title": "This Lesson Taught Me How To Do Better Benchmarks",
+        "timestamps": []
+      },
+      {
+        "video_id": "2gG08VUuwzg",
+        "title": "Twitter's Algorithm Has MASSIVE Problems",
+        "timestamps": []
+      },
+      {
+        "video_id": "FrMRyXtiJkc",
+        "title": "How to Vim in 2023: Tips and Tricks",
+        "timestamps": []
+      },
+      {
+        "video_id": "boD0ReK62FI",
+        "title": "Looking Under the Hood of JavaScript",
+        "timestamps": []
+      },
+      {
+        "video_id": "nMHxdz-N7EU",
+        "title": "Primeagen Answers the Webs Most Asked Questions for a Software Engineer",
+        "timestamps": []
+      },
+      {
+        "video_id": "D4YTJ2W5q4Y",
+        "title": "Why I use Vim in 2022",
+        "timestamps": []
+      },
+      {
+        "video_id": "h7UEwBaGoVo",
+        "title": "Is TypeScript (NodeJS) Faster than Go?? |  A server comparison",
+        "timestamps": []
+      },
+      {
+        "video_id": "qAYFepR4GcE",
+        "title": "Bun (TypeScript) is faster than Rust!?!",
+        "timestamps": []
+      },
+      {
+        "video_id": "RSY85SLXzwk",
+        "title": "Go is blazingly faster than Zig?",
+        "timestamps": []
+      },
+      {
+        "video_id": "ZNFdkTIzdXM",
+        "title": "Rust for TypeScript devs : Borrow Checker",
+        "timestamps": []
+      },
+      {
+        "video_id": "Sp5_d6coiqU",
+        "title": "How to make TypeScript Blazingly Fast (JavaScript/NodeJS)",
+        "timestamps": []
+      },
+      {
+        "video_id": "461735zrjzY",
+        "title": "React Is This Fast???",
+        "timestamps": []
+      },
+      {
+        "video_id": "sYuFT-MJBFs",
+        "title": "Comparing Rust (Yew) vs TypeScript (React) NodeJS | SSR times",
+        "timestamps": []
+      },
+      {
+        "video_id": "tLLQoF2JjAg",
+        "title": "Prime picks one language (Challenge Level: Impossible)",
+        "timestamps": []
+      },
+      {
+        "video_id": "G8vdu30EEfw",
+        "title": "I like Game Programming",
+        "timestamps": []
+      },
+      {
+        "video_id": "js7_bCY6WEw",
+        "title": "Layout is harder than you think..",
+        "timestamps": []
+      },
+      {
+        "video_id": "U16RnpV48KQ",
+        "title": "This Algorithm is 1,606,240% FASTER",
+        "timestamps": []
+      },
+      {
+        "video_id": "Sp5_d6coiqU",
+        "title": "How to make TypeScript Blazingly Fast (JavaScript/NodeJS)",
+        "timestamps": []
+      },
+      {
+        "video_id": "38gVgJj0eFQ",
+        "title": "Immediate Mode UI and Animations with Casey Muratori",
+        "timestamps": []
+      },
+      {
+        "video_id": "js7_bCY6WEw",
+        "title": "Layout is harder than you think..",
+        "timestamps": []
+      },
+      {
+        "video_id": "tLLQoF2JjAg",
+        "title": "Prime picks one language (Challenge Level: Impossible)",
+        "timestamps": []
+      }
+    ],
+    "deep_dive_benchmark_build": [
+      {
+        "video_id": "js7_bCY6WEw",
+        "title": "Layout is harder than you think..",
+        "timestamps": []
+      },
+      {
+        "video_id": "taoAAcS5PSw",
+        "title": "Musician turned Programmer turned Musician",
+        "timestamps": []
+      },
+      {
+        "video_id": "ZH3iKbEiks0",
+        "title": "I was wrong btw",
+        "timestamps": []
+      },
+      {
+        "video_id": "GwcFxTuMYmU",
+        "title": "I Went To DEFCON!",
+        "timestamps": []
+      },
+      {
+        "video_id": "3f9tbqSIm-E",
+        "title": "1000 Players - One Game of Doom",
+        "timestamps": []
+      },
+      {
+        "video_id": "x7v6SNIgJpE",
+        "title": "FULL Introduction To HTMX Using Golang",
+        "timestamps": []
+      },
+      {
+        "video_id": "SCPVDpyApgQ",
+        "title": "Are Developers Ok?",
+        "timestamps": []
+      },
+      {
+        "video_id": "E8cM12jRH7k",
+        "title": "How To Learn A New Programming Language",
+        "timestamps": []
+      },
+      {
+        "video_id": "FrMRyXtiJkc",
+        "title": "How to Vim in 2023: Tips and Tricks",
+        "timestamps": []
+      },
+      {
+        "video_id": "nMHxdz-N7EU",
+        "title": "Primeagen Answers the Webs Most Asked Questions for a Software Engineer",
+        "timestamps": []
+      },
+      {
+        "video_id": "7ap3CkBEpOE",
+        "title": "Faster than your favorite JS framework?",
+        "timestamps": []
+      },
+      {
+        "video_id": "w7i4amO_zaE",
+        "title": "0 to LSP : Neovim RC From Scratch",
+        "timestamps": []
+      },
+      {
+        "video_id": "slL7AW9q8Fc",
+        "title": "Why I Quit Netflix",
+        "timestamps": []
+      },
+      {
+        "video_id": "D4YTJ2W5q4Y",
+        "title": "Why I use Vim in 2022",
+        "timestamps": []
+      },
+      {
+        "video_id": "qAYFepR4GcE",
+        "title": "Bun (TypeScript) is faster than Rust!?!",
+        "timestamps": []
+      },
+      {
+        "video_id": "Sp5_d6coiqU",
+        "title": "How to make TypeScript Blazingly Fast (JavaScript/NodeJS)",
+        "timestamps": []
+      },
+      {
+        "video_id": "MuCK81q1edU",
+        "title": "Is JSON Blazingly Fast or...?",
+        "timestamps": []
+      },
+      {
+        "video_id": "sYuFT-MJBFs",
+        "title": "Comparing Rust (Yew) vs TypeScript (React) NodeJS | SSR times",
+        "timestamps": []
+      },
+      {
+        "video_id": "uL9oOZStezw",
+        "title": "Vim as your editor - Advanced Motions P2",
+        "timestamps": []
+      },
+      {
+        "video_id": "SEVD2nI4Bis",
+        "title": "Why Do I Suck At Programming?",
+        "timestamps": []
+      },
+      {
+        "video_id": "G8vdu30EEfw",
+        "title": "I like Game Programming",
+        "timestamps": []
+      },
+      {
+        "video_id": "js7_bCY6WEw",
+        "title": "Layout is harder than you think..",
+        "timestamps": []
+      },
+      {
+        "video_id": "JjHFubUPLV0",
+        "title": "From Meth To Netflix",
+        "timestamps": []
+      },
+      {
+        "video_id": "I5_Gx3JNho8",
+        "title": "How To Master JavaScript",
+        "timestamps": []
+      },
+      {
+        "video_id": "_TXO4RB3nIU",
+        "title": "How programming feels",
+        "timestamps": []
+      },
+      {
+        "video_id": "Sp5_d6coiqU",
+        "title": "How to make TypeScript Blazingly Fast (JavaScript/NodeJS)",
+        "timestamps": []
+      },
+      {
+        "video_id": "38gVgJj0eFQ",
+        "title": "Immediate Mode UI and Animations with Casey Muratori",
+        "timestamps": []
+      },
+      {
+        "video_id": "iKK_tY5Ph-4",
+        "title": "I Let Twitch Chat Create New Jokers for Balatro",
+        "timestamps": []
+      },
+      {
+        "video_id": "GwcFxTuMYmU",
+        "title": "I Went To DEFCON!",
+        "timestamps": []
+      },
+      {
+        "video_id": "SEVD2nI4Bis",
+        "title": "Why Do I Suck At Programming?",
+        "timestamps": []
+      },
+      {
+        "video_id": "js7_bCY6WEw",
+        "title": "Layout is harder than you think..",
+        "timestamps": []
+      }
+    ],
+    "developer_culture_and_critique": [
+      {
+        "video_id": "js7_bCY6WEw",
+        "title": "Layout is harder than you think..",
+        "timestamps": []
+      },
+      {
+        "video_id": "taoAAcS5PSw",
+        "title": "Musician turned Programmer turned Musician",
+        "timestamps": []
+      },
+      {
+        "video_id": "ZH3iKbEiks0",
+        "title": "I was wrong btw",
+        "timestamps": []
+      },
+      {
+        "video_id": "A_XGsAl-LqY",
+        "title": "the worst man in tech",
+        "timestamps": []
+      },
+      {
+        "video_id": "GwcFxTuMYmU",
+        "title": "I Went To DEFCON!",
+        "timestamps": []
+      },
+      {
+        "video_id": "UWb1dw_kbvo",
+        "title": "This Is Goodbye",
+        "timestamps": []
+      },
+      {
+        "video_id": "x7v6SNIgJpE",
+        "title": "FULL Introduction To HTMX Using Golang",
+        "timestamps": []
+      },
+      {
+        "video_id": "SCPVDpyApgQ",
+        "title": "Are Developers Ok?",
+        "timestamps": []
+      },
+      {
+        "video_id": "6jPiuOXmxEc",
+        "title": "What You Need To Learn 2023 (as a software engineer)",
+        "timestamps": []
+      },
+      {
+        "video_id": "o462tY758CY",
+        "title": "I Fixed Git",
+        "timestamps": []
+      },
+      {
+        "video_id": "E8cM12jRH7k",
+        "title": "How To Learn A New Programming Language",
+        "timestamps": []
+      },
+      {
+        "video_id": "2gG08VUuwzg",
+        "title": "Twitter's Algorithm Has MASSIVE Problems",
+        "timestamps": []
+      },
+      {
+        "video_id": "RDd71IUIgpg",
+        "title": "CoPilot Review: My Thoughts After 6 Months",
+        "timestamps": []
+      },
+      {
+        "video_id": "nMHxdz-N7EU",
+        "title": "Primeagen Answers the Webs Most Asked Questions for a Software Engineer",
+        "timestamps": []
+      },
+      {
+        "video_id": "7ap3CkBEpOE",
+        "title": "Faster than your favorite JS framework?",
+        "timestamps": []
+      },
+      {
+        "video_id": "QIyc6NKS5J0",
+        "title": "If I could give advice to myself when starting as a software engineer",
+        "timestamps": []
+      },
+      {
+        "video_id": "slL7AW9q8Fc",
+        "title": "Why I Quit Netflix",
+        "timestamps": []
+      },
+      {
+        "video_id": "D4YTJ2W5q4Y",
+        "title": "Why I use Vim in 2022",
+        "timestamps": []
+      },
+      {
+        "video_id": "sH0_LJoMJd4",
+        "title": "STOP LYING, The truth about Software Engineering",
+        "timestamps": []
+      },
+      {
+        "video_id": "Sp5_d6coiqU",
+        "title": "How to make TypeScript Blazingly Fast (JavaScript/NodeJS)",
+        "timestamps": []
+      },
+      {
+        "video_id": "MuCK81q1edU",
+        "title": "Is JSON Blazingly Fast or...?",
+        "timestamps": []
+      },
+      {
+        "video_id": "js7_bCY6WEw",
+        "title": "Layout is harder than you think..",
+        "timestamps": []
+      },
+      {
+        "video_id": "U16RnpV48KQ",
+        "title": "This Algorithm is 1,606,240% FASTER",
+        "timestamps": []
+      },
+      {
+        "video_id": "JjHFubUPLV0",
+        "title": "From Meth To Netflix",
+        "timestamps": []
+      },
+      {
+        "video_id": "WCwD_1Qm218",
+        "title": "Modern Software Engineering",
+        "timestamps": []
+      },
+      {
+        "video_id": "i3TyJIyPm84",
+        "title": "Code Mentor",
+        "timestamps": []
+      },
+      {
+        "video_id": "nbVSITerFkE",
+        "title": "10 Years At Netflix",
+        "timestamps": []
+      },
+      {
+        "video_id": "Sp5_d6coiqU",
+        "title": "How to make TypeScript Blazingly Fast (JavaScript/NodeJS)",
+        "timestamps": []
+      },
+      {
+        "video_id": "38gVgJj0eFQ",
+        "title": "Immediate Mode UI and Animations with Casey Muratori",
+        "timestamps": []
+      },
+      {
+        "video_id": "V0MSrZ-ffjY",
+        "title": "Managing Software Engineers",
+        "timestamps": []
+      },
+      {
+        "video_id": "A_XGsAl-LqY",
+        "title": "the worst man in tech",
+        "timestamps": []
+      },
+      {
+        "video_id": "GwcFxTuMYmU",
+        "title": "I Went To DEFCON!",
+        "timestamps": []
+      },
+      {
+        "video_id": "js7_bCY6WEw",
+        "title": "Layout is harder than you think..",
+        "timestamps": []
+      },
+      {
+        "video_id": "nbVSITerFkE",
+        "title": "10 Years At Netflix",
+        "timestamps": []
+      }
+    ],
+    "garbage_collector_stop_the_world_latency": [
+      {
+        "video_id": "js7_bCY6WEw",
+        "title": "Layout is harder than you think..",
+        "timestamps": [
+          "34:50"
+        ]
+      },
+      {
+        "video_id": "x7v6SNIgJpE",
+        "title": "FULL Introduction To HTMX Using Golang",
+        "timestamps": [
+          "29:39"
+        ]
+      },
+      {
+        "video_id": "RDd71IUIgpg",
+        "title": "CoPilot Review: My Thoughts After 6 Months",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "qAYFepR4GcE",
+        "title": "Bun (TypeScript) is faster than Rust!?!",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "ZNFdkTIzdXM",
+        "title": "Rust for TypeScript devs : Borrow Checker",
+        "timestamps": [
+          "08:45"
+        ]
+      },
+      {
+        "video_id": "js7_bCY6WEw",
+        "title": "Layout is harder than you think..",
+        "timestamps": [
+          "34:50"
+        ]
+      },
+      {
+        "video_id": "js7_bCY6WEw",
+        "title": "Layout is harder than you think..",
+        "timestamps": [
+          "17:12"
+        ]
+      }
+    ],
+    "harpoon_buffer_navigation": [
+      {
+        "video_id": "ZH3iKbEiks0",
+        "title": "I was wrong btw",
+        "timestamps": [
+          "07:11",
+          "28:52",
+          "31:28",
+          "32:05"
+        ]
+      },
+      {
+        "video_id": "o462tY758CY",
+        "title": "I Fixed Git",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "FrMRyXtiJkc",
+        "title": "How to Vim in 2023: Tips and Tricks",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "w7i4amO_zaE",
+        "title": "0 to LSP : Neovim RC From Scratch",
+        "timestamps": [
+          "00:00",
+          "19:15"
+        ]
+      },
+      {
+        "video_id": "qZO9A5F6BZs",
+        "title": "Vim As You Editor - Advanced Motions P1",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "5JGVtttuDQA",
+        "title": "Vim As Your Editor - Horizontal",
+        "timestamps": [
+          "28:00"
+        ]
+      }
+    ],
+    "mechanical_sympathy": [
+      {
+        "video_id": "A_XGsAl-LqY",
+        "title": "the worst man in tech",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "qZO9A5F6BZs",
+        "title": "Vim As You Editor - Advanced Motions P1",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "U16RnpV48KQ",
+        "title": "This Algorithm is 1,606,240% FASTER",
+        "timestamps": [
+          "35:00"
+        ]
+      },
+      {
+        "video_id": "38gVgJj0eFQ",
+        "title": "Immediate Mode UI and Animations with Casey Muratori",
+        "timestamps": [
+          "10:02"
+        ]
+      },
+      {
+        "video_id": "A_XGsAl-LqY",
+        "title": "the worst man in tech",
+        "timestamps": [
+          "01:20"
+        ]
+      }
+    ],
+    "engineering_philosophical_rant": [
+      {
+        "video_id": "GwcFxTuMYmU",
+        "title": "I Went To DEFCON!",
+        "timestamps": []
+      },
+      {
+        "video_id": "TTjYjSEGHek",
+        "title": "JSON, I hardly know 'er",
+        "timestamps": []
+      },
+      {
+        "video_id": "nMHxdz-N7EU",
+        "title": "Primeagen Answers the Webs Most Asked Questions for a Software Engineer",
+        "timestamps": []
+      },
+      {
+        "video_id": "GKpwO-DGKiI",
+        "title": "I Hate Google",
+        "timestamps": []
+      },
+      {
+        "video_id": "sH0_LJoMJd4",
+        "title": "STOP LYING, The truth about Software Engineering",
+        "timestamps": []
+      },
+      {
+        "video_id": "qZO9A5F6BZs",
+        "title": "Vim As You Editor - Advanced Motions P1",
+        "timestamps": []
+      },
+      {
+        "video_id": "Z0GX2mTUtfo",
+        "title": "Go is faster than Rust??!  Go vs Rust vs TypeScript Servers (as a scientist)",
+        "timestamps": []
+      },
+      {
+        "video_id": "q5jcjAQXiIU",
+        "title": "WHY STARBUCKS, WHY?!?!",
+        "timestamps": []
+      },
+      {
+        "video_id": "_iGHYwPU2WE",
+        "title": "A Billion Dollar Idea Gone Wrong",
+        "timestamps": []
+      },
+      {
+        "video_id": "4zJHs_L-GOc",
+        "title": "He did WHAT to the DB?",
+        "timestamps": []
+      },
+      {
+        "video_id": "dhuX9t2j5Hc",
+        "title": "This Keyboard",
+        "timestamps": []
+      },
+      {
+        "video_id": "v2a6Nv7RSd0",
+        "title": "Find And Replace",
+        "timestamps": []
+      },
+      {
+        "video_id": "u2trdurv638",
+        "title": "Imposter Syndrome",
+        "timestamps": []
+      },
+      {
+        "video_id": "fIhZqY_XKsc",
+        "title": "You Have Time...",
+        "timestamps": []
+      },
+      {
+        "video_id": "D9q5wnX2_DY",
+        "title": "AI Scuffed Programming",
+        "timestamps": []
+      },
+      {
+        "video_id": "ksBNx1vBm_0",
+        "title": "Peak Production Code",
+        "timestamps": []
+      },
+      {
+        "video_id": "M-VU0fLjIUU",
+        "title": "This Is A Game Changer",
+        "timestamps": []
+      },
+      {
+        "video_id": "P0XSS2Xst-U",
+        "title": "Do Something Different",
+        "timestamps": []
+      },
+      {
+        "video_id": "r3pGWijDzHE",
+        "title": "Math.sqrt",
+        "timestamps": []
+      },
+      {
+        "video_id": "DJxEYOC8IRc",
+        "title": "Magic Swap",
+        "timestamps": []
+      },
+      {
+        "video_id": "4P0HVCMX3kM",
+        "title": "Don't Make This Mistake | SWE",
+        "timestamps": []
+      },
+      {
+        "video_id": "oUDj8p7z0tQ",
+        "title": "Will It Run Doom ?",
+        "timestamps": []
+      },
+      {
+        "video_id": "K9DXgfsY90U",
+        "title": "I am dying",
+        "timestamps": []
+      },
+      {
+        "video_id": "3aGylFJAzTk",
+        "title": "Imagine...",
+        "timestamps": []
+      },
+      {
+        "video_id": "4zJHs_L-GOc",
+        "title": "He did WHAT to the DB?",
+        "timestamps": []
+      },
+      {
+        "video_id": "GKpwO-DGKiI",
+        "title": "I Hate Google",
+        "timestamps": []
+      },
+      {
+        "video_id": "GwcFxTuMYmU",
+        "title": "I Went To DEFCON!",
+        "timestamps": []
+      },
+      {
+        "video_id": "_TXO4RB3nIU",
+        "title": "How programming feels",
+        "timestamps": []
+      },
+      {
+        "video_id": "_iGHYwPU2WE",
+        "title": "A Billion Dollar Idea Gone Wrong",
+        "timestamps": []
+      },
+      {
+        "video_id": "dhuX9t2j5Hc",
+        "title": "This Keyboard",
+        "timestamps": []
+      },
+      {
+        "video_id": "q5jcjAQXiIU",
+        "title": "WHY STARBUCKS, WHY?!?!",
+        "timestamps": []
+      },
+      {
+        "video_id": "v2a6Nv7RSd0",
+        "title": "Find And Replace",
+        "timestamps": []
+      }
+    ],
+    "concurrency_primitives_and_locks": [
+      {
+        "video_id": "UWb1dw_kbvo",
+        "title": "This Is Goodbye",
+        "timestamps": [
+          "01:08",
+          "40:52"
+        ]
+      },
+      {
+        "video_id": "E8cM12jRH7k",
+        "title": "How To Learn A New Programming Language",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "Epwlk4B90vk",
+        "title": "RUST Enums ARE Better",
+        "timestamps": [
+          "19:15"
+        ]
+      },
+      {
+        "video_id": "boD0ReK62FI",
+        "title": "Looking Under the Hood of JavaScript",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "slL7AW9q8Fc",
+        "title": "Why I Quit Netflix",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "sH0_LJoMJd4",
+        "title": "STOP LYING, The truth about Software Engineering",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "h7UEwBaGoVo",
+        "title": "Is TypeScript (NodeJS) Faster than Go?? |  A server comparison",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "qAYFepR4GcE",
+        "title": "Bun (TypeScript) is faster than Rust!?!",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "qZO9A5F6BZs",
+        "title": "Vim As You Editor - Advanced Motions P1",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "RSY85SLXzwk",
+        "title": "Go is blazingly faster than Zig?",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "MuCK81q1edU",
+        "title": "Is JSON Blazingly Fast or...?",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "U16RnpV48KQ",
+        "title": "This Algorithm is 1,606,240% FASTER",
+        "timestamps": [
+          "35:00"
+        ]
+      },
+      {
+        "video_id": "JjHFubUPLV0",
+        "title": "From Meth To Netflix",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "38gVgJj0eFQ",
+        "title": "Immediate Mode UI and Animations with Casey Muratori",
+        "timestamps": [
+          "00:37"
+        ]
+      }
+    ],
+    "live_code_roast_critique": [
+      {
+        "video_id": "x7v6SNIgJpE",
+        "title": "FULL Introduction To HTMX Using Golang",
+        "timestamps": []
+      },
+      {
+        "video_id": "TB0cXGvuw9A",
+        "title": "Stepping Down From RustConf and Rust Project Controversy",
+        "timestamps": []
+      },
+      {
+        "video_id": "2gG08VUuwzg",
+        "title": "Twitter's Algorithm Has MASSIVE Problems",
+        "timestamps": []
+      },
+      {
+        "video_id": "RDd71IUIgpg",
+        "title": "CoPilot Review: My Thoughts After 6 Months",
+        "timestamps": []
+      },
+      {
+        "video_id": "c3yRbrYIUeo",
+        "title": "Programming Tier List 2024",
+        "timestamps": []
+      },
+      {
+        "video_id": "38gVgJj0eFQ",
+        "title": "Immediate Mode UI and Animations with Casey Muratori",
+        "timestamps": []
+      },
+      {
+        "video_id": "c3yRbrYIUeo",
+        "title": "Programming Tier List 2024",
+        "timestamps": []
+      }
+    ],
+    "system_architecture_and_scale": [
+      {
+        "video_id": "x7v6SNIgJpE",
+        "title": "FULL Introduction To HTMX Using Golang",
+        "timestamps": []
+      },
+      {
+        "video_id": "SCPVDpyApgQ",
+        "title": "Are Developers Ok?",
+        "timestamps": []
+      },
+      {
+        "video_id": "E8cM12jRH7k",
+        "title": "How To Learn A New Programming Language",
+        "timestamps": []
+      },
+      {
+        "video_id": "h7UEwBaGoVo",
+        "title": "Is TypeScript (NodeJS) Faster than Go?? |  A server comparison",
+        "timestamps": []
+      },
+      {
+        "video_id": "qAYFepR4GcE",
+        "title": "Bun (TypeScript) is faster than Rust!?!",
+        "timestamps": []
+      },
+      {
+        "video_id": "MuCK81q1edU",
+        "title": "Is JSON Blazingly Fast or...?",
+        "timestamps": []
+      },
+      {
+        "video_id": "Z0GX2mTUtfo",
+        "title": "Go is faster than Rust??!  Go vs Rust vs TypeScript Servers (as a scientist)",
+        "timestamps": []
+      },
+      {
+        "video_id": "_ebVsYQou8A",
+        "title": "Programming Curves",
+        "timestamps": []
+      },
+      {
+        "video_id": "U16RnpV48KQ",
+        "title": "This Algorithm is 1,606,240% FASTER",
+        "timestamps": []
+      },
+      {
+        "video_id": "_ebVsYQou8A",
+        "title": "Programming Curves",
+        "timestamps": []
+      }
+    ],
+    "type_system_soundness": [
+      {
+        "video_id": "x7v6SNIgJpE",
+        "title": "FULL Introduction To HTMX Using Golang",
+        "timestamps": [
+          "29:39"
+        ]
+      },
+      {
+        "video_id": "TB0cXGvuw9A",
+        "title": "Stepping Down From RustConf and Rust Project Controversy",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "h7UEwBaGoVo",
+        "title": "Is TypeScript (NodeJS) Faster than Go?? |  A server comparison",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "tLLQoF2JjAg",
+        "title": "Prime picks one language (Challenge Level: Impossible)",
+        "timestamps": [
+          "06:15"
+        ]
+      },
+      {
+        "video_id": "38gVgJj0eFQ",
+        "title": "Immediate Mode UI and Animations with Casey Muratori",
+        "timestamps": [
+          "25:18"
+        ]
+      },
+      {
+        "video_id": "tLLQoF2JjAg",
+        "title": "Prime picks one language (Challenge Level: Impossible)",
+        "timestamps": [
+          "00:08"
+        ]
+      }
+    ],
+    "premature_abstraction_bloat": [
+      {
+        "video_id": "6jPiuOXmxEc",
+        "title": "What You Need To Learn 2023 (as a software engineer)",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "38gVgJj0eFQ",
+        "title": "Immediate Mode UI and Animations with Casey Muratori",
+        "timestamps": [
+          "31:54",
+          "32:02",
+          "33:10",
+          "35:22",
+          "36:09"
+        ]
+      },
+      {
+        "video_id": "V0MSrZ-ffjY",
+        "title": "Managing Software Engineers",
+        "timestamps": [
+          "00:00"
+        ]
+      }
+    ],
+    "flamegraph_and_profiling_audit": [
+      {
+        "video_id": "PHvbLmLPX6s",
+        "title": "This Lesson Taught Me How To Do Better Benchmarks",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "Sp5_d6coiqU",
+        "title": "How to make TypeScript Blazingly Fast (JavaScript/NodeJS)",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "Sp5_d6coiqU",
+        "title": "How to make TypeScript Blazingly Fast (JavaScript/NodeJS)",
+        "timestamps": [
+          "00:00"
+        ]
+      }
+    ],
+    "zero_cost_abstractions": [
+      {
+        "video_id": "Sp5_d6coiqU",
+        "title": "How to make TypeScript Blazingly Fast (JavaScript/NodeJS)",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "Sp5_d6coiqU",
+        "title": "How to make TypeScript Blazingly Fast (JavaScript/NodeJS)",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "V0MSrZ-ffjY",
+        "title": "Managing Software Engineers",
+        "timestamps": [
+          "00:00"
+        ]
+      }
+    ]
+  }
+}

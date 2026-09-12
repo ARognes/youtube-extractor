@@ -1,0 +1,91 @@
+video_id: aJP1AbZSqz8
+title: TypeScript in React - Full Tutorial
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=aJP1AbZSqz8
+duration: '49:30'
+word_count: 9218
+first_order_tags:
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 03:09
+  seconds: 188.9
+  context: Inside of it, we're going to open up index.css and grab all of its content.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 08:12
+  seconds: 492.1
+  context: Get random word generates a random index based on the length of the words
+    array, which we're importing up here at the top.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 09:31
+  seconds: 571.2
+  context: And finally the random index variable down here.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '10:11'
+  seconds: 610.7
+  context: And then moving down to the bottom where it says random index.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '11:08'
+  seconds: 667.8
+  context: So, we have a get random index function that both of our other functions
+    can use.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '12:09'
+  seconds: 729.3
+  context: And then we'll type the function's return value which we know should be
+    an index.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '22:02'
+  seconds: 1322.4
+  context: So from top to bottom here, we've got confetti container which renders
+    the endgame confetti.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '24:58'
+  seconds: 1498.2
+  context: In this scrim, we're going to be looking at this confetti container component.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '25:20'
+  seconds: 1520.1
+  context: Explicitly type the confetti container components return value.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '26:26'
+  seconds: 1586.1
+  context: Welcome back to the confetti container component.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '28:03'
+  seconds: 1682.7
+  context: Now there's not much left to type in the confetti container component.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '38:27'
+  seconds: 2306.6
+  context: Let's start with lang and index.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '41:00'
+  seconds: 2460.4
+  context: So letter is a string and index is a number.
+second_order_tags:
+- containerization_and_orchestration
+- relational_normalization_and_acid
+- visual_algorithm_walkthrough
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- return value
+- hover over
+- random index
+- type return
+- type react
+- next scrim
+summary_hook: Explores containerization_and_orchestration, relational_normalization_and_acid,
+  visual_algorithm_walkthrough.

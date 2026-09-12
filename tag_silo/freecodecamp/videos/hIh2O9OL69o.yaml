@@ -1,0 +1,67 @@
+video_id: hIh2O9OL69o
+title: Build an AI Agent in Telegram with Vercel, Cursor, Composio
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=hIh2O9OL69o
+duration: '49:30'
+word_count: 12017
+first_order_tags:
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '10:09'
+  seconds: 609.5
+  context: And you can use this for text, image, and video models.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '14:24'
+  seconds: 864.2
+  context: A context window is defined as the maximum amount of information, measured
+    in tokens, that a large language model, or an LLM, can remember a...
+- tag: vtag_semantic_chunking_tokenization
+  bound_second_order: semantic_chunking_tokenization
+  timestamp: '14:47'
+  seconds: 886.9
+  context: And you have other models like Gemini K 2.6 with a 256,000 token limit.
+- tag: vtag_semantic_chunking_tokenization
+  bound_second_order: semantic_chunking_tokenization
+  timestamp: '15:01'
+  seconds: 900.6
+  context: So, when you're on a fresh chat and you're well below this 1 million token
+    limit, you're going to find that your LLM performs great.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '15:14'
+  seconds: 914.2
+  context: We have the full technical definition here, which is that context engineering
+    is a strategic curation, management, and optimization of the t...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '26:41'
+  seconds: 1601.0
+  context: And when the user says something that's worth remembering, like my name
+    is Sean, the model can then say, "Hey, maybe I should remember this ...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '28:03'
+  seconds: 1682.8
+  context: The key implementation detail here is that container tags should include
+    session.user_id, and this means that our users' memories should onl...
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '37:22'
+  seconds: 2242.3
+  context: And that should make it pick up all these new tokens.
+second_order_tags:
+- containerization_and_orchestration
+- semantic_chunking_tokenization
+- transformer_attention_mechanisms
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- super memory
+- environment variables
+- cursor agent
+- system prompt
+- every single
+- context window
+summary_hook: Explores containerization_and_orchestration, transformer_attention_mechanisms,
+  semantic_chunking_tokenization.

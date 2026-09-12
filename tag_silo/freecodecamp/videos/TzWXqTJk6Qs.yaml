@@ -1,0 +1,38 @@
+video_id: TzWXqTJk6Qs
+title: Reviewing Your Website Designs Live - with Gary Simon
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=TzWXqTJk6Qs
+duration: '45:00'
+word_count: 10070
+first_order_tags:
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 00:00
+  seconds: 0.0
+  context: hello hello hello hello everybody we are going to get started here momentarily
+    we're just going to wait for people to filter in and i'm goin...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '22:30'
+  seconds: 1350.0
+  context: that's not nice all right  okay so yeah it seems like yep you're welcome
+    let's go ahead and look at some of the ones that have been submitte...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '33:45'
+  seconds: 2025.0
+  context: i'm sorry all right okay let's continue on my first commercially used website
+    oh okay i love this i love these types here all right i'm goin...
+second_order_tags:
+- containerization_and_orchestration
+- visual_algorithm_walkthrough
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- white space
+- being worst
+- worst being
+- being best
+- visual hierarchy
+- rating being
+summary_hook: Explores containerization_and_orchestration, visual_algorithm_walkthrough.

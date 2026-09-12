@@ -1,0 +1,31 @@
+video_id: gZ2V5VtwrCw
+title: What Big Tech Still Gets WRONG about Great Programmers | Casey Muratori
+channel: A Life Engineered
+url: https://www.youtube.com/watch?v=gZ2V5VtwrCw
+duration: '19:24'
+word_count: 12059
+first_order_tags:
+- tag: vtag_lowballed_offer_fear
+  bound_second_order: lowballed_offer_fear
+  timestamp: '15:53'
+  seconds: 953.1
+  context: Okay, so the complement of that is like what's really undervalued right
+    now that like nobody is talking about but everybody should be.
+second_order_tags:
+- executive_interview_mentorship
+- lowballed_offer_fear
+- salary_negotiation_and_total_comp
+- staff_plus_and_executive_leadership
+- system_design_and_architecture_reviews
+third_order_tags:
+- T3_ENGINEERING_LEADERSHIP_LEVERAGE
+- T3_SHAME_GUILT_EGO_PRESERVATION
+key_phrases:
+- clean code
+- these things
+- pretty good
+- always kind
+- okay yeah
+- tell whether
+summary_hook: Explores staff_plus_and_executive_leadership, salary_negotiation_and_total_comp,
+  system_design_and_architecture_reviews.

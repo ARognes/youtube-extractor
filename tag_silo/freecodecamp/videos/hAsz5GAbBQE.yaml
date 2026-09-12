@@ -1,0 +1,88 @@
+video_id: hAsz5GAbBQE
+title: Kubernetes Operator Best Practices – Kubebuilder Deep Dive
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=hAsz5GAbBQE
+duration: '54:00'
+word_count: 20854
+first_order_tags:
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 03:04
+  seconds: 183.9
+  context: And and you decided that this event should be a pod being in a pending
+    state because of CPU or memory.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 04:27
+  seconds: 266.8
+  context: These are the name spaces in which I want to target if there is a pending
+    pod in these name spaces, then only I want to scale.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 06:16
+  seconds: 375.5
+  context: Going to copy this image, and here is my custom resource definition, or
+    rather the custom resource for uh the auto scaler.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 07:05
+  seconds: 424.7
+  context: You found a pod which was pending in the broad name space and you have
+    configured your auto scalar operator that if pending is found, you kn...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '14:48'
+  seconds: 888.3
+  context: So, I'm going to get my worker nodes as a Docker container.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '15:09'
+  seconds: 909.1
+  context: And you can see I've got these containers and this is where my Kubernetes
+    cluster is running.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '24:18'
+  seconds: 1458.1
+  context: And here you can say um Um, print ln uh I tried I tried four times something
+    is wrong with the Kubernetes cluster or API server because that...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '27:58'
+  seconds: 1678.3
+  context: So, we talked about a resource, a custom resource that we created in the
+    course, which was EC2 instance, and our operator, which was running...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '28:32'
+  seconds: 1711.9
+  context: And that's where this is my Kubernetes cluster where I create them a custom
+    resource, which is again called the EC2 instance.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '32:59'
+  seconds: 1978.7
+  context: The only important thing is all of these objects that I'm giving to my
+    Kubernetes cluster at the same time is because this is how people wou...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '36:44'
+  seconds: 2204.0
+  context: If I was to create 100 pods and only one could be created at one time,
+    you're going to be waiting before your pod could even be scheduled on...
+second_order_tags:
+- cloud_devops_and_infrastructure
+- containerization_and_orchestration
+- cybersecurity_and_ethical_hacking
+- paper_and_architecture_breakdown
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- custom resource
+- resource version
+- update object
+- node pool
+- working queue
+- very simple
+summary_hook: Explores cloud_devops_and_infrastructure, cybersecurity_and_ethical_hacking,
+  containerization_and_orchestration.

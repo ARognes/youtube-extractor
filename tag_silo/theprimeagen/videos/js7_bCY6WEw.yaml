@@ -1,0 +1,29 @@
+video_id: js7_bCY6WEw
+title: Layout is harder than you think..
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=js7_bCY6WEw
+duration: 15 min
+word_count: 5286
+first_order_tags:
+- tag: vtag_garbage_collector_stop_the_world_latency
+  bound_second_order: garbage_collector_stop_the_world_latency
+  timestamp: '17:12'
+  seconds: 1032.2
+  context: make temporary allocations. But I also
+second_order_tags:
+- deep_dive_benchmark_build
+- developer_culture_and_critique
+- garbage_collector_stop_the_world_latency
+- runtime_internals_and_garbage_collection
+- systems_programming_and_compilers
+third_order_tags:
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- immediate mode
+- layout system
+- temporary allocator
+- wanted able
+- able create
+- start element
+summary_hook: Explores systems_programming_and_compilers, runtime_internals_and_garbage_collection,
+  developer_culture_and_critique.

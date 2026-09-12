@@ -2706,7 +2706,7 @@ cybersecurity_homelabs:
       - tu1amrfflb8
       - v7-gJ3uqZ5A
     all_videos:
-      count: 178
+      count: 179
       video_ids:
       - 5bsI3M44NWo
       - AVd3ds5U2xc
@@ -2793,6 +2793,7 @@ cybersecurity_homelabs:
       - GGKACegWMAE
       - -abob21omcM
       - -xCp7nag3GM
+      - 0Rp9KJCEIvg
       - 0ogfPb6aejo
       - 1AVlW7TB-Oo
       - 1h6TKnVOqQw
@@ -3301,7 +3302,7 @@ business_systems:
       video_ids:
       - m-wqkIipJG4
     all_videos:
-      count: 120
+      count: 121
       video_ids:
       - H0KAi8AWsnM
       - cgsWQd5EM1k
@@ -3388,6 +3389,7 @@ business_systems:
       - Z1NuQk5NWhM
       - ZH7pPmuXVgo
       - ZbK3UW-4tlU
+      - _TAobxGR9CM
       - bkeEyxXidck
       - cLhgkuRxk9I
       - cW6eHGxUZAI
@@ -3533,7 +3535,7 @@ cognitive_psychology:
       - 6h8Eaz6oNCg
       - 7Fj5dGyKm7s
     all_videos:
-      count: 154
+      count: 156
       video_ids:
       - lOV5nyyzOxk
       - bvZGZuh2n2I
@@ -3635,6 +3637,7 @@ cognitive_psychology:
       - fDzWqR-dU90
       - fHyDoY6L25k
       - fbFATNu3K7Q
+      - g1a6ANZ8xHM
       - h7oUthN0BUw
       - h8tBPhNkjN0
       - hFNM7HrmZ0Q
@@ -3666,6 +3669,7 @@ cognitive_psychology:
       - pCZdJiGSk8g
       - pXshjy6WwWI
       - qjZ3f-IXEXU
+      - r2RFgOSezAg
       - rYB9W8wlsMI
       - rvlmDZxlqhg
       - s9yrMPIJHC8
@@ -3733,12 +3737,13 @@ pali_philosophy:
   topic_count: 4
   topics:
     ai:
-      count: 2
+      count: 3
       video_ids:
+      - 5kj8U7Cv-KY
       - cU2Cqq8zkE4
       - oDQ1hvW6trs
     all_videos:
-      count: 97
+      count: 98
       video_ids:
       - MQYmuoKdsGY
       - qaQWgCzoHyg
@@ -3754,6 +3759,7 @@ pali_philosophy:
       - 2jL9F7b7kfQ
       - 3jl_7v3hwqQ
       - 5CxRQHhNJLM
+      - 5kj8U7Cv-KY
       - 6Coc7r_d_l4
       - 6EFJcP_sbrs
       - 6WtRetCi_Oc
@@ -4020,7 +4026,7 @@ longevity_creative_tech:
       - 9OSbaPjv0Rc
       - 7xQDTJ7-UfY
     all_videos:
-      count: 55
+      count: 56
       video_ids:
       - w7vHXba9RLo
       - QEnOYoKQ2rQ
@@ -4077,6 +4083,7 @@ longevity_creative_tech:
       - L-LXk0jHzG4
       - djKu-HZJYXM
       - 27_EQbVnhiE
+      - 8DlVUCxARNU
     also:
       count: 1
       video_ids:
@@ -4306,28 +4313,132 @@ news_media_culture:
   topic_count: 24
   topics:
     ai:
-      count: 1
+      count: 14
       video_ids:
+      - 4dVWrcptd84
+      - DmxwXbRWxQ8
+      - GFauKGgO7VI
       - I1n-cMvA_sA
+      - RahSlovHhCo
+      - WzfxubCGSWE
+      - XM2iA980YOI
+      - _Nvw2LEZJgs
+      - dzJU9HOwF1E
+      - iuamssZs_PU
+      - qigirC7DYCk
+      - rs5GKnVjxp4
+      - ts8BN4O-LbA
+      - tvAaonAucyA
     algorithm:
       count: 1
       video_ids:
       - XPHrx7HnEnU
     all_videos:
-      count: 12
+      count: 103
       video_ids:
       - XPHrx7HnEnU
       - Puv0Anpmdxs
       - T9IV09cvXx4
       - D6P4xBspFts
+      - -0C0maWrBPU
+      - -AZoNQLdi4c
+      - -o4SKdcFyVI
       - -tvQqh7VUbQ
+      - 0FvS11yACzY
+      - 1nnb6-jl9sY
+      - 2WMaQqQV1OI
+      - 4dVWrcptd84
+      - 5pBnx9BLWoI
+      - 6IVOb_nc_t4
+      - 6NbPO1K58Ac
+      - 6VeDhBW81zo
+      - 6Xb_LuLOCuY
+      - 6dUgKB1JFic
+      - 6oMEWzX-fMo
+      - 9GBy_6QMKpM
+      - AV4bnmc4vQk
+      - AZKnZEiYY8s
+      - CObo84yLItk
+      - DSj9cM8KHFY
+      - DmxwXbRWxQ8
+      - DuKTqQjBE10
+      - E8J_ajUQdqk
+      - EztG85_iNuo
+      - FtfNi3V68bI
+      - GFauKGgO7VI
+      - H6iHzQBiBi8
+      - H97bzY8A9vI
+      - HdqDTOIjxqI
       - I1n-cMvA_sA
+      - JCIFqYaTZ1g
+      - JKqMif4TyHk
+      - JhcxW_MBssU
+      - LMyruZOUPmc
+      - LyTpZ327ixY
+      - M-5folVaUbU
+      - MfovkRD6xB8
+      - R7l9xRgZTqc
+      - RD7XQUxghvM
+      - RSFWeVCW6EQ
+      - RahSlovHhCo
       - Ri_aF0L0POA
       - SDlk0jOjqiE
+      - TKt0WIuTwSs
+      - UJiSVySiTfo
+      - UjQLhEflACY
+      - Uz4wWZQ6yjk
+      - V_R5YaMkXF0
+      - VgzidRNV2ao
+      - W7_DZWlTfuY
+      - WLVzHvgNyt4
+      - WzfxubCGSWE
+      - XH6zCNR0SZ4
+      - XM2iA980YOI
+      - Xgo72NHl--8
+      - Y6Q3awHHA58
+      - Yu0QtvHBaqE
+      - YwNkYEw8jRc
       - ZVT05AYT0fA
+      - _Nvw2LEZJgs
+      - aVrkctLcnNs
+      - bPq28nKaELk
       - cUxgalB3rkk
+      - ciT4J8tGm3M
+      - dFhB2y94mrA
+      - d_YV5vbArKs
+      - du3JaCMa5pk
+      - dzJU9HOwF1E
+      - fjNsBFPyQj4
+      - h5_zsSdg2W8
+      - heacPnqC4jU
+      - iuamssZs_PU
       - iyyBlxDSXd4
+      - jKBfozuHYFk
+      - kShS2IcNdhc
+      - kWviNzmg97E
       - lJyuOY9VE9s
+      - lSh_ViuJ5OE
+      - lnOke8lJJJg
+      - lv2bQ6lMvvw
+      - n7db7MFtBWA
+      - npbqfr80qyQ
+      - pPdM_vYoqPk
+      - pwkZ9SaS4fc
+      - qBMTtI8Z6CE
+      - qRn_Ud8jrDg
+      - qigirC7DYCk
+      - rU5JxrtPC9E
+      - rs5GKnVjxp4
+      - t5iznPNHR0Q
+      - ts8BN4O-LbA
+      - tvAaonAucyA
+      - v3rdMRZEa1I
+      - vkBwkGw8p8I
+      - vlf0DpodHL8
+      - xCz_r2RVs2w
+      - yLvy07vPwZI
+      - yTL9ogTYOrY
+      - yVtpZq3070I
     api:
       count: 1
       video_ids:
@@ -4453,7 +4564,7 @@ general_knowledge:
       - NvkZaWLe0Sk
       - War3PvOQnRc
     all_videos:
-      count: 270
+      count: 272
       video_ids:
       - kzcI5F4tGiU
       - rQXjfwUfitI
@@ -4723,6 +4834,8 @@ general_knowledge:
       - NwnYHoNtfJ0
       - War3PvOQnRc
       - 7WOsi8S39-k
+      - 7B0ydm64cV8
+      - MtxP2pyCvYA
       - dQw4w9WgXcQ
       - ext_1788036809
     amazon:

@@ -1,0 +1,112 @@
+video_id: 1mvlBz6pj1I
+title: How To Build A Production Ready RAG AI - My Full AI Coding Workflow
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=1mvlBz6pj1I
+duration: '36:06'
+word_count: 43852
+first_order_tags:
+- tag: vtag_rag_chunking_and_embedding_pipeline
+  bound_second_order: rag_chunking_and_embedding_pipeline
+  timestamp: 00:00
+  seconds: 0.0
+  context: This video is going to be a master class on how you can create your own
+    rag retrieval augmented generation system where essentially we are i...
+- tag: vtag_rag_chunking_and_embedding_pipeline
+  bound_second_order: rag_chunking_and_embedding_pipeline
+  timestamp: 01:49
+  seconds: 109.4
+  context: I have very good hierarchical information and I want to make sure I preserve
+    all of that different category and hierarch information inside ...
+- tag: vtag_rag_chunking_and_embedding_pipeline
+  bound_second_order: rag_chunking_and_embedding_pipeline
+  timestamp: '10:16'
+  seconds: 615.9
+  context: When you're doing this kind of embedding and chunking for a rag system,
+    you want to try to chunk your data in ways that it is contextually a...
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: '12:53'
+  seconds: 773.4
+  context: Next, you can see that it's trying to get the response text as XML and
+    then it's trying to parse that by getting a new parser, which I belie...
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: '13:21'
+  seconds: 801.4
+  context: Now, another thing we can do to actually clean this up is that the parser
+    actually has a parse URL function.
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: '14:31'
+  seconds: 871.1
+  context: Make sure we use zod for that.
+- tag: vtag_rag_chunking_and_embedding_pipeline
+  bound_second_order: rag_chunking_and_embedding_pipeline
+  timestamp: '15:04'
+  seconds: 903.6
+  context: Here's our chunking.
+- tag: vtag_rag_chunking_and_embedding_pipeline
+  bound_second_order: rag_chunking_and_embedding_pipeline
+  timestamp: '16:06'
+  seconds: 966.1
+  context: And let's make sure we trim it to get rid of any white space because that's
+    not important for our chunking algorithm.
+- tag: vtag_rag_chunking_and_embedding_pipeline
+  bound_second_order: rag_chunking_and_embedding_pipeline
+  timestamp: '17:20'
+  seconds: 1039.7
+  context: And now we need to work on the actual embedding portion of our chunking
+    for our articles.
+- tag: vtag_css_specificity_and_cascade_wars
+  bound_second_order: css_specificity_and_cascade_wars
+  timestamp: '19:22'
+  seconds: 1162.1
+  context: We'll do a quick cascade on that.
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: '26:16'
+  seconds: 1575.5
+  context: I also mentioned to use the subtitles npm package to parse out the captions
+    and that we need to fetch the video content details and transcri...
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: '29:56'
+  seconds: 1796.2
+  context: Get our video item and we're going to safe parse.
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: '30:19'
+  seconds: 1819.0
+  context: And then we can parse the caption.
+- tag: vtag_css_specificity_and_cascade_wars
+  bound_second_order: css_specificity_and_cascade_wars
+  timestamp: '32:42'
+  seconds: 1961.6
+  context: And we can even just throw on like ondee cascade.
+- tag: vtag_rag_chunking_and_embedding_pipeline
+  bound_second_order: rag_chunking_and_embedding_pipeline
+  timestamp: '33:32'
+  seconds: 2012.4
+  context: Oh, of course, because I have my chunking schema set to the wrong one.
+second_order_tags:
+- ai_application_engineering
+- backend_and_database_integration
+- css_specificity_and_cascade_wars
+- form_validation_and_schema_parsing
+- frontend_reactivity_and_frameworks
+- modern_css_and_layouts
+- pattern_vs_antipattern_comparison
+- practical_project_build
+- rag_chunking_and_embedding_pipeline
+- typescript_and_type_safety
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- pull request
+- create brand
+- copy over
+- code rabbit
+- environment variables
+- environment variable
+summary_hook: Explores frontend_reactivity_and_frameworks, modern_css_and_layouts,
+  typescript_and_type_safety.

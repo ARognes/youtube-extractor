@@ -1,0 +1,31 @@
+video_id: 7FKNmNYAP-4
+title: Why Even Google Engineers Are Relearning Everything | Maddy Zhang
+channel: A Life Engineered
+url: https://www.youtube.com/watch?v=7FKNmNYAP-4
+duration: '16:18'
+word_count: 9906
+first_order_tags:
+- tag: vtag_sponsorship_vs_mentorship
+  bound_second_order: sponsorship_vs_mentorship
+  timestamp: 06:39
+  seconds: 399.4
+  context: So companies would sponsor and then you could like make donations and you
+    could get like little prizes and do stuff like that.
+second_order_tags:
+- career_progression_and_promotion
+- executive_interview_mentorship
+- salary_negotiation_and_total_comp
+- sponsorship_vs_mentorship
+- staff_plus_and_executive_leadership
+- system_design_and_architecture_reviews
+third_order_tags:
+- T3_ENGINEERING_LEADERSHIP_LEVERAGE
+key_phrases:
+- software engineering
+- imposter syndrome
+- system design
+- very happy
+- yeah definitely
+- software engineer
+summary_hook: Explores staff_plus_and_executive_leadership, career_progression_and_promotion,
+  salary_negotiation_and_total_comp.

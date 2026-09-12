@@ -1,0 +1,65 @@
+video_id: _kNabHEZQlo
+title: Did you know that Dijkstra came up with his famous algorithm in about 20 minutes?
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=_kNabHEZQlo
+duration: '40:30'
+word_count: 401
+first_order_tags:
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: 04:52
+  seconds: 291.6
+  context: Dijkstra, came up with an algorithm that would power GPS navigation, network
+    routing, social media networks, supply chains, robotics, and mo...
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: 09:43
+  seconds: 583.2
+  context: Dijkstra was working as a programmer at the Mathematical Center in Amsterdam.
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: '17:49'
+  seconds: 1069.2
+  context: When Dijkstra and his girlfriend felt tired from walking around the shops
+    that day, they sat down at a cafe terrace to drink a cup of coffee...
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: '27:32'
+  seconds: 1652.4
+  context: You might picture Dijkstra very focused on his cafe table sketching and
+    brainstorming in hundreds of pieces of paper to come up with the rig...
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: '30:47'
+  seconds: 1846.8
+  context: Dijkstra literally said that he didn't use pencil and paper.
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: '34:01'
+  seconds: 2041.2
+  context: At that time, Dijkstra didn't know that those 20 minutes would become the
+    cornerstone of his fame, reshaping the world by unlocking capabili...
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: '37:16'
+  seconds: 2235.6
+  context: Dijkstra literally changed the world with  his 20-minute masterpiece.
+- tag: vtag_graph_and_tree_traversals
+  bound_second_order: graph_and_tree_traversals
+  timestamp: '38:53'
+  seconds: 2332.8
+  context: To learn more about Dijkstra's algorithm, check out my full video essay
+    on the freeCodeCamp YouTube channel.
+second_order_tags:
+- computer_science_fundamentals
+- graph_and_tree_traversals
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- kept thinking
+- literally changed
+- changed world
+- drink coffee
+- shortest path
+- path between
+summary_hook: Explores computer_science_fundamentals, graph_and_tree_traversals.

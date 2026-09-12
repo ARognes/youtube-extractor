@@ -1,0 +1,26 @@
+video_id: kZNIHeCaZiM
+title: Chicken Nuggets and itertools - Python Basics with Sam
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=kZNIHeCaZiM
+duration: '45:00'
+word_count: 7588
+first_order_tags:
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 07:56
+  seconds: 476.5
+  context: so we need to revolve through and as we get back to a certain number of
+    combinations of one then we need to flip it over i was thinking abou...
+second_order_tags:
+- containerization_and_orchestration
+- machine_learning_and_data_science
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- chicken nuggets
+- free code
+- code camp
+- itter tools
+- flip over
+- iter tools
+summary_hook: Explores machine_learning_and_data_science, containerization_and_orchestration.

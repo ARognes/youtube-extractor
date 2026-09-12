@@ -1,0 +1,27 @@
+video_id: d9QHNkD_Pos
+title: 'Image Classification with Convolutional Neural Networks | Deep Learning with
+  PyTorch: Zero to GANs |'
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=d9QHNkD_Pos
+duration: '49:30'
+word_count: 154
+first_order_tags:
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '14:09'
+  seconds: 848.6
+  context: "Code and Resources: \n\U0001F517 Image Classification using Convolutional
+    Neural Networks: https://jovian.ai/aakashns/05-cifar10..."
+second_order_tags:
+- containerization_and_orchestration
+- machine_learning_and_data_science
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- deep learning
+- https jovian
+- learning pytorch
+- jovian aakashns
+- https freecodecamp
+- pytorch zero
+summary_hook: Explores machine_learning_and_data_science, containerization_and_orchestration.

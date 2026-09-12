@@ -1,4 +1,8 @@
+pub mod heuristic;
 use serde::{Deserialize, Serialize};
+
+pub const TRANSCRIPT_API_KEY: &str = "sk_JaAysZu79sqC3_fBTneaD3FcFXuhiz1Br9a862wb8JM";
+pub const SUPADATA_API_KEY: &str = "sd_32b8567c225df115f94f200dde8b8b61";
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct FormattedTranscript {
@@ -27,6 +31,62 @@ pub struct RawSegment {
     pub duration: f64,
 }
 
+#[derive(Debug, Deserialize)]
+struct TranscriptApiResponse {
+    #[serde(default)]
+    transcript: Vec<RawSegment>,
+}
+
+#[derive(Debug, Deserialize)]
+struct SupadataSegment {
+    #[serde(default)]
+    text: String,
+    #[serde(default)]
+    start: f64,
+    #[serde(default)]
+    duration: f64,
+}
+
+#[derive(Debug, Deserialize)]
+struct SupadataResponse {
+    #[serde(default)]
+    content: Vec<SupadataSegment>,
+}
+
+#[derive(Debug, Clone, Deserialize)]
+pub struct ChannelVideoItem {
+    #[serde(rename = "videoId")]
+    pub video_id: String,
+    #[serde(default)]
+    pub title: String,
+    #[serde(default, rename = "channelTitle")]
+    pub channel_title: Option<String>,
+    #[serde(default, rename = "channelHandle")]
+    pub channel_handle: Option<String>,
+    #[serde(default, rename = "lengthText")]
+    pub length_text: Option<String>,
+    #[serde(default, rename = "publishedTimeText")]
+    pub published_time_text: Option<String>,
+    #[serde(default, rename = "viewCountText")]
+    pub view_count_text: Option<String>,
+}
+
+#[derive(Debug, Deserialize)]
+struct ChannelVideosResponse {
+    #[serde(default)]
+    results: Vec<ChannelVideoItem>,
+    #[serde(default)]
+    continuation_token: Option<String>,
+    #[serde(default)]
+    has_more: bool,
+}
+
+#[derive(Debug, Deserialize)]
+struct ResolveResponse {
+    #[serde(default)]
+    channel_id: Option<String>,
+}
+
 pub fn format_duration_seconds(seconds: u32) -> String {
     let hh = seconds / 3600;
     let mm = (seconds % 3600) / 60;
@@ -35,6 +95,25 @@ pub fn format_duration_seconds(seconds: u32) -> String {
         format!("{:02}:{:02}:{:02}", hh, mm, ss)
     } else {
         format!("{:02}:{:02}", mm, ss)
+    }
+}
+
+pub fn parse_duration_to_seconds(len_str: &str) -> u32 {
+    let parts: Vec<&str> = len_str.trim().split(':').collect();
+    match parts.len() {
+        3 => {
+            let h: u32 = parts[0].parse().unwrap_or(0);
+            let m: u32 = parts[1].parse().unwrap_or(0);
+            let s: u32 = parts[2].parse().unwrap_or(0);
+            h * 3600 + m * 60 + s
+        }
+        2 => {
+            let m: u32 = parts[0].parse().unwrap_or(0);
+            let s: u32 = parts[1].parse().unwrap_or(0);
+            m * 60 + s
+        }
+        1 => parts[0].parse().unwrap_or(0),
+        _ => 0,
     }
 }
 
@@ -80,11 +159,7 @@ pub fn serialize_clean_yaml(doc: &FormattedTranscript) -> Result<String, Box<dyn
         yaml_out.push_str(&format!("published: '{}'\n", p));
     }
     yaml_out.push_str(&format!("type: {}\n", doc.content_type));
-    
-    // Format transcript scalar cleanly
     yaml_out.push_str(&format!("transcript: {}\n", serde_yaml::to_string(&doc.transcript)?.trim()));
-    
-    // Format timestamps as clean flow sequence
     yaml_out.push_str("timestamps: [");
     for (i, pair) in doc.timestamps.iter().enumerate() {
         if i > 0 {
@@ -114,24 +189,139 @@ pub fn extract_video_id(input: &str) -> Option<String> {
     None
 }
 
-/// Fetch transcript segments using native fallback or Python helper
-pub fn fetch_transcript_segments(video_id: &str) -> Option<Vec<RawSegment>> {
-    // 1. Try python youtube_transcript_api helper
-    let script = format!(
-        "from youtube_transcript_api import YouTubeTranscriptApi; import json; res = YouTubeTranscriptApi().fetch('{}'); print(json.dumps([{{'text': s.text, 'start': s.start, 'duration': s.duration}} for s in res]))",
+/// Fetch transcript segments using paid/authenticated APIs only (TranscriptAPI -> Supadata fallback).
+/// Never scrapes locally to prevent IP rate-limiting / blocking. Hard-fails with None if all fail.
+pub fn fetch_transcript_segments(client: &reqwest::blocking::Client, video_id: &str) -> Option<Vec<RawSegment>> {
+    // 1. TranscriptAPI (primary)
+    let url_primary = format!(
+        "https://transcriptapi.com/api/v2/youtube/transcript?video_url={}&format=json",
         video_id
     );
 
-    if let Ok(output) = std::process::Command::new("python3").arg("-c").arg(&script).output() {
-        if output.status.success() {
-            let stdout = String::from_utf8_lossy(&output.stdout);
-            if let Ok(segs) = serde_json::from_str::<Vec<RawSegment>>(&stdout) {
-                if !segs.is_empty() {
+    if let Ok(resp) = client
+        .get(&url_primary)
+        .header("Authorization", format!("Bearer {}", TRANSCRIPT_API_KEY))
+        .send()
+    {
+        if resp.status().is_success() {
+            if let Ok(data) = resp.json::<TranscriptApiResponse>() {
+                if !data.transcript.is_empty() {
+                    return Some(data.transcript);
+                }
+            }
+        }
+    }
+
+    // 2. Supadata API (backup paid provider)
+    let url_supadata = format!("https://api.supadata.ai/v1/youtube/transcript?videoId={}&text=false", video_id);
+    if let Ok(resp) = client
+        .get(&url_supadata)
+        .header("x-api-key", SUPADATA_API_KEY)
+        .send()
+    {
+        if resp.status().is_success() {
+            if let Ok(data) = resp.json::<SupadataResponse>() {
+                if !data.content.is_empty() {
+                    let segs = data
+                        .content
+                        .into_iter()
+                        .map(|s| RawSegment {
+                            text: s.text,
+                            start: s.start,
+                            duration: s.duration,
+                        })
+                        .collect();
                     return Some(segs);
                 }
             }
         }
     }
 
+    // Hard fail: never fallback to local scraping
     None
+}
+
+/// Resolves a channel input (e.g. "@PhilipDeFranco" or "https://www.youtube.com/@PhilipDeFranco") to a YouTube channel ID
+pub fn resolve_channel_id(client: &reqwest::blocking::Client, input: &str) -> Result<String, String> {
+    let clean_input = input.trim();
+    if clean_input.starts_with("UC") && clean_input.len() >= 24 && !clean_input.contains('/') {
+        return Ok(clean_input.to_string());
+    }
+
+    let url = format!(
+        "https://transcriptapi.com/api/v2/youtube/channel/resolve?input={}",
+        urlencoding::encode(clean_input)
+    );
+
+    let resp = client
+        .get(&url)
+        .header("Authorization", format!("Bearer {}", TRANSCRIPT_API_KEY))
+        .send()
+        .map_err(|e| format!("Network error resolving channel: {}", e))?;
+
+    if !resp.status().is_success() {
+        return Err(format!("Failed to resolve channel '{}': HTTP {}", clean_input, resp.status()));
+    }
+
+    let res: ResolveResponse = resp
+        .json()
+        .map_err(|e| format!("Failed to parse resolve response: {}", e))?;
+
+    res.channel_id
+        .ok_or_else(|| format!("No channel ID resolved for '{}'", clean_input))
+}
+
+/// Fetches recent channel videos from TranscriptAPI up to max_candidates
+pub fn fetch_channel_videos(
+    client: &reqwest::blocking::Client,
+    channel_id: &str,
+    max_candidates: usize,
+) -> Result<Vec<ChannelVideoItem>, String> {
+    let mut all_videos = Vec::new();
+    let mut continuation_token: Option<String> = None;
+
+    while all_videos.len() < max_candidates {
+        let url = match &continuation_token {
+            Some(token) => format!(
+                "https://transcriptapi.com/api/v2/youtube/channel/videos?continuation={}",
+                urlencoding::encode(token)
+            ),
+            None => format!(
+                "https://transcriptapi.com/api/v2/youtube/channel/videos?channel={}",
+                channel_id
+            ),
+        };
+
+        let resp = client
+            .get(&url)
+            .header("Authorization", format!("Bearer {}", TRANSCRIPT_API_KEY))
+            .send()
+            .map_err(|e| format!("Failed to fetch channel videos: {}", e))?;
+
+        if !resp.status().is_success() {
+            return Err(format!("TranscriptAPI returned HTTP {} for channel videos", resp.status()));
+        }
+
+        let page: ChannelVideosResponse = resp
+            .json()
+            .map_err(|e| format!("Failed to parse channel videos JSON: {}", e))?;
+
+        if page.results.is_empty() {
+            break;
+        }
+
+        for item in page.results {
+            all_videos.push(item);
+            if all_videos.len() >= max_candidates {
+                break;
+            }
+        }
+
+        if !page.has_more || page.continuation_token.is_none() {
+            break;
+        }
+        continuation_token = page.continuation_token;
+    }
+
+    Ok(all_videos)
 }

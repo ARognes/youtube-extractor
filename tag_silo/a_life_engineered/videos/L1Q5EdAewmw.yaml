@@ -1,0 +1,47 @@
+video_id: L1Q5EdAewmw
+title: 'Negotiation Expert: How To 3X Your Tech Salary [EXTENDED CONVERSATION]'
+channel: A Life Engineered
+url: https://www.youtube.com/watch?v=L1Q5EdAewmw
+duration: '25:54'
+word_count: 217
+first_order_tags:
+- tag: vtag_competing_offer_leverage_play
+  bound_second_order: competing_offer_leverage_play
+  timestamp: '10:22'
+  seconds: 621.6
+  context: Now one of the world's foremost experts in tech salary negotiation, he
+    sits down with Steve Huynh to break down the secret menu that most ca...
+- tag: vtag_negotiation_anchoring_and_batna
+  bound_second_order: negotiation_anchoring_and_batna
+  timestamp: '20:43'
+  seconds: 1243.2
+  context: |-
+    00:28:31 - Knowing When to Stay or Go
+    00:36:15 - You Don't Need a Competing Offer
+    00:37:09 - How to Generate Leverage Overnight
+    00:51:28 - S...
+- tag: vtag_competing_offer_leverage_play
+  bound_second_order: competing_offer_leverage_play
+  timestamp: '20:43'
+  seconds: 1243.2
+  context: |-
+    00:28:31 - Knowing When to Stay or Go
+    00:36:15 - You Don't Need a Competing Offer
+    00:37:09 - How to Generate Leverage Overnight
+    00:51:28 - S...
+second_order_tags:
+- competing_offer_leverage_play
+- executive_interview_mentorship
+- negotiation_anchoring_and_batna
+- salary_negotiation_and_total_comp
+third_order_tags:
+- T3_ENGINEERING_LEADERSHIP_LEVERAGE
+key_phrases:
+- need competing
+- competing offer
+- most engineers
+- engineers reflects
+- reflects performance
+- performance colin
+summary_hook: Explores salary_negotiation_and_total_comp, negotiation_anchoring_and_batna,
+  competing_offer_leverage_play.

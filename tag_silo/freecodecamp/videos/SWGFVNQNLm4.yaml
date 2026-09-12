@@ -1,0 +1,63 @@
+video_id: SWGFVNQNLm4
+title: Notion Workers – Full Tutorial 2026
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=SWGFVNQNLm4
+duration: '49:30'
+word_count: 17381
+first_order_tags:
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '20:03'
+  seconds: 1203.0
+  context: And we don't want um a tool on um because then we would need to run an
+    agent every time we want that, and that costs agent tokens, right?
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '23:15'
+  seconds: 1395.4
+  context: It's not a good security practice to sort of expose your API tokens here
+    in the chat.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '24:36'
+  seconds: 1475.6
+  context: No secrets or tokens on screen." But I told it to, "Hey, please, when you
+    when I share my screen, avoid printing out any any secrets, right?
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '32:21'
+  seconds: 1940.8
+  context: Currently sits at 135,000 tokens.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '41:58'
+  seconds: 2518.2
+  context: Because when an agent runs, it will consume tokens.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '43:29'
+  seconds: 2609.1
+  context: That's where we want to optimize the tokens as much as possible so I can
+    just tell the agent, "Hey, can you fetch me details on this?" And i...
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '46:58'
+  seconds: 2817.6
+  context: This should just be a skill for your personal one, so you don't have to
+    pay for tokens.
+second_order_tags:
+- cloud_devops_and_infrastructure
+- cybersecurity_and_ethical_hacking
+- mega_crash_course
+- transformer_attention_mechanisms
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- down below
+- custom agent
+- external data
+- business logic
+- claude codex
+- project type
+summary_hook: Explores cloud_devops_and_infrastructure, cybersecurity_and_ethical_hacking,
+  transformer_attention_mechanisms.

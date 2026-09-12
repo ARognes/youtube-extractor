@@ -1,0 +1,37 @@
+video_id: NykJhYdBoqU
+title: Help Me Plan My Upcoming JavaScript Course
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=NykJhYdBoqU
+duration: '33:06'
+word_count: 11604
+first_order_tags:
+- tag: vtag_use_sync_external_store_migration
+  bound_second_order: use_sync_external_store_migration
+  timestamp: 01:49
+  seconds: 108.6
+  context: So, if you want to keep up-to-date with that, just subscribe to my newsletter.
+- tag: vtag_unnecessary_re_renders
+  bound_second_order: unnecessary_re_renders
+  timestamp: 07:39
+  seconds: 459.2
+  context: You need to know the stack trace, otherwise you're going to run into an
+    infinite loop with recursion.
+second_order_tags:
+- backend_and_database_integration
+- frontend_reactivity_and_frameworks
+- modern_css_and_layouts
+- practical_project_build
+- typescript_and_type_safety
+- unnecessary_re_renders
+- use_sync_external_store_migration
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- very first
+- reading through
+- beginner course
+- first thing
+- advanced variables
+- function section
+summary_hook: Explores frontend_reactivity_and_frameworks, modern_css_and_layouts,
+  typescript_and_type_safety.

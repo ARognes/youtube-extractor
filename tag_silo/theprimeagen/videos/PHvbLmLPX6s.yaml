@@ -1,0 +1,28 @@
+video_id: PHvbLmLPX6s
+title: This Lesson Taught Me How To Do Better Benchmarks
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=PHvbLmLPX6s
+duration: '42:00'
+word_count: 1184
+first_order_tags:
+- tag: vtag_flamegraph_and_profiling_audit
+  bound_second_order: flamegraph_and_profiling_audit
+  timestamp: 00:00
+  seconds: 0.0
+  context: left pad an 11 line piece of code broke the internet and just recently
+    had a second incident that involves me so I might have made a mistake...
+second_order_tags:
+- flamegraph_and_profiling_audit
+- runtime_internals_and_garbage_collection
+- systems_programming_and_compilers
+third_order_tags:
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- micro benchmarks
+- actually fast
+- stack overflow
+- faster embers
+- submissions made
+- garbage collection
+summary_hook: Explores systems_programming_and_compilers, runtime_internals_and_garbage_collection,
+  flamegraph_and_profiling_audit.

@@ -1,0 +1,106 @@
+video_id: 4GtVeULrNks
+title: React Native Full Stack Course – Clerk, Postgres, NativeWind
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=4GtVeULrNks
+duration: '54:00'
+word_count: 41647
+first_order_tags:
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 01:40
+  seconds: 100.4
+  context: But you have some additional features like the image component which is
+    optimized.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 03:44
+  seconds: 223.6
+  context: So we can use expo image expo linking expo router so on and so forth.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 04:37
+  seconds: 277.5
+  context: So what you see here is the content we have under the index.tsx file.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 05:03
+  seconds: 303.0
+  context: Then you can have index.tsx file.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 06:01
+  seconds: 360.5
+  context: So you can get the image component both from React Native and Expo image.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 06:32
+  seconds: 392.5
+  context: So we get the application then we run the script to reset our project then
+    we have a root layout as well as the index file.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 09:29
+  seconds: 568.6
+  context: It basically says if user is not signed in take them to the sign-in page
+    because if they're not signed in they cannot visit the home screen ...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '11:54'
+  seconds: 713.7
+  context: You know, we can select a different image from the photo library.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '12:23'
+  seconds: 742.9
+  context: We have an like a hero image.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '13:03'
+  seconds: 783.1
+  context: And then under the home screen again we have the I mean under the layout
+    we have the navigation and under the index.tsx we have the home con...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '15:57'
+  seconds: 957.4
+  context: Now I will provide this image.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '17:13'
+  seconds: 1033.1
+  context: So this is going to hold the image but we're going to add this kind of
+    like background that you can see here the rectangular.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '18:05'
+  seconds: 1085.2
+  context: So for the Google image I think I'm going to provide it to you.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '21:26'
+  seconds: 1286.0
+  context: We'll say this is primary key.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '24:30'
+  seconds: 1470.3
+  context: So the index is going to be the very first tab that we have which is a
+    list.
+second_order_tags:
+- containerization_and_orchestration
+- cybersecurity_and_ethical_hacking
+- mobile_and_cross_platform_dev
+- paper_and_architecture_breakdown
+- relational_normalization_and_acid
+- visual_algorithm_walkthrough
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- react native
+- copy paste
+- once again
+- every single
+- class name
+- same thing
+summary_hook: Explores mobile_and_cross_platform_dev, cybersecurity_and_ethical_hacking,
+  containerization_and_orchestration.

@@ -1,0 +1,54 @@
+video_id: x7v6SNIgJpE
+title: FULL Introduction To HTMX Using Golang
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=x7v6SNIgJpE
+duration: '42:00'
+word_count: 25381
+first_order_tags:
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: '29:39'
+  seconds: 1778.8
+  context: render okay so is Echo handling the HTML serialization with render so I'm
+    not super familiar with uh Echo but effectively what is happening ...
+- tag: vtag_type_system_soundness
+  bound_second_order: type_system_soundness
+  timestamp: '29:39'
+  seconds: 1778.8
+  context: render okay so is Echo handling the HTML serialization with render so I'm
+    not super familiar with uh Echo but effectively what is happening ...
+- tag: vtag_garbage_collector_stop_the_world_latency
+  bound_second_order: garbage_collector_stop_the_world_latency
+  timestamp: '29:39'
+  seconds: 1778.8
+  context: render okay so is Echo handling the HTML serialization with render so I'm
+    not super familiar with uh Echo but effectively what is happening ...
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: '39:32'
+  seconds: 2371.8
+  context: no content 200 right we're just going to return an empty reply you got
+    it so I'm going to refresh this and when I hit delete it's gone look ...
+second_order_tags:
+- deep_dive_benchmark_build
+- developer_culture_and_critique
+- editor_ergonomics_and_tooling
+- garbage_collector_stop_the_world_latency
+- live_code_roast_critique
+- modal_editing_velocity
+- runtime_internals_and_garbage_collection
+- system_architecture_and_scale
+- systems_programming_and_compilers
+- type_system_soundness
+third_order_tags:
+- T3_DEVELOPER_ERGONOMICS_TOOLING
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- pretty much
+- nice little
+- pretty straightforward
+- jump back
+- name email
+- form data
+summary_hook: Explores systems_programming_and_compilers, editor_ergonomics_and_tooling,
+  runtime_internals_and_garbage_collection.

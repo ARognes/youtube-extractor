@@ -1,0 +1,44 @@
+video_id: cxQLKsktiBA
+title: How To Use AI Skills Like A Senior Developer
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=cxQLKsktiBA
+duration: '36:06'
+word_count: 7759
+first_order_tags:
+- tag: vtag_declarative_vs_imperative_ui
+  bound_second_order: declarative_vs_imperative_ui
+  timestamp: '22:03'
+  seconds: 1322.8
+  context: Use imperative phrasing and focus on the actual user's intent.
+- tag: vtag_custom_hook_and_state_encapsulation
+  bound_second_order: custom_hook_and_state_encapsulation
+  timestamp: '22:18'
+  seconds: 1338.0
+  context: You can see if you read this description powerful asynchronous state management
+    server state utility and data fetching for TSJS, react view,...
+- tag: vtag_use_sync_external_store_migration
+  bound_second_order: use_sync_external_store_migration
+  timestamp: '22:18'
+  seconds: 1338.0
+  context: You can see if you read this description powerful asynchronous state management
+    server state utility and data fetching for TSJS, react view,...
+second_order_tags:
+- custom_hook_and_state_encapsulation
+- declarative_vs_imperative_ui
+- feature_deep_dive
+- frontend_reactivity_and_frameworks
+- modern_css_and_layouts
+- pattern_vs_antipattern_comparison
+- practical_project_build
+- use_sync_external_store_migration
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- create skill
+- most important
+- markdown file
+- tanstack query
+- name description
+- everything need
+summary_hook: Explores frontend_reactivity_and_frameworks, modern_css_and_layouts,
+  custom_hook_and_state_encapsulation.

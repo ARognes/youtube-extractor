@@ -1,0 +1,37 @@
+video_id: v3Pn71WQmOI
+title: I Coached an AWS Engineer From Mid-Level to Senior (Live)
+channel: A Life Engineered
+url: https://www.youtube.com/watch?v=v3Pn71WQmOI
+duration: '25:54'
+word_count: 9619
+first_order_tags:
+- tag: vtag_sponsorship_vs_mentorship
+  bound_second_order: sponsorship_vs_mentorship
+  timestamp: 04:13
+  seconds: 253.3
+  context: Quick word from today's sponsor, Linear.
+- tag: vtag_skip_level_alignment_meeting
+  bound_second_order: skip_level_alignment_meeting
+  timestamp: '17:05'
+  seconds: 1024.6
+  context: And so, the difference of opinion there is like one of visibility.
+second_order_tags:
+- career_progression_and_promotion
+- career_strategy_masterclass
+- executive_interview_mentorship
+- skip_level_alignment_meeting
+- sponsorship_vs_mentorship
+- staff_plus_and_executive_leadership
+- system_design_and_architecture_reviews
+- workplace_politics_and_influence
+third_order_tags:
+- T3_ENGINEERING_LEADERSHIP_LEVERAGE
+key_phrases:
+- little more
+- inference platform
+- evaluation framework
+- yeah okay
+- docker container
+- sense yeah
+summary_hook: Explores staff_plus_and_executive_leadership, career_progression_and_promotion,
+  system_design_and_architecture_reviews.

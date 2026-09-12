@@ -1,0 +1,37 @@
+video_id: qAYFepR4GcE
+title: Bun (TypeScript) is faster than Rust!?!
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=qAYFepR4GcE
+duration: '38:30'
+word_count: 1858
+first_order_tags:
+- tag: vtag_concurrency_primitives_and_locks
+  bound_second_order: concurrency_primitives_and_locks
+  timestamp: 00:00
+  seconds: 0.0
+  context: bun a blazingly fast all-in-one javascript runtime with graphs and science
+    and everything this is supposed to be the greatest thing that hap...
+- tag: vtag_garbage_collector_stop_the_world_latency
+  bound_second_order: garbage_collector_stop_the_world_latency
+  timestamp: 00:00
+  seconds: 0.0
+  context: bun a blazingly fast all-in-one javascript runtime with graphs and science
+    and everything this is supposed to be the greatest thing that hap...
+second_order_tags:
+- concurrency_primitives_and_locks
+- deep_dive_benchmark_build
+- garbage_collector_stop_the_world_latency
+- runtime_internals_and_garbage_collection
+- system_architecture_and_scale
+- systems_programming_and_compilers
+third_order_tags:
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- parallel requests
+- blazingly fast
+- simple experiment
+- first thing
+- concurrent requests
+- course built
+summary_hook: Explores systems_programming_and_compilers, runtime_internals_and_garbage_collection,
+  system_architecture_and_scale.

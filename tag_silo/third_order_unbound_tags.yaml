@@ -1,10 +1,11 @@
 order: 3
 scope: global_unbound
-compiled_at: '2026-09-05T20:09:53.264049'
-total_unbound_tags: 6
+compiled_at: '2026-09-11T21:12:50.141971'
+total_unbound_tags: 11
 unbound_tags:
   T3_AUTONOMY_SOVEREIGNTY:
     name: Autonomy & Cognitive Sovereignty
+    core: core_psychology
     category: Foundational Epistemology
     description: The fundamental capacity of an individual for self-governance, independent
       thought, and resistance to external psychological coercion.
@@ -14,6 +15,7 @@ unbound_tags:
     - boundary_assertion_without_defense
   T3_EMOTIONAL_METABOLISM:
     name: Emotional Digestion & Somatic Metabolism
+    core: core_psychology
     category: Somatic & Contemplative Science
     description: The physiological processing of undigested affective distress (Samskaras)
       without cognitive rationalization or behavioral avoidance.
@@ -24,6 +26,7 @@ unbound_tags:
     - alexithymia_emotional_disconnect
   T3_POWER_ASYMMETRY_MANIPULATION:
     name: Power Asymmetry & Covert Exploitation
+    core: core_psychology
     category: Interpersonal & Systemic Dynamics
     description: Communicative and relational structures where authority or emotional
       leverage is abused to enforce dependency, compliance, or reality distortion.
@@ -36,6 +39,7 @@ unbound_tags:
     - fog_fear_obligation_guilt
   T3_NEURODIVERGENCE_EXECUTIVE_FUNCTION:
     name: Neurodivergence & Dopaminergic Regulation
+    core: cross_core
     category: Neurobiology & Executive Function
     description: Brain circuitry mechanics governing dopamine baselines, attention
       elasticity, task initiation friction, and burnout recovery.
@@ -45,8 +49,10 @@ unbound_tags:
     - task_initiation_and_procrastination
     - two_minute_frictionless_entry
     - gifted_kid_burnout
+    - tutorial_hell_and_passive_consumption
   T3_ATTACHMENT_RELATIONAL_BONDING:
     name: Attachment Systems & Relational Projection
+    core: core_psychology
     category: Developmental & Relational Psychology
     description: Early mammalian attachment security, relational attunement, romantic
       pedestal projection, and the trauma of emotional abandonment.
@@ -58,6 +64,7 @@ unbound_tags:
     - family_estrangement_and_grief
   T3_SHAME_GUILT_EGO_PRESERVATION:
     name: Ego Defense & Weaponized Conscience
+    core: cross_core
     category: Identity & Moral Psychology
     description: The deconstruction of false guilt, social compliance reflexes, ego
       identity (Ahamkara), and the recovery of authentic self-worth.
@@ -67,3 +74,100 @@ unbound_tags:
     - compulsive_people_pleasing_appeasement
     - decoupling_worth_from_achievement
     - imposter_syndrome
+    - lowballed_offer_fear
+    - terminal_senior_l5_plateau
+  T3_SYSTEM_ARCHITECTURE_PERFORMANCE:
+    name: Low-Level Systems & Runtime Performance
+    core: core_software_engineering
+    category: Systems & Computer Architecture
+    description: Memory models, hardware cache alignment, asynchronous execution primitives,
+      and zero-cost abstraction design in modern systems programming.
+    second_order_mapping:
+    - systems_programming_and_compilers
+    - runtime_internals_and_garbage_collection
+    - system_architecture_and_scale
+    - cache_locality_and_data_oriented_design
+    - zero_cost_abstractions
+    - type_system_soundness
+    - concurrency_primitives_and_locks
+    - mechanical_sympathy
+    - flamegraph_and_profiling_audit
+    - data_oriented_restructuring
+    - premature_abstraction_bloat
+    - garbage_collector_stop_the_world_latency
+  T3_DEVELOPER_ERGONOMICS_TOOLING:
+    name: Developer Ergonomics & Modal Workflow
+    core: core_software_engineering
+    category: Ergonomics & Productivity
+    description: Modal text manipulation (Vim/Neovim), Language Server Protocol (LSP)
+      integrations, terminal multiplexing, and rapid tight feedback loops.
+    second_order_mapping:
+    - editor_ergonomics_and_tooling
+    - modal_editing_velocity
+    - harpoon_buffer_navigation
+    - slow_developer_feedback_loops
+    - rebuilding_from_scratch_first_principles
+  T3_FULLSTACK_REACTIVITY_STATE:
+    name: Fullstack Reactivity & Component Architecture
+    core: core_software_engineering
+    category: Web Architecture & UX Engineering
+    description: Declarative component lifecycles, unidirectional state management,
+      React Server Components (RSC), isomorphic rendering, and modern CSS layout algorithms.
+    second_order_mapping:
+    - frontend_reactivity_and_frameworks
+    - modern_css_and_layouts
+    - typescript_and_type_safety
+    - backend_and_database_integration
+    - ai_application_engineering
+    - custom_hook_and_state_encapsulation
+    - server_components_and_isomorphic_rendering
+    - declarative_vs_imperative_ui
+    - form_validation_and_schema_parsing
+    - css_layout_algorithms
+    - unnecessary_re_renders
+    - prop_drilling_and_state_spaghetti
+    - compound_component_pattern
+    - rag_chunking_and_embedding_pipeline
+  T3_ENGINEERING_LEADERSHIP_LEVERAGE:
+    name: Staff+ Leadership, Promotion & Leverage
+    core: core_software_engineering
+    category: Organizational & Career Leverage
+    description: Staff/Principal engineering scope, executive stakeholder alignment,
+      salary negotiation dynamics, and technical leverage.
+    second_order_mapping:
+    - staff_plus_and_executive_leadership
+    - career_progression_and_promotion
+    - salary_negotiation_and_total_comp
+    - system_design_and_architecture_reviews
+    - workplace_politics_and_influence
+    - business_impact_over_code_output
+    - sponsorship_vs_mentorship
+    - the_l6_staff_archetype
+    - strategic_scope_expansion
+    - negotiation_anchoring_and_batna
+    - invisible_glue_work_undervaluation
+    - burnout_from_hero_mode
+    - one_page_brag_document
+    - skip_level_alignment_meeting
+    - competing_offer_leverage_play
+    - rfc_design_consensus_sprint
+  T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES:
+    name: Algorithmic Complexity & Foundations
+    core: core_software_engineering
+    category: Theoretical Computer Science
+    description: Asymptotic analysis, tree/graph traversal mechanics, dynamic programming
+      subproblem caching, and distributed data structures.
+    second_order_mapping:
+    - computer_science_fundamentals
+    - cloud_devops_and_infrastructure
+    - machine_learning_and_data_science
+    - cybersecurity_and_ethical_hacking
+    - asymptotic_algorithmic_complexity
+    - graph_and_tree_traversals
+    - containerization_and_orchestration
+    - transformer_attention_mechanisms
+    - relational_normalization_and_acid
+    - combinatorial_algorithm_exhaustion
+    - two_pointer_and_sliding_window
+    - memoization_and_tabulation
+    - dockerfile_multistage_build

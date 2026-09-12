@@ -1,0 +1,116 @@
+video_id: QpR4QEv5Urk
+title: 'Image Generation using GANs | Deep Learning with PyTorch: Zero to GANs | Part
+  6 of 6'
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=QpR4QEv5Urk
+duration: '49:30'
+word_count: 27258
+first_order_tags:
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 00:00
+  seconds: 0.0
+  context: hello and welcome to deep learning with pyo zero to Gans this is an online
+    certification course being organized in collaboration by free cod...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 05:07
+  seconds: 307.2
+  context: download with the data set URL this time it's going to read the kaggle
+    credentials and you can see that it is now downloading the data so th...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 05:07
+  seconds: 307.2
+  context: download with the data set URL this time it's going to read the kaggle
+    credentials and you can see that it is now downloading the data so th...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 06:50
+  seconds: 409.7
+  context: resize and that is going to resize every face image into 64 pixels by 64
+    pixels then we are going to take a center crop because it's possibl...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 07:41
+  seconds: 460.9
+  context: P plot to plot the images so first we're going to define a function dor
+    now remember for training a model we are going to use these image te...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 08:32
+  seconds: 512.1
+  context: is available and for this to return true three things should hold true
+    the server or the compute or the computer where you're running this c...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '11:06'
+  seconds: 665.7
+  context: sequential we pass a set of layers and then we can use this discriminator
+    model and when we pass in some input it can go through the layers ...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '11:06'
+  seconds: 665.7
+  context: sequential we pass a set of layers and then we can use this discriminator
+    model and when we pass in some input it can go through the layers ...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '12:48'
+  seconds: 768.1
+  context: shape then we pass this batch of data into the generator and let's run
+    the generator here first so we pass this batch of data into the gener...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '18:47'
+  seconds: 1126.6
+  context: mean on fake predictions that that also gives us the fake score so we want
+    the score for fake images the average score to be as close to zer...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '20:29'
+  seconds: 1229.0
+  context: On's and then we calculate the loss so this is the loss for the generator
+    overall loss so the calculate the loss and this loss is once again...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '21:20'
+  seconds: 1280.2
+  context: utils contains a lot of very useful functions to work with images which
+    is loading images saving images converting a grid creating a grid of...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '21:20'
+  seconds: 1280.2
+  context: utils contains a lot of very useful functions to work with images which
+    is loading images saving images converting a grid creating a grid of...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '22:11'
+  seconds: 1331.4
+  context: randn so we're going to create 64 tensors here of latent size of of latent
+    size comma 1 comma 1 so we're not going to use a full batch of 12...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '22:11'
+  seconds: 1331.4
+  context: randn so we're going to create 64 tensors here of latent size of of latent
+    size comma 1 comma 1 so we're not going to use a full batch of 12...
+second_order_tags:
+- cloud_devops_and_infrastructure
+- computer_science_fundamentals
+- containerization_and_orchestration
+- graph_and_tree_traversals
+- machine_learning_and_data_science
+- relational_normalization_and_acid
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- data sets
+- fake images
+- once again
+- data loader
+- train model
+- real images
+summary_hook: Explores computer_science_fundamentals, cloud_devops_and_infrastructure,
+  machine_learning_and_data_science.

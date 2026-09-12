@@ -1,0 +1,31 @@
+video_id: kApqGCMU1Rw
+title: '[EXTENDED CONVERSATION] The New Career Map for Software Engineers'
+channel: A Life Engineered
+url: https://www.youtube.com/watch?v=kApqGCMU1Rw
+duration: '21:36'
+word_count: 212
+first_order_tags:
+- tag: vtag_terminal_senior_l5_plateau
+  bound_second_order: terminal_senior_l5_plateau
+  timestamp: '10:48'
+  seconds: 648.0
+  context: |-
+    Guest Links:
+    https://a16z.com/author/anish-acharya/
+      / anishacharya  
+
+    00:00 - The Advice Early Career Engineers Need to Hear
+    01:30 - Alway...
+second_order_tags:
+- executive_interview_mentorship
+- terminal_senior_l5_plateau
+third_order_tags:
+- T3_SHAME_GUILT_EGO_PRESERVATION
+key_phrases:
+- enterprise software
+- software oversold
+- coding agents
+- everything behavioral
+- behavioral interviews
+- interviews conducting
+summary_hook: Explores terminal_senior_l5_plateau, executive_interview_mentorship.

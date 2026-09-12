@@ -1,0 +1,34 @@
+video_id: 7rxOOFvwU60
+title: 11 New JS Features You Can Use Today!
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=7rxOOFvwU60
+duration: '36:06'
+word_count: 4910
+first_order_tags:
+- tag: vtag_unnecessary_re_renders
+  bound_second_order: unnecessary_re_renders
+  timestamp: 09:02
+  seconds: 541.5
+  context: And the important thing is, since this is an infinite loop, I need to make
+    sure I take this infinite loop and only get a certain number of v...
+- tag: vtag_unnecessary_re_renders
+  bound_second_order: unnecessary_re_renders
+  timestamp: '10:01'
+  seconds: 600.6
+  context: So, if I have an infinite loop, it only gets a certain number, and to array
+    is just a nice way to convert an iterator directly to an array, ...
+second_order_tags:
+- backend_and_database_integration
+- feature_deep_dive
+- modern_css_and_layouts
+- unnecessary_re_renders
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- five numbers
+- quality life
+- regular expression
+- default value
+- cards description
+- first five
+summary_hook: Explores modern_css_and_layouts, backend_and_database_integration, unnecessary_re_renders.

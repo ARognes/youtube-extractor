@@ -1,0 +1,55 @@
+video_id: rQxPGqPq8wk
+title: Why Computers Can’t Count Money
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=rQxPGqPq8wk
+duration: '49:30'
+word_count: 915
+first_order_tags:
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '11:49'
+  seconds: 709.3
+  context: So, let's imagine we're going to work, we're going to work at a big big
+    bank, and our big big bank processes millions of transactions every ...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '12:34'
+  seconds: 753.6
+  context: Now, let's say each of these transactions, each of these million transactions,
+    has a tiny tiny minuscule rounding error.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '17:00'
+  seconds: 1019.6
+  context: By this, I mean transactions that left behind microscopic residues and
+    accounts that gained or lost fractions.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '18:28'
+  seconds: 1108.2
+  context: If you trigger the right sequence of transactions, you could amplify this
+    and to your benefit.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '20:41'
+  seconds: 1241.2
+  context: In some early digital payment flows, including systems similar to what
+    PayPal and banks were experimenting with, users found ways to split t...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '22:54'
+  seconds: 1374.2
+  context: Now, to be clear, this didn't make everyone a millionaire overnight, especially
+    because these transactions were minuscule.
+second_order_tags:
+- relational_normalization_and_acid
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- financial systems
+- left behind
+- tiny rounding
+- rounding errors
+- each these
+- these transactions
+summary_hook: Explores relational_normalization_and_acid.

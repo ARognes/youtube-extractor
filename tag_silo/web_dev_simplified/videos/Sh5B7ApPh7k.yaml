@@ -1,0 +1,31 @@
+video_id: Sh5B7ApPh7k
+title: JavaScript Is Dead - What You Need To Do
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=Sh5B7ApPh7k
+duration: '36:06'
+word_count: 4437
+first_order_tags:
+- tag: vtag_declarative_vs_imperative_ui
+  bound_second_order: declarative_vs_imperative_ui
+  timestamp: '22:55'
+  seconds: 1374.6
+  context: And going forward, it becomes more and more imperative that people know
+    TypeScript because almost every company is moving over to using Type...
+second_order_tags:
+- declarative_vs_imperative_ui
+- feature_deep_dive
+- frontend_reactivity_and_frameworks
+- pattern_vs_antipattern_comparison
+- practical_project_build
+- typescript_and_type_safety
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- pure javascript
+- using typescript
+- using pure
+- pure typescript
+- years experience
+- more advanced
+summary_hook: Explores frontend_reactivity_and_frameworks, typescript_and_type_safety,
+  declarative_vs_imperative_ui.

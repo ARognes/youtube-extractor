@@ -1,0 +1,38 @@
+video_id: ovnyeq-Xxrc
+title: How To Handle Errors Like A Senior Dev
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=ovnyeq-Xxrc
+duration: '33:06'
+word_count: 8276
+first_order_tags:
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: '15:19'
+  seconds: 918.6
+  context: If we look at our services here, you can see we have this safe parse function
+    which comes from Zod.
+- tag: vtag_declarative_vs_imperative_ui
+  bound_second_order: declarative_vs_imperative_ui
+  timestamp: '32:53'
+  seconds: 1972.9
+  context: If I dive into here, you can see there's a bunch of code inside of here
+    for building out all my permissions and it's super declarative and e...
+second_order_tags:
+- backend_and_database_integration
+- declarative_vs_imperative_ui
+- form_validation_and_schema_parsing
+- frontend_reactivity_and_frameworks
+- pattern_vs_antipattern_comparison
+- practical_project_build
+- typescript_and_type_safety
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- create project
+- exact same
+- random error
+- invalid data
+- unexpected error
+- same thing
+summary_hook: Explores frontend_reactivity_and_frameworks, typescript_and_type_safety,
+  backend_and_database_integration.

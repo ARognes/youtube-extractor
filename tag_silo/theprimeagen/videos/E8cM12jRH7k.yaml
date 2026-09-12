@@ -1,0 +1,30 @@
+video_id: E8cM12jRH7k
+title: How To Learn A New Programming Language
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=E8cM12jRH7k
+duration: '42:00'
+word_count: 1412
+first_order_tags:
+- tag: vtag_concurrency_primitives_and_locks
+  bound_second_order: concurrency_primitives_and_locks
+  timestamp: 00:00
+  seconds: 0.0
+  context: so I've learned quite a few different languages through my 20 years as
+    an expert HTML programmer and during these 20 years I've kind of deve...
+second_order_tags:
+- concurrency_primitives_and_locks
+- deep_dive_benchmark_build
+- developer_culture_and_critique
+- system_architecture_and_scale
+- systems_programming_and_compilers
+third_order_tags:
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- advent code
+- kind developed
+- different language
+- solve problems
+- gives chance
+- gives good
+summary_hook: Explores systems_programming_and_compilers, system_architecture_and_scale,
+  developer_culture_and_critique.

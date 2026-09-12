@@ -1,0 +1,29 @@
+video_id: CFI1ZnlHEFM
+title: My Honest Thoughts on AI and the Job Market in 2026
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=CFI1ZnlHEFM
+duration: '33:06'
+word_count: 4028
+first_order_tags:
+- tag: vtag_css_layout_algorithms
+  bound_second_order: css_layout_algorithms
+  timestamp: '22:21'
+  seconds: 1340.5
+  context: We have like flexbox, grid, some positioning related stuff, some colors,
+    and that's it.
+second_order_tags:
+- ai_application_engineering
+- css_layout_algorithms
+- feature_deep_dive
+- modern_css_and_layouts
+- practical_project_build
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- write code
+- software developers
+- advanced features
+- take over
+- front back
+- getting better
+summary_hook: Explores modern_css_and_layouts, ai_application_engineering, css_layout_algorithms.

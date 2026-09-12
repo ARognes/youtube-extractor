@@ -1,0 +1,31 @@
+video_id: quoNVa88XfE
+title: NEW Tanstack AI Library is Amazing!
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=quoNVa88XfE
+duration: '33:06'
+word_count: 2947
+first_order_tags:
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: '21:47'
+  seconds: 1306.9
+  context: I'm using Zod in my case, but you can use whatever you want and whatever
+    makes sense for you, like JSON schema, for example.
+second_order_tags:
+- ai_application_engineering
+- feature_deep_dive
+- form_validation_and_schema_parsing
+- frontend_reactivity_and_frameworks
+- practical_project_build
+- typescript_and_type_safety
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- pass along
+- different tools
+- local storage
+- tool definition
+- send message
+- call chat
+summary_hook: Explores frontend_reactivity_and_frameworks, typescript_and_type_safety,
+  ai_application_engineering.

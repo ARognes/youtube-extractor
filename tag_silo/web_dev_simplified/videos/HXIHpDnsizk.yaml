@@ -1,0 +1,27 @@
+video_id: HXIHpDnsizk
+title: NEW CSS Scroll Features are Game Changers
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=HXIHpDnsizk
+duration: '33:06'
+word_count: 4199
+first_order_tags:
+- tag: vtag_css_layout_algorithms
+  bound_second_order: css_layout_algorithms
+  timestamp: '16:59'
+  seconds: 1019.0
+  context: So, I'm using flexbox for example to lay out all these different elements.
+second_order_tags:
+- css_layout_algorithms
+- feature_deep_dive
+- modern_css_and_layouts
+- practical_project_build
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- scroll state
+- scroll marker
+- scroll down
+- every single
+- marker group
+- pseudo element
+summary_hook: Explores modern_css_and_layouts, css_layout_algorithms, practical_project_build.

@@ -1,0 +1,38 @@
+video_id: FrMRyXtiJkc
+title: 'How to Vim in 2023: Tips and Tricks'
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=FrMRyXtiJkc
+duration: '42:00'
+word_count: 3344
+first_order_tags:
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: 00:00
+  seconds: 0.0
+  context: you have your LSP configured and ready to rock telescope is looking good
+    Harpoon because you're a real one you even have undo tree Ready Get...
+- tag: vtag_harpoon_buffer_navigation
+  bound_second_order: harpoon_buffer_navigation
+  timestamp: 00:00
+  seconds: 0.0
+  context: you have your LSP configured and ready to rock telescope is looking good
+    Harpoon because you're a real one you even have undo tree Ready Get...
+second_order_tags:
+- deep_dive_benchmark_build
+- editor_ergonomics_and_tooling
+- harpoon_buffer_navigation
+- modal_editing_velocity
+- runtime_internals_and_garbage_collection
+- systems_programming_and_compilers
+third_order_tags:
+- T3_DEVELOPER_ERGONOMICS_TOOLING
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- jump back
+- press ctrl
+- looking good
+- jump over
+- press enter
+- chad stack
+summary_hook: Explores systems_programming_and_compilers, editor_ergonomics_and_tooling,
+  runtime_internals_and_garbage_collection.

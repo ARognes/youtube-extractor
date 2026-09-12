@@ -1,0 +1,67 @@
+video_id: 2WJ-ut_XEYQ
+title: Mastering JavaScript Dates and Times – Fundamentals to Advanced Techniques
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=2WJ-ut_XEYQ
+duration: '49:30'
+word_count: 23568
+first_order_tags:
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 09:58
+  seconds: 597.9
+  context: For example, month starts with a index.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '10:02'
+  seconds: 601.7
+  context: This is the month index.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '11:21'
+  seconds: 680.8
+  context: date.get month is going to return the month's index.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '12:09'
+  seconds: 729.0
+  context: get month you will do get UTC month get UTC date just put UTC in the capital
+    letters that's what the UTC version of the method so it's going...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '14:05'
+  seconds: 844.7
+  context: Exactly the opposite of get month starts from zero index.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '15:03'
+  seconds: 902.6
+  context: Now one of the common mistake that happens is when we do console.log date.getmon
+    most of the time developers tends to feel that it is going ...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '22:26'
+  seconds: 1346.1
+  context: Months are zero index.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '23:57'
+  seconds: 1436.8
+  context: Here's a simple HTML through which I'm running this index.js file and I'm
+    going to code everything inside this index.js file.
+second_order_tags:
+- computer_science_fundamentals
+- mega_crash_course
+- paper_and_architecture_breakdown
+- relational_normalization_and_acid
+- visual_algorithm_walkthrough
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- time zone
+- date time
+- date object
+- time stamp
+- time format
+- local time
+summary_hook: Explores computer_science_fundamentals, relational_normalization_and_acid,
+  mega_crash_course.

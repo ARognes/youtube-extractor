@@ -1,0 +1,111 @@
+video_id: reDRM0tqhNs
+title: Claude Certified Architect - Foundations – Prepare for and pass the exam!
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=reDRM0tqhNs
+duration: '54:00'
+word_count: 123543
+first_order_tags:
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 00:21
+  seconds: 20.8
+  context: So we have agentic architecture and orchestration, tool design and MCP
+    integration, cloud code configuration and workflows, prompt engineeri...
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: 04:43
+  seconds: 283.4
+  context: Uh and it didn't cost us any credits either  or tokens.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: 07:28
+  seconds: 448.1
+  context: This is where you can get a trade-off where you have this logical structure
+    that keeps the game working in a very particular way where you'r...
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: 08:22
+  seconds: 502.3
+  context: And we could waste the tokens.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '10:05'
+  seconds: 605.1
+  context: What we should have done is just taken the coordinator information and
+    provided it uh to here with the basic information because I feel like...
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '11:14'
+  seconds: 673.6
+  context: We wasted no tokens.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '13:33'
+  seconds: 813.1
+  context: So, yeah, we're going to consume tokens like it's nobody's business.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '16:07'
+  seconds: 966.6
+  context: So we have plan partitions validate index partitions run.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '18:39'
+  seconds: 1119.4
+  context: But I think what I'm going to do here is just put back in the API tokens.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '22:42'
+  seconds: 1362.1
+  context: But, I would like it to not go into the extended repos and consume a ton
+    of tokens.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '24:54'
+  seconds: 1494.0
+  context: So we have the orchestration orchestration one the central coordinator.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '25:13'
+  seconds: 1512.9
+  context: But what I do find is that tokens like when we're using Hycoon and stuff
+    like that have been going really really good.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '27:31'
+  seconds: 1651.1
+  context: Maybe that's the reason why it's it's hanging here because it is using
+    my uh tokens there.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '30:02'
+  seconds: 1801.5
+  context: So context shows tokens consumed in the current session and available tokens
+    broken down by category.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '31:11'
+  seconds: 1870.7
+  context: We haven't really used up a lot, so we're probably not going to notice,
+    but it does say 822 tokens, right?
+second_order_tags:
+- cloud_devops_and_infrastructure
+- computer_science_fundamentals
+- containerization_and_orchestration
+- cybersecurity_and_ethical_hacking
+- machine_learning_and_data_science
+- paper_and_architecture_breakdown
+- relational_normalization_and_acid
+- transformer_attention_mechanisms
+- visual_algorithm_walkthrough
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- cloud code
+- back over
+- okay ahead
+- hello world
+- only thing
+- stop reason
+summary_hook: Explores computer_science_fundamentals, cloud_devops_and_infrastructure,
+  machine_learning_and_data_science.

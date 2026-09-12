@@ -1,0 +1,83 @@
+video_id: ZH3iKbEiks0
+title: I was wrong btw
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=ZH3iKbEiks0
+duration: '42:00'
+word_count: 3643
+first_order_tags:
+- tag: vtag_harpoon_buffer_navigation
+  bound_second_order: harpoon_buffer_navigation
+  timestamp: 07:11
+  seconds: 431.2
+  context: If I can't do that, I want to fuzzy find to where I want to go.
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: 09:03
+  seconds: 542.7
+  context: Don't create tools to save like a keystroke.
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: '12:08'
+  seconds: 728.5
+  context: I can't help but to just look at it be transfixed by the slow motion.
+- tag: vtag_harpoon_buffer_navigation
+  bound_second_order: harpoon_buffer_navigation
+  timestamp: '28:52'
+  seconds: 1732.0
+  context: As you can see, look at all these like directories I can fuzzy find, jump
+    to exactly where I want to go.
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: '31:21'
+  seconds: 1880.7
+  context: About 80% of all my navigation is with an LSP.
+- tag: vtag_harpoon_buffer_navigation
+  bound_second_order: harpoon_buffer_navigation
+  timestamp: '31:28'
+  seconds: 1888.1
+  context: And when I'm not doing that, I'm using Harpoon.
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: '32:05'
+  seconds: 1925.3
+  context: It's almost like my window manager and Harpoon have some things in common.
+- tag: vtag_harpoon_buffer_navigation
+  bound_second_order: harpoon_buffer_navigation
+  timestamp: '32:05'
+  seconds: 1925.3
+  context: It's almost like my window manager and Harpoon have some things in common.
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: '34:12'
+  seconds: 2051.7
+  context: Now, you'll probably notice that everything I said here that I love about
+    my setup is all about navigation.
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: '37:18'
+  seconds: 2237.5
+  context: I know there's a lot of people that come up with a lot of different reasons
+    why they need to do all this stuff, but really it's all about na...
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: '39:16'
+  seconds: 2356.5
+  context: Like that is just valuable brain power you could be using to solve the
+    problem instead of just sitting there painfully thinking through ever...
+second_order_tags:
+- deep_dive_benchmark_build
+- developer_culture_and_critique
+- editor_ergonomics_and_tooling
+- harpoon_buffer_navigation
+- modal_editing_velocity
+third_order_tags:
+- T3_DEVELOPER_ERGONOMICS_TOOLING
+key_phrases:
+- window manager
+- developer experience
+- fast possible
+- arch linux
+- fuzzy find
+- screen tearing
+summary_hook: Explores editor_ergonomics_and_tooling, developer_culture_and_critique,
+  modal_editing_velocity.

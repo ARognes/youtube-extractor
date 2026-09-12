@@ -1,0 +1,43 @@
+video_id: t3my5ByUhFU
+title: This Tool Forces AI To Write Good Code
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=t3my5ByUhFU
+duration: '36:06'
+word_count: 5056
+first_order_tags:
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: 00:50
+  seconds: 50.4
+  context: And the functions in this file are actually quite complicated and difficult
+    to parse for anyone that's trying to read what's going on.
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: 09:28
+  seconds: 568.5
+  context: This may look really complicated at first, but essentially it determines
+    how difficult your function is to parse for you as well as how diff...
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: '10:19'
+  seconds: 618.9
+  context: For example, if you have nested if statements or nested loops, for example,
+    those can be very difficult to parse and understand.
+second_order_tags:
+- ai_application_engineering
+- backend_and_database_integration
+- form_validation_and_schema_parsing
+- modern_css_and_layouts
+- pattern_vs_antipattern_comparison
+- practical_project_build
+- typescript_and_type_safety
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- dead code
+- duplicated code
+- those different
+- inside section
+- nice thing
+- main branch
+summary_hook: Explores modern_css_and_layouts, typescript_and_type_safety, backend_and_database_integration.

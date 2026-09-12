@@ -1,0 +1,113 @@
+video_id: JN7-ZBFYSCU
+title: 'Data Augmentation, Regularization, and ResNets | Deep Learning with PyTorch:
+  Zero to GANs | 5 of 6'
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=JN7-ZBFYSCU
+duration: '49:30'
+word_count: 20984
+first_order_tags:
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 00:50
+  seconds: 49.7
+  context: And to do that, we're going to apply several advanced techniques, and some
+    of which are data normalization, data augmentation, residual conn...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 02:34
+  seconds: 154.4
+  context: Since this notebook is in some sense an extension to last week's tutorial
+    on image classification using convolutional neural networks in PyT...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 03:01
+  seconds: 180.6
+  context: And this happened because the model was learning specific examples from
+    the training data because the model, for instance, could learn that ...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 04:14
+  seconds: 253.8
+  context: This is also called the image folder format where inside the training data
+    folder, we have one folder per class.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 05:09
+  seconds: 308.8
+  context: The second change that we're going to make is called channel-wise data
+    normalization.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 05:14
+  seconds: 314.0
+  context: Here, what we're saying is every image in our data set is a three-channel
+    RGB image.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 06:04
+  seconds: 363.7
+  context: So, this technique is called data normalization and it prevents any particular
+    channel from disproportionately affecting the losses and grad...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 06:19
+  seconds: 379.4
+  context: So, what we're going to do is we will never show the same image the same
+    exact image to the model twice.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 07:01
+  seconds: 421.3
+  context: You can also slightly brighten the image.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 07:14
+  seconds: 434.4
+  context: Using the test set for validation so that the entire training set can be
+    used for training, the small boost in performance, using channel-wi...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 08:07
+  seconds: 486.7
+  context: So, now if you add a four pixel padding around a 32 pixel by 32 pixel image,
+    it becomes a 40 pixel by 40 pixel image.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 09:41
+  seconds: 580.9
+  context: Now, for the training set, we have all of these transformations and we
+    do all of these random what are called data augmentation transformati...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 09:57
+  seconds: 596.6
+  context: So, we will not have any random crop or random horizontal flip, but we
+    will be doing the two tensor transform, and we will be doing the norm...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '10:04'
+  seconds: 604.5
+  context: Therefore, any new input that is used that is passed into the model should
+    also contain the same normalization.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '11:33'
+  seconds: 693.4
+  context: And as we try to display these images, we have to undo the normalization.
+second_order_tags:
+- cloud_devops_and_infrastructure
+- computer_science_fundamentals
+- containerization_and_orchestration
+- machine_learning_and_data_science
+- relational_normalization_and_acid
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- learning rate
+- batch normalization
+- convolutional layer
+- weight decay
+- data sets
+- residual block
+summary_hook: Explores computer_science_fundamentals, cloud_devops_and_infrastructure,
+  machine_learning_and_data_science.

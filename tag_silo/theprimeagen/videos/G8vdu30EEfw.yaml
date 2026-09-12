@@ -1,0 +1,24 @@
+video_id: G8vdu30EEfw
+title: I like Game Programming
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=G8vdu30EEfw
+duration: '42:00'
+word_count: 1800
+first_order_tags: []
+second_order_tags:
+- deep_dive_benchmark_build
+- editor_ergonomics_and_tooling
+- runtime_internals_and_garbage_collection
+- systems_programming_and_compilers
+third_order_tags:
+- T3_DEVELOPER_ERGONOMICS_TOOLING
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- every single
+- test frame
+- unit tests
+- beautiful little
+- single time
+- every time
+summary_hook: Explores systems_programming_and_compilers, editor_ergonomics_and_tooling,
+  runtime_internals_and_garbage_collection.

@@ -1,0 +1,116 @@
+video_id: Zy7EXDONlTY
+title: Agentic AI – Complete Course for Beginners
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=Zy7EXDONlTY
+duration: '54:00'
+word_count: 242791
+first_order_tags:
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 00:07
+  seconds: 7.3
+  context: So, pyic is a python library and uh we use this pentic for the uh data
+    validation okay model validation uh and uh these things you need when...
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: 00:29
+  seconds: 28.7
+  context: Configuration means the context window like uh how much context it can
+    take then maximum output tokens how how much token it can generates a...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 00:36
+  seconds: 35.5
+  context: Some orchestration framework uh I think you know inside generate we are
+    having lang chain we are having llama index.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 01:04
+  seconds: 63.8
+  context: Now if I give the prompt I think prompt uh you can't see because this is
+    uh just uh beside my image but I think you can see okay uh the prom...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 03:07
+  seconds: 186.9
+  context: Okay so you can see crewi also supports asynchronous execution but it approaches
+    orchestration differently than langraph and autogen while u...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 07:20
+  seconds: 440.3
+  context: Okay, reasoning operation and I I think you know why reasoning is required
+    because with the help of this reasoning it will decide when to ut...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 08:44
+  seconds: 523.7
+  context: large language model is deciding okay now I have to use this particular
+    tool and you are using that tool to get the response and you are you...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '10:32'
+  seconds: 632.5
+  context: So in this video I'm going to uh show you the entire implementation how
+    we can utilize lang chain orchestration framework for implementing t...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '14:13'
+  seconds: 852.7
+  context: Uh so this was uh the first orchestration framework we have explored so
+    far.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '16:23'
+  seconds: 982.9
+  context: But again I have given a definition you can see lang graph is an orchestration
+    framework that enables you to build straightful multi-step an...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '18:54'
+  seconds: 1134.3
+  context: Now if you want to see this graph as a uh image you can also do that.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '20:10'
+  seconds: 1210.4
+  context: So guys uh we are continuing with our uh complete agenti course and as
+    you know we started uh learning our first orchestration framework whi...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '25:31'
+  seconds: 1530.8
+  context: Then we started our first orchestration uh framework for AI agents implementation
+    which is langraph.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '26:14'
+  seconds: 1574.1
+  context: Okay, the last index AI message.
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '30:04'
+  seconds: 1803.8
+  context: Streaming means the model start sending tokens uh that means word as soon
+    as they they are generated instead of waiting for the entire respo...
+second_order_tags:
+- cloud_devops_and_infrastructure
+- containerization_and_orchestration
+- cybersecurity_and_ethical_hacking
+- machine_learning_and_data_science
+- mega_crash_course
+- paper_and_architecture_breakdown
+- relational_normalization_and_acid
+- semantic_chunking_tokenization
+- transformer_attention_mechanisms
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- okay will
+- will give
+- okay means
+- lang graph
+- large language
+- language model
+summary_hook: Explores cloud_devops_and_infrastructure, machine_learning_and_data_science,
+  cybersecurity_and_ethical_hacking.

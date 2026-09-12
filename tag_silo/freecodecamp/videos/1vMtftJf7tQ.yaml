@@ -1,0 +1,38 @@
+video_id: 1vMtftJf7tQ
+title: Board Game, Lists and More - Python Basics with Sam
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=1vMtftJf7tQ
+duration: '45:00'
+word_count: 9061
+first_order_tags:
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 07:30
+  seconds: 450.0
+  context: that's not going to be right because we want one through six because we
+    know we could have it be zero through five but the user will probabl...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '22:30'
+  seconds: 1350.0
+  context: for i in array print i so i said i wanted this one right here to be a blank
+    space and i did it alright does everybody follow that okay every...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '37:30'
+  seconds: 2250.0
+  context: now the index effect i'm not having to do any adjustment i'm using the
+    tools that i have i'm using my second index and allowing python to fi...
+second_order_tags:
+- machine_learning_and_data_science
+- relational_normalization_and_acid
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- need handle
+- list comprehension
+- true false
+- each time
+- okay good
+- blank space
+summary_hook: Explores machine_learning_and_data_science, relational_normalization_and_acid.

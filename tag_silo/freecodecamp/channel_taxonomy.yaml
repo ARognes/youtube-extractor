@@ -1,0 +1,103 @@
+channel: freecodecamp
+core: core_software_engineering
+order: 2
+scope: channel_bound
+total_videos_analyzed: 99
+total_spoken_words: 1227006
+compiled_at: '2026-09-11T21:12:48.059526'
+second_order_tags:
+  mega_crash_course:
+    tag: mega_crash_course
+    channel: freecodecamp
+    video_occurrences: 45
+    prevalence_pct: 45.5
+  machine_learning_and_data_science:
+    tag: machine_learning_and_data_science
+    channel: freecodecamp
+    video_occurrences: 38
+    prevalence_pct: 38.4
+  containerization_and_orchestration:
+    tag: containerization_and_orchestration
+    channel: freecodecamp
+    video_occurrences: 33
+    prevalence_pct: 33.3
+  relational_normalization_and_acid:
+    tag: relational_normalization_and_acid
+    channel: freecodecamp
+    video_occurrences: 26
+    prevalence_pct: 26.3
+  computer_science_fundamentals:
+    tag: computer_science_fundamentals
+    channel: freecodecamp
+    video_occurrences: 25
+    prevalence_pct: 25.3
+  cloud_devops_and_infrastructure:
+    tag: cloud_devops_and_infrastructure
+    channel: freecodecamp
+    video_occurrences: 23
+    prevalence_pct: 23.2
+  visual_algorithm_walkthrough:
+    tag: visual_algorithm_walkthrough
+    channel: freecodecamp
+    video_occurrences: 20
+    prevalence_pct: 20.2
+  cybersecurity_and_ethical_hacking:
+    tag: cybersecurity_and_ethical_hacking
+    channel: freecodecamp
+    video_occurrences: 18
+    prevalence_pct: 18.2
+  paper_and_architecture_breakdown:
+    tag: paper_and_architecture_breakdown
+    channel: freecodecamp
+    video_occurrences: 16
+    prevalence_pct: 16.2
+  transformer_attention_mechanisms:
+    tag: transformer_attention_mechanisms
+    channel: freecodecamp
+    video_occurrences: 12
+    prevalence_pct: 12.1
+  mobile_and_cross_platform_dev:
+    tag: mobile_and_cross_platform_dev
+    channel: freecodecamp
+    video_occurrences: 5
+    prevalence_pct: 5.1
+  graph_and_tree_traversals:
+    tag: graph_and_tree_traversals
+    channel: freecodecamp
+    video_occurrences: 4
+    prevalence_pct: 4.0
+  infrastructure_misconfiguration:
+    tag: infrastructure_misconfiguration
+    channel: freecodecamp
+    video_occurrences: 4
+    prevalence_pct: 4.0
+  asymptotic_algorithmic_complexity:
+    tag: asymptotic_algorithmic_complexity
+    channel: freecodecamp
+    video_occurrences: 3
+    prevalence_pct: 3.0
+  semantic_chunking_tokenization:
+    tag: semantic_chunking_tokenization
+    channel: freecodecamp
+    video_occurrences: 3
+    prevalence_pct: 3.0
+  memoization_and_tabulation:
+    tag: memoization_and_tabulation
+    channel: freecodecamp
+    video_occurrences: 1
+    prevalence_pct: 1.0
+  combinatorial_algorithm_exhaustion:
+    tag: combinatorial_algorithm_exhaustion
+    channel: freecodecamp
+    video_occurrences: 1
+    prevalence_pct: 1.0
+  two_pointer_and_sliding_window:
+    tag: two_pointer_and_sliding_window
+    channel: freecodecamp
+    video_occurrences: 1
+    prevalence_pct: 1.0
+  tutorial_hell_and_passive_consumption:
+    tag: tutorial_hell_and_passive_consumption
+    channel: freecodecamp
+    video_occurrences: 1
+    prevalence_pct: 1.0

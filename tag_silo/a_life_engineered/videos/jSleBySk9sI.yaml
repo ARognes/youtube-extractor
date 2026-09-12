@@ -1,0 +1,42 @@
+video_id: jSleBySk9sI
+title: Nobody Is Coming to Save Your Career
+channel: A Life Engineered
+url: https://www.youtube.com/watch?v=jSleBySk9sI
+duration: '23:48'
+word_count: 3196
+first_order_tags:
+- tag: vtag_skip_level_alignment_meeting
+  bound_second_order: skip_level_alignment_meeting
+  timestamp: 00:06
+  seconds: 5.6
+  context: Not your manager, not your skip level, not the company you've given the
+    last five years of your life to.
+- tag: vtag_sponsorship_vs_mentorship
+  bound_second_order: sponsorship_vs_mentorship
+  timestamp: '12:47'
+  seconds: 766.8
+  context: They can advocate for you in rooms that you'll never be in.
+- tag: vtag_sponsorship_vs_mentorship
+  bound_second_order: sponsorship_vs_mentorship
+  timestamp: '15:33'
+  seconds: 933.5
+  context: Their manager didn't advocate for them.
+second_order_tags:
+- career_progression_and_promotion
+- executive_interview_mentorship
+- salary_negotiation_and_total_comp
+- skip_level_alignment_meeting
+- sponsorship_vs_mentorship
+- staff_plus_and_executive_leadership
+- system_design_and_architecture_reviews
+third_order_tags:
+- T3_ENGINEERING_LEADERSHIP_LEVERAGE
+key_phrases:
+- career growth
+- five years
+- need accept
+- work actually
+- manager career
+- principal engineer
+summary_hook: Explores staff_plus_and_executive_leadership, career_progression_and_promotion,
+  salary_negotiation_and_total_comp.

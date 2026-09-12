@@ -1,0 +1,104 @@
+video_id: bYgphDEWwvs
+title: TypeScript in Express – TypeScript Tutorial
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=bYgphDEWwvs
+duration: '54:00'
+word_count: 12851
+first_order_tags:
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 04:51
+  seconds: 291.5
+  context: Let's create a new file, and we're going to call it index.ts.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 07:09
+  seconds: 428.9
+  context: Let's see what happens if we try to run it directly with Node, source,
+    index.typescript.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 08:16
+  seconds: 495.9
+  context: And now that we have that JS file, we can run it like normal with node
+    dist/index.js.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 09:09
+  seconds: 549.5
+  context: And after that, we'll run the compiled JavaScript with node dist/index.js.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '10:57'
+  seconds: 656.7
+  context: And then we'll run the compiled JavaScript with node dist/index.js.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '11:10'
+  seconds: 670.1
+  context: After that last room, you're probably wondering, do I really have to type
+    NPX TSC and node dist index.js every time I make a change?
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '12:07'
+  seconds: 727.1
+  context: And the next command is, of course, node dist index.js.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '13:34'
+  seconds: 814.2
+  context: Right now, index.ts is doing everything.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '14:04'
+  seconds: 844.3
+  context: Back in index.ts, we're going to cut everything from the pet type all the
+    way down to the end of the pets array.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '19:19'
+  seconds: 1159.3
+  context: And then, we'll import it into our index.ts.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '20:36'
+  seconds: 1236.4
+  context: I've linked up this image in the slide, so you can check out their GitHub
+    if you fancy a peek.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '24:41'
+  seconds: 1481.0
+  context: So, first we'll need to make sure that our pet is exported from this file
+    so we can use it back in index.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '38:52'
+  seconds: 2332.0
+  context: But our index.ts is starting to look a little chunky.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '39:36'
+  seconds: 2375.6
+  context: So, back in index.ts, I'm going to pull everything from the pet query params
+    type all the way down to the end of our ID route.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '41:36'
+  seconds: 2496.2
+  context: Let's hook it up to index.ts and check it out.
+second_order_tags:
+- containerization_and_orchestration
+- paper_and_architecture_breakdown
+- relational_normalization_and_acid
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- request response
+- welcome back
+- express typescript
+- next scrim
+- send request
+- query parameters
+summary_hook: Explores containerization_and_orchestration, relational_normalization_and_acid,
+  paper_and_architecture_breakdown.

@@ -1,0 +1,26 @@
+video_id: Epwlk4B90vk
+title: RUST Enums ARE Better
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=Epwlk4B90vk
+duration: '38:30'
+word_count: 1297
+first_order_tags:
+- tag: vtag_concurrency_primitives_and_locks
+  bound_second_order: concurrency_primitives_and_locks
+  timestamp: '19:15'
+  seconds: 1155.0
+  context: remember these two are equivalent in values let's create a list of strings
+    in both languages next let's call a pen in both languages in type...
+second_order_tags:
+- concurrency_primitives_and_locks
+- systems_programming_and_compilers
+third_order_tags:
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- list strings
+- list items
+- pattern matching
+- throw error
+- items list
+- typescript enums
+summary_hook: Explores systems_programming_and_compilers, concurrency_primitives_and_locks.

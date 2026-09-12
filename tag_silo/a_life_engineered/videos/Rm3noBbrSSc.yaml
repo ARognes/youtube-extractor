@@ -1,0 +1,89 @@
+video_id: Rm3noBbrSSc
+title: I Left Amazon and Built a $1M Business — Using Notion
+channel: A Life Engineered
+url: https://www.youtube.com/watch?v=Rm3noBbrSSc
+duration: '23:48'
+word_count: 2066
+first_order_tags:
+- tag: vtag_business_impact_over_code_output
+  bound_second_order: business_impact_over_code_output
+  timestamp: 00:36
+  seconds: 35.9
+  context: I'm going to break down exactly how this business works, including my revenue
+    numbers, where my time goes, and the system that makes it all ...
+- tag: vtag_burnout_from_hero_mode
+  bound_second_order: burnout_from_hero_mode
+  timestamp: 00:45
+  seconds: 44.9
+  context: And I'll show you the AI agent I built that's letting me scale this year
+    without becoming a bottleneck.
+- tag: vtag_sponsorship_vs_mentorship
+  bound_second_order: sponsorship_vs_mentorship
+  timestamp: 01:03
+  seconds: 62.9
+  context: It's not a sponsor I took because they pay well.
+- tag: vtag_business_impact_over_code_output
+  bound_second_order: business_impact_over_code_output
+  timestamp: 03:09
+  seconds: 188.6
+  context: Most people think a creator business is making videos, getting views, and
+    collecting ad revenue.
+- tag: vtag_business_impact_over_code_output
+  bound_second_order: business_impact_over_code_output
+  timestamp: 04:47
+  seconds: 287.4
+  context: This part of the business mainly generates revenue directly through sponsorships,
+    memberships, and ad revenue.
+- tag: vtag_business_impact_over_code_output
+  bound_second_order: business_impact_over_code_output
+  timestamp: 06:44
+  seconds: 404.2
+  context: That's more than 2/3 of my total revenue.
+- tag: vtag_terminal_senior_l5_plateau
+  bound_second_order: terminal_senior_l5_plateau
+  timestamp: '13:55'
+  seconds: 835.2
+  context: I hit a ceiling almost immediately.
+- tag: vtag_business_impact_over_code_output
+  bound_second_order: business_impact_over_code_output
+  timestamp: '14:13'
+  seconds: 853.2
+  context: One-on-one meant my revenue was capped by my calendar.
+- tag: vtag_burnout_from_hero_mode
+  bound_second_order: burnout_from_hero_mode
+  timestamp: '14:49'
+  seconds: 889.1
+  context: But even with more efficient group coaching, I was still the bottleneck.
+- tag: vtag_burnout_from_hero_mode
+  bound_second_order: burnout_from_hero_mode
+  timestamp: '19:19'
+  seconds: 1158.6
+  context: Now, my team has access to everything and I'm not the bottleneck anymore.
+- tag: vtag_skip_level_alignment_meeting
+  bound_second_order: skip_level_alignment_meeting
+  timestamp: '21:15'
+  seconds: 1275.3
+  context: They had strong promotion momentum with their old manager, but now their
+    skip level doesn't know them at all.
+second_order_tags:
+- burnout_from_hero_mode
+- business_impact_over_code_output
+- career_progression_and_promotion
+- career_strategy_masterclass
+- executive_interview_mentorship
+- skip_level_alignment_meeting
+- sponsorship_vs_mentorship
+- staff_plus_and_executive_leadership
+- terminal_senior_l5_plateau
+third_order_tags:
+- T3_ENGINEERING_LEADERSHIP_LEVERAGE
+- T3_SHAME_GUILT_EGO_PRESERVATION
+key_phrases:
+- coaching business
+- every coaching
+- coaching call
+- content clients
+- clients knowledge
+- makes spin
+summary_hook: Explores staff_plus_and_executive_leadership, career_progression_and_promotion,
+  business_impact_over_code_output.

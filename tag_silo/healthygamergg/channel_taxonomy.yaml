@@ -1,9 +1,10 @@
 channel: healthygamergg
+core: core_psychology
 order: 2
 scope: channel_bound
 total_videos_analyzed: 100
 total_spoken_words: 149038
-compiled_at: '2026-09-05T20:09:50.643135'
+compiled_at: '2026-09-11T21:12:30.177020'
 second_order_tags:
   relational_and_attachment_psychology:
     tag: relational_and_attachment_psychology

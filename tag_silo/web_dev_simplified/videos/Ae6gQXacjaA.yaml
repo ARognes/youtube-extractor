@@ -1,0 +1,27 @@
+video_id: Ae6gQXacjaA
+title: The NEW React Activity Component Is a Game Changer for Performance
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=Ae6gQXacjaA
+duration: 15 min
+word_count: 604
+first_order_tags:
+- tag: vtag_server_components_and_isomorphic_rendering
+  bound_second_order: server_components_and_isomorphic_rendering
+  timestamp: 01:14
+  seconds: 74.3
+  context: inside of a suspense as well. My
+second_order_tags:
+- feature_deep_dive
+- frontend_reactivity_and_frameworks
+- server_components_and_isomorphic_rendering
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- activity component
+- increase performance
+- counter component
+- conditional render
+- removed page
+- data refresh
+summary_hook: Explores frontend_reactivity_and_frameworks, server_components_and_isomorphic_rendering,
+  feature_deep_dive.

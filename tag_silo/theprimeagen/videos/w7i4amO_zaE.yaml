@@ -1,0 +1,49 @@
+video_id: w7i4amO_zaE
+title: '0 to LSP : Neovim RC From Scratch'
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=w7i4amO_zaE
+duration: '38:30'
+word_count: 6231
+first_order_tags:
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: 00:00
+  seconds: 0.0
+  context: so I am gonna do this I am going to write my  neovim config from scratch
+    no I mean really from scratch all right so this is gonna include  m...
+- tag: vtag_harpoon_buffer_navigation
+  bound_second_order: harpoon_buffer_navigation
+  timestamp: 00:00
+  seconds: 0.0
+  context: so I am gonna do this I am going to write my  neovim config from scratch
+    no I mean really from scratch all right so this is gonna include  m...
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: '19:15'
+  seconds: 1155.0
+  context: look at that we're back in our rust project  let's go back via tmux previous
+    session did you notice that little control a capital l that's  ...
+- tag: vtag_harpoon_buffer_navigation
+  bound_second_order: harpoon_buffer_navigation
+  timestamp: '19:15'
+  seconds: 1155.0
+  context: look at that we're back in our rust project  let's go back via tmux previous
+    session did you notice that little control a capital l that's  ...
+second_order_tags:
+- deep_dive_benchmark_build
+- editor_ergonomics_and_tooling
+- harpoon_buffer_navigation
+- modal_editing_velocity
+- systems_programming_and_compilers
+third_order_tags:
+- T3_DEVELOPER_ERGONOMICS_TOOLING
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- tree sitter
+- undo tree
+- normal mode
+- create file
+- jump over
+- line numbers
+summary_hook: Explores systems_programming_and_compilers, editor_ergonomics_and_tooling,
+  modal_editing_velocity.

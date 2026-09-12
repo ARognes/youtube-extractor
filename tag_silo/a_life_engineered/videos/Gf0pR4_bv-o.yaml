@@ -1,0 +1,71 @@
+video_id: Gf0pR4_bv-o
+title: Ex-Amazon VP on What Actually Gets You Promoted | Ethan Evans
+channel: A Life Engineered
+url: https://www.youtube.com/watch?v=Gf0pR4_bv-o
+duration: '25:54'
+word_count: 14088
+first_order_tags:
+- tag: vtag_sponsorship_vs_mentorship
+  bound_second_order: sponsorship_vs_mentorship
+  timestamp: 02:59
+  seconds: 178.9
+  context: '>> Quick word from today''s sponsor, Linear.'
+- tag: vtag_sponsorship_vs_mentorship
+  bound_second_order: sponsorship_vs_mentorship
+  timestamp: 03:01
+  seconds: 180.7
+  context: Linear has been a sponsor for almost a year now, and in that time, a lot
+    has changed in how teams build software.
+- tag: vtag_sponsorship_vs_mentorship
+  bound_second_order: sponsorship_vs_mentorship
+  timestamp: 05:32
+  seconds: 332.5
+  context: Is everything being discussed in the open or are things changing behind
+    closed doors where I talk to you and you say, "Okay, we're going to ...
+- tag: vtag_skip_level_alignment_meeting
+  bound_second_order: skip_level_alignment_meeting
+  timestamp: 07:59
+  seconds: 478.8
+  context: So, a a a client of mine in the community was he was in a situation where
+    his boss and his skip level, they were both fired at the same time...
+- tag: vtag_sponsorship_vs_mentorship
+  bound_second_order: sponsorship_vs_mentorship
+  timestamp: 09:31
+  seconds: 571.0
+  context: I'm here to advocate for giving managers a break.
+- tag: vtag_skip_level_alignment_meeting
+  bound_second_order: skip_level_alignment_meeting
+  timestamp: '12:21'
+  seconds: 740.9
+  context: Yeah, >> maybe there's a skip level, but somebody in your management chain
+    needs to stick their neck out and say, "We should promote this pe...
+- tag: vtag_business_impact_over_code_output
+  bound_second_order: business_impact_over_code_output
+  timestamp: '18:13'
+  seconds: 1093.2
+  context: Bottom line is the manager needs information.
+- tag: vtag_business_impact_over_code_output
+  bound_second_order: business_impact_over_code_output
+  timestamp: '20:38'
+  seconds: 1237.8
+  context: So, the bottom line is the math favors asking.
+second_order_tags:
+- business_impact_over_code_output
+- career_progression_and_promotion
+- executive_interview_mentorship
+- salary_negotiation_and_total_comp
+- skip_level_alignment_meeting
+- sponsorship_vs_mentorship
+- staff_plus_and_executive_leadership
+- workplace_politics_and_influence
+third_order_tags:
+- T3_ENGINEERING_LEADERSHIP_LEVERAGE
+key_phrases:
+- polite fiction
+- management chain
+- good work
+- much more
+- blind spot
+- work hard
+summary_hook: Explores staff_plus_and_executive_leadership, career_progression_and_promotion,
+  salary_negotiation_and_total_comp.

@@ -1,0 +1,25 @@
+video_id: AzOWedAKoNQ
+title: No One Knows About This Amazing CSS Dev Tools Panel (CSS Overview)
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=AzOWedAKoNQ
+duration: '30:06'
+word_count: 425
+first_order_tags:
+- tag: vtag_css_layout_algorithms
+  bound_second_order: css_layout_algorithms
+  timestamp: '24:22'
+  seconds: 1462.0
+  context: And it also tells me every single media query and how many times they occur.
+second_order_tags:
+- css_layout_algorithms
+- modern_css_and_layouts
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- every single
+- color every
+- many times
+- times occur
+- favorite tools
+- tools overview
+summary_hook: Explores modern_css_and_layouts, css_layout_algorithms.

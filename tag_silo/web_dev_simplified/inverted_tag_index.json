@@ -1,0 +1,1498 @@
+{
+  "channel": "web_dev_simplified",
+  "core": "core_software_engineering",
+  "total_tags": 18,
+  "index": {
+    "ai_application_engineering": [
+      {
+        "video_id": "BH9ZgUYjiic",
+        "title": "I Wish This Was Better",
+        "timestamps": []
+      },
+      {
+        "video_id": "1mvlBz6pj1I",
+        "title": "How To Build A Production Ready RAG AI - My Full AI Coding Workflow",
+        "timestamps": []
+      },
+      {
+        "video_id": "7Z7ID5BbZU4",
+        "title": "Containers Don't Make Your AI Agent Safe",
+        "timestamps": []
+      },
+      {
+        "video_id": "DogTO1jjFtI",
+        "title": "What I Use Instead",
+        "timestamps": []
+      },
+      {
+        "video_id": "t3my5ByUhFU",
+        "title": "This Tool Forces AI To Write Good Code",
+        "timestamps": []
+      },
+      {
+        "video_id": "UngVdAsQEiU",
+        "title": "The Best Local Agentic Coding Workflow (Complete Guide)",
+        "timestamps": []
+      },
+      {
+        "video_id": "CFI1ZnlHEFM",
+        "title": "My Honest Thoughts on AI and the Job Market in 2026",
+        "timestamps": []
+      },
+      {
+        "video_id": "quoNVa88XfE",
+        "title": "NEW Tanstack AI Library is Amazing!",
+        "timestamps": []
+      }
+    ],
+    "backend_and_database_integration": [
+      {
+        "video_id": "BH9ZgUYjiic",
+        "title": "I Wish This Was Better",
+        "timestamps": []
+      },
+      {
+        "video_id": "1mvlBz6pj1I",
+        "title": "How To Build A Production Ready RAG AI - My Full AI Coding Workflow",
+        "timestamps": []
+      },
+      {
+        "video_id": "7Z7ID5BbZU4",
+        "title": "Containers Don't Make Your AI Agent Safe",
+        "timestamps": []
+      },
+      {
+        "video_id": "7rxOOFvwU60",
+        "title": "11 New JS Features You Can Use Today!",
+        "timestamps": []
+      },
+      {
+        "video_id": "t3my5ByUhFU",
+        "title": "This Tool Forces AI To Write Good Code",
+        "timestamps": []
+      },
+      {
+        "video_id": "U_D14T5TYuk",
+        "title": "How To Build A Production Ready API - Auth, JWT, API Keys",
+        "timestamps": []
+      },
+      {
+        "video_id": "UngVdAsQEiU",
+        "title": "The Best Local Agentic Coding Workflow (Complete Guide)",
+        "timestamps": []
+      },
+      {
+        "video_id": "9aTRnV6g0eQ",
+        "title": "Learn React With This One Project",
+        "timestamps": []
+      },
+      {
+        "video_id": "ULS7LHNScHc",
+        "title": "Stop Using Context in React - Use This Instead",
+        "timestamps": []
+      },
+      {
+        "video_id": "vmzt6I1IZg8",
+        "title": "Can I Build This UI In 10 Minutes",
+        "timestamps": []
+      },
+      {
+        "video_id": "NBjycPpPHQQ",
+        "title": "Why Does No One Use The Right React Hook",
+        "timestamps": []
+      },
+      {
+        "video_id": "35cESnxXH6o",
+        "title": "Strict TypeScript Isn't Enough Anymore",
+        "timestamps": []
+      },
+      {
+        "video_id": "63m2vvB4wo4",
+        "title": "Stop Writing TypeScript Code Like This",
+        "timestamps": []
+      },
+      {
+        "video_id": "ovnyeq-Xxrc",
+        "title": "How To Handle Errors Like A Senior Dev",
+        "timestamps": []
+      },
+      {
+        "video_id": "nQrUeK0n1qw",
+        "title": "Every Project Needs This NEW Tanstack Library",
+        "timestamps": []
+      },
+      {
+        "video_id": "aP6w2OzidYM",
+        "title": "Stop Writing Your ID Types Like This",
+        "timestamps": []
+      },
+      {
+        "video_id": "NykJhYdBoqU",
+        "title": "Help Me Plan My Upcoming JavaScript Course",
+        "timestamps": []
+      },
+      {
+        "video_id": "BY63sGoGXq0",
+        "title": "Help Me Code Review My First Website",
+        "timestamps": []
+      },
+      {
+        "video_id": "W7bZA9Fj6SA",
+        "title": "Talking With Eddie Jaoude and Tanya Powell About Gender Diversity In Tech",
+        "timestamps": []
+      },
+      {
+        "video_id": "wEet5Gkn1Qg",
+        "title": "This Unknown TypeScript Feature is a Must Have for Large Projects",
+        "timestamps": []
+      },
+      {
+        "video_id": "7q3rvDU-kzk",
+        "title": "The 2 Parts of Auth You Need To Know",
+        "timestamps": []
+      },
+      {
+        "video_id": "1Rzz6mtab4c",
+        "title": "Data Access Layers are a Must Know for Next.js Developers",
+        "timestamps": []
+      },
+      {
+        "video_id": "NqCFDLr5sJE",
+        "title": "I Bet You Don\u2019t Know This Amazing DOM Debugging Tool",
+        "timestamps": []
+      },
+      {
+        "video_id": "qcDpJ2ptlMs",
+        "title": "What Is MCP Explained In 3 Minutes",
+        "timestamps": []
+      },
+      {
+        "video_id": "cIDiG9OiE5Y",
+        "title": "I Love This New CSS text-wrap Feature",
+        "timestamps": []
+      },
+      {
+        "video_id": "7q3rvDU-kzk",
+        "title": "The 2 Parts of Auth You Need To Know",
+        "timestamps": []
+      },
+      {
+        "video_id": "wEet5Gkn1Qg",
+        "title": "This Unknown TypeScript Feature is a Must Have for Large Projects",
+        "timestamps": []
+      }
+    ],
+    "feature_deep_dive": [
+      {
+        "video_id": "BH9ZgUYjiic",
+        "title": "I Wish This Was Better",
+        "timestamps": []
+      },
+      {
+        "video_id": "DogTO1jjFtI",
+        "title": "What I Use Instead",
+        "timestamps": []
+      },
+      {
+        "video_id": "cxQLKsktiBA",
+        "title": "How To Use AI Skills Like A Senior Developer",
+        "timestamps": []
+      },
+      {
+        "video_id": "7rxOOFvwU60",
+        "title": "11 New JS Features You Can Use Today!",
+        "timestamps": []
+      },
+      {
+        "video_id": "U_D14T5TYuk",
+        "title": "How To Build A Production Ready API - Auth, JWT, API Keys",
+        "timestamps": []
+      },
+      {
+        "video_id": "UngVdAsQEiU",
+        "title": "The Best Local Agentic Coding Workflow (Complete Guide)",
+        "timestamps": []
+      },
+      {
+        "video_id": "ULS7LHNScHc",
+        "title": "Stop Using Context in React - Use This Instead",
+        "timestamps": []
+      },
+      {
+        "video_id": "S26VdcWQzRQ",
+        "title": "NEW Tankstack Library is a Must Include in Every Project",
+        "timestamps": []
+      },
+      {
+        "video_id": "63m2vvB4wo4",
+        "title": "Stop Writing TypeScript Code Like This",
+        "timestamps": []
+      },
+      {
+        "video_id": "Sh5B7ApPh7k",
+        "title": "JavaScript Is Dead - What You Need To Do",
+        "timestamps": []
+      },
+      {
+        "video_id": "Y7nhXvJ7yH8",
+        "title": "How to Handle Accessibility Like a Senior Dev",
+        "timestamps": []
+      },
+      {
+        "video_id": "Xm_VGeTpS2Q",
+        "title": "This Amazing TypeScript Feature Has NO Docs!",
+        "timestamps": []
+      },
+      {
+        "video_id": "CFI1ZnlHEFM",
+        "title": "My Honest Thoughts on AI and the Job Market in 2026",
+        "timestamps": []
+      },
+      {
+        "video_id": "HXIHpDnsizk",
+        "title": "NEW CSS Scroll Features are Game Changers",
+        "timestamps": []
+      },
+      {
+        "video_id": "bP8mrNdR-hs",
+        "title": "I Love the NEW CSS Functions",
+        "timestamps": []
+      },
+      {
+        "video_id": "quoNVa88XfE",
+        "title": "NEW Tanstack AI Library is Amazing!",
+        "timestamps": []
+      },
+      {
+        "video_id": "aP6w2OzidYM",
+        "title": "Stop Writing Your ID Types Like This",
+        "timestamps": []
+      },
+      {
+        "video_id": "Ae6gQXacjaA",
+        "title": "The NEW React Activity Component Is a Game Changer for Performance",
+        "timestamps": []
+      },
+      {
+        "video_id": "zv8ZDr0zGdU",
+        "title": "This CSS Dev Tool Makes Accessibility so Easy",
+        "timestamps": []
+      },
+      {
+        "video_id": "Xm_VGeTpS2Q",
+        "title": "This Amazing TypeScript Feature Has NO Docs!",
+        "timestamps": []
+      },
+      {
+        "video_id": "1Rzz6mtab4c",
+        "title": "Data Access Layers are a Must Know for Next.js Developers",
+        "timestamps": []
+      },
+      {
+        "video_id": "kUVH_cwpnpU",
+        "title": "This Is The 10x Developer Skill",
+        "timestamps": []
+      },
+      {
+        "video_id": "Ae6gQXacjaA",
+        "title": "The NEW React Activity Component Is a Game Changer for Performance",
+        "timestamps": []
+      },
+      {
+        "video_id": "Kh8M_iiIhUY",
+        "title": "Want to join this channel?",
+        "timestamps": []
+      },
+      {
+        "video_id": "zv8ZDr0zGdU",
+        "title": "This CSS Dev Tool Makes Accessibility so Easy",
+        "timestamps": []
+      }
+    ],
+    "practical_project_build": [
+      {
+        "video_id": "BH9ZgUYjiic",
+        "title": "I Wish This Was Better",
+        "timestamps": []
+      },
+      {
+        "video_id": "1mvlBz6pj1I",
+        "title": "How To Build A Production Ready RAG AI - My Full AI Coding Workflow",
+        "timestamps": []
+      },
+      {
+        "video_id": "7Z7ID5BbZU4",
+        "title": "Containers Don't Make Your AI Agent Safe",
+        "timestamps": []
+      },
+      {
+        "video_id": "DogTO1jjFtI",
+        "title": "What I Use Instead",
+        "timestamps": []
+      },
+      {
+        "video_id": "cxQLKsktiBA",
+        "title": "How To Use AI Skills Like A Senior Developer",
+        "timestamps": []
+      },
+      {
+        "video_id": "t3my5ByUhFU",
+        "title": "This Tool Forces AI To Write Good Code",
+        "timestamps": []
+      },
+      {
+        "video_id": "U_D14T5TYuk",
+        "title": "How To Build A Production Ready API - Auth, JWT, API Keys",
+        "timestamps": []
+      },
+      {
+        "video_id": "UngVdAsQEiU",
+        "title": "The Best Local Agentic Coding Workflow (Complete Guide)",
+        "timestamps": []
+      },
+      {
+        "video_id": "9aTRnV6g0eQ",
+        "title": "Learn React With This One Project",
+        "timestamps": []
+      },
+      {
+        "video_id": "ULS7LHNScHc",
+        "title": "Stop Using Context in React - Use This Instead",
+        "timestamps": []
+      },
+      {
+        "video_id": "NBjycPpPHQQ",
+        "title": "Why Does No One Use The Right React Hook",
+        "timestamps": []
+      },
+      {
+        "video_id": "35cESnxXH6o",
+        "title": "Strict TypeScript Isn't Enough Anymore",
+        "timestamps": []
+      },
+      {
+        "video_id": "PRBlLjHIV74",
+        "title": "This is the New NPM",
+        "timestamps": []
+      },
+      {
+        "video_id": "S26VdcWQzRQ",
+        "title": "NEW Tankstack Library is a Must Include in Every Project",
+        "timestamps": []
+      },
+      {
+        "video_id": "63m2vvB4wo4",
+        "title": "Stop Writing TypeScript Code Like This",
+        "timestamps": []
+      },
+      {
+        "video_id": "Sh5B7ApPh7k",
+        "title": "JavaScript Is Dead - What You Need To Do",
+        "timestamps": []
+      },
+      {
+        "video_id": "Y7nhXvJ7yH8",
+        "title": "How to Handle Accessibility Like a Senior Dev",
+        "timestamps": []
+      },
+      {
+        "video_id": "ovnyeq-Xxrc",
+        "title": "How To Handle Errors Like A Senior Dev",
+        "timestamps": []
+      },
+      {
+        "video_id": "Xm_VGeTpS2Q",
+        "title": "This Amazing TypeScript Feature Has NO Docs!",
+        "timestamps": []
+      },
+      {
+        "video_id": "CFI1ZnlHEFM",
+        "title": "My Honest Thoughts on AI and the Job Market in 2026",
+        "timestamps": []
+      },
+      {
+        "video_id": "HXIHpDnsizk",
+        "title": "NEW CSS Scroll Features are Game Changers",
+        "timestamps": []
+      },
+      {
+        "video_id": "nQrUeK0n1qw",
+        "title": "Every Project Needs This NEW Tanstack Library",
+        "timestamps": []
+      },
+      {
+        "video_id": "quoNVa88XfE",
+        "title": "NEW Tanstack AI Library is Amazing!",
+        "timestamps": []
+      },
+      {
+        "video_id": "aP6w2OzidYM",
+        "title": "Stop Writing Your ID Types Like This",
+        "timestamps": []
+      },
+      {
+        "video_id": "NykJhYdBoqU",
+        "title": "Help Me Plan My Upcoming JavaScript Course",
+        "timestamps": []
+      },
+      {
+        "video_id": "BY63sGoGXq0",
+        "title": "Help Me Code Review My First Website",
+        "timestamps": []
+      },
+      {
+        "video_id": "W7bZA9Fj6SA",
+        "title": "Talking With Eddie Jaoude and Tanya Powell About Gender Diversity In Tech",
+        "timestamps": []
+      },
+      {
+        "video_id": "JcwH9RddzyE",
+        "title": "3 Must Use TSConfig Features",
+        "timestamps": []
+      },
+      {
+        "video_id": "lUnZ-NsD9Ag",
+        "title": "I Can\u2019t Believe This TS Feature Has No Documentation",
+        "timestamps": []
+      },
+      {
+        "video_id": "7q3rvDU-kzk",
+        "title": "The 2 Parts of Auth You Need To Know",
+        "timestamps": []
+      },
+      {
+        "video_id": "Xm_VGeTpS2Q",
+        "title": "This Amazing TypeScript Feature Has NO Docs!",
+        "timestamps": []
+      },
+      {
+        "video_id": "SQTij8_Kwl4",
+        "title": "Everyone Is Missing What Makes NEW Shadcn Update Amazing",
+        "timestamps": []
+      },
+      {
+        "video_id": "qpbcLKlL0RM",
+        "title": "Make Your Site 200% Faster With One Simple Image Feature",
+        "timestamps": []
+      },
+      {
+        "video_id": "Btv_oJFDjuE",
+        "title": "This Simple Dev Tools Feature Makes Working On Teams Much Easier",
+        "timestamps": []
+      },
+      {
+        "video_id": "NSWwX_ke760",
+        "title": "I Made My Own Shadcn Library (and you can too)",
+        "timestamps": []
+      },
+      {
+        "video_id": "sLVa0jK4Ea4",
+        "title": "If You Write React Code You Need This Tool",
+        "timestamps": []
+      },
+      {
+        "video_id": "ootsnGiJhlU",
+        "title": "Increase Your Productivity By 400%",
+        "timestamps": []
+      },
+      {
+        "video_id": "HjQEY4DXn2I",
+        "title": "How To Overcome Burnout As A Programmer",
+        "timestamps": []
+      },
+      {
+        "video_id": "kUVH_cwpnpU",
+        "title": "This Is The 10x Developer Skill",
+        "timestamps": []
+      },
+      {
+        "video_id": "NK0QjGpolok",
+        "title": "How To Easily Avoid Burnout As A Programmer",
+        "timestamps": []
+      },
+      {
+        "video_id": "QMG5F64b454",
+        "title": "10 Hidden Browser Features Your AI Doesn\u2019t Know About",
+        "timestamps": []
+      },
+      {
+        "video_id": "7q3rvDU-kzk",
+        "title": "The 2 Parts of Auth You Need To Know",
+        "timestamps": []
+      },
+      {
+        "video_id": "JcwH9RddzyE",
+        "title": "3 Must Use TSConfig Features",
+        "timestamps": []
+      },
+      {
+        "video_id": "Kh8M_iiIhUY",
+        "title": "Want to join this channel?",
+        "timestamps": []
+      },
+      {
+        "video_id": "lUnZ-NsD9Ag",
+        "title": "I Can\u2019t Believe This TS Feature Has No Documentation",
+        "timestamps": []
+      }
+    ],
+    "css_specificity_and_cascade_wars": [
+      {
+        "video_id": "1mvlBz6pj1I",
+        "title": "How To Build A Production Ready RAG AI - My Full AI Coding Workflow",
+        "timestamps": [
+          "19:22",
+          "32:42"
+        ]
+      },
+      {
+        "video_id": "bP8mrNdR-hs",
+        "title": "I Love the NEW CSS Functions",
+        "timestamps": [
+          "03:19",
+          "10:24",
+          "13:29"
+        ]
+      }
+    ],
+    "form_validation_and_schema_parsing": [
+      {
+        "video_id": "1mvlBz6pj1I",
+        "title": "How To Build A Production Ready RAG AI - My Full AI Coding Workflow",
+        "timestamps": [
+          "12:53",
+          "13:21",
+          "14:31",
+          "26:16",
+          "29:56",
+          "30:19"
+        ]
+      },
+      {
+        "video_id": "t3my5ByUhFU",
+        "title": "This Tool Forces AI To Write Good Code",
+        "timestamps": [
+          "00:50",
+          "09:28",
+          "10:19"
+        ]
+      },
+      {
+        "video_id": "U_D14T5TYuk",
+        "title": "How To Build A Production Ready API - Auth, JWT, API Keys",
+        "timestamps": [
+          "03:21",
+          "04:00",
+          "10:30",
+          "24:12"
+        ]
+      },
+      {
+        "video_id": "9aTRnV6g0eQ",
+        "title": "Learn React With This One Project",
+        "timestamps": []
+      },
+      {
+        "video_id": "35cESnxXH6o",
+        "title": "Strict TypeScript Isn't Enough Anymore",
+        "timestamps": [
+          "00:53",
+          "35:34"
+        ]
+      },
+      {
+        "video_id": "63m2vvB4wo4",
+        "title": "Stop Writing TypeScript Code Like This",
+        "timestamps": [
+          "17:55"
+        ]
+      },
+      {
+        "video_id": "ovnyeq-Xxrc",
+        "title": "How To Handle Errors Like A Senior Dev",
+        "timestamps": [
+          "15:19"
+        ]
+      },
+      {
+        "video_id": "quoNVa88XfE",
+        "title": "NEW Tanstack AI Library is Amazing!",
+        "timestamps": [
+          "21:47"
+        ]
+      },
+      {
+        "video_id": "aP6w2OzidYM",
+        "title": "Stop Writing Your ID Types Like This",
+        "timestamps": [
+          "00:00",
+          "20:00",
+          "21:14",
+          "22:18",
+          "23:01",
+          "24:15",
+          "25:29",
+          "27:26"
+        ]
+      },
+      {
+        "video_id": "BY63sGoGXq0",
+        "title": "Help Me Code Review My First Website",
+        "timestamps": [
+          "00:00"
+        ]
+      }
+    ],
+    "frontend_reactivity_and_frameworks": [
+      {
+        "video_id": "1mvlBz6pj1I",
+        "title": "How To Build A Production Ready RAG AI - My Full AI Coding Workflow",
+        "timestamps": []
+      },
+      {
+        "video_id": "7Z7ID5BbZU4",
+        "title": "Containers Don't Make Your AI Agent Safe",
+        "timestamps": []
+      },
+      {
+        "video_id": "DogTO1jjFtI",
+        "title": "What I Use Instead",
+        "timestamps": []
+      },
+      {
+        "video_id": "cxQLKsktiBA",
+        "title": "How To Use AI Skills Like A Senior Developer",
+        "timestamps": []
+      },
+      {
+        "video_id": "U_D14T5TYuk",
+        "title": "How To Build A Production Ready API - Auth, JWT, API Keys",
+        "timestamps": []
+      },
+      {
+        "video_id": "UngVdAsQEiU",
+        "title": "The Best Local Agentic Coding Workflow (Complete Guide)",
+        "timestamps": []
+      },
+      {
+        "video_id": "9aTRnV6g0eQ",
+        "title": "Learn React With This One Project",
+        "timestamps": []
+      },
+      {
+        "video_id": "ULS7LHNScHc",
+        "title": "Stop Using Context in React - Use This Instead",
+        "timestamps": []
+      },
+      {
+        "video_id": "NBjycPpPHQQ",
+        "title": "Why Does No One Use The Right React Hook",
+        "timestamps": []
+      },
+      {
+        "video_id": "35cESnxXH6o",
+        "title": "Strict TypeScript Isn't Enough Anymore",
+        "timestamps": []
+      },
+      {
+        "video_id": "PRBlLjHIV74",
+        "title": "This is the New NPM",
+        "timestamps": []
+      },
+      {
+        "video_id": "S26VdcWQzRQ",
+        "title": "NEW Tankstack Library is a Must Include in Every Project",
+        "timestamps": []
+      },
+      {
+        "video_id": "Sh5B7ApPh7k",
+        "title": "JavaScript Is Dead - What You Need To Do",
+        "timestamps": []
+      },
+      {
+        "video_id": "Y7nhXvJ7yH8",
+        "title": "How to Handle Accessibility Like a Senior Dev",
+        "timestamps": []
+      },
+      {
+        "video_id": "ovnyeq-Xxrc",
+        "title": "How To Handle Errors Like A Senior Dev",
+        "timestamps": []
+      },
+      {
+        "video_id": "nQrUeK0n1qw",
+        "title": "Every Project Needs This NEW Tanstack Library",
+        "timestamps": []
+      },
+      {
+        "video_id": "quoNVa88XfE",
+        "title": "NEW Tanstack AI Library is Amazing!",
+        "timestamps": []
+      },
+      {
+        "video_id": "aP6w2OzidYM",
+        "title": "Stop Writing Your ID Types Like This",
+        "timestamps": []
+      },
+      {
+        "video_id": "NykJhYdBoqU",
+        "title": "Help Me Plan My Upcoming JavaScript Course",
+        "timestamps": []
+      },
+      {
+        "video_id": "BY63sGoGXq0",
+        "title": "Help Me Code Review My First Website",
+        "timestamps": []
+      },
+      {
+        "video_id": "W7bZA9Fj6SA",
+        "title": "Talking With Eddie Jaoude and Tanya Powell About Gender Diversity In Tech",
+        "timestamps": []
+      },
+      {
+        "video_id": "Ae6gQXacjaA",
+        "title": "The NEW React Activity Component Is a Game Changer for Performance",
+        "timestamps": []
+      },
+      {
+        "video_id": "SQTij8_Kwl4",
+        "title": "Everyone Is Missing What Makes NEW Shadcn Update Amazing",
+        "timestamps": []
+      },
+      {
+        "video_id": "1Rzz6mtab4c",
+        "title": "Data Access Layers are a Must Know for Next.js Developers",
+        "timestamps": []
+      },
+      {
+        "video_id": "NSWwX_ke760",
+        "title": "I Made My Own Shadcn Library (and you can too)",
+        "timestamps": []
+      },
+      {
+        "video_id": "tWlILiOPXt4",
+        "title": "Don\u2019t Bother Learning New Web Dev Features",
+        "timestamps": []
+      },
+      {
+        "video_id": "sLVa0jK4Ea4",
+        "title": "If You Write React Code You Need This Tool",
+        "timestamps": []
+      },
+      {
+        "video_id": "Z09xJq5iA0c",
+        "title": "Every React Dev Needs To Know This About AbortController",
+        "timestamps": []
+      },
+      {
+        "video_id": "Ae6gQXacjaA",
+        "title": "The NEW React Activity Component Is a Game Changer for Performance",
+        "timestamps": []
+      }
+    ],
+    "modern_css_and_layouts": [
+      {
+        "video_id": "1mvlBz6pj1I",
+        "title": "How To Build A Production Ready RAG AI - My Full AI Coding Workflow",
+        "timestamps": []
+      },
+      {
+        "video_id": "7Z7ID5BbZU4",
+        "title": "Containers Don't Make Your AI Agent Safe",
+        "timestamps": []
+      },
+      {
+        "video_id": "cxQLKsktiBA",
+        "title": "How To Use AI Skills Like A Senior Developer",
+        "timestamps": []
+      },
+      {
+        "video_id": "7rxOOFvwU60",
+        "title": "11 New JS Features You Can Use Today!",
+        "timestamps": []
+      },
+      {
+        "video_id": "t3my5ByUhFU",
+        "title": "This Tool Forces AI To Write Good Code",
+        "timestamps": []
+      },
+      {
+        "video_id": "U_D14T5TYuk",
+        "title": "How To Build A Production Ready API - Auth, JWT, API Keys",
+        "timestamps": []
+      },
+      {
+        "video_id": "9aTRnV6g0eQ",
+        "title": "Learn React With This One Project",
+        "timestamps": []
+      },
+      {
+        "video_id": "ULS7LHNScHc",
+        "title": "Stop Using Context in React - Use This Instead",
+        "timestamps": []
+      },
+      {
+        "video_id": "vmzt6I1IZg8",
+        "title": "Can I Build This UI In 10 Minutes",
+        "timestamps": []
+      },
+      {
+        "video_id": "NBjycPpPHQQ",
+        "title": "Why Does No One Use The Right React Hook",
+        "timestamps": []
+      },
+      {
+        "video_id": "AhBL2MYlQj0",
+        "title": "New CSS Property corner-shape Is Amazing",
+        "timestamps": []
+      },
+      {
+        "video_id": "Y7nhXvJ7yH8",
+        "title": "How to Handle Accessibility Like a Senior Dev",
+        "timestamps": []
+      },
+      {
+        "video_id": "CFI1ZnlHEFM",
+        "title": "My Honest Thoughts on AI and the Job Market in 2026",
+        "timestamps": []
+      },
+      {
+        "video_id": "HXIHpDnsizk",
+        "title": "NEW CSS Scroll Features are Game Changers",
+        "timestamps": []
+      },
+      {
+        "video_id": "nQrUeK0n1qw",
+        "title": "Every Project Needs This NEW Tanstack Library",
+        "timestamps": []
+      },
+      {
+        "video_id": "bP8mrNdR-hs",
+        "title": "I Love the NEW CSS Functions",
+        "timestamps": []
+      },
+      {
+        "video_id": "NykJhYdBoqU",
+        "title": "Help Me Plan My Upcoming JavaScript Course",
+        "timestamps": []
+      },
+      {
+        "video_id": "BY63sGoGXq0",
+        "title": "Help Me Code Review My First Website",
+        "timestamps": []
+      },
+      {
+        "video_id": "W7bZA9Fj6SA",
+        "title": "Talking With Eddie Jaoude and Tanya Powell About Gender Diversity In Tech",
+        "timestamps": []
+      },
+      {
+        "video_id": "pe0ez1I7cgU",
+        "title": "New CSS corner-shape Property Is Amazing",
+        "timestamps": []
+      },
+      {
+        "video_id": "yhZhucDNxq4",
+        "title": "CSS corner-shape Is an Amazing NEW Property!",
+        "timestamps": []
+      },
+      {
+        "video_id": "PqDfILvhAtM",
+        "title": "Create Professional CSS Animations with This Dev Tool",
+        "timestamps": []
+      },
+      {
+        "video_id": "zv8ZDr0zGdU",
+        "title": "This CSS Dev Tool Makes Accessibility so Easy",
+        "timestamps": []
+      },
+      {
+        "video_id": "SQTij8_Kwl4",
+        "title": "Everyone Is Missing What Makes NEW Shadcn Update Amazing",
+        "timestamps": []
+      },
+      {
+        "video_id": "AzOWedAKoNQ",
+        "title": "No One Knows About This Amazing CSS Dev Tools Panel (CSS Overview)",
+        "timestamps": []
+      },
+      {
+        "video_id": "m_QzKQAwNQw",
+        "title": "Add Beautiful Blurry Image Loading With 3 Lines of Code",
+        "timestamps": []
+      },
+      {
+        "video_id": "Jlxpwxt9FUU",
+        "title": "This Font Feature Is A Must Use In Your Dev Tools",
+        "timestamps": []
+      },
+      {
+        "video_id": "zn8NQJr-Llg",
+        "title": "attr() Is My New Favorite CSS Function",
+        "timestamps": []
+      },
+      {
+        "video_id": "3rzFiHb_wrA",
+        "title": "CSS if() Statements Are Finally Here!",
+        "timestamps": []
+      },
+      {
+        "video_id": "tWlILiOPXt4",
+        "title": "Don\u2019t Bother Learning New Web Dev Features",
+        "timestamps": []
+      },
+      {
+        "video_id": "cIDiG9OiE5Y",
+        "title": "I Love This New CSS text-wrap Feature",
+        "timestamps": []
+      },
+      {
+        "video_id": "OFIWQ4ACRAg",
+        "title": "The New selectedcontent HTML Element Changes Selects Forever",
+        "timestamps": []
+      },
+      {
+        "video_id": "VShY5EliCMU",
+        "title": "This CSS Property Replaces Hundreds of Lines of Code",
+        "timestamps": []
+      },
+      {
+        "video_id": "PHXdLe2f9rs",
+        "title": "Must Have Tailwind Plugin For Responsive Design",
+        "timestamps": []
+      },
+      {
+        "video_id": "QMG5F64b454",
+        "title": "10 Hidden Browser Features Your AI Doesn\u2019t Know About",
+        "timestamps": []
+      },
+      {
+        "video_id": "PqDfILvhAtM",
+        "title": "Create Professional CSS Animations with This Dev Tool",
+        "timestamps": []
+      },
+      {
+        "video_id": "pe0ez1I7cgU",
+        "title": "New CSS corner-shape Property Is Amazing",
+        "timestamps": []
+      },
+      {
+        "video_id": "yhZhucDNxq4",
+        "title": "CSS corner-shape Is an Amazing NEW Property!",
+        "timestamps": []
+      },
+      {
+        "video_id": "zv8ZDr0zGdU",
+        "title": "This CSS Dev Tool Makes Accessibility so Easy",
+        "timestamps": []
+      }
+    ],
+    "pattern_vs_antipattern_comparison": [
+      {
+        "video_id": "1mvlBz6pj1I",
+        "title": "How To Build A Production Ready RAG AI - My Full AI Coding Workflow",
+        "timestamps": []
+      },
+      {
+        "video_id": "cxQLKsktiBA",
+        "title": "How To Use AI Skills Like A Senior Developer",
+        "timestamps": []
+      },
+      {
+        "video_id": "t3my5ByUhFU",
+        "title": "This Tool Forces AI To Write Good Code",
+        "timestamps": []
+      },
+      {
+        "video_id": "UngVdAsQEiU",
+        "title": "The Best Local Agentic Coding Workflow (Complete Guide)",
+        "timestamps": []
+      },
+      {
+        "video_id": "NBjycPpPHQQ",
+        "title": "Why Does No One Use The Right React Hook",
+        "timestamps": []
+      },
+      {
+        "video_id": "35cESnxXH6o",
+        "title": "Strict TypeScript Isn't Enough Anymore",
+        "timestamps": []
+      },
+      {
+        "video_id": "PRBlLjHIV74",
+        "title": "This is the New NPM",
+        "timestamps": []
+      },
+      {
+        "video_id": "S26VdcWQzRQ",
+        "title": "NEW Tankstack Library is a Must Include in Every Project",
+        "timestamps": []
+      },
+      {
+        "video_id": "Sh5B7ApPh7k",
+        "title": "JavaScript Is Dead - What You Need To Do",
+        "timestamps": []
+      },
+      {
+        "video_id": "ovnyeq-Xxrc",
+        "title": "How To Handle Errors Like A Senior Dev",
+        "timestamps": []
+      },
+      {
+        "video_id": "bP8mrNdR-hs",
+        "title": "I Love the NEW CSS Functions",
+        "timestamps": []
+      },
+      {
+        "video_id": "BY63sGoGXq0",
+        "title": "Help Me Code Review My First Website",
+        "timestamps": []
+      },
+      {
+        "video_id": "W7bZA9Fj6SA",
+        "title": "Talking With Eddie Jaoude and Tanya Powell About Gender Diversity In Tech",
+        "timestamps": []
+      },
+      {
+        "video_id": "4CYkhXIDxeQ",
+        "title": "This Is Why You Must Derive Your TypeScript Types",
+        "timestamps": []
+      },
+      {
+        "video_id": "UUKugcJFoYc",
+        "title": "No One Talks About This Amazing VSCode Feature",
+        "timestamps": []
+      }
+    ],
+    "rag_chunking_and_embedding_pipeline": [
+      {
+        "video_id": "1mvlBz6pj1I",
+        "title": "How To Build A Production Ready RAG AI - My Full AI Coding Workflow",
+        "timestamps": [
+          "00:00",
+          "01:49",
+          "10:16",
+          "15:04",
+          "16:06",
+          "17:20",
+          "33:32"
+        ]
+      }
+    ],
+    "typescript_and_type_safety": [
+      {
+        "video_id": "1mvlBz6pj1I",
+        "title": "How To Build A Production Ready RAG AI - My Full AI Coding Workflow",
+        "timestamps": []
+      },
+      {
+        "video_id": "DogTO1jjFtI",
+        "title": "What I Use Instead",
+        "timestamps": []
+      },
+      {
+        "video_id": "t3my5ByUhFU",
+        "title": "This Tool Forces AI To Write Good Code",
+        "timestamps": []
+      },
+      {
+        "video_id": "U_D14T5TYuk",
+        "title": "How To Build A Production Ready API - Auth, JWT, API Keys",
+        "timestamps": []
+      },
+      {
+        "video_id": "9aTRnV6g0eQ",
+        "title": "Learn React With This One Project",
+        "timestamps": []
+      },
+      {
+        "video_id": "ULS7LHNScHc",
+        "title": "Stop Using Context in React - Use This Instead",
+        "timestamps": []
+      },
+      {
+        "video_id": "35cESnxXH6o",
+        "title": "Strict TypeScript Isn't Enough Anymore",
+        "timestamps": []
+      },
+      {
+        "video_id": "PRBlLjHIV74",
+        "title": "This is the New NPM",
+        "timestamps": []
+      },
+      {
+        "video_id": "S26VdcWQzRQ",
+        "title": "NEW Tankstack Library is a Must Include in Every Project",
+        "timestamps": []
+      },
+      {
+        "video_id": "63m2vvB4wo4",
+        "title": "Stop Writing TypeScript Code Like This",
+        "timestamps": []
+      },
+      {
+        "video_id": "Sh5B7ApPh7k",
+        "title": "JavaScript Is Dead - What You Need To Do",
+        "timestamps": []
+      },
+      {
+        "video_id": "ovnyeq-Xxrc",
+        "title": "How To Handle Errors Like A Senior Dev",
+        "timestamps": []
+      },
+      {
+        "video_id": "Xm_VGeTpS2Q",
+        "title": "This Amazing TypeScript Feature Has NO Docs!",
+        "timestamps": []
+      },
+      {
+        "video_id": "quoNVa88XfE",
+        "title": "NEW Tanstack AI Library is Amazing!",
+        "timestamps": []
+      },
+      {
+        "video_id": "aP6w2OzidYM",
+        "title": "Stop Writing Your ID Types Like This",
+        "timestamps": []
+      },
+      {
+        "video_id": "NykJhYdBoqU",
+        "title": "Help Me Plan My Upcoming JavaScript Course",
+        "timestamps": []
+      },
+      {
+        "video_id": "BY63sGoGXq0",
+        "title": "Help Me Code Review My First Website",
+        "timestamps": []
+      },
+      {
+        "video_id": "W7bZA9Fj6SA",
+        "title": "Talking With Eddie Jaoude and Tanya Powell About Gender Diversity In Tech",
+        "timestamps": []
+      },
+      {
+        "video_id": "JcwH9RddzyE",
+        "title": "3 Must Use TSConfig Features",
+        "timestamps": []
+      },
+      {
+        "video_id": "lUnZ-NsD9Ag",
+        "title": "I Can\u2019t Believe This TS Feature Has No Documentation",
+        "timestamps": []
+      },
+      {
+        "video_id": "h1ZPBYhTT1k",
+        "title": "You Need To Use This TSConfig Setting",
+        "timestamps": []
+      },
+      {
+        "video_id": "wEet5Gkn1Qg",
+        "title": "This Unknown TypeScript Feature is a Must Have for Large Projects",
+        "timestamps": []
+      },
+      {
+        "video_id": "Xm_VGeTpS2Q",
+        "title": "This Amazing TypeScript Feature Has NO Docs!",
+        "timestamps": []
+      },
+      {
+        "video_id": "4CYkhXIDxeQ",
+        "title": "This Is Why You Must Derive Your TypeScript Types",
+        "timestamps": []
+      },
+      {
+        "video_id": "sK3HF8ctjJA",
+        "title": "Ugly TypeScript Code Is Actually Good (Sometimes)",
+        "timestamps": []
+      },
+      {
+        "video_id": "yctUTf4-QcQ",
+        "title": "If You Only Know One Programming Language Watch This",
+        "timestamps": []
+      },
+      {
+        "video_id": "JcwH9RddzyE",
+        "title": "3 Must Use TSConfig Features",
+        "timestamps": []
+      },
+      {
+        "video_id": "Kh8M_iiIhUY",
+        "title": "Want to join this channel?",
+        "timestamps": []
+      },
+      {
+        "video_id": "h1ZPBYhTT1k",
+        "title": "You Need To Use This TSConfig Setting",
+        "timestamps": []
+      },
+      {
+        "video_id": "lUnZ-NsD9Ag",
+        "title": "I Can\u2019t Believe This TS Feature Has No Documentation",
+        "timestamps": []
+      },
+      {
+        "video_id": "wEet5Gkn1Qg",
+        "title": "This Unknown TypeScript Feature is a Must Have for Large Projects",
+        "timestamps": []
+      }
+    ],
+    "custom_hook_and_state_encapsulation": [
+      {
+        "video_id": "cxQLKsktiBA",
+        "title": "How To Use AI Skills Like A Senior Developer",
+        "timestamps": [
+          "22:18"
+        ]
+      },
+      {
+        "video_id": "9aTRnV6g0eQ",
+        "title": "Learn React With This One Project",
+        "timestamps": []
+      },
+      {
+        "video_id": "ULS7LHNScHc",
+        "title": "Stop Using Context in React - Use This Instead",
+        "timestamps": [
+          "00:00",
+          "01:28",
+          "02:55",
+          "04:07",
+          "06:22",
+          "29:52",
+          "35:42"
+        ]
+      },
+      {
+        "video_id": "NBjycPpPHQQ",
+        "title": "Why Does No One Use The Right React Hook",
+        "timestamps": [
+          "03:02"
+        ]
+      }
+    ],
+    "declarative_vs_imperative_ui": [
+      {
+        "video_id": "cxQLKsktiBA",
+        "title": "How To Use AI Skills Like A Senior Developer",
+        "timestamps": [
+          "22:03"
+        ]
+      },
+      {
+        "video_id": "9aTRnV6g0eQ",
+        "title": "Learn React With This One Project",
+        "timestamps": [
+          "05:37",
+          "06:01",
+          "10:56",
+          "14:03",
+          "15:45",
+          "17:56",
+          "19:09"
+        ]
+      },
+      {
+        "video_id": "Sh5B7ApPh7k",
+        "title": "JavaScript Is Dead - What You Need To Do",
+        "timestamps": [
+          "22:55"
+        ]
+      },
+      {
+        "video_id": "ovnyeq-Xxrc",
+        "title": "How To Handle Errors Like A Senior Dev",
+        "timestamps": [
+          "32:53"
+        ]
+      }
+    ],
+    "use_sync_external_store_migration": [
+      {
+        "video_id": "cxQLKsktiBA",
+        "title": "How To Use AI Skills Like A Senior Developer",
+        "timestamps": [
+          "22:18"
+        ]
+      },
+      {
+        "video_id": "ULS7LHNScHc",
+        "title": "Stop Using Context in React - Use This Instead",
+        "timestamps": [
+          "00:00",
+          "29:52"
+        ]
+      },
+      {
+        "video_id": "NBjycPpPHQQ",
+        "title": "Why Does No One Use The Right React Hook",
+        "timestamps": [
+          "00:00",
+          "03:02",
+          "04:56",
+          "05:19",
+          "06:16",
+          "09:07",
+          "13:29",
+          "14:49",
+          "15:01",
+          "17:17",
+          "22:14",
+          "27:22",
+          "28:30",
+          "32:29"
+        ]
+      },
+      {
+        "video_id": "NykJhYdBoqU",
+        "title": "Help Me Plan My Upcoming JavaScript Course",
+        "timestamps": [
+          "01:49"
+        ]
+      },
+      {
+        "video_id": "BY63sGoGXq0",
+        "title": "Help Me Code Review My First Website",
+        "timestamps": [
+          "00:00"
+        ]
+      }
+    ],
+    "unnecessary_re_renders": [
+      {
+        "video_id": "7rxOOFvwU60",
+        "title": "11 New JS Features You Can Use Today!",
+        "timestamps": [
+          "09:02",
+          "10:01"
+        ]
+      },
+      {
+        "video_id": "9aTRnV6g0eQ",
+        "title": "Learn React With This One Project",
+        "timestamps": [
+          "17:54",
+          "18:07",
+          "20:52",
+          "23:58"
+        ]
+      },
+      {
+        "video_id": "ULS7LHNScHc",
+        "title": "Stop Using Context in React - Use This Instead",
+        "timestamps": [
+          "02:55",
+          "03:11",
+          "14:28",
+          "15:16",
+          "17:23",
+          "18:03"
+        ]
+      },
+      {
+        "video_id": "nQrUeK0n1qw",
+        "title": "Every Project Needs This NEW Tanstack Library",
+        "timestamps": [
+          "20:48",
+          "22:53",
+          "30:51"
+        ]
+      },
+      {
+        "video_id": "NykJhYdBoqU",
+        "title": "Help Me Plan My Upcoming JavaScript Course",
+        "timestamps": [
+          "07:39"
+        ]
+      }
+    ],
+    "css_layout_algorithms": [
+      {
+        "video_id": "9aTRnV6g0eQ",
+        "title": "Learn React With This One Project",
+        "timestamps": [
+          "03:23",
+          "16:55"
+        ]
+      },
+      {
+        "video_id": "CFI1ZnlHEFM",
+        "title": "My Honest Thoughts on AI and the Job Market in 2026",
+        "timestamps": [
+          "22:21"
+        ]
+      },
+      {
+        "video_id": "HXIHpDnsizk",
+        "title": "NEW CSS Scroll Features are Game Changers",
+        "timestamps": [
+          "16:59"
+        ]
+      },
+      {
+        "video_id": "bP8mrNdR-hs",
+        "title": "I Love the NEW CSS Functions",
+        "timestamps": [
+          "11:49",
+          "24:50"
+        ]
+      },
+      {
+        "video_id": "BY63sGoGXq0",
+        "title": "Help Me Code Review My First Website",
+        "timestamps": [
+          "00:00"
+        ]
+      },
+      {
+        "video_id": "AzOWedAKoNQ",
+        "title": "No One Knows About This Amazing CSS Dev Tools Panel (CSS Overview)",
+        "timestamps": [
+          "24:22"
+        ]
+      },
+      {
+        "video_id": "QQIIP2d9tLc",
+        "title": "Stop Using window \u201cresize\u201d Event Listeners",
+        "timestamps": [
+          "25:49"
+        ]
+      },
+      {
+        "video_id": "3rzFiHb_wrA",
+        "title": "CSS if() Statements Are Finally Here!",
+        "timestamps": [
+          "07:18",
+          "08:20",
+          "13:33",
+          "23:58"
+        ]
+      }
+    ],
+    "prop_drilling_and_state_spaghetti": [
+      {
+        "video_id": "9aTRnV6g0eQ",
+        "title": "Learn React With This One Project",
+        "timestamps": [
+          "22:15",
+          "23:43"
+        ]
+      }
+    ],
+    "server_components_and_isomorphic_rendering": [
+      {
+        "video_id": "Ae6gQXacjaA",
+        "title": "The NEW React Activity Component Is a Game Changer for Performance",
+        "timestamps": [
+          "18:04"
+        ]
+      },
+      {
+        "video_id": "Ae6gQXacjaA",
+        "title": "The NEW React Activity Component Is a Game Changer for Performance",
+        "timestamps": [
+          "01:14"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+video_id: qZO9A5F6BZs
+title: Vim As You Editor - Advanced Motions P1
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=qZO9A5F6BZs
+duration: '38:30'
+word_count: 2066
+first_order_tags:
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: 00:00
+  seconds: 0.0
+  context: my name is the primogen and i have been using vim for about 10 years now
+    and i'm pretty fast at using these motions i just wanted to share w...
+- tag: vtag_concurrency_primitives_and_locks
+  bound_second_order: concurrency_primitives_and_locks
+  timestamp: 00:00
+  seconds: 0.0
+  context: my name is the primogen and i have been using vim for about 10 years now
+    and i'm pretty fast at using these motions i just wanted to share w...
+- tag: vtag_mechanical_sympathy
+  bound_second_order: mechanical_sympathy
+  timestamp: 00:00
+  seconds: 0.0
+  context: my name is the primogen and i have been using vim for about 10 years now
+    and i'm pretty fast at using these motions i just wanted to share w...
+- tag: vtag_harpoon_buffer_navigation
+  bound_second_order: harpoon_buffer_navigation
+  timestamp: 00:00
+  seconds: 0.0
+  context: my name is the primogen and i have been using vim for about 10 years now
+    and i'm pretty fast at using these motions i just wanted to share w...
+second_order_tags:
+- concurrency_primitives_and_locks
+- editor_ergonomics_and_tooling
+- engineering_philosophical_rant
+- harpoon_buffer_navigation
+- mechanical_sympathy
+- modal_editing_velocity
+- systems_programming_and_compilers
+third_order_tags:
+- T3_DEVELOPER_ERGONOMICS_TOOLING
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- jump forward
+- squirrely braces
+- squirrely brace
+- doesn matter
+- whole thing
+- find replace
+summary_hook: Explores systems_programming_and_compilers, editor_ergonomics_and_tooling,
+  modal_editing_velocity.

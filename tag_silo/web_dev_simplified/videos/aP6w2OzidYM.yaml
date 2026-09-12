@@ -1,0 +1,70 @@
+video_id: aP6w2OzidYM
+title: Stop Writing Your ID Types Like This
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=aP6w2OzidYM
+duration: '33:06'
+word_count: 3896
+first_order_tags:
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: 00:00
+  seconds: 0.0
+  context: In this video, I'm not just going to show you what branded types is and
+    talk about why they're pretty much a necessity for any medium-to-lar...
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: '20:00'
+  seconds: 1200.1
+  context: Now, I also want to show you how you can hook this up with Zod because
+    it's somewhat different but also similar.
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: '21:14'
+  seconds: 1274.4
+  context: Well, the nice thing is we can use this brand property inside of Zod.
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: '22:18'
+  seconds: 1338.2
+  context: And then I want to do a quick little parse and we're just going to parse
+    an object that has an ID, which is going to be a string just like t...
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: '23:01'
+  seconds: 1380.6
+  context: This is Zod's own version of a branded ID.
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: '24:15'
+  seconds: 1455.0
+  context: If you want to build and use Zod while also using your own branded library,
+    instead of using a brand here, we could just do a transform.
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: '25:29'
+  seconds: 1529.3
+  context: You don't have Zod or anything else to validate it.
+- tag: vtag_form_validation_and_schema_parsing
+  bound_second_order: form_validation_and_schema_parsing
+  timestamp: '27:26'
+  seconds: 1646.1
+  context: But for some reason, if you're like not using Zod for validation or maybe
+    your database or data access layer isn't set up, this is a way you...
+second_order_tags:
+- backend_and_database_integration
+- feature_deep_dive
+- form_validation_and_schema_parsing
+- frontend_reactivity_and_frameworks
+- practical_project_build
+- typescript_and_type_safety
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- branded types
+- doesn matter
+- underscore brand
+- data access
+- specific type
+- invoice type
+summary_hook: Explores frontend_reactivity_and_frameworks, typescript_and_type_safety,
+  backend_and_database_integration.

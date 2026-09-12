@@ -1,0 +1,45 @@
+video_id: Sp5_d6coiqU
+title: How to make TypeScript Blazingly Fast (JavaScript/NodeJS)
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=Sp5_d6coiqU
+duration: '35:00'
+word_count: 2630
+first_order_tags:
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: 00:00
+  seconds: 0.0
+  context: gatsby blazingly fast seven  react libraries blazingly fast blazing fast
+    javascript the promise of every  javascript library but you're prob...
+- tag: vtag_zero_cost_abstractions
+  bound_second_order: zero_cost_abstractions
+  timestamp: 00:00
+  seconds: 0.0
+  context: gatsby blazingly fast seven  react libraries blazingly fast blazing fast
+    javascript the promise of every  javascript library but you're prob...
+- tag: vtag_flamegraph_and_profiling_audit
+  bound_second_order: flamegraph_and_profiling_audit
+  timestamp: 00:00
+  seconds: 0.0
+  context: gatsby blazingly fast seven  react libraries blazingly fast blazing fast
+    javascript the promise of every  javascript library but you're prob...
+second_order_tags:
+- deep_dive_benchmark_build
+- developer_culture_and_critique
+- flamegraph_and_profiling_audit
+- modal_editing_velocity
+- runtime_internals_and_garbage_collection
+- systems_programming_and_compilers
+- zero_cost_abstractions
+third_order_tags:
+- T3_DEVELOPER_ERGONOMICS_TOOLING
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- percent time
+- blazingly fast
+- base implementation
+- flame graph
+- every single
+- player bullets
+summary_hook: Explores systems_programming_and_compilers, runtime_internals_and_garbage_collection,
+  developer_culture_and_critique.

@@ -1,0 +1,112 @@
+video_id: eDqVqVyCo6k
+title: Python for Engineers & Robotics – Master NumPy, Pandas, and ChatGPT Automation
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=eDqVqVyCo6k
+duration: '54:00'
+word_count: 68399
+first_order_tags:
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 06:28
+  seconds: 388.2
+  context: Variables act as a flexible container while literal provide a fixed data
+    values.
+- tag: vtag_combinatorial_algorithm_exhaustion
+  bound_second_order: combinatorial_algorithm_exhaustion
+  timestamp: '19:33'
+  seconds: 1172.7
+  context: So this for loop is useful to iterate through some of the iterables also
+    that may be the list tle then string and we can also get the certai...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '23:58'
+  seconds: 1438.4
+  context: I refers to the index position 0 1 2 based on the length provided.
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '29:45'
+  seconds: 1785.5
+  context: Next is collections and it provides specialized container data types such
+    as DQ and counter and many more and it is useful while optimizing ...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '34:52'
+  seconds: 2092.2
+  context: So indexing is used to access specific elements of array and index for
+    each array starts from zero for the first element 1 for the second an...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '35:01'
+  seconds: 2101.0
+  context: So that is array and within square bracket we will provide the index of
+    the element that we want to access.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '36:02'
+  seconds: 2162.0
+  context: And for the same element available at the third index position the value
+    updated to be 200.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '37:01'
+  seconds: 2221.4
+  context: So 0 comma 2 refers to that are available at the index position 0 and 1
+    that will be 1 2 3 and 4 5 6 and within these row we need to conside...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '39:28'
+  seconds: 2368.2
+  context: So it will compare each element of the given arrays at the same index position
+    and if these two matches then it will return the answer true ...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '41:56'
+  seconds: 2516.4
+  context: So we will type np.care care dot add and within its argument we have passed
+    the two materials from that array that is material at zeroth ind...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '42:01'
+  seconds: 2520.8
+  context: We have concatenated two elements zerooth index and the first index.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '43:05'
+  seconds: 2584.7
+  context: Each element in series has an index which act like a row label.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '44:13'
+  seconds: 2652.9
+  context: Same way in the data frame also the default index labels are provided and
+    that will start from 0 1 2 onwards.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '45:02'
+  seconds: 2702.1
+  context: Here by default pandas assign an integer index starting from zero.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '46:10'
+  seconds: 2770.3
+  context: First being the index then component material and weight.
+second_order_tags:
+- cloud_devops_and_infrastructure
+- combinatorial_algorithm_exhaustion
+- computer_science_fundamentals
+- containerization_and_orchestration
+- cybersecurity_and_ethical_hacking
+- machine_learning_and_data_science
+- paper_and_architecture_breakdown
+- relational_normalization_and_acid
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- data type
+- data frame
+- will print
+- will provide
+- check output
+- within argument
+summary_hook: Explores computer_science_fundamentals, cloud_devops_and_infrastructure,
+  machine_learning_and_data_science.

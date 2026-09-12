@@ -1,0 +1,25 @@
+video_id: pQMvO_ssdcA
+title: How many devs actually use that whole million-token context window...?
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=pQMvO_ssdcA
+duration: '36:00'
+word_count: 238
+first_order_tags:
+- tag: vtag_transformer_attention_mechanisms
+  bound_second_order: transformer_attention_mechanisms
+  timestamp: '30:19'
+  seconds: 1818.9
+  context: I'm in enterprise, and my document uh database and storage and notes started
+    at 8 trillion tokens.
+second_order_tags:
+- transformer_attention_mechanisms
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- million token
+- token context
+- context window
+- extend context
+- context lengths
+- lengths llms
+summary_hook: Explores transformer_attention_mechanisms.

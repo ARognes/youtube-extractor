@@ -1,0 +1,53 @@
+video_id: bP8mrNdR-hs
+title: I Love the NEW CSS Functions
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=bP8mrNdR-hs
+duration: '33:06'
+word_count: 2881
+first_order_tags:
+- tag: vtag_css_specificity_and_cascade_wars
+  bound_second_order: css_specificity_and_cascade_wars
+  timestamp: 03:19
+  seconds: 198.6
+  context: So, instead of using a keyword of like return, we're using result and setting
+    that as a property, and that's because an important thing to u...
+- tag: vtag_css_specificity_and_cascade_wars
+  bound_second_order: css_specificity_and_cascade_wars
+  timestamp: '10:24'
+  seconds: 624.2
+  context: Now, before we start diving into some of the more complicated features
+    inside of functions, I want to talk about how this deals with cascade...
+- tag: vtag_css_layout_algorithms
+  bound_second_order: css_layout_algorithms
+  timestamp: '11:49'
+  seconds: 709.3
+  context: So I could say here, I could put a media query my width is less than or
+    equal to 200 pixels, then my result is going to be orange, otherwise...
+- tag: vtag_css_specificity_and_cascade_wars
+  bound_second_order: css_specificity_and_cascade_wars
+  timestamp: '13:29'
+  seconds: 808.6
+  context: Also something that's really important is the way the cascade works for
+    defining your function.
+- tag: vtag_css_layout_algorithms
+  bound_second_order: css_layout_algorithms
+  timestamp: '24:50'
+  seconds: 1489.5
+  context: Well, first of all, we'll come in here with a default, and we'll say, "By
+    default, it's going to be my large size." Then, I can come in here...
+second_order_tags:
+- css_layout_algorithms
+- css_specificity_and_cascade_wars
+- feature_deep_dive
+- modern_css_and_layouts
+- pattern_vs_antipattern_comparison
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- large value
+- default value
+- screen size
+- create function
+- same thing
+- understand functions
+summary_hook: Explores modern_css_and_layouts, css_layout_algorithms, css_specificity_and_cascade_wars.

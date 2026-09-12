@@ -1,0 +1,31 @@
+video_id: D4YTJ2W5q4Y
+title: Why I use Vim in 2022
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=D4YTJ2W5q4Y
+duration: '38:30'
+word_count: 1383
+first_order_tags:
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: '19:15'
+  seconds: 1155.0
+  context: obviously people  have very strong feelings about it this guy on twitter
+    had a very strong feelings about it and of  course people on twitch...
+second_order_tags:
+- deep_dive_benchmark_build
+- developer_culture_and_critique
+- editor_ergonomics_and_tooling
+- modal_editing_velocity
+- runtime_internals_and_garbage_collection
+third_order_tags:
+- T3_DEVELOPER_ERGONOMICS_TOOLING
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- very strong
+- strong feelings
+- being able
+- core utils
+- everything large
+- large code
+summary_hook: Explores editor_ergonomics_and_tooling, runtime_internals_and_garbage_collection,
+  developer_culture_and_critique.

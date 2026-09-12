@@ -1,0 +1,35 @@
+video_id: KfENDDEpCsI
+title: Vim As Your Editor - Vertical Movements
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=KfENDDEpCsI
+duration: '35:00'
+word_count: 2139
+first_order_tags:
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: 00:00
+  seconds: 0.0
+  context: all right so we are now on to Vim part three if you haven't seen part two
+    horizontal movements that's okay if you haven't seen the first one...
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: '17:30'
+  seconds: 1050.0
+  context: very useful if you have some sort of error and you know what line it's
+    on and of course if you exceed the amount of lines it just goes to th...
+second_order_tags:
+- editor_ergonomics_and_tooling
+- modal_editing_velocity
+- systems_programming_and_compilers
+third_order_tags:
+- T3_DEVELOPER_ERGONOMICS_TOOLING
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- down bottom
+- half page
+- page down
+- shift backwards
+- same thing
+- part three
+summary_hook: Explores systems_programming_and_compilers, editor_ergonomics_and_tooling,
+  modal_editing_velocity.

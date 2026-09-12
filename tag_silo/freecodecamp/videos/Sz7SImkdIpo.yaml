@@ -1,0 +1,63 @@
+video_id: Sz7SImkdIpo
+title: Reactathon Conference Live Stream - Day Three
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=Sz7SImkdIpo
+duration: '49:30'
+word_count: 33741
+first_order_tags:
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: 00:00
+  seconds: 0.0
+  context: so    i've had my heart broken into it  but something's different next
+    to you  it's like my soul is      is  feelings that i know  i can't k...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 00:00
+  seconds: 0.0
+  context: so    i've had my heart broken into it  but something's different next
+    to you  it's like my soul is      is  feelings that i know  i can't k...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '16:30'
+  seconds: 990.0
+  context: now if you want to learn more about the other fallback methods go check
+    out the data fetching documentation i don't have enough time to get ...
+- tag: vtag_infrastructure_misconfiguration
+  bound_second_order: infrastructure_misconfiguration
+  timestamp: '16:30'
+  seconds: 990.0
+  context: now if you want to learn more about the other fallback methods go check
+    out the data fetching documentation i don't have enough time to get ...
+- tag: vtag_containerization_and_orchestration
+  bound_second_order: containerization_and_orchestration
+  timestamp: '33:00'
+  seconds: 1980.0
+  context: i'm going to do the render and this is a jsx file which is pretty cool
+    so uh here we're pulling in the es builds of react and react dom serv...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '33:00'
+  seconds: 1980.0
+  context: i'm going to do the render and this is a jsx file which is pretty cool
+    so uh here we're pulling in the es builds of react and react dom serv...
+second_order_tags:
+- cloud_devops_and_infrastructure
+- containerization_and_orchestration
+- cybersecurity_and_ethical_hacking
+- infrastructure_misconfiguration
+- machine_learning_and_data_science
+- mobile_and_cross_platform_dev
+- relational_normalization_and_acid
+- visual_algorithm_walkthrough
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- data fetching
+- thank much
+- static props
+- little more
+- topic table
+- static generation
+summary_hook: Explores cloud_devops_and_infrastructure, machine_learning_and_data_science,
+  mobile_and_cross_platform_dev.

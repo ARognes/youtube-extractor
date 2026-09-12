@@ -1,0 +1,30 @@
+video_id: sUn3PtArxYI
+title: Why You Should Ask for a Raise (And How to Do It)
+channel: A Life Engineered
+url: https://www.youtube.com/watch?v=sUn3PtArxYI
+duration: '17:18'
+word_count: 206
+first_order_tags:
+- tag: vtag_business_impact_over_code_output
+  bound_second_order: business_impact_over_code_output
+  timestamp: 02:44
+  seconds: 163.9
+  context: The bottom line is the math favors asking.
+- tag: vtag_business_impact_over_code_output
+  bound_second_order: business_impact_over_code_output
+  timestamp: 07:17
+  seconds: 437.1
+  context: You wanting X plus N dollars tomorrow is bad for the company's bottom line.
+second_order_tags:
+- business_impact_over_code_output
+- executive_interview_mentorship
+third_order_tags:
+- T3_ENGINEERING_LEADERSHIP_LEVERAGE
+key_phrases:
+- bottom line
+- more money
+- only raises
+- raises wanted
+- wanted bottom
+- line math
+summary_hook: Explores business_impact_over_code_output, executive_interview_mentorship.

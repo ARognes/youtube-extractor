@@ -1,0 +1,68 @@
+video_id: XRKIa4k0h2E
+title: 'Data Analysis with Python: Part 6 of 6 - Exploratory Data Analysis - A Case
+  Study [Live Course]'
+channel: freeCodeCamp.org
+url: https://www.youtube.com/watch?v=XRKIa4k0h2E
+duration: '45:00'
+word_count: 25041
+first_order_tags:
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 04:52
+  seconds: 292.3
+  context: So, what we might first want to do is we might just want to set the index
+    by loading the file, and set the index_col argument to this column...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 05:17
+  seconds: 317.3
+  context: You know, we The series has an index, which is the column name in the main
+    data frame, and then the series has a value.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 06:28
+  seconds: 388.5
+  context: Now, what we will do is we'll take our survey raw data frame, and then
+    if we simply pass in a list of columns to it as an index, that is sim...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: 08:41
+  seconds: 521.2
+  context: We then use that to select only those rows where the age is less than 10,
+    and then to drop to uh survey_df.drop, we need to pass an index.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '11:44'
+  seconds: 703.8
+  context: So, we can use the index of the series as the x-axis, and then we can use
+    the values in this series as the y-axis.
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '14:22'
+  seconds: 861.5
+  context: So, once again, we take these gender counts, and we use plt.pie, and we
+    can then um give it an index we can give it give them some labels as...
+- tag: vtag_relational_normalization_and_acid
+  bound_second_order: relational_normalization_and_acid
+  timestamp: '27:30'
+  seconds: 1650.0
+  context: So, if we use a mean, then we can see here that work week hours and age,
+    so we will get back a new data frame where now the index is the nam...
+second_order_tags:
+- computer_science_fundamentals
+- machine_learning_and_data_science
+- mobile_and_cross_platform_dev
+- paper_and_architecture_breakdown
+- relational_normalization_and_acid
+- visual_algorithm_walkthrough
+third_order_tags:
+- T3_ALGORITHMIC_COMPLEXITY_DATA_STRUCTURES
+key_phrases:
+- data frame
+- once again
+- course project
+- stack overflow
+- computer science
+- data analysis
+summary_hook: Explores computer_science_fundamentals, machine_learning_and_data_science,
+  mobile_and_cross_platform_dev.

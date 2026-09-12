@@ -1,0 +1,23 @@
+video_id: 3f9tbqSIm-E
+title: 1000 Players - One Game of Doom
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=3f9tbqSIm-E
+duration: '42:00'
+word_count: 3090
+first_order_tags: []
+second_order_tags:
+- deep_dive_benchmark_build
+- editor_ergonomics_and_tooling
+- runtime_internals_and_garbage_collection
+third_order_tags:
+- T3_DEVELOPER_ERGONOMICS_TOOLING
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- down megabytes
+- twitch chat
+- megabytes frames
+- whole bunch
+- every single
+- three bits
+summary_hook: Explores editor_ergonomics_and_tooling, runtime_internals_and_garbage_collection,
+  deep_dive_benchmark_build.

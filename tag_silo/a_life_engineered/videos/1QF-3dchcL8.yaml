@@ -1,0 +1,37 @@
+video_id: 1QF-3dchcL8
+title: How Much I Make As A Principal Engineer At Amazon (EXACT Amount)
+channel: A Life Engineered
+url: https://www.youtube.com/watch?v=1QF-3dchcL8
+duration: '19:24'
+word_count: 3162
+first_order_tags:
+- tag: vtag_business_impact_over_code_output
+  bound_second_order: business_impact_over_code_output
+  timestamp: 06:28
+  seconds: 388.0
+  context: so here we are but if things go off the rails I'll delist it simple as
+    that first things first I'm not defined by my job or how much I make ...
+- tag: vtag_sponsorship_vs_mentorship
+  bound_second_order: sponsorship_vs_mentorship
+  timestamp: 06:28
+  seconds: 388.0
+  context: so here we are but if things go off the rails I'll delist it simple as
+    that first things first I'm not defined by my job or how much I make ...
+second_order_tags:
+- business_impact_over_code_output
+- career_progression_and_promotion
+- salary_negotiation_and_total_comp
+- sponsorship_vs_mentorship
+- staff_plus_and_executive_leadership
+- workplace_politics_and_influence
+third_order_tags:
+- T3_ENGINEERING_LEADERSHIP_LEVERAGE
+key_phrases:
+- long term
+- last year
+- more money
+- non-wage income
+- good years
+- over time
+summary_hook: Explores staff_plus_and_executive_leadership, career_progression_and_promotion,
+  salary_negotiation_and_total_comp.

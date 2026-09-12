@@ -1,0 +1,96 @@
+video_id: 38gVgJj0eFQ
+title: Immediate Mode UI and Animations with Casey Muratori
+channel: ThePrimeagenHighlights
+url: https://www.youtube.com/watch?v=38gVgJj0eFQ
+duration: '40:12'
+word_count: 24076
+first_order_tags:
+- tag: vtag_concurrency_primitives_and_locks
+  bound_second_order: concurrency_primitives_and_locks
+  timestamp: 00:37
+  seconds: 36.7
+  context: '>> There''s like a There''s also this weird thing that happens on Twitch
+    which is like there''s this meme worm and every channel kind of is pus...'
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: 09:11
+  seconds: 551.0
+  context: We're not doing anything meaningful with that integer cuz we're going to
+    presumably sort these things, or maybe we could just even use the Z...
+- tag: vtag_mechanical_sympathy
+  bound_second_order: mechanical_sympathy
+  timestamp: '10:02'
+  seconds: 601.7
+  context: So, thankfully, eventually we got the horsepower, thanks to hardware, um
+    >> JavaScript >> Uh yeah, exactly.
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: '10:26'
+  seconds: 626.2
+  context: Now, typically, what we do is we just do what's It's a depth pre-pass,
+    which builds that depth buffer first, so we don't even compute the co...
+- tag: vtag_type_system_soundness
+  bound_second_order: type_system_soundness
+  timestamp: '25:18'
+  seconds: 1518.2
+  context: I see why pulling out more utilities and making it a bit you know, maybe
+    there's a way to make the interface so it just feels better cuz eac...
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: '29:27'
+  seconds: 1766.6
+  context: '>> or they have they have one of those televisions with motion smoothing
+    still turned on.'
+- tag: vtag_premature_abstraction_bloat
+  bound_second_order: premature_abstraction_bloat
+  timestamp: '31:54'
+  seconds: 1913.5
+  context: I'm always like, "Well, the card and the deck are concerned." And you're
+    like, "No, It's actually this completely separate thing." And I'm j...
+- tag: vtag_premature_abstraction_bloat
+  bound_second_order: premature_abstraction_bloat
+  timestamp: '32:02'
+  seconds: 1922.3
+  context: The object-oriented model is you can forget about inheritance or functions
+    or any of those sorts of things.
+- tag: vtag_premature_abstraction_bloat
+  bound_second_order: premature_abstraction_bloat
+  timestamp: '33:10'
+  seconds: 1990.5
+  context: You could do OOP in either case.
+- tag: vtag_premature_abstraction_bloat
+  bound_second_order: premature_abstraction_bloat
+  timestamp: '35:22'
+  seconds: 2121.7
+  context: It doesn't have to mean a inheritance hierarchy that matches the domain
+    model, right?
+- tag: vtag_premature_abstraction_bloat
+  bound_second_order: premature_abstraction_bloat
+  timestamp: '36:09'
+  seconds: 2168.9
+  context: Um and and again, I don't even think at this point that OOP programmers
+    uh who who do kind of a more modern style of that kind of programmin...
+second_order_tags:
+- concurrency_primitives_and_locks
+- deep_dive_benchmark_build
+- developer_culture_and_critique
+- editor_ergonomics_and_tooling
+- live_code_roast_critique
+- mechanical_sympathy
+- modal_editing_velocity
+- premature_abstraction_bloat
+- runtime_internals_and_garbage_collection
+- systems_programming_and_compilers
+- type_system_soundness
+third_order_tags:
+- T3_DEVELOPER_ERGONOMICS_TOOLING
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- these things
+- layout system
+- immediate mode
+- okay yeah
+- those things
+- every single
+summary_hook: Explores systems_programming_and_compilers, editor_ergonomics_and_tooling,
+  runtime_internals_and_garbage_collection.

@@ -1,9 +1,10 @@
 channel: theramintrees
+core: core_psychology
 order: 2
 scope: channel_bound
 total_videos_analyzed: 29
 total_spoken_words: 118789
-compiled_at: '2026-09-05T20:09:53.258879'
+compiled_at: '2026-09-11T21:12:32.219416'
 second_order_tags:
   systemic_family_therapy:
     tag: systemic_family_therapy

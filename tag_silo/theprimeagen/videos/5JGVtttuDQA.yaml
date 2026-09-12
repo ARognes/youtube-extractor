@@ -1,0 +1,54 @@
+video_id: 5JGVtttuDQA
+title: Vim As Your Editor - Horizontal
+channel: ThePrimeagen
+url: https://www.youtube.com/watch?v=5JGVtttuDQA
+duration: '35:00'
+word_count: 2301
+first_order_tags:
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: 00:00
+  seconds: 0.0
+  context: all right so you've been using Vim now you're feeling pretty smooth but
+    you want to step that game up right you want to go from that canola ...
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: '14:00'
+  seconds: 840.0
+  context: you can see each one along the way but now let me get the buffer instead
+    right so there we go 18.
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: '21:00'
+  seconds: 1260.0
+  context: it's all the same buffer because it's actually opening the same place in
+    my file system so if this was individual files it would be the same...
+- tag: vtag_modal_editing_velocity
+  bound_second_order: modal_editing_velocity
+  timestamp: '28:00'
+  seconds: 1680.0
+  context: if I hop over here the buffer is still what it was 18 if I go into server
+    it also will be 10 now so do you understand that a window contains...
+- tag: vtag_harpoon_buffer_navigation
+  bound_second_order: harpoon_buffer_navigation
+  timestamp: '28:00'
+  seconds: 1680.0
+  context: if I hop over here the buffer is still what it was 18 if I go into server
+    it also will be 10 now so do you understand that a window contains...
+second_order_tags:
+- editor_ergonomics_and_tooling
+- harpoon_buffer_navigation
+- modal_editing_velocity
+- systems_programming_and_compilers
+third_order_tags:
+- T3_DEVELOPER_ERGONOMICS_TOOLING
+- T3_SYSTEM_ARCHITECTURE_PERFORMANCE
+key_phrases:
+- opening parentheses
+- same thing
+- jump back
+- equal sign
+- insert mode
+- will delete
+summary_hook: Explores systems_programming_and_compilers, editor_ergonomics_and_tooling,
+  modal_editing_velocity.

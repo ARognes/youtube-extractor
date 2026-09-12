@@ -1,0 +1,111 @@
+video_id: NBjycPpPHQQ
+title: Why Does No One Use The Right React Hook
+channel: Web Dev Simplified
+url: https://www.youtube.com/watch?v=NBjycPpPHQQ
+duration: '36:06'
+word_count: 3730
+first_order_tags:
+- tag: vtag_use_sync_external_store_migration
+  bound_second_order: use_sync_external_store_migration
+  timestamp: 00:00
+  seconds: 0.0
+  context: One of the biggest mistakes you can make in React is overusing the use
+    effect hook, which is why in this video I'm going to show you the use...
+- tag: vtag_custom_hook_and_state_encapsulation
+  bound_second_order: custom_hook_and_state_encapsulation
+  timestamp: 03:02
+  seconds: 182.4
+  context: So, instead, we're going to be swapping this over to use sync external
+    store because anytime you have data stored outside of React and you w...
+- tag: vtag_use_sync_external_store_migration
+  bound_second_order: use_sync_external_store_migration
+  timestamp: 03:02
+  seconds: 182.4
+  context: So, instead, we're going to be swapping this over to use sync external
+    store because anytime you have data stored outside of React and you w...
+- tag: vtag_use_sync_external_store_migration
+  bound_second_order: use_sync_external_store_migration
+  timestamp: 04:56
+  seconds: 296.4
+  context: And the subscribe function, like I said, it's going to be a function we
+    call to listen for when those changes happen.
+- tag: vtag_use_sync_external_store_migration
+  bound_second_order: use_sync_external_store_migration
+  timestamp: 05:19
+  seconds: 319.2
+  context: We'll just call it subscribe just like that.
+- tag: vtag_use_sync_external_store_migration
+  bound_second_order: use_sync_external_store_migration
+  timestamp: 06:16
+  seconds: 376.2
+  context: This entire use effect is actually going to be going away because it's
+    all going to be handled in this subscribe function right here.
+- tag: vtag_use_sync_external_store_migration
+  bound_second_order: use_sync_external_store_migration
+  timestamp: 09:07
+  seconds: 547.2
+  context: We have this really simple subscribe.
+- tag: vtag_use_sync_external_store_migration
+  bound_second_order: use_sync_external_store_migration
+  timestamp: '13:29'
+  seconds: 809.4
+  context: In order to fix this, we could add up some event listeners and so on, but
+    it's much easier to use that use sync external store hook.
+- tag: vtag_use_sync_external_store_migration
+  bound_second_order: use_sync_external_store_migration
+  timestamp: '14:49'
+  seconds: 889.2
+  context: Next, we have our subscribe function that we need to set up, so let's go
+    ahead and do that.
+- tag: vtag_use_sync_external_store_migration
+  bound_second_order: use_sync_external_store_migration
+  timestamp: '15:01'
+  seconds: 900.6
+  context: We'll create that subscribe function, takes in a callback.
+- tag: vtag_use_sync_external_store_migration
+  bound_second_order: use_sync_external_store_migration
+  timestamp: '17:17'
+  seconds: 1037.4
+  context: But the really nice thing is when I click escape, for example, it still
+    modifies the state because we're syncing it with the subscriber usin...
+- tag: vtag_use_sync_external_store_migration
+  bound_second_order: use_sync_external_store_migration
+  timestamp: '22:14'
+  seconds: 1333.8
+  context: This is super simple to do with this use sync external store.
+- tag: vtag_use_sync_external_store_migration
+  bound_second_order: use_sync_external_store_migration
+  timestamp: '27:22'
+  seconds: 1641.6
+  context: The next thing, since we know that we're dealing with a use sync external
+    store, I need a way to subscribe to this store and I need a way to...
+- tag: vtag_use_sync_external_store_migration
+  bound_second_order: use_sync_external_store_migration
+  timestamp: '28:30'
+  seconds: 1710.0
+  context: The next thing I need to do is to have a way to subscribe to this function.
+- tag: vtag_use_sync_external_store_migration
+  bound_second_order: use_sync_external_store_migration
+  timestamp: '32:29'
+  seconds: 1949.4
+  context: And now inside of here, I can essentially replace my to do's with that
+    sync external store.
+second_order_tags:
+- backend_and_database_integration
+- custom_hook_and_state_encapsulation
+- frontend_reactivity_and_frameworks
+- modern_css_and_layouts
+- pattern_vs_antipattern_comparison
+- practical_project_build
+- use_sync_external_store_migration
+third_order_tags:
+- T3_FULLSTACK_REACTIVITY_STATE
+key_phrases:
+- sync external
+- external store
+- subscribe function
+- online status
+- every single
+- remove to-do
+summary_hook: Explores frontend_reactivity_and_frameworks, modern_css_and_layouts,
+  backend_and_database_integration.
