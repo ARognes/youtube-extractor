@@ -1,100 +1,151 @@
-# 🎬 YouTube Knowledge Extractor & Archival Publication System
+# YouTube Knowledge Extractor
 
-A high-performance Rust and Python knowledge extraction, synthesis, and publication pipeline that converts long-form spoken video essays and technical lectures into high-density reference books, Markdown manuals, 3-tier tag silos, Model Context Protocol (MCP) data substrates, and interactive web visualizers.
+YouTube Knowledge Extractor is a local-first pipeline for turning long-form YouTube transcripts into searchable archives, channel taxonomies, cross-channel knowledge structures, reports, and an interactive graph.
 
----
+The repository contains three related systems:
 
-## ⚡ High-Performance Rust CLI Downloader (`youtube-extractor`)
+1. A Rust CLI for transcript ingestion, normalization, search, and corpus statistics.
+2. Python and Node scripts for tagging, synthesis, publication, and knowledge-serving experiments.
+3. A SvelteKit and D3 visualizer for the checked-in three-tier tag silo.
 
-A compiled, multi-threaded Rust CLI equipped with **dynamic worker allocation** (`--workers N`) and **real-time ETA & throughput predictions**:
+The project began as a working prototype and accumulated several generations of output and experimental tooling. Before extending it, read [the architecture guide](docs/architecture.md), [the retrospective](docs/retrospective.md), and [the next-iteration plan](docs/next-iteration.md).
 
-```bash
-# Build the optimized release binary
-cargo build --release
+## Current snapshot
 
-# 1. Download and format a single YouTube video transcript
-./target/release/youtube-extractor download "https://www.youtube.com/watch?v=LyTpZ327ixY" --channel "Philip DeFranco"
+As of September 20, 2026, the local workspace contains:
 
-# 2. Batch download transcripts from a queue file with dynamic workers & live ETA
-./target/release/youtube-extractor batch queue.json --workers 8 --skip-existing
+- 1,849 raw transcript archives and 1,849 normalized transcript files.
+- Approximately 6.9 million spoken words from 184 channel labels.
+- A checked-in tag silo covering 485 videos from six selected channels.
+- A visualizer manifest with 209 nodes, 294 links, and 11 global concepts.
 
-# 3. Sub-second parallel search across all 1,760+ YAML transcripts with jump URLs
-./target/release/youtube-extractor search "cognitive dissonance" --limit 5
+The raw corpus and most derived archives are intentionally ignored by Git. The curated tag-silo records and visualizer manifest are tracked.
 
-# 4. View library statistics (transcripts, words, channel rankings)
-./target/release/youtube-extractor status
+## Core workflow
+
+```text
+YouTube video or channel
+    -> authenticated transcript provider
+    -> downloaded_transcripts/*.json
+    -> formatted_transcripts/*.yaml
+    -> tag/synthesis scripts
+    -> tag_silo/, data/, taxonomy/, reports/
+    -> visualizer or local knowledge service
 ```
 
----
+The normalized transcript YAML is the most important internal contract. It stores video metadata, the complete transcript, and pairs of character offsets and playback seconds. Search can therefore return a text match with a timestamped YouTube URL without storing one record per caption.
 
-## 🏷️ 3-Tier Tagging Hierarchy Architecture
+## Repository map
 
-The repository enforces a clean separation of raw data from a bottom-up tagging layer:
-- **1st-Order Tags (Video-Bound):** Timestamped concept anchors within individual video transcripts.
-- **2nd-Order Tags (Channel-Bound):** Channel-level thematic pillars and signature vocabulary isolated to each creator's domain (e.g., `tag_silo/healthygamergg/channel_taxonomy.yaml` and `tag_silo/theramintrees/channel_taxonomy.yaml`).
-- **3rd-Order Tags (Global Unbound):** Universal cross-cutting psychological and philosophical ontologies with no single-channel bounds (`tag_silo/third_order_unbound_tags.yaml`).
+| Path | Role | Git policy |
+| --- | --- | --- |
+| `src/` | Rust ingestion, normalization, search, and status CLI | Tracked source |
+| `scripts/` | Repeatable Python/Node build and serving scripts | Tracked source |
+| `scratch/` | One-off research, migration, and synthesis experiments | Tracked prototypes |
+| `downloaded_transcripts/` | Raw transcript/provider archives | Local, ignored |
+| `formatted_transcripts/` | Normalized searchable YAML corpus | Local, ignored |
+| `tag_silo/` | Curated first-, second-, and third-order tag outputs | Tracked artifacts |
+| `taxonomy/` | Cross-channel metadata and taxonomy indexes | Tracked artifacts |
+| `data/` | Codices, core archives, and research datasets | Local, ignored |
+| `reports/` | Generated Markdown, HTML, and PDF publications | Tracked selectively |
+| `visualizer/` | SvelteKit/D3 static application | Tracked source and manifest |
+
+## Rust CLI
+
+Build the CLI with:
 
 ```bash
-# Query the tag silos from the terminal
+cargo build --release
+```
+
+The intended commands are:
+
+```bash
+./target/release/youtube-extractor status
+
+./target/release/youtube-extractor download VIDEO_OR_URL \
+  --channel "Channel Name" \
+  --title "Video title"
+
+./target/release/youtube-extractor channel @ChannelHandle \
+  --credits 25 \
+  --min-duration 5m
+
+./target/release/youtube-extractor batch queue.json \
+  --workers 8 \
+  --skip-existing
+
+./target/release/youtube-extractor search "cognitive dissonance" --limit 5
+```
+
+Important current limitation: the primary `search` subcommand panics because two search filters are assigned the same `-c` short option. The standalone `search_transcripts` binary is also present, but the conflict should be fixed before treating the CLI as stable.
+
+## Tag-silo pipeline
+
+The three-tier model is:
+
+- First order: timestamped concept occurrences attached to a video.
+- Second order: channel-specific concepts and thematic pillars.
+- Third order: cross-channel concepts that connect multiple domains.
+
+The compiler currently analyzes six channels across psychology and software engineering:
+
+```bash
+python3 scripts/build_channel_tag_silo.py
 python3 scripts/query_tag_silo.py --stats
 python3 scripts/query_tag_silo.py --channel healthygamergg --tag samskara
-python3 scripts/query_tag_silo.py --channel theramintrees --tag double_bind
 ```
 
----
+This is a deterministic lexicon and phrase-frequency system, not a semantic embedding or language-model classifier. Its outputs are useful as inspectable prototype data, but tag quality should not be interpreted as independently validated ground truth.
 
-## 🌐 Interactive SvelteKit + D3.js Visualizer (`visualizer/`)
+Python dependencies are not yet captured in a lockfile or package manifest. At minimum, the tag tools require PyYAML.
 
-An interactive Single-Page Application (SPA) designed for static deployment on **GitHub Pages**:
-- **D3 Force-Directed Network Graph:** Visualizes 1st, 2nd, and 3rd order relations with dynamic physics, zoom/pan, and search.
-- **Pillar Comparison Matrix:** Side-by-side comparative analysis of creator channels.
-- **Global Ontology Directory:** Interactive index of unbound concepts.
+## Visualizer
+
+The visualizer is a static SvelteKit application with a D3 force graph, ontology browser, and channel comparison matrix.
 
 ```bash
 cd visualizer
 npm install
-npm run dev     # Launch local preview at http://localhost:5173
-npm run build   # Generate pure static site in visualizer/build/
+npm run check
+npm run dev
+npm run build
 ```
 
----
+Use a modern Node release compatible with the versions in `visualizer/package.json`. The Node 16 runtime in the original development environment is too old for the installed Svelte/Vite toolchain.
 
-## 📂 Project Structure
+The tag compiler writes the same graph manifest to:
 
-```
-youtube-extractor/
-├── src/                                  # High-Performance Rust Engine
-│   ├── main.rs                           # Primary CLI (download, batch, search, status)
-│   ├── lib.rs                            # Transcript formatters, parsers & serialization
-│   └── bin/search_transcripts.rs         # Standalone parallel search binary
-├── scripts/                              # Core Python & Node pipeline tools
-│   ├── build_channel_tag_silo.py         # 3-Tier Tag Silo Compiler
-│   ├── query_tag_silo.py                 # Tag Silo Terminal Inspector
-│   ├── reformat_transcripts_to_yaml.py   # YAML formatter
-│   └── mcp_knowledge_server.js           # MCP RPC Server
-├── scratch/                              # Experimental agent scripts & workspaces
-├── data/                                 # Collected datasets, archives & codices (gitignored)
-├── formatted_transcripts/                # Local clean YAML transcripts (gitignored)
-├── downloaded_transcripts/               # Local raw archive JSONs (gitignored)
-├── tag_silo/                             # 3-Tier Tag Silo Layer
-│   ├── third_order_unbound_tags.yaml     # 3rd-Order global unbound ontologies
-│   ├── tag_hierarchy_manifest.json       # Graph manifest for D3.js SPA
-│   ├── healthygamergg/                   # HealthyGamerGG 2nd-order pillars & 1st-order records
-│   └── theramintrees/                    # TheraminTrees 2nd-order pillars & 1st-order records
-├── visualizer/                           # SvelteKit + D3.js Static Visualizer SPA
-├── reports/                              # Compiled publication PDFs & Markdown compendiums
-├── taxonomy/                             # Cross-channel creator profiles & speech dynamics
-├── .env.example                          # Environment configuration template
-└── Cargo.toml                            # Rust package and workspace configuration
-```
+- `tag_silo/tag_hierarchy_manifest.json`
+- `visualizer/src/lib/tag_hierarchy_manifest.json`
+- `visualizer/static/tag_hierarchy_manifest.json`
 
----
+These copies should remain byte-identical until the next iteration replaces duplication with a single explicit build input.
 
-## 🔐 Environment Setup
+## Credentials and network access
 
-Copy `.env.example` to `.env` to configure external API tokens if using optional third-party integrations:
-```bash
-cp .env.example .env
-```
-*(No tokens are required for direct transcript downloads or offline search).*
+Transcript ingestion uses authenticated third-party APIs and consumes provider credits. It should never be presented as credential-free.
 
+The current Rust library contains tracked, hard-coded credentials. Treat them as compromised: revoke or rotate them before further use. The next iteration should read `TRANSCRIPT_API_KEY` and `SUPADATA_API_KEY` from the environment, fail clearly when they are absent, and prevent secrets from entering source control.
+
+Do not test download or channel-ingestion commands until that cleanup is complete.
+
+## Verification status
+
+At the retrospective checkpoint:
+
+- `cargo test --all-targets` compiles successfully.
+- The Rust project contains no automated tests.
+- `youtube-extractor status` successfully reads the local corpus.
+- The main `search` subcommand fails during argument validation.
+- Python tag commands fail in a bare environment without PyYAML.
+- The visualizer check/build fails on Node 16 and needs a newer runtime.
+- The REST and MCP prototypes reference obsolete root-level artifact paths.
+
+These are documented starting conditions for the next iteration, not hidden setup assumptions.
+
+## Project documentation
+
+- [Architecture and data contracts](docs/architecture.md)
+- [Prototype retrospective](docs/retrospective.md)
+- [Next-iteration plan](docs/next-iteration.md)
