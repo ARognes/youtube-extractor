@@ -8,7 +8,7 @@ The repository contains three related systems:
 2. Python and Node scripts for tagging, synthesis, publication, and knowledge-serving experiments.
 3. A SvelteKit and D3 visualizer for the checked-in three-tier tag silo.
 
-The project began as a working prototype and accumulated several generations of output and experimental tooling. Before extending it, read [the architecture guide](docs/architecture.md), [the retrospective](docs/retrospective.md), and [the next-iteration plan](docs/next-iteration.md).
+The project began as a working prototype and accumulated several generations of output and experimental tooling. Before extending it, read [the architecture guide](docs/architecture.md), [the after-action report](docs/retrospective.md), and [the preliminary next-iteration plan](docs/next-iteration.md).
 
 ## Current snapshot
 
@@ -147,5 +147,5 @@ These are documented starting conditions for the next iteration, not hidden setu
 ## Project documentation
 
 - [Architecture and data contracts](docs/architecture.md)
-- [Prototype retrospective](docs/retrospective.md)
-- [Next-iteration plan](docs/next-iteration.md)
+- [After-action report and revised product thesis](docs/retrospective.md)
+- [Preliminary next-iteration plan](docs/next-iteration.md)

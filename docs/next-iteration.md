@@ -1,5 +1,7 @@
 # Next-iteration plan
 
+> **Status:** Preliminary. The [after-action report](retrospective.md) substantially refines the product thesis around source admission, grading, provenance, progressive compilation, and agent-transfer evaluation. Resolve its open decisions and revise this plan before implementation begins.
+
 ## Mission
 
 Build a secure, reproducible, local-first media knowledge pipeline that can ingest transcript sources, preserve evidence, generate versioned derived artifacts, search them quickly, and expose a stable dataset to human and agent interfaces.
